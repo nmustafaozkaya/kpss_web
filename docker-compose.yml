@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: sahmatkpss-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: sahmatkpss
+      POSTGRES_PASSWORD: sahmatkpss_dev
+      POSTGRES_DB: sahmatkpss
+    ports:
+      - "5433:5432"
+    volumes:
+      - sahmatkpss_pgdata:/var/lib/postgresql/data
+
+volumes:
+  sahmatkpss_pgdata:

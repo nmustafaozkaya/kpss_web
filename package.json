@@ -8,6 +8,8 @@
     "start": "next start --hostname 127.0.0.1",
     "typecheck": "tsc --noEmit",
     "db:generate": "prisma generate",
+    "db:local": "docker compose up -d postgres && prisma generate && prisma migrate deploy && prisma db seed",
+    "db:local:reset": "docker compose down -v && npm run db:local",
     "db:validate": "prisma validate",
     "db:format": "prisma format",
     "db:migrate": "prisma migrate dev",
