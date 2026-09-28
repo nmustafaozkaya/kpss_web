@@ -55,54 +55,35 @@ const subjects: {
   icon: typeof BookOpen;
   color: string;
   topics: string[];
+  questionCount: number;
 }[] = [
   {
-    name: "Türkçe",
-    group: "GY",
-    desc: "Kelimelerden anlama, adım adım.",
-    icon: Feather,
-    color: "purple",
-    topics: ["Sözcükte anlam", "Yazım kuralları"],
+    name: "Türkçe", group: "GY", desc: "30 soru · Sözcükte anlamdan paragrafa.", icon: Feather, color: "purple", questionCount: 30,
+    topics: ["Sözcükte Anlam","Cümlede Anlam","Paragrafta Anlam","Ses Bilgisi","Sözcüğün Yapısı","Sözcük Türleri","Cümlenin Ögeleri","Yazım Kuralları","Noktalama İşaretleri","Anlatım Bozuklukları","Sözel Mantık"],
   },
   {
-    name: "Matematik",
-    group: "GY",
-    desc: "Her problemin bir çözümü var.",
-    icon: Calculator,
-    color: "blue",
-    topics: ["Yüzde problemleri", "Sayılar"],
+    name: "Matematik", group: "GY", desc: "27 soru · Sayılardan olasılığa.", icon: Calculator, color: "blue", questionCount: 27,
+    topics: ["Sayılar","Rasyonel Sayılar","Üslü Sayılar","Köklü Sayılar","Denklemler","Çarpanlara Ayırma","Oran - Orantı","Yüzde Problemleri","Yaş ve Hareket Problemleri","Kümeler","Olasılık","Sayısal Mantık"],
   },
   {
-    name: "Tarih",
-    group: "GK",
-    desc: "Geçmişi öğren, geleceğini kur.",
-    icon: Landmark,
-    color: "orange",
-    topics: ["Millî Mücadele", "Osmanlı tarihi"],
+    name: "Geometri", group: "GY", desc: "3 soru · Şekil ve uzay bilgisi.", icon: Calculator, color: "blue", questionCount: 3,
+    topics: ["Üçgende Açılar","Özel Üçgenler","Dörtgenler","Çember ve Daire","Analitik Geometri","Katı Cisimler"],
   },
   {
-    name: "Coğrafya",
-    group: "GK",
-    desc: "Yaşadığın coğrafyayı keşfet.",
-    icon: Globe,
-    color: "green",
-    topics: ["Türkiye’nin fiziki özellikleri", "İklim bilgisi"],
+    name: "Tarih", group: "GK", desc: "27 soru · Hunlardan günümüze.", icon: Landmark, color: "orange", questionCount: 27,
+    topics: ["İslamiyet Öncesi Türk Tarihi","İlk Türk-İslam Devletleri","Osmanlı Devleti Siyasi","Osmanlı Devleti Kültür ve Uygarlık","20. Yüzyılda Osmanlı Devleti","Kurtuluş Savaşı Hazırlık Dönemi","Kurtuluş Savaşı Cepheleri","Atatürk İnkılapları","Atatürk İlkeleri","Atatürk Dönemi İç ve Dış Politika","Çağdaş Türk ve Dünya Tarihi"],
   },
   {
-    name: "Vatandaşlık",
-    group: "GK",
-    desc: "Haklarını ve sorumluluklarını bil.",
-    icon: ShieldCheck,
-    color: "rose",
-    topics: ["Temel kavramlar", "Demokrasi"],
+    name: "Coğrafya", group: "GK", desc: "18 soru · Türkiye'yi keşfet.", icon: Globe, color: "green", questionCount: 18,
+    topics: ["Türkiye'nin Coğrafi Konumu","Türkiye'nin Fiziki Özellikleri","Türkiye'nin İklimi ve Bitki Örtüsü","Türkiye'de Nüfus ve Yerleşme","Türkiye'de Tarım","Türkiye'de Hayvancılık","Türkiye'de Madenler ve Enerji","Türkiye'de Sanayi","Türkiye'de Ulaşım","Türkiye'de Turizm","Türkiye'nin Coğrafi Bölgeleri"],
   },
   {
-    name: "Güncel Bilgiler",
-    group: "GK",
-    desc: "Dünyayı takip et, bilgini tazele.",
-    icon: Sparkles,
-    color: "gold",
-    topics: [],
+    name: "Vatandaşlık", group: "GK", desc: "9 soru · Hukuktan anayasaya.", icon: ShieldCheck, color: "rose", questionCount: 9,
+    topics: ["Hukukun Temel Kavramları","Demokrasi ve Devlet Biçimleri","Türk Anayasa Tarihi","1982 Anayasası'nın Temel İlkeleri","Yasama","Yürütme","Yargı","Temel Hak ve Özgürlükler","İdare Hukuku"],
+  },
+  {
+    name: "Güncel Bilgiler", group: "GK", desc: "6 soru · Dünyayı takip et.", icon: Sparkles, color: "gold", questionCount: 6,
+    topics: ["Uluslararası Kuruluşlar","Türkiye'nin Dış Politikası","Güncel Olaylar","UNESCO Dünya Mirası"],
   },
 ];
 const navItems: { id: View; label: string; icon: typeof Map }[] = [
@@ -237,7 +218,8 @@ export default function Home() {
   const [progress, setProgress] = useState<Progress>(EMPTY);
   const [loaded, setLoaded] = useState(false);
   const [storageError, setStorageError] = useState(false);
-  const [modal, setModal] = useState<"account" | "goal" | "help" | null>(null);
+  const [modal, setModal] = useState<"account" | "goal" | "help" | "profile" | "subject" | null>(null);
+  const [selectedSubject, setSelectedSubject] = useState<typeof subjects[0] | null>(null);
   const [authMode, setAuthMode] = useState<"login" | "register">("login");
   const [authUser, setAuthUser] = useState<AuthUser | null>(null);
   const [authName, setAuthName] = useState("");
@@ -259,6 +241,11 @@ export default function Home() {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const lastFocus = useRef<HTMLElement | null>(null);
   const isDialogOpen = Boolean(modal || quiz);
+
+  function openSubject(s: typeof subjects[0]) {
+    setSelectedSubject(s);
+    setModal("subject");
+  }
 
   useEffect(() => {
     try {
@@ -506,7 +493,15 @@ export default function Home() {
           const list = questions.filter((q) => q.subject === s.name);
           const solved = list.filter((q) => latest.has(q.id)).length;
           return (
-            <article className={`course-card ${s.color}`} key={s.name}>
+            <article
+              className={`course-card ${s.color} clickable`}
+              key={s.name}
+              role="button"
+              tabIndex={0}
+              aria-label={`${s.name} konularını görüntüle`}
+              onClick={() => openSubject(s)}
+              onKeyDown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openSubject(s); } }}
+            >
               <div className="course-top">
                 <div className="subject-icon">
                   <Icon size={23} strokeWidth={1.7} />
@@ -516,9 +511,7 @@ export default function Home() {
               <h3>{s.name}</h3>
               <p>{s.desc}</p>
               <div className="course-meta">
-                {list.length
-                  ? `${s.topics.length} konu · ${list.length} örnek soru`
-                  : "Soru havuzu hazırlanıyor"}
+                {`${s.topics.length} konu · ${s.questionCount} KPSS sorusu`}
               </div>
               <div className="course-progress">
                 <span
@@ -531,30 +524,10 @@ export default function Home() {
                 <small>
                   {solved
                     ? `${solved} / ${list.length} soru çözüldü`
-                    : "Yeni bir başlangıç"}
+                    : "Konulara göz at"}
                 </small>
-                <button
-                  aria-label={`${s.name} sorularını çöz`}
-                  onClick={() => startQuiz(list)}
-                >
-                  <ArrowRight size={18} />
-                </button>
+                <span className="card-arrow"><ChevronRight size={18} /></span>
               </div>
-              {view === "courses" && s.topics.length > 0 && (
-                <div className="topic-list">
-                  {s.topics.map((t) => (
-                    <button
-                      key={t}
-                      onClick={() =>
-                        startQuiz(list.filter((q) => q.topic === t))
-                      }
-                    >
-                      {t}
-                      <ChevronRight size={14} />
-                    </button>
-                  ))}
-                </div>
-              )}
             </article>
           );
         })}
@@ -630,7 +603,7 @@ export default function Home() {
             Nasıl çalışır?
             <ArrowUpRight size={14} />
           </button>
-          <button className="guest-profile" onClick={() => openAccount(authUser ? "login" : "login")}>
+          <button className="guest-profile" onClick={() => authUser ? setModal("profile") : openAccount("login")}>
             <span className="avatar">{authUser?.name?.slice(0, 1).toUpperCase() || "M"}</span>
             <span>
               <strong>{authUser?.name || "Misafir öğrenci"}</strong>
@@ -1239,6 +1212,78 @@ export default function Home() {
               <div className="honest-note"><strong>Misafir olarak da devam edebilirsin.</strong><p>Hesap açmadan soru çözme ve harita çalışmalarını bu cihazda kullanabilirsin.</p></div>
             </>
           )}
+          {modal === "profile" && authUser && (
+            <>
+              <div className="modal-symbol">
+                <span style={{ fontSize: "2.2rem", fontWeight: 700, lineHeight: 1 }}>{authUser.name?.slice(0, 1).toUpperCase() || "?"}</span>
+              </div>
+              <span className="eyebrow">HESABIM</span>
+              <h2 id="dialog-title" style={{ marginBottom: "0.25rem" }}>{authUser.name || "Kullanıcı"}</h2>
+              <p style={{ color: "var(--muted)", marginBottom: "1.5rem", fontSize: "0.9rem" }}>{authUser.email}</p>
+              <div className="honest-note" style={{ marginBottom: "1.25rem" }}>
+                <strong>İlerleme bilgilerin</strong>
+                <p>Toplam çözüm: <strong>{progress.attempts.length}</strong> · Doğruluk: <strong>{progress.attempts.length ? `%${accuracy}` : "—"}</strong> · Aktif gün: <strong>{activeDays.size}</strong></p>
+              </div>
+              <button
+                className="button primary full-width"
+                onClick={() => { closeDialog(); logout(); }}
+                style={{ background: "hsl(0 65% 50%)", marginTop: "0.5rem" }}
+              >
+                Oturumu kapat
+                <ArrowRight size={17} />
+              </button>
+              <button className="button secondary full-width" style={{ marginTop: "0.75rem" }} onClick={closeDialog}>
+                Kapat
+              </button>
+            </>
+          )}
+          {modal === "subject" && selectedSubject && (() => {
+            const subList = questions.filter((q) => q.subject === selectedSubject.name);
+            const SubIcon = selectedSubject.icon;
+            return (
+              <>
+                <div className={`subject-modal-header ${selectedSubject.color}`}>
+                  <div className="subject-modal-icon"><SubIcon size={26} strokeWidth={1.7} /></div>
+                  <div>
+                    <span className="eyebrow">{selectedSubject.group} · {selectedSubject.questionCount} KPSS sorusu</span>
+                    <h2 id="dialog-title">{selectedSubject.name}</h2>
+                  </div>
+                </div>
+                <button
+                  className="topic-all-btn"
+                  style={{ width: "100%", marginBottom: "8px" }}
+                  onClick={() => { closeDialog(); startQuiz(subList); }}
+                >
+                  <BookOpen size={15} />
+                  Tüm {selectedSubject.name} Sorularını Çöz
+                  <ArrowRight size={14} style={{ marginLeft: "auto" }} />
+                </button>
+                {selectedSubject.topics.length > 0 && (
+                  <>
+                    <div className="topic-divider" style={{ marginTop: "4px" }}>Konuya Göre Çalış</div>
+                    <div className="subject-topic-grid">
+                      {selectedSubject.topics.map((t) => (
+                        <button
+                          key={t}
+                          className="subject-topic-btn"
+                          onClick={() => { closeDialog(); startQuiz(subList.filter((q) => q.topic === t)); }}
+                        >
+                          {t}
+                          <ChevronRight size={13} />
+                        </button>
+                      ))}
+                    </div>
+                  </>
+                )}
+                {selectedSubject.topics.length === 0 && (
+                  <p style={{ color: "var(--muted)", fontSize: "13px", textAlign: "center", marginTop: "12px" }}>
+                    Bu ders için soru havuzu hazırlanıyor.
+                  </p>
+                )}
+              </>
+            );
+          })()}
+
           {modal === "help" && (
             <>
               <div className="modal-symbol">
