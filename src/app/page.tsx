@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import {
+  ArrowLeft,
   ArrowRight,
   ArrowUpRight,
   BookOpen,
@@ -9,6 +11,7 @@ import {
   ChartNoAxesCombined,
   Check,
   CheckCheck,
+  ChevronLeft,
   ChevronRight,
   CircleHelp,
   Compass,
@@ -22,6 +25,7 @@ import {
   Search,
   Settings2,
   ShieldCheck,
+  SlidersHorizontal,
   Sparkles,
   Target,
   TrendingUp,
@@ -79,11 +83,11 @@ const subjects: {
   },
   {
     name: "Vatandaşlık", group: "GK", desc: "9 soru · Hukuktan anayasaya.", icon: ShieldCheck, color: "rose", questionCount: 9,
-    topics: ["Hukukun Temel Kavramları","Demokrasi ve Devlet Biçimleri","Türk Anayasa Tarihi","1982 Anayasası'nın Temel İlkeleri","Yasama","Yürütme","Yargı","Temel Hak ve Özgürlükler","İdare Hukuku"],
+    topics: ["Hukukun Temel Kavramları","Demokrasi ve Devlet Biçimleri","Türk Anayasa Tarihi","1982 Anayasası'nın Temel İlkeleri","Yasama","Yürütme","Yargı","Temel Hak ve Özgürlükler","İdare Hukuku","Karma Vatandaşlık"],
   },
   {
     name: "Güncel Bilgiler", group: "GK", desc: "6 soru · Dünyayı takip et.", icon: Sparkles, color: "gold", questionCount: 6,
-    topics: ["Uluslararası Kuruluşlar","Türkiye'nin Dış Politikası","Güncel Olaylar","UNESCO Dünya Mirası"],
+    topics: ["Uluslararası Kuruluşlar","Türkiye'nin Dış Politikası","Güncel Olaylar","UNESCO Dünya Mirası","Genel Kültür ve Güncel Bilgiler"],
   },
 ];
 const navItems: { id: View; label: string; icon: typeof Map }[] = [
@@ -230,9 +234,8 @@ export default function Home() {
   const [goalDraft, setGoalDraft] = useState(20);
   const [quiz, setQuiz] = useState<Question[] | null>(null);
   const [quizIndex, setQuizIndex] = useState(0);
-  const [answer, setAnswer] = useState<number | null>(null);
-  const [revealed, setRevealed] = useState(false);
-  const [sessionScore, setSessionScore] = useState(0);
+  const [quizAnswers, setQuizAnswers] = useState<(number | null)[]>([]);
+  const [quizRevealed, setQuizRevealed] = useState<boolean[]>([]);
   const [quizFinished, setQuizFinished] = useState(false);
   const [mapIndex, setMapIndex] = useState(0);
   const [mapSelection, setMapSelection] = useState<number | null>(null);
@@ -312,6 +315,20 @@ export default function Home() {
     };
   }, [isDialogOpen]);
 
+  useEffect(() => {
+    if (quiz && quiz[quizIndex]) {
+      try {
+        const curQ = quiz[quizIndex];
+        if (curQ.subject) {
+          localStorage.setItem(`sahmat-last-qid-${curQ.subject}`, curQ.id);
+        }
+        localStorage.setItem("sahmat-last-qid-general", curQ.id);
+      } catch {
+        // ignore storage errors
+      }
+    }
+  }, [quiz, quizIndex]);
+
   const now = new Date();
   const dayKey = (d: Date) =>
     `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
@@ -345,13 +362,21 @@ export default function Home() {
   );
   const currentMap = mapQuestions[mapIndex];
 
+  const currentAnswer = quiz ? (quizAnswers[quizIndex] ?? null) : null;
+  const isRevealed = quiz ? Boolean(quizRevealed[quizIndex]) : false;
+  const sessionScore = quiz
+    ? quiz.reduce((sum, q, idx) => {
+        return sum + (quizRevealed[idx] && quizAnswers[idx] === q.answer ? 1 : 0);
+      }, 0)
+    : 0;
+
   function navigate(next: View) {
     setView(next);
     setSidebar(false);
     setSearch("");
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
-  function startQuiz(list: Question[]) {
+  function startQuiz(list: Question[], initialIndex?: number) {
     if (!list.length) {
       setNotice(
         "Bu dersin soru havuzu hazırlanıyor. Diğer dersleri deneyebilirsin.",
@@ -359,11 +384,58 @@ export default function Home() {
       return;
     }
     setQuiz(list);
-    setQuizIndex(0);
-    setAnswer(null);
-    setRevealed(false);
-    setSessionScore(0);
+    let startIndex = 0;
+    if (initialIndex !== undefined) {
+      startIndex = Math.max(0, Math.min(initialIndex, list.length - 1));
+    } else {
+      const subj = list[0]?.subject;
+      let foundIndex = -1;
+      try {
+        const savedQid = subj
+          ? localStorage.getItem(`sahmat-last-qid-${subj}`)
+          : localStorage.getItem("sahmat-last-qid-general");
+        if (savedQid) {
+          foundIndex = list.findIndex((q) => q.id === savedQid);
+        }
+      } catch {
+        // ignore
+      }
+
+      if (foundIndex !== -1) {
+        startIndex = foundIndex;
+      } else {
+        const answeredIds = new Set(progress.attempts.map((a) => a.id));
+        const firstUnanswered = list.findIndex((q) => !answeredIds.has(q.id));
+        if (firstUnanswered !== -1) {
+          startIndex = firstUnanswered;
+        }
+      }
+    }
+    setQuizIndex(startIndex);
+
+    // Prefill state for already attempted questions in this list
+    const attemptMap = new globalThis.Map<string, boolean>();
+    progress.attempts.forEach((a) => attemptMap.set(a.id, a.correct));
+
+    const initialAnswers = list.map((q) => {
+      if (attemptMap.has(q.id)) {
+        return attemptMap.get(q.id) ? q.answer : null;
+      }
+      return null;
+    });
+    const initialRevealed = list.map((q) => attemptMap.has(q.id));
+
+    setQuizAnswers(initialAnswers);
+    setQuizRevealed(initialRevealed);
     setQuizFinished(false);
+  }
+
+  function startGeneralQuiz(count = 15) {
+    const answeredIds = new Set(progress.attempts.map((a) => a.id));
+    const unanswered = questions.filter((q) => !answeredIds.has(q.id));
+    const pool = unanswered.length >= count ? unanswered : questions;
+    const batch = pool.slice(0, count);
+    startQuiz(batch, 0);
   }
   function record(id: string, correct: boolean) {
     setProgress((p) => ({
@@ -374,22 +446,37 @@ export default function Home() {
       ],
     }));
   }
+  function selectAnswer(index: number) {
+    if (!quiz || quizRevealed[quizIndex]) return;
+    setQuizAnswers((prev) => {
+      const next = [...prev];
+      next[quizIndex] = index;
+      return next;
+    });
+  }
   function checkAnswer() {
-    if (!quiz || answer === null || revealed) return;
-    const ok = answer === quiz[quizIndex].answer;
+    if (!quiz) return;
+    const ans = quizAnswers[quizIndex];
+    if (ans === null || ans === undefined || quizRevealed[quizIndex]) return;
+    const ok = ans === quiz[quizIndex].answer;
     record(quiz[quizIndex].id, ok);
-    setSessionScore((s) => s + (ok ? 1 : 0));
-    setRevealed(true);
+    setQuizRevealed((prev) => {
+      const next = [...prev];
+      next[quizIndex] = true;
+      return next;
+    });
+  }
+  function prevQuestion() {
+    if (!quiz || quizIndex <= 0) return;
+    setQuizIndex((i) => i - 1);
   }
   function nextQuestion() {
     if (!quiz) return;
-    if (quizIndex + 1 === quiz.length) {
+    if (quizIndex + 1 >= quiz.length) {
       setQuizFinished(true);
       return;
     }
     setQuizIndex((i) => i + 1);
-    setAnswer(null);
-    setRevealed(false);
   }
   function toggleSave(id: string) {
     setProgress((p) => ({
@@ -412,6 +499,8 @@ export default function Home() {
   function closeDialog() {
     setModal(null);
     setQuiz(null);
+    setQuizAnswers([]);
+    setQuizRevealed([]);
     setAuthError("");
   }
   function openAccount(mode: "login" | "register" = "login") {
@@ -511,7 +600,7 @@ export default function Home() {
               <h3>{s.name}</h3>
               <p>{s.desc}</p>
               <div className="course-meta">
-                {`${s.topics.length} konu · ${s.questionCount} KPSS sorusu`}
+                {`${s.topics.length} konu · ${list.length} soru`}
               </div>
               <div className="course-progress">
                 <span
@@ -712,7 +801,7 @@ export default function Home() {
                     </p>
                     <button
                       className="button cream"
-                      onClick={() => startQuiz(questions.slice(0, 5))}
+                      onClick={() => startGeneralQuiz(15)}
                     >
                       Hemen soru çöz <ArrowUpRight size={17} />
                     </button>
@@ -1062,7 +1151,7 @@ export default function Home() {
                   </p>
                   <button
                     className="button primary"
-                    onClick={() => startQuiz(questions.slice(0, 5))}
+                    onClick={() => startGeneralQuiz(15)}
                   >
                     Soru çözmeye başla
                     <ArrowRight size={17} />
@@ -1245,7 +1334,7 @@ export default function Home() {
                 <div className={`subject-modal-header ${selectedSubject.color}`}>
                   <div className="subject-modal-icon"><SubIcon size={26} strokeWidth={1.7} /></div>
                   <div>
-                    <span className="eyebrow">{selectedSubject.group} · {selectedSubject.questionCount} KPSS sorusu</span>
+                    <span className="eyebrow">{selectedSubject.group} · {subList.length} KPSS sorusu</span>
                     <h2 id="dialog-title">{selectedSubject.name}</h2>
                   </div>
                 </div>
@@ -1255,23 +1344,29 @@ export default function Home() {
                   onClick={() => { closeDialog(); startQuiz(subList); }}
                 >
                   <BookOpen size={15} />
-                  Tüm {selectedSubject.name} Sorularını Çöz
+                  Tüm {selectedSubject.name} Sorularını Çöz ({subList.length} Soru)
                   <ArrowRight size={14} style={{ marginLeft: "auto" }} />
                 </button>
                 {selectedSubject.topics.length > 0 && (
                   <>
                     <div className="topic-divider" style={{ marginTop: "4px" }}>Konuya Göre Çalış</div>
                     <div className="subject-topic-grid">
-                      {selectedSubject.topics.map((t) => (
-                        <button
-                          key={t}
-                          className="subject-topic-btn"
-                          onClick={() => { closeDialog(); startQuiz(subList.filter((q) => q.topic === t)); }}
-                        >
-                          {t}
-                          <ChevronRight size={13} />
-                        </button>
-                      ))}
+                      {selectedSubject.topics.map((t) => {
+                        const count = subList.filter((q) => q.topic === t).length;
+                        return (
+                          <button
+                            key={t}
+                            className="subject-topic-btn"
+                            onClick={() => { closeDialog(); startQuiz(subList.filter((q) => q.topic === t)); }}
+                          >
+                            <span>{t}</span>
+                            <span style={{ fontSize: "11px", color: "var(--muted)", fontWeight: 600, marginLeft: "auto", marginRight: "6px" }}>
+                              {count} soru
+                            </span>
+                            <ChevronRight size={13} />
+                          </button>
+                        );
+                      })}
                     </div>
                   </>
                 )}
@@ -1369,17 +1464,39 @@ export default function Home() {
             <>
               <div className="quiz-meta">
                 <span className="feature-tag">{quiz[quizIndex].subject}</span>
-                <span>
-                  {quizIndex + 1} / {quiz.length} soru
-                </span>
+                <div className="quiz-nav-counter">
+                  <button
+                    type="button"
+                    className="quiz-counter-btn"
+                    onClick={prevQuestion}
+                    disabled={quizIndex === 0}
+                    title="Önceki soru"
+                    aria-label="Önceki soru"
+                  >
+                    <ChevronLeft size={15} />
+                  </button>
+                  <span className="quiz-counter-text">
+                    {quizIndex + 1} / {quiz.length} soru
+                  </span>
+                  <button
+                    type="button"
+                    className="quiz-counter-btn"
+                    onClick={nextQuestion}
+                    title={quizIndex + 1 === quiz.length ? "Sonuçları gör" : "Sonraki soru"}
+                    aria-label="Sonraki soru"
+                  >
+                    <ChevronRight size={15} />
+                  </button>
+                </div>
               </div>
               <div className="quiz-progress">
                 <span
                   style={{ width: `${((quizIndex + 1) / quiz.length) * 100}%` }}
                 />
               </div>
+
               <div className="quiz-topic">
-                <span>{quiz[quizIndex].topic} · Örnek soru</span>
+                <span>{quiz[quizIndex].topic} · Soru {quizIndex + 1}</span>
                 <button
                   className={`icon-button ${progress.saved.includes(quiz[quizIndex].id) ? "bookmarked" : ""}`}
                   aria-label={
@@ -1399,61 +1516,75 @@ export default function Home() {
                   />
                 </button>
               </div>
+              {quiz[quizIndex].imageUrl && (
+                <div className={`quiz-question-img-wrap ${quiz[quizIndex].imageContainsQuestion ? "full-question-image" : ""}`}>
+                  <img src={quiz[quizIndex].imageUrl} alt={quiz[quizIndex].imageContainsQuestion ? `${quiz[quizIndex].text}: soru ve A–E şıkları` : "Soru görseli"} />
+                  {quiz[quizIndex].imageContainsQuestion && (
+                    <a href={quiz[quizIndex].imageUrl} target="_blank" rel="noopener noreferrer">Görseli büyüt</a>
+                  )}
+                </div>
+              )}
               <h2 id="dialog-title" className="question-text">
                 {quiz[quizIndex].text}
               </h2>
-              <div className="answer-options">
+              <div className={`answer-options ${quiz[quizIndex].imageContainsQuestion ? "image-answer-options" : ""}`}>
                 {quiz[quizIndex].options.map((o, i) => (
                   <button
                     key={o}
-                    disabled={revealed}
-                    aria-pressed={answer === i}
-                    className={`${answer === i ? "selected" : ""} ${revealed && i === quiz[quizIndex].answer ? "correct" : ""} ${revealed && i === answer && answer !== quiz[quizIndex].answer ? "incorrect" : ""}`}
-                    onClick={() => setAnswer(i)}
+                    disabled={isRevealed}
+                    aria-pressed={currentAnswer === i}
+                    aria-label={quiz[quizIndex].imageContainsQuestion ? `${"ABCDE"[i]} seçeneği` : undefined}
+                    className={`${currentAnswer === i ? "selected" : ""} ${isRevealed && i === quiz[quizIndex].answer ? "correct" : ""} ${isRevealed && i === currentAnswer && currentAnswer !== quiz[quizIndex].answer ? "incorrect" : ""}`}
+                    onClick={() => selectAnswer(i)}
                   >
                     <span>{"ABCDE"[i]}</span>
-                    {o}
-                    {revealed && i === quiz[quizIndex].answer && (
+                    {!quiz[quizIndex].imageContainsQuestion && o}
+                    {isRevealed && i === quiz[quizIndex].answer && (
                       <Check size={18} />
+                    )}
+                    {isRevealed && i === currentAnswer && currentAnswer !== quiz[quizIndex].answer && (
+                      <X size={18} />
                     )}
                   </button>
                 ))}
               </div>
-              {revealed && (
-                <div
-                  className={`answer-explanation ${answer === quiz[quizIndex].answer ? "right" : "wrong"}`}
-                  role="status"
+              <div className="quiz-actions-bar">
+                <button
+                  type="button"
+                  className="button secondary quiz-nav-btn"
+                  onClick={prevQuestion}
+                  disabled={quizIndex === 0}
                 >
-                  <strong>
-                    {answer === quiz[quizIndex].answer
-                      ? "Doğru hamle!"
-                      : "Bir sonraki hamle daha iyi olacak."}
-                  </strong>
-                  <p>{quiz[quizIndex].explanation}</p>
+                  <ArrowLeft size={16} />
+                  Önceki (Geri)
+                </button>
+
+                <div className="quiz-actions-center">
+                  {!isRevealed ? (
+                    <button
+                      type="button"
+                      className="button primary quiz-check-btn"
+                      disabled={currentAnswer === null}
+                      onClick={checkAnswer}
+                    >
+                      Cevabı kontrol et
+                      <Check size={16} />
+                    </button>
+                  ) : null}
                 </div>
-              )}
-              <div className="quiz-actions">
-                <span>
-                  <ShieldCheck size={14} />
-                  İlerlemen bu cihazda saklanır
-                </span>
-                {revealed ? (
-                  <button className="button primary" onClick={nextQuestion}>
-                    {quizIndex + 1 === quiz.length
-                      ? "Sonuçları gör"
-                      : "Sonraki soru"}
-                    <ArrowRight size={17} />
-                  </button>
-                ) : (
-                  <button
-                    className="button primary"
-                    disabled={answer === null}
-                    onClick={checkAnswer}
-                  >
-                    Cevabı kontrol et
-                    <Check size={17} />
-                  </button>
-                )}
+
+                <button
+                  type="button"
+                  className={`button ${isRevealed ? "primary" : "secondary"} quiz-nav-btn`}
+                  onClick={nextQuestion}
+                >
+                  {quizIndex + 1 === quiz.length
+                    ? "Sonuçları gör"
+                    : isRevealed
+                    ? "Sonraki soru"
+                    : "İleri"}
+                  <ArrowRight size={16} />
+                </button>
               </div>
             </>
           )}
@@ -1464,7 +1595,7 @@ export default function Home() {
               </div>
               <span className="eyebrow">BİR ADIM DAHA İLERİ</span>
               <h2 id="dialog-title">Güzel bir hamle yaptın.</h2>
-              <p>Bu çalışmada {quiz.length} soru çözdün.</p>
+              <p>Bu çalışmada {quiz.length} sorudan {quizRevealed.filter(Boolean).length} tanesini tamamladın.</p>
               <div className="result-score">
                 <strong>
                   {sessionScore}
@@ -1474,7 +1605,7 @@ export default function Home() {
               </div>
               <p>
                 {sessionScore === quiz.length
-                  ? "Hepsi doğru! Yeni bir derste kendini deneyebilirsin."
+                  ? "Tebrikler! Hepsi doğru! Yeni bir derste kendini deneyebilirsin."
                   : "Açıklamaları tekrar okumak öğrenmeni pekiştirir. Yanlışların çalışma alanında seni bekliyor."}
               </p>
               <button

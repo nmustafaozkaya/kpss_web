@@ -1,0 +1,44 @@
+{
+  "d01_q10": {"replace": {"imece": "İmece"}},
+  "d02_q13": {"text": "2024 yılı için Türkiye'nin önerisi ve Azerbaycan, Kazakistan, Kırgızistan, Tacikistan, Türkmenistan ve Özbekistan'ın desteğiyle \"Divanu Lügati't Türk'ün 950. Yıl Dönümü\"; yine Türkiye'nin önerisiyle ve Özbekistan ortaklığında \"Ali Kuşçu'nun Vefatının 550. Yıl Dönümü\" kutlanmasını ve anılmasını kabul eden uluslararası kurum aşağıdakilerden hangisidir?"},
+  "d02_q15": {"text": "Kısaca web olarak bilinen, internet tabanlı bilgi paylaşım sistemi olan World Wide Web'i 1989'da icat eden bilişim uzmanı aşağıdakilerden hangisidir?"},
+  "d03_q13": {"replace": {"üstlerinin": "üslerinin"}},
+  "d03_q14": {"text": "Kuzey Atlantik Paktı'nın (NATO) genişlemesi doğrultusunda Türkiye'nin de onayıyla 7 Mart 2024'te son üye olan ülke aşağıdakilerden hangisi olmuştur?"},
+  "d03_q15": {"replace": {"istanbul": "İstanbul", "lzmir": "İzmir"}},
+  "d05_q11": {"text": "Aşağıdakilerden hangisi Birleşmiş Milletlerin resmî dilleri arasında değildir?"},
+  "d06_q05": {"text": "Cumhurbaşkanının göreviyle ilgili cezai sorumluluğu için meclis soruşturması açılabilir. Meclis soruşturması sonucunda cumhurbaşkanının Yüce Divan'da yargılanması amaçlanır.\n\nMeclis soruşturması yöntemiyle cumhurbaşkanının yargılanabilmesi için Meclis Genel Kurulu'nda kullanılması gereken oylar aşağıdakilerden hangisinde doğru verilmiştir?\n\nŞıklarda sırasıyla soruşturma açılması isteği, soruşturma açılması ve Yüce Divan'a sevk kararı için gereken oy sayıları verilmiştir.", "options": ["301 / 360 / 400", "200 / 301 / 360", "150 / 200 / 301", "139 / 200 / 360", "201 / 301 / 360"]},
+  "d06_q07": {"text": "Mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri aşağıdaki hukuki metinlerden hangisi ile düzenlenir?", "options": ["Cumhurbaşkanlığı kararnamesi", "Yönetmelik", "Genelge", "Kanun", "Anayasa"]},
+  "d06_q11": {"replace": {"Divanı\"nın": "Divanı'nın", "Fransa· Paris": "Fransa - Paris"}},
+  "d07_q14": {"replace": {"·": " - "}},
+  "d08_q04": {"replace": {"3ay": "3 ay"}},
+  "d08_q05": {"replace": {"_ Aşağıdaki": "Aşağıdaki"}},
+  "d08_q06": {"text": "I. Cumhurbaşkanı\nII. Cumhurbaşkanı yardımcıları\nIII. Bakan\n\nYürütmenin içinde görev yapan yukarıdaki görevlilerden hangilerinin milletvekili olma şartı yoktur?", "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"]},
+  "d08_q12": {"replace": {"201 ı 'de": "2011'de", "201 ı'de": "2011'de"}}
+  ,"d09_q14": {"replace": {"isimli şair": "isimli şiir", "Rif Nihat": "Arif Nihat"}}
+  ,"d10_q06": {"options": ["Meclis, bir yasama yılı içinde en çok 2 ay tatil yapar.", "Meclisin bir günlük mesaisine birleşim denir.", "Bir birleşimin ara ile bölünen kısımlarından her birine oturum denir.", "1 Ekim'de başlayıp 30 Eylül'de sona eren, meclisin bir yıl içinde çalıştığı döneme yasama yılı denir.", "İki genel seçim arasındaki süreye yasama dönemi denir."]}
+  ,"d10_q07": {"replace": {"~ lamaz": "yapılamaz", "Yalnızı": "Yalnız I"}}
+  ,"d11_q04": {"options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"]}
+  ,"d13_q11": {"text": "Cumhurbaşkanlığı Kültür ve Sanat Ödülü'nü 2024'te müzik alanında alan ses sanatçısı aşağıdakilerden hangisidir?", "options": ["Faruk Tınaz", "Ahmet Özhan", "Muazzez Abacı", "Bülent Ersoy", "Hüner Coşkuner"]}
+  ,"d14_q01": {"text": "Din, görgü ve ahlak kurallarına uyulmadığında toplumun gösterdiği tepki manevi yaptırımlıdır.\n\nAşağıdaki;\nI. Hükümsüzlük,\nII. Ayıplama,\nIII. Kınama,\nIV. Toplumdan dışlama\n\nyaptırımlarından hangileri manevi nitelikli müeyyidelerdir?", "options": ["I ve II", "II ve III", "II, III ve IV", "I, III ve IV", "I, II, III ve IV"]}
+  ,"d15_q12": {"text": "Dünyanın en tanınmış piramitleri olan Keops, Kefren ve Mikerinos, Mısır'ın aşağıdaki şehirlerinden hangisinde yer almaktadır?"}
+  ,"d17_q11": {"text": "7 Temmuz 2007 tarihinde Dünyanın Yeni Yedi Harikasından biri olarak seçilen, antik İnka medeniyetinden kalan Machu Picchu şehri günümüzde aşağıdaki devletlerin hangisinin sınırları içindedir?"}
+  ,"d17_q14": {"replace": {"Halle": "Hafle"}}
+  ,"d18_q15": {"text": "Türkiye Cumhuriyeti'nin 5. Cumhurbaşkanlığı görevini aşağıdaki devlet adamlarından hangisi yürütmüştür?", "replace": {"Turgut Özel": "Turgut Özal"}}
+  ,"d21_q12": {"text": "Aşağıdakilerden hangisi Victor Hugo'nun Sefiller adlı romanında, ekmek çaldığı için yıllarca hapis yatan, ardından hayatını iyiliğe adayan başkahramandır?"}
+  ,"d22_q11": {"text": "Ortada bulunan kemikleri vurup, çizilen halkanın dışına çıkarılmaya çalışılmasına dayanan geleneksel Türk çocuk oyunu aşağıdaki kemik parçalarından hangisiyle oynanmaktadır?"}
+  ,"d23_q04": {"text": "Aşağıdakilerden hangisi sosyal devletin amaçlarından biri değildir?", "options": ["İşsizliği önlemek", "Ulusal gelirin eşit dağılımını sağlamak", "Vatandaşlara fırsat eşitliği sağlamak", "İstihdamı artırmak", "Herkese, insan haysiyetine yakışır onurlu bir yaşam sağlamak"]}
+  ,"d23_q06": {"replace": {"gruplar:nın üye sayist oranında Divana katilmalannı": "gruplarının üye sayısı oranında Divana katılmalarını"}}
+  ,"d23_q09": {"text": "Memurluğa girmeyi, sınıflar içerisinde ilerleme ve yükselmeyi ve görevin sona erdirilmesini yetenek esasına dayandıran ilke aşağıdakilerden hangisidir?", "replace": {"liyakat": "Liyakat"}}
+  ,"d23_q15": {"text": "2024 TÜİK verilerine göre Türkiye'nin en genç ve en yaşlı nüfusunun yaşadığı illerimiz aşağıdakilerden hangisidir?\n\nŞıklarda sırasıyla en genç ve en yaşlı nüfusun bulunduğu iller verilmiştir.", "options": ["Hakkâri / Balıkesir", "Şanlıurfa / Aydın", "İstanbul / İzmir", "Ankara / Konya", "Bursa / Muğla"]}
+  ,"d24_q06": {"text": "TBMM'nin toplantı yeter sayısı aşağıdakilerden hangisinde doğru olarak verilmiştir?", "options": ["Üye tam sayısının 1/3'ü", "Üye tam sayısının salt çoğunluğu", "Üye tam sayısının 1/5'i", "Üye tam sayısının 3/5'i", "Üye tam sayısının 2/3'ü"]}
+  ,"d25_q11": {"text": "Macaristan Ulusal Meclisinde yapılan oylamada cumhurbaşkanı seçilen ve ülkenin ilk kadın cumhurbaşkanı olan Macar siyasetçi aşağıdakilerden hangisidir?", "replace": {"Kalya Zeskin": "Katya Zeskin"}}
+  ,"d26_q12": {"replace": {"Mary Goril": "Mary Corll"}}
+  ,"d28_q13": {"text": "Türkiye Cumhuriyeti'nin ilk kadın tarihçisi aşağıdakilerden hangisidir?", "options": ["Afet İnan", "Songül Öz", "Fatma Aliye Hanım", "Gül Elçin", "Hatice Gök"]}
+  ,"d30_q01": {"options": ["IV - I - III - II - V", "IV - III - I - II - V", "IV - V - III - I - II", "IV - III - II - I - V", "IV - II - III - V - I"]}
+  ,"d30_q09": {"replace": {"kararı · iie feshediiir": "kararı ile feshedilir"}}
+  ,"d30_q12": {"text": "Turkovac aşısını geliştiren bilim adamımız aşağıdakilerden hangisidir?", "options": ["Mustafa Göksu", "Cemil Taşlıova", "Mübarek Yolcu", "Aykut Özdarendeli", "Kemal Korkmaz"]}
+  ,"d32_q09": {"text": "Aşağıdakilerden hangisi merkezi idarenin taşra teşkilatında yer alan kamu görevlilerinden biri değildir?", "options": ["Defterdar", "Belediye başkanı", "Kaymakam", "Mal müdürü", "İl millî eğitim müdürü"]}
+  ,"d33_q02": {"replace": {"İta": "İfa", "ita": "İfa"}}
+  ,"d33_q11": {"replace": {"Bala Gölü": "Bafa Gölü"}}
+  ,"d33_q13": {"text": "UNESCO Courier dergisinin \"Bin yıl önce Orta Asya'da yaşamış evrensel deha\" olarak tanıttığı, Kitab'üt-Tahkik Mali'l-Hind'in yazarı, Gazneli Mahmut'un \"sarayımın altını\" olarak tanıttığı bilim insanı aşağıdakilerden hangisidir?", "options": ["El-Bîrûnî", "İbn-i Sina", "Hârezmî", "Râzî", "İbn-i Heysem"]}
+}
