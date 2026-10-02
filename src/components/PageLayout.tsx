@@ -191,6 +191,14 @@ export default function PageLayout({ title, subtitle, children }: PageLayoutProp
             <Link href="/iletisim" style={{ color: "inherit", textDecoration: "none" }}>
               İletişim
             </Link>
+            <a
+              href="https://linktr.ee/mustafaaozk"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "var(--green)", textDecoration: "none", fontWeight: 600 }}
+            >
+              Geliştirici (Linktree) ↗
+            </a>
           </div>
         </div>
       </footer>

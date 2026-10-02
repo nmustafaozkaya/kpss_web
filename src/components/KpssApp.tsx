@@ -1590,6 +1590,8 @@ export default function KpssApp({
               <Link href="/kullanim-sartlari" style={{ color: "inherit", textDecoration: "none" }}>Kullanım Şartları</Link>
               <span className="footer-dot">·</span>
               <Link href="/iletisim" style={{ color: "inherit", textDecoration: "none" }}>İletişim</Link>
+              <span className="footer-dot">·</span>
+              <a href="https://linktr.ee/mustafaaozk" target="_blank" rel="noopener noreferrer" style={{ color: "var(--gold)", textDecoration: "none", fontWeight: 600 }}>Geliştirici ↗</a>
             </div>
           </footer>
         </main>

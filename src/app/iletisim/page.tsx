@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import PageLayout from "@/components/PageLayout";
-import { Mail, MessageSquare, MapPin } from "lucide-react";
+import { Mail, MessageSquare, MapPin, ExternalLink } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "İletişim & Geri Bildirim",
@@ -51,6 +51,24 @@ export default function IletisimPage() {
           <p style={{ margin: 0, fontSize: "0.9rem", color: "var(--ink)" }}>
             Türkiye · Dijital Yayıncılık & KPSS Eğitim Araçları
           </p>
+        </div>
+
+        <div style={{ padding: "1.5rem", borderRadius: "12px", background: "var(--background)", border: "1px solid var(--line)" }}>
+          <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", marginBottom: "0.75rem", color: "var(--green)" }}>
+            <ExternalLink size={22} />
+            <h3 style={{ fontSize: "1.1rem", fontWeight: 700, margin: 0, color: "var(--ink)" }}>Geliştirici & Sosyal Medya</h3>
+          </div>
+          <p style={{ margin: "0 0 0.5rem 0", fontSize: "0.9rem", color: "var(--muted)" }}>
+            Projelerimizi takip etmek ve tüm sosyal ağlarımıza ulaşmak için:
+          </p>
+          <a
+            href="https://linktr.ee/mustafaaozk"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ fontWeight: 600, color: "var(--green)", textDecoration: "none", fontSize: "0.95rem" }}
+          >
+            linktr.ee/mustafaaozk ↗
+          </a>
         </div>
       </div>
 
