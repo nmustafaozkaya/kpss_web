@@ -1580,10 +1580,17 @@ export default function KpssApp({
               <span className="footer-dot">·</span> Bir sonraki hamlen,
               geleceğin.
             </span>
-            <span>
-              İlk bakış sürümü <span className="footer-dot">·</span> Örnek soru
-              havuzu
-            </span>
+            <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap", alignItems: "center", fontSize: "0.85rem" }}>
+              <Link href="/hakkimizda" style={{ color: "inherit", textDecoration: "none" }}>Hakkımızda</Link>
+              <span className="footer-dot">·</span>
+              <Link href="/haritalar" style={{ color: "inherit", textDecoration: "none" }}>Haritalar</Link>
+              <span className="footer-dot">·</span>
+              <Link href="/gizlilik-politikasi" style={{ color: "inherit", textDecoration: "none" }}>Gizlilik Politikası</Link>
+              <span className="footer-dot">·</span>
+              <Link href="/kullanim-sartlari" style={{ color: "inherit", textDecoration: "none" }}>Kullanım Şartları</Link>
+              <span className="footer-dot">·</span>
+              <Link href="/iletisim" style={{ color: "inherit", textDecoration: "none" }}>İletişim</Link>
+            </div>
           </footer>
         </main>
       </div>
