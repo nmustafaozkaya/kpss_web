@@ -3230,6 +3230,16 @@ main {
 }
 
 /* Mobile-first quiz: one reading area, controls always within reach. */
+.quiz-active .question-text.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px !important;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
 .quiz-active {
   width: min(760px, calc(100vw - 32px));
   max-width: 760px;
@@ -3265,11 +3275,12 @@ main {
 .quiz-active .quiz-feedback { margin: 0 0 8px; font-size: 14px; color: var(--ink); font-weight: 600; }
 .quiz-question-img-wrap { margin: 10px auto 16px; max-width: 620px; background: #fff; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
 .quiz-question-img-wrap img { display: block; width: 100%; height: auto; object-fit: contain; }
+.quiz-question-img-wrap:not(.full-question-image) img { max-height: min(320px, 38dvh); }
 .quiz-image-mode .quiz-reading { display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 10px; overflow: hidden; }
 .quiz-image-mode .quiz-stem { min-height: 0; height: 100%; }
 .quiz-image-mode .full-question-image { height: 100%; margin: 0 auto; display: flex; flex-direction: column; }
 .quiz-image-mode .full-question-image img { min-height: 0; flex: 1; width: 100%; height: 0; object-fit: contain; }
-.full-question-image a { flex-shrink: 0; display: block; padding: 8px; min-height: 36px; text-align: center; font-size: 12px; color: var(--green); }
+.quiz-question-img-wrap a { flex-shrink: 0; display: block; padding: 8px; min-height: 36px; text-align: center; font-size: 12px; color: var(--green); }
 .answer-options.image-answer-options { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); }
 .quiz-active .image-answer-options button { justify-content: center; padding: 8px 2px; gap: 3px; }
 .image-answer-options button > svg { width: 14px; margin-left: 0; }

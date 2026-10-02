@@ -1,10 +1,11 @@
 {
   "total": 500,
+  "textQuestions": 500,
   "sources": {
     "Yargı KPSS Coğrafya 33 Deneme 2026": 129,
     "Yediiklim 2026 Son Viraj 500 Soruda Coğrafya Genel Tekrar Kampı": 371
   },
-  "images": 424,
+  "images": 168,
   "topics": {
     "Türkiye'nin Fiziki Özellikleri": 149,
     "Türkiye'nin İklimi ve Bitki Örtüsü": 74,
@@ -19,7 +20,7 @@
     "Türkiye'nin Coğrafi Bölgeleri": 4,
     "Türkiye'de Ticaret": 9
   },
-  "bankSha256": "16ef1ef80e2a8caa05128045a27fffe21ccc8a25597ece0408e32bb277aeaac5",
+  "bankSha256": "58643f8d064a38a57f568fc69fd6255b1853184ef2c68c0a50cca783e4972bfb",
   "pending": [],
   "note": "Kaynak cevapları, incelenmiş kayıtlar, soru kimlikleri ve görsel dosyaları kontrol edildi. Güncel istatistik doğrulaması değildir; tarihsel sorularda kaynak dönemi esas alınır."
 }

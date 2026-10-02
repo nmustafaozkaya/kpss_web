@@ -1853,9 +1853,7 @@ export default function Home({
                         }
                       }}
                     />
-                    {quiz[quizIndex].imageContainsQuestion && (
-                      <a href={quiz[quizIndex].imageUrl} target="_blank" rel="noopener noreferrer">Görseli büyüt</a>
-                    )}
+                    <a href={quiz[quizIndex].imageUrl} target="_blank" rel="noopener noreferrer">Görseli büyüt</a>
                   </div>
                 )}
               </div>
@@ -1902,7 +1900,7 @@ export default function Home({
                       disabled={currentAnswer === null}
                       onClick={checkAnswer}
                     >
-                      Cevabı kontrol et
+                      Kontrol et
                       <Check size={16} />
                     </button>
                   ) : null}
@@ -1951,6 +1949,7 @@ export default function Home({
                 Çalışma alanına dön
                 <ArrowRight size={17} />
               </button>
+              <QuizAdSlot />
             </div>
           )}
         </div>

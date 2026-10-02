@@ -43,7 +43,8 @@ def main():
         options = q.get('options', [])
         check(len(options) == 5 and all(isinstance(o, str) and o.strip() for o in options)
               and len(set(options)) == 5
-              and (options != list('ABCDE') or (q.get('imageContainsQuestion') is True and q.get('imageUrl'))), id, 'Eksik/tekrarlı şık.')
+              and options != list('ABCDE'), id, 'Eksik/tekrarlı şık.')
+        check(not q.get('imageContainsQuestion'), id, 'Tam soru ekran görüntüsü kullanılıyor.')
         check(type(q.get('answer')) is int and 0 <= q['answer'] < 5, id, 'Geçersiz cevap.')
         if id in reviewed:
             check(q == reviewed[id], id, 'Önceden incelenmiş kayıt değişmiş.')
@@ -70,6 +71,7 @@ def main():
 
     report = {
         'total': len(questions),
+        'textQuestions': sum(not q.get('imageContainsQuestion') for q in questions),
         'sources': dict(Counter(q['source']['title'] for q in questions)),
         'images': sum(bool(q.get('imageUrl')) for q in questions),
         'topics': dict(Counter(q['topic'] for q in questions)),

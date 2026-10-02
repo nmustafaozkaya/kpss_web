@@ -1,8 +1,8 @@
 {
   "source": "Yediiklim 2026 Son Viraj 500 Soruda Coğrafya Genel Tekrar Kampı",
   "published": 371,
-  "textQuestions": 50,
-  "imageQuestions": 321,
+  "textQuestions": 371,
+  "imageQuestions": 0,
   "totalGeographyQuestions": 500,
   "questionNumbers": [
     2,
@@ -428,13 +428,13 @@
     "Türkiye'de Turizm": 7,
     "Türkiye'nin Coğrafi Bölgeleri": 2
   },
-  "diagramFiles": 330,
-  "diagramBytes": 14136544,
+  "diagramFiles": 74,
+  "diagramBytes": 3434223,
   "excluded": [
     {
       "question": 1,
       "reason": "Gün batımının yönü mevsime bağlı; soruda tarih belirtilmediğinden seçime alınmadı."
     }
   ],
-  "review": "İlk 50 metin sorusu korundu. 321 ek sorunun metni, haritası ve A–E seçenekleri kaynak görüntüsü olarak aktarıldı. Cevap harfleri çözüm sayfalarından görsel kontrol edildi. Çözüm açıklamaları aktarılmadı."
+  "review": "İlk 50 metin sorusu korundu. 321 ek sorunun OCR metni ve A–E seçenekleri kaynak görüntüleriyle karşılaştırılarak düzeltildi. Yalnız gerekli 65 harita ve grafik kırpıldı. Cevap harfleri çözüm sayfalarından görsel kontrol edildi."
 }
