@@ -1,7 +1,7 @@
 "use client";
 
-import Home from "../page";
+import KpssApp from "@/components/KpssApp";
 
 export default function HaritalarPage() {
-  return <Home initialView="map" />;
+  return <KpssApp initialView="map" />;
 }
