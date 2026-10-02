@@ -4,8 +4,10 @@ import path from "path";
 const nextConfig: NextConfig = {
   agentRules: false,
   output: "standalone",
+  experimental: { cpus: 1 },
   outputFileTracingIncludes: {
     "/api/admin/questions": ["./src/data/questions/*.json"],
+    "/api/question-bank": ["./src/data/questions/*.json"],
   },
   devIndicators: false,
   turbopack: {

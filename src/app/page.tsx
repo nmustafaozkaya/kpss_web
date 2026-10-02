@@ -43,7 +43,7 @@ import {
 import QuizAdSlot from "@/components/QuizAdSlot";
 import provinces from "@/data/provinces.json";
 import {
-  questions,
+  questions as bundledQuestions,
   mapQuestions,
   type Question,
   type Subject,
@@ -228,6 +228,20 @@ export default function Home({
 } = {}) {
   const router = useRouter();
   const pathname = usePathname();
+  const [questions, setQuestions] = useState<Question[]>(bundledQuestions);
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch("/api/question-bank", { cache: "no-store", signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error("Question bank unavailable");
+        return response.json();
+      })
+      .then((data) => {
+        if (Array.isArray(data.questions)) setQuestions(data.questions);
+      })
+      .catch(() => undefined);
+    return () => controller.abort();
+  }, []);
   const [view, setView] = useState<View>(() => {
     if (initialView) return initialView;
     if (typeof window !== "undefined" && window.location.pathname === "/haritalar") {

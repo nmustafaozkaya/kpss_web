@@ -9,8 +9,8 @@ function deleteImageFile(imageUrl?: string | null) {
   try {
     const cleanUrl = imageUrl.split("?")[0];
     if (!cleanUrl.startsWith("/uploads/questions/")) return;
-    const root = path.resolve(process.cwd(), "public", "uploads", "questions");
-    const fullPath = path.resolve(process.cwd(), "public", cleanUrl.slice(1));
+    const root = path.resolve(process.env.QUESTION_UPLOAD_DIR || path.join(process.cwd(), "public", "uploads", "questions"));
+    const fullPath = path.resolve(root, cleanUrl.slice("/uploads/questions/".length));
     if (!fullPath.startsWith(root + path.sep)) return;
     if (fs.existsSync(fullPath)) {
       fs.unlinkSync(fullPath);

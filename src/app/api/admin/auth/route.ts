@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { cookies } from "next/headers";
 import {
   ADMIN_COOKIE,
+  adminConfigured,
   DEFAULT_ADMIN_EMAIL,
   DEFAULT_ADMIN_PASSWORD,
   generateAdminToken,
@@ -17,6 +18,7 @@ export async function GET() {
 }
 
 export async function POST(request: NextRequest) {
+  if (!adminConfigured()) return NextResponse.json({ error: "Yönetici girişi yapılandırılmamış." }, { status: 503 });
   try {
     const body = await request.json();
     const email = String(body.email || "").trim().toLowerCase();

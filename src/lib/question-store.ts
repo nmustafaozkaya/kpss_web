@@ -3,7 +3,7 @@ import path from "node:path";
 import files from "@/data/question-files.json";
 import type { Question } from "@/data/questions";
 
-const directory = path.join(process.cwd(), "src", "data", "questions");
+const directory = process.env.QUESTION_DATA_DIR || path.join(process.cwd(), "src", "data", "questions");
 
 export function readQuestions(): Question[] {
   return Object.values(files).flatMap((file) =>
