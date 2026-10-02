@@ -6,6 +6,7 @@ solution explanations, are extracted from solution pages. Run --inspect first.
 import argparse
 import hashlib
 import json
+from question_store import read_questions, write_questions
 import re
 from pathlib import Path
 
@@ -81,14 +82,13 @@ def extract(doc, report, pdf, count=500):
             draw.text((x+5, y+4), record["id"].replace(PREFIX+'_','')+' / '+"ABCDE"[record["answer"]], fill="black")
             sheet.paste(image, (x+5, y+25))
         sheet.save(dest / f"contact-{offset//20+1:02d}.jpg", quality=90)
-    data_path = ROOT / "src" / "data" / "questions.json"
-    existing = json.loads(data_path.read_text(encoding="utf-8"))
+    existing = read_questions()
     backup = dest / "questions-before-import.json"
     if not backup.exists():
         backup.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
     merged = [q for q in existing if not q["id"].startswith(PREFIX+"_")] + records
     assert len({q["id"] for q in merged}) == len(merged)
-    data_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
+    write_questions(merged)
     (dest / "audit.json").write_text(json.dumps({"sourceSha256": source_hash, "count": count, "excluded": [{"exam": 1, "question": 15, "reason": "Printed answer key and option disagree"}], "questions": audit}, ensure_ascii=False, indent=2), encoding="utf-8")
     print("Imported:", {s: sum(q["subject"] == s for q in records) for s in {q["subject"] for q in records}})
 

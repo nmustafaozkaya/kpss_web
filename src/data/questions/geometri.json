@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "ge1",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "Bir üçgenin iki açısı 50° ve 70° ise üçüncü açı kaç derecedir?",
+    "options": [
+      "50°",
+      "55°",
+      "60°",
+      "65°",
+      "70°"
+    ],
+    "answer": 2,
+    "explanation": "Üçgenlerin iç açıları toplamı 180°'dir. 180 - 50 - 70 = 60°."
+  },
+  {
+    "id": "ge2",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "Tüm kenarları eşit olan dörtgen hangisidir?",
+    "options": [
+      "Dikdörtgen",
+      "Yamuk",
+      "Paralelkenar",
+      "Eşkenar dörtgen",
+      "Deltoid"
+    ],
+    "answer": 3,
+    "explanation": "Eşkenar dörtgende dört kenar da birbirine eşittir."
+  },
+  {
+    "id": "ge3",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "Yarıçapı 7 cm olan dairenin alanı kaç cm²'dir? (π ≈ 3,14)",
+    "options": [
+      "43,96",
+      "153,86",
+      "78,5",
+      "44",
+      "98"
+    ],
+    "answer": 1,
+    "explanation": "Alan = π × r² = 3,14 × 49 ≈ 153,86 cm²."
+  },
+  {
+    "id": "yediiklim_mat_2026_451",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde D ∈ [AC], E ∈ [CB], [AB] ∥ [DE], ∣DC∣ = ∣CE∣ = ∣BD∣ ve m(ABD) = 42°'dir. Buna göre m(BAC) = α kaç derecedir?",
+    "options": [
+      "70",
+      "74",
+      "76",
+      "84",
+      "64"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 112,
+      "exam": 1,
+      "question": 451
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-2236a7f4e308.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_452",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "Şekilde [AB] ∥ [DC], [BD] ise ADC açısının açıortayıdır. m(DAC) = 2·m(DBC) = 60° olduğuna göre m(ABD) = α kaç derecedir?",
+    "options": [
+      "30",
+      "35",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 112,
+      "exam": 1,
+      "question": 452
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-af05bf13310b.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_453",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde m(ABD) = m(DBC), m(CAE) = m(CAF), m(BDA) = 60° ve m(DCB) = 35°'dir. F, A ve B noktaları doğrusaldır. Buna göre m(EAB) = α kaç derecedir?",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "10",
+      "5"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 113,
+      "exam": 1,
+      "question": 453
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-beaf454bb2f0.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_454",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde D, C, B, H noktaları doğrusal; D, E, F, G noktaları doğrusaldır. ∣EC∣ = ∣DC∣, ∣GB∣ = ∣FB∣ ve m(BAC) = 100° olduğuna göre şekildeki α açısı kaç derecedir?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "75",
+      "80"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 113,
+      "exam": 1,
+      "question": 454
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-9b3f77efbd55.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_455",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣AD∣ = ∣CA∣, ∣CE∣ = ∣DE∣ = ∣DB∣ ve m(ABC) = 50°'dir. Buna göre m(BAC) kaç derecedir?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "80",
+      "90"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 113,
+      "exam": 1,
+      "question": 455
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-eaefb9018fe0.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_456",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣DE∣ = ∣BD∣ = ∣CD∣, ∣AE∣ = ∣EB∣ ve m(BAC) = 80°'dir. Buna göre şekildeki α açısı kaç derecedir?",
+    "options": [
+      "10",
+      "50",
+      "40",
+      "30",
+      "20"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 113,
+      "exam": 1,
+      "question": 456
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-db3281b428a4.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_457",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣DB∣ = ∣BE∣, [DC] açıortay, C, B, H noktaları doğrusal ve m(CBE) = m(EBF) = m(FBD)'dir. m(BAC) = 60° olduğuna göre şekildeki α açısı kaç derecedir?",
+    "options": [
+      "45",
+      "75",
+      "90",
+      "100",
+      "120"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 114,
+      "exam": 1,
+      "question": 457
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-160fbd1ddc48.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_458",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣DE∣ = ∣CD∣, ∣EB∣ = ∣EF∣, m(CAB) = 60° ve m(DEF) = 45°'dir. Buna göre m(EFA) = α kaç derecedir?",
+    "options": [
+      "125",
+      "75",
+      "90",
+      "105",
+      "120"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 114,
+      "exam": 1,
+      "question": 458
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-330a3e7ebefb.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_459",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣BA∣ = ∣DC∣ ve m(CDA) = 2·m(ABC) = 120°'dir. Buna göre şekildeki α açısı kaç derecedir?",
+    "options": [
+      "60",
+      "45",
+      "40",
+      "30",
+      "20"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 114,
+      "exam": 1,
+      "question": 459
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-9d57e7988cdc.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_460",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde [DC] ⟂ [DA], ∣AD∣ = ∣BE∣ = ∣EC∣ ve m(EAB) = 40°'dir. Buna göre m(BCD) kaç derecedir?",
+    "options": [
+      "50",
+      "40",
+      "30",
+      "10",
+      "20"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 114,
+      "exam": 1,
+      "question": 460
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-4fbcdda045ba.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_461",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣AB∣ = ∣BD∣, ∣AC∣ = ∣CE∣ ve m(DAE) = 30°'dir. Buna göre m(CAB) kaç derecedir?",
+    "options": [
+      "115",
+      "60",
+      "90",
+      "150",
+      "120"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 115,
+      "exam": 1,
+      "question": 461
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-f23e39462edc.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_462",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde m(DCE) = m(CBK) = m(KBE), m(ECK) = m(KCB) = m(DBA) ve m(DEC) = 70°'dir. Buna göre m(CAB) = α kaç derecedir?",
+    "options": [
+      "20",
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 115,
+      "exam": 1,
+      "question": 462
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-f7e7e353375e.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_463",
+    "subject": "Geometri",
+    "topic": "Üçgende Açılar",
+    "text": "ABC üçgeninde ∣DC∣ = ∣DF∣, ∣EF∣ = ∣BE∣ ve m(CAB) = 80°'dir. Buna göre m(DFE) = α kaç derecedir?",
+    "options": [
+      "80",
+      "60",
+      "50",
+      "40",
+      "30"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 115,
+      "exam": 1,
+      "question": 463
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-278ffaabd2b5.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_464",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler",
+    "text": "ABC üçgeninde [AC] ⟂ [BC], m(ABC) = 45°, ∣AB∣ = 7√2 cm ve ∣DB∣ = 6 cm'dir. Buna göre ∣AD∣ = x kaç cm'dir?",
+    "options": [
+      "5",
+      "5√2",
+      "10",
+      "4√2",
+      "3√2"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 115,
+      "exam": 1,
+      "question": 464
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-34c9d2a492ac.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_465",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler",
+    "text": "ABC üçgeninde m(BAC) = 15°, m(BCA) = 45° ve ∣AB∣ = 8 cm'dir. Buna göre ∣AC∣ = x kaç cm'dir?",
+    "options": [
+      "4√3",
+      "4√2",
+      "4√6",
+      "8",
+      "16"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 116,
+      "exam": 1,
+      "question": 465
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-0fdd232bf24b.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_466",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler",
+    "text": "ABC eşkenar üçgeninde ∣BE∣ = ∣EC∣ ve 5·∣AD∣ = ∣AC∣ = 10 cm'dir. Buna göre ∣DE∣ = x kaç cm'dir?",
+    "options": [
+      "5√3",
+      "4√3",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 116,
+      "exam": 1,
+      "question": 466
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-778a9d51792f.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_467",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler",
+    "text": "ABC eşkenar üçgeninde ∣AE∣ = ∣EB∣, ∣DE∣ = 2√13 cm ve ∣DC∣ = 10 cm'dir. Buna göre ∣BC∣ = x kaç cm'dir?",
+    "options": [
+      "16",
+      "8",
+      "4√2",
+      "13√2",
+      "13"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 116,
+      "exam": 1,
+      "question": 467
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-b48cd1a86f83.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_468",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler",
+    "text": "ABC eşkenar üçgeninde [DE] ⟂ [EB], ∣BF∣ = ∣FC∣, ∣AD∣ = ∣DC∣ ve ∣BC∣ = 12 cm'dir. Buna göre ∣FE∣ = x kaç cm'dir?",
+    "options": [
+      "8",
+      "6",
+      "6√3",
+      "3√3",
+      "3√7"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 116,
+      "exam": 1,
+      "question": 468
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-14d5820595c2.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_469",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD dikdörtgeni şekildeki gibi dört eş dikdörtgenden oluşmaktadır. ∣DK∣ = 9 cm olduğuna göre ABCD dikdörtgeninin alanı kaç cm²'dir?",
+    "options": [
+      "108",
+      "54",
+      "72",
+      "84",
+      "42"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 117,
+      "exam": 1,
+      "question": 469
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-6f0a7387a174.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_470",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD dikdörtgeninde [FB] ⟂ [FE], ∣AB∣ = 10 cm, ∣BC∣ = 8 cm ve ∣DE∣ = 6 cm'dir. Buna göre ∣FE∣ = x kaç cm'dir?",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 117,
+      "exam": 1,
+      "question": 470
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-5a9aaf4a2822.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_472",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD dikdörtgeninde E ve F bulundukları kenarların orta noktalarıdır. ∣AD∣ = 8 cm ve ∣DC∣ = 10 cm olduğuna göre FED üçgeninin alanı kaç cm²'dir?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 117,
+      "exam": 1,
+      "question": 472
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-4a8f400c4646.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_473",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD dikdörtgeninde 3·∣CE∣ = (3/2)·∣AD∣ = ∣DC∣ = 24 cm'dir. D, C ve E noktaları doğrusaldır. Buna göre AFC üçgeninin alanı kaç cm²'dir?",
+    "options": [
+      "24",
+      "32",
+      "36",
+      "64",
+      "48"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 118,
+      "exam": 1,
+      "question": 473
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-ac9498675d74.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_474",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD karesinde E, F, G ve H bulundukları kenarların orta noktalarıdır. KMLİ dörtgeninin alanı 5 cm² olduğuna göre karenin bir kenarı kaç cm'dir?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 118,
+      "exam": 1,
+      "question": 474
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-efaf9efe4dcd.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_475",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD ve CFEG birer karedir. ∣DC∣ = 2·∣FC∣ ve ∣AE∣ = 10√10 cm olduğuna göre AEC üçgeninin alanı kaç cm²'dir?",
+    "options": [
+      "120",
+      "100",
+      "150",
+      "180",
+      "200"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 118,
+      "exam": 1,
+      "question": 475
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-00dffb9e7774.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_476",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD karesinde DEB üçgeninin alanı 12 cm² ve ∣DE∣ = 4 cm'dir. Buna göre karenin alanı kaç cm²'dir?",
+    "options": [
+      "18",
+      "24",
+      "36",
+      "42",
+      "64"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 118,
+      "exam": 1,
+      "question": 476
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-456a6bee55f3.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_477",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD karesinde [DF] ⟂ [FB], m(ADE) = 15° ve ∣FB∣ = 4√2 cm'dir. Buna göre ABCD karesinin alanı kaç cm²'dir?",
+    "options": [
+      "16",
+      "16√2",
+      "32",
+      "64",
+      "32√2"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 119,
+      "exam": 1,
+      "question": 477
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-6060b9c89a90.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_478",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD ve CEFG birer karedir. ∣DG∣ = 17 cm olduğuna göre karelerin alanları toplamı kaç cm²'dir?",
+    "options": [
+      "289",
+      "225",
+      "121",
+      "100",
+      "64"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 119,
+      "exam": 1,
+      "question": 478
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-9b0ab245c5b3.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_479",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD ikizkenar yamuğunda ∣BE∣ = ∣FC∣, ∣AB∣ = 8 cm ve ∣AE∣ = 6 cm'dir. [AF] ⟂ [DC] olduğuna göre ∣DF∣ = x kaç cm'dir?",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 119,
+      "exam": 1,
+      "question": 479
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-f980fda22ec4.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_480",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD dik yamuğunda [BE] ⟂ [EC] ve E, [AD]'nin orta noktasıdır. ∣AB∣ = 2 cm ve ∣BC∣ = 24 cm olduğuna göre ∣DC∣ = x kaç cm'dir?",
+    "options": [
+      "6",
+      "24",
+      "22",
+      "12",
+      "14"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 119,
+      "exam": 1,
+      "question": 480
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-3b8cac3a7bb8.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_481",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD ikizkenar yamuğunda [DE] açıortay ve [DE] ⟂ [BC]'dir. ∣AB∣ = 5 cm ve ∣DC∣ = 16 cm olduğuna göre ∣BE∣ = x kaç cm'dir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 120,
+      "exam": 1,
+      "question": 481
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-2a78aa9020e7.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_482",
+    "subject": "Geometri",
+    "topic": "Dörtgenler",
+    "text": "ABCD paralelkenarında ∣EB∣ = 3 cm, ∣DC∣ = 9 cm, Alan(ADE) = S₁ ve Alan(BFC) = S₂'dir. Buna göre S₁/S₂ oranı kaçtır?",
+    "options": [
+      "1/2",
+      "1/3",
+      "4/3",
+      "8/3",
+      "3/8"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 120,
+      "exam": 1,
+      "question": 482
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-166e3ec22331.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_483",
+    "subject": "Geometri",
+    "topic": "Çokgenler",
+    "text": "ABCDEF düzgün altıgeninde FEH bir üçgendir. 4·∣GD∣ = ∣ED∣ = 8 cm olduğuna göre ∣DH∣ = x kaç cm'dir?",
+    "options": [
+      "3",
+      "4/3",
+      "8/3",
+      "3/16",
+      "16/3"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 120,
+      "exam": 1,
+      "question": 483
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-5291cf75eab0.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_484",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "Şekilde dıştan teğet iki çember verilmiştir. A, D ve E değme noktalarıdır. m(ABE) = α + 30° ve m(ECD) = 2α olduğuna göre α kaç derecedir?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "18",
+      "20"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 120,
+      "exam": 1,
+      "question": 484
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-4c4475031291.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_485",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "Şekilde O çemberin merkezi, ABC ise üçgendir. FE ve FG yaylarının uzunlukları eşit, DC ve GC yaylarının uzunlukları eşittir. m(FEC) = 70° olduğuna göre m(BAC) = α kaç derecedir?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60",
+      "80"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 121,
+      "exam": 1,
+      "question": 485
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-5174ea301c21.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_486",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "Şekilde ∣AB∣ = ∣BE∣ = 6 cm, ∣FA∣ = 4 cm ve ∣EC∣ = 1 cm'dir. B teğet noktası ve ∣ED∣ < ∣EF∣ olduğuna göre ∣ED∣ uzunluğunun tam sayı değeri kaçtır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 121,
+      "exam": 1,
+      "question": 486
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-be2df2f6d819.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_487",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "O yarım dairenin merkezi, ABCO ise eşkenar dörtgendir. ∣DO∣ = 12 cm olduğuna göre taralı alan kaç cm²'dir?",
+    "options": [
+      "48π",
+      "45π",
+      "36π",
+      "30π",
+      "24π"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 121,
+      "exam": 1,
+      "question": 487
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-36b2f9ce4405.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_488",
+    "subject": "Geometri",
+    "topic": "Çember ve Daire",
+    "text": "[AO], [OB] ve [AB] şekildeki yarım dairelerin çaplarıdır. ∣AO∣ = 2·∣OB∣ = 16 cm olduğuna göre taralı alan kaç cm²'dir?",
+    "options": [
+      "64π",
+      "72π",
+      "96π",
+      "80π",
+      "144π"
+    ],
+    "answer": 2,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 121,
+      "exam": 1,
+      "question": 488
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-788a87b42dff.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_489",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde 2y − x + 8 = 0 doğrusunun y = −x doğrusuna göre simetriği olan doğrunun x eksenini kestiği noktanın apsisi kaçtır?",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "1/2",
+      "1/4"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 122,
+      "exam": 1,
+      "question": 489
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_490",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde x + y − 8 = 0 doğrusunun eksenleri kestiği noktaların orta noktasının orijine uzaklığını köşegen kabul eden karenin alanı kaç cm²'dir?",
+    "options": [
+      "32",
+      "16",
+      "8",
+      "4√2",
+      "2√2"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 122,
+      "exam": 1,
+      "question": 490
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_491",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde x + y = −4, −y + x = 4 ve 2y = −4 doğrularıyla sınırlandırılmış bölgenin alanı kaç cm²'dir?",
+    "options": [
+      "16",
+      "14",
+      "12",
+      "8",
+      "4"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 122,
+      "exam": 1,
+      "question": 491
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_492",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde K(3, 4) noktasının 4x + 3y − 24 = 0 doğrusuna göre simetriği hangi noktadır?",
+    "options": [
+      "(−3, −4)",
+      "(3, −4)",
+      "(−3, 4)",
+      "(3, 4)",
+      "(4, 5)"
+    ],
+    "answer": 3,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 122,
+      "exam": 1,
+      "question": 492
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_493",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde d₁ ve d₂ doğruları B(0, 6) noktasında dik kesişmektedir. d₁ doğrusu A(−4, 0) noktasından geçtiğine göre d₂ doğrusunun denklemi nedir?",
+    "options": [
+      "6x + 9y = 54",
+      "9y − 6x = 18",
+      "6x + 9y = 27",
+      "9x + 6y = 54",
+      "6x − 9y = 27"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 123,
+      "exam": 1,
+      "question": 493
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-861bc131165b.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_494",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde 2x − y + 8 = 0 doğrusu, bu doğrunun x eksenine göre simetriği olan doğru ve y ekseni arasında kalan bölgenin alanı kaç birimkaredir?",
+    "options": [
+      "64",
+      "32",
+      "16",
+      "8",
+      "4"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 123,
+      "exam": 1,
+      "question": 494
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_495",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde A(3, 4) noktasının y = x doğrusuna göre simetriği ile B(5, 15) noktasının x = 2 doğrusuna göre simetriği arasındaki uzaklık kaç birimdir?",
+    "options": [
+      "21",
+      "20",
+      "17",
+      "15",
+      "13"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 123,
+      "exam": 1,
+      "question": 495
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_496",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde d₂ doğrusu A(4, 0) ve B(0, 6) noktalarından geçmektedir. d₁ doğrusu C(−1, 0) noktasından ve [AB]'nin orta noktasından geçmektedir. Buna göre şekildeki taralı bölgenin alanı kaç birimkaredir?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 123,
+      "exam": 1,
+      "question": 496
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-df454d9f86b9.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_497",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "K(3, k) noktasının y = −x doğrusuna göre simetriği olan nokta 2x + y − 9 = 0 doğrusu üzerinde olduğuna göre k kaçtır?",
+    "options": [
+      "−8",
+      "−6",
+      "6",
+      "−4",
+      "9"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 124,
+      "exam": 1,
+      "question": 497
+    }
+  },
+  {
+    "id": "yediiklim_mat_2026_498",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri",
+    "text": "Dik koordinat düzleminde d₁ ⟂ d₂, ∣AB∣ = ∣BC∣ ve d₂: 2y − x = 6'dır. Şekle göre D noktasının apsisi kaçtır?",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "4",
+      "9"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 124,
+      "exam": 1,
+      "question": 498
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-64e9d937aeea.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_499",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler",
+    "text": "Yüzey alanı 216 cm² olan bir küpten şekildeki AEFG dik üçgen piramidi çıkarılıyor. Çıkarılan piramidin hacmi kaç cm³'tür?",
+    "options": [
+      "72",
+      "36",
+      "48",
+      "108",
+      "144"
+    ],
+    "answer": 1,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 124,
+      "exam": 1,
+      "question": 499
+    },
+    "imageUrl": "/questions/geometri/yediiklim-2026/diagram-f9fb479231cd.webp",
+    "imageContainsQuestion": false
+  },
+  {
+    "id": "yediiklim_mat_2026_500",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler",
+    "text": "Ayrıt uzunlukları 6 cm, 8 cm ve 10 cm olan dikdörtgenler prizmasının ortasından taban ayrıtı 2 cm, yüksekliği 10 cm olan bir kare dik prizma çıkarılırsa kalan cismin yüzey alanı kaç cm² olur?",
+    "options": [
+      "376",
+      "368",
+      "348",
+      "448",
+      "408"
+    ],
+    "answer": 4,
+    "source": {
+      "title": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+      "page": 124,
+      "exam": 1,
+      "question": 500
+    }
+  }
+]

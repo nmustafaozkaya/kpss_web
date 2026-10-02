@@ -1,0 +1,4223 @@
+[
+  {
+    "id": "cogr_d1_q6",
+    "before": {
+      "id": "cogr_d1_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki Türkiye haritasında göllerin yoğun olarak \nbulunduğu bir alan taralı olarak gösterilmiştir . \nTaralı alandaki göl oluşumları aşağıdakilerden \nhangisinde doğru açıklanmıştır?",
+      "options": [
+        "Akarsu vadisinin birikinti konisi ve yelpazeleri ile \nkapanmasıyla oluşmuştur.",
+        "Akarsu vadisinin lav akıntıları ile tıkanmasıyla \noluşmuştur .",
+        "Buzulların biriktirdiği morenlerin setleşmesiyle \noluşmuştur.",
+        "Tektonik çökme ve karstik çözülme süreçleriyle \noluşmuştu r.",
+        "Dalgaların koy körfez girintilerini kapatmasıyla \noluşmuştur ."
+      ],
+      "answer": 3,
+      "explanation": "Haritadaki taralı alan olan Antalya Batı Toroslar çevresi Türkiye'de kalkerli yapının en fazla olduğu alandır. Bu alandaki göllerin bazıları doğrudan karstik olmakla birlikte göllerin oluşumunda tektonik çökmelerde etkili olmuştur. Gölova adı verilen göllerden bazıları kuruyarak ovaya dönüşmektedir. Alüvyal set gölleri Marmara ve Orta Anadolu'da, Heyelan set gölleri Karadeniz'de, kıyı set gölleri Marmara'da ve lav seti gölleri Doğu Anadolu'da yaygındır.",
+      "imageUrl": "/uploads/questions/deneme1_q6.png"
+    },
+    "after": {
+      "id": "cogr_d1_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki Türkiye haritasında göllerin yoğun olarak bulunduğu bir alan taralı olarak gösterilmiştir. Taralı alandaki göl oluşumları aşağıdakilerden hangisinde doğru açıklanmıştır?",
+      "options": [
+        "Akarsu vadisinin birikinti konisi ve yelpazeleri ile kapanmasıyla oluşmuştur.",
+        "Akarsu vadisinin lav akıntıları ile tıkanmasıyla oluşmuştur.",
+        "Buzulların biriktirdiği morenlerin setleşmesiyle oluşmuştur.",
+        "Tektonik çökme ve karstik çözülme süreçleriyle oluşmuştur.",
+        "Dalgaların koy ve körfez girintilerini kapatmasıyla oluşmuştur."
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme1_q6.png"
+    }
+  },
+  {
+    "id": "cogr_d5_q3",
+    "before": {
+      "id": "cogr_d5_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir.\n\nYer şekillerinin oluşumunda kayaçların etkisi dikkate alındığında, bu alanlarda hangi kayaçların daha hâkim olduğu savunulabilir?",
+      "options": [
+        "Jips \nKalker \nAndezit",
+        "Kalker \nTüf \nBazalt",
+        "Kayatuzu \nBazalt \nKiltaşı",
+        "Kalker \nJips \nKayatuzu",
+        "Mermer \nTüf \nKalker \nı"
+      ],
+      "answer": 1,
+      "explanation": "Akdeniz bölgesinde kalker üzerinde oluşum gösteren mağara , lapya, dolin, uvala, polye, obruk gibi \nkarstik yer şekilleri yaygın olarak görülmektedir. Orta \nAnadolu'da yer alan Kapadokya yöresindeki peri bacaları ise tüf adı verilen dış pükürük kayaç üzerinde \noluşmuştur. Kuzeydoğu Anadolu'da yer alan lav platoları burada andezit, bazalt, obsidyen gibi dış püskürük kayaçların bulunduğunu göstermektedir.",
+      "imageUrl": "/uploads/questions/deneme5_q3.png"
+    },
+    "after": {
+      "id": "cogr_d5_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir. Yer şekillerinin oluşumunda kayaçların etkisi dikkate alındığında, bu alanlarda hangi kayaçların daha hâkim olduğu savunulabilir?",
+      "options": [
+        "I: Jips — II: Kalker — III: Andezit",
+        "I: Kalker — II: Tüf — III: Bazalt",
+        "I: Kaya tuzu — II: Bazalt — III: Kil taşı",
+        "I: Kalker — II: Jips — III: Kaya tuzu",
+        "I: Mermer — II: Tüf — III: Kalker"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme5_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d7_q2",
+    "before": {
+      "id": "cogr_d7_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "29 Doğu haritadaki merkezlerle ilgili aşağıdakilerden hangisinin doğru olduğu söylenemez?",
+      "options": [
+        "Başlangıç Meridyeni'ne en yakın olan merkez \nlll'tür.",
+        "28 Ağustos günü gündüz süresinin en kısa olduğu merkez l'dir.",
+        "Üç merkezde de yalnızca ekinoks tarihlerinde \nGüneş aynı anda doğar ve batar.",
+        "14 Aralık tarihinde Güneş en erken lll'te batar.",
+        "Gurup ve tan süresinin en kısa olduğu merkez \nll'dir."
+      ],
+      "answer": 3,
+      "explanation": "-",
+      "imageUrl": "/uploads/questions/deneme7_q2.png"
+    },
+    "after": {
+      "id": "cogr_d7_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "29 Doğu haritadaki merkezlerle ilgili aşağıdakilerden hangisinin doğru olduğu söylenemez?",
+      "options": [
+        "Başlangıç Meridyeni'ne en yakın olan merkez lll'tür.",
+        "28 Ağustos günü gündüz süresinin en kısa olduğu merkez l'dir.",
+        "Üç merkezde de yalnızca ekinoks tarihlerinde Güneş aynı anda doğar ve batar.",
+        "14 Aralık tarihinde Güneş en erken lll'te batar.",
+        "Gurup ve tan süresinin en kısa olduğu merkez ll'dir."
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme7_q2.png"
+    }
+  },
+  {
+    "id": "cogr_d7_q3",
+    "before": {
+      "id": "cogr_d7_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada farklı vadi profillerinin Türkiye'de \nyoğunlaştığı alanlar farklı simgelerle gösterilmiştir .",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Türkiye'de madenlerin bir bölümü ham maden olarak \nihraç edilmektedir. Mermer doğal taşlar en fazla ihraç \nedilen madendir. Demir, Bor, Bakır, Krom, Zımpara \nTaşı ihraç edilen madenler arasında yer alır. Ancak \ngübre yapımında kullanılan Fosfat madeninin Türkiye'deki rezervleri oldukça az buna rağmen talebi \nyüksek olduğundan bu maden ihraç değil ithal edilir.",
+      "imageUrl": "/uploads/questions/deneme7_q3.png"
+    },
+    "after": {
+      "id": "cogr_d7_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada farklı vadi profillerinin Türkiye'de yoğunlaştığı alanlar farklı simgelerle gösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme7_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d7_q4",
+    "before": {
+      "id": "cogr_d7_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Buna göre Türkiye'de akarsuların oluşturduğu \naşındırma şekilleriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        "Kanyon vadiler jeolojik yapının karstik olduğu \narazilerde yoğunluk göstermektedir.",
+        "Geniş tabanlı vadilerin yoğunlaştığı arazilerde \nakarsuların yatak eğimi azdır.",
+        "Çentik vadiler akarsuların sıradağları enine kestiği arazilerde görülmektedir.",
+        "Geniş tabanlı vadilerde akarsuyun yatak eğimi \nçentik vadilere göre daha azdır .",
+        "Çentik vadilerin yaygın olduğu arazilerde ortalama yükselti geniş tabanlı vadilerin bulunduğu arazilere göre daha fazladır."
+      ],
+      "answer": 2,
+      "explanation": "Taş kömürü yatakları Batı Karadeniz'de bulunmaktadır. Zonguldak'ta bulunan Çatalağzı termik santrali \nenerji kaynağının yakınında kurulmuştur. İkinci taş \nkömürü santrali ise Adana'nın Yumurtalık ilçesinde \nlimana gelen (Ulaşım faktörü) ithal kömür ile çalışan \nSu Gözü termik santralidir. 18 Mart Çan santrali Çanakkale'deki linyit santrali iken Kızıldere Denizli'deki \njeotermal santraldir.",
+      "imageUrl": "/uploads/questions/deneme7_q4.png"
+    },
+    "after": {
+      "id": "cogr_d7_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Haritada farklı vadi türlerinin Türkiye'de yoğunlaştığı alanlar gösterilmiştir.\n\nBuna göre Türkiye'de akarsuların oluşturduğu aşındırma şekilleriyle ilgili aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        "Kanyon vadiler jeolojik yapının karstik olduğu arazilerde yoğunluk göstermektedir.",
+        "Geniş tabanlı vadilerin yoğunlaştığı arazilerde akarsuların yatak eğimi azdır.",
+        "Çentik vadiler akarsuların sıradağları enine kestiği arazilerde görülmektedir.",
+        "Geniş tabanlı vadilerde akarsuyun yatak eğimi çentik vadilere göre daha azdır.",
+        "Çentik vadilerin yaygın olduğu arazilerde ortalama yükselti geniş tabanlı vadilerin bulunduğu arazilere göre daha fazladır."
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme7_q4.png"
+    }
+  },
+  {
+    "id": "cogr_d7_q16",
+    "before": {
+      "id": "cogr_d7_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Turizm",
+      "text": "Eğim ve engebenin fazla olduğu yerlerde ulaşımda \nakarsu vadileri yaygın olarak kullanılır. Türkiye'de \nakarsu vadilerinin kuruluş yerlerinde genel olarak \ndoğu batı yönlü dağların uzanışına paralel olan bu \nuzanış ana yol güzergahlarının da bu şekilde gelişmesini sağlamıştır. \nUlaşımda akarsu vadilerinin kullanılmasının nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Hava yolu ulaşımının yaygın olmaması",
+        "İklim koşullarının elverişli olması",
+        "Ulaşım maliyetlerinin düşük olması",
+        "Kara yollarının yeterince gelişmemesi",
+        "Kayaç yapısının çeşitli olması"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme7_q16.png"
+    },
+    "after": {
+      "id": "cogr_d7_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Eğim ve engebenin fazla olduğu yerlerde ulaşımda akarsu vadileri yaygın olarak kullanılır. Türkiye'de akarsu vadilerinin kuruluş yerlerinde genel olarak doğu batı yönlü dağların uzanışına paralel olan bu uzanış ana yol güzergâhlarının da bu şekilde gelişmesini sağlamıştır. Ulaşımda akarsu vadilerinin kullanılmasının nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Hava yolu ulaşımının yaygın olmaması",
+        "İklim koşullarının elverişli olması",
+        "Ulaşım maliyetlerinin düşük olması",
+        "Kara yollarının yeterince gelişmemesi",
+        "Kayaç yapısının çeşitli olması"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d8_q10",
+    "before": {
+      "id": "cogr_d8_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme8_q10.png"
+    },
+    "after": {
+      "id": "cogr_d8_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme8_q10.png"
+    }
+  },
+  {
+    "id": "cogr_d8_q18",
+    "before": {
+      "id": "cogr_d8_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Türkiye ekonomisi çeşitli sektörlerin doğal ve beşeri \nkaynakları kullanarak ortaya çıkardığı toplam büyüklüğün mutlak ve göreceli konuma bağlı şekillendiği \nbir bütündür. \nTürkiye ekonomisini etkileyen faktörlerden hangisi Türkiye'nin mutlak konumu ile ilişkilidir?",
+      "options": [
+        "Üç tarafının denizlerle çevrili olması",
+        "Stratejik açıdan önemli su kaynaklarına sahip olması",
+        "Üç kılanın birbirine yaklaştığı yerde bulunması",
+        "Dört mevsimin belirgin olarak yaşanması",
+        "Maden kaynaklarının çeşitli olması"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme8_q18.png"
+    },
+    "after": {
+      "id": "cogr_d8_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Türkiye ekonomisi çeşitli sektörlerin doğal ve beşeri kaynakları kullanarak ortaya çıkardığı toplam büyüklüğün mutlak ve göreceli konuma bağlı şekillendiği bir bütündür. Türkiye ekonomisini etkileyen faktörlerden hangisi Türkiye'nin mutlak konumu ile ilişkilidir?",
+      "options": [
+        "Üç tarafının denizlerle çevrili olması",
+        "Stratejik açıdan önemli su kaynaklarına sahip olması",
+        "Üç kıtanın birbirine yaklaştığı yerde bulunması",
+        "Dört mevsimin belirgin olarak yaşanması",
+        "Maden kaynaklarının çeşitli olması"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d9_q3",
+    "before": {
+      "id": "cogr_d9_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada iki merkez işaretlenmiş ve bu \nmerkezler arasında doğrusal bir hat çizilmiştir. \nBuna göre T-R doğrultusu boyunca aşağıdaki \nyeryüzü şeklllerinden hangisi yer almamaktadır?",
+      "options": [
+        "Köroğlu Dağları",
+        "Obruk Platosu",
+        "Balkar Dağları",
+        "Haymana Platosu",
+        "Konya Ovası"
+      ],
+      "answer": 4,
+      "explanation": "Mardin (Mazıdağı) ve Adıyaman çevresinden çıkarılan niaden fosfat madenidir. Fosfat, gübre yapımında kullanılan maden olduğundan tarım sektöründe \nkullanılmaktadır. Bu madenin rezervi oldukça azdır. \nBu nedenle ithal edilen madenlerden biridir. Hem çıkarımının yapıldığı hem de işlendiği tek yer Mazıdağı 'dır. Bu madenden enerji üretimi yoktur.",
+      "imageUrl": "/uploads/questions/deneme9_q3.png"
+    },
+    "after": {
+      "id": "cogr_d9_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada iki merkez işaretlenmiş ve bu merkezler arasında doğrusal bir hat çizilmiştir. Buna göre T-R doğrultusu boyunca aşağıdaki yeryüzü şekillerinden hangisi yer almamaktadır?",
+      "options": [
+        "Köroğlu Dağları",
+        "Obruk Platosu",
+        "Bolkar Dağları",
+        "Haymana Platosu",
+        "Konya Ovası"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme9_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d10_q10",
+    "before": {
+      "id": "cogr_d10_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nHaritadaki numaralanmış alanlardan hangisi diğerlerinden daha sık nüfuslanmıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme10_q10.png"
+    },
+    "after": {
+      "id": "cogr_d10_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralanmış alanlardan hangisi diğerlerinden daha sık nüfuslanmıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme10_q10.png"
+    }
+  },
+  {
+    "id": "cogr_d13_q3",
+    "before": {
+      "id": "cogr_d13_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada Antalya ve Sinop işaretlenmiş ve \nbu merkezler arasında doğrusal bir hat çizilmiştir. \nBu hat üzerinde yer alan dağlar aşağıdakilerden \nhangisinde doğru olarak verilmiştir?",
+      "options": [
+        "Dedegöl Dağları, Sultan Dağları, Ilgaz Dağları, \nKüre Dağları",
+        "Bey Dağları, Geyik Dağları , Ilgaz Dağları, Canik \nDağları",
+        "Dedegöl Dağları, Bey Dağları, Küre Dağları, Canik Dağları",
+        "Sultan Dağları, Köroğlu Dağları, Ilgaz Dağları, \nKüre Dağları",
+        "Sultan Dağları, Ilgaz Dağları, Akdağlar, Köroğlu \nDağları"
+      ],
+      "answer": 0,
+      "explanation": "Seçeneklerde verilen santrallerden Ambarlı istanbul'da bulunan doğal gazdan elektrik üreten çevrim \nsantralidir. Bu alanda doğal gaz olmaması ve ithal \nediliyor olması nedeniyle üretim ham madde yanında değildir . Karakaya barajı, Alaçatı rüzgar santrali, \nÇatalağzı taş kömürüne bağlı termik santrali ve Karapın ar güneş enerji santrali zorunluluktan bulundukları yerdedir.",
+      "imageUrl": "/uploads/questions/deneme13_q3.png"
+    },
+    "after": {
+      "id": "cogr_d13_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada Antalya ve Sinop işaretlenmiş ve bu merkezler arasında doğrusal bir hat çizilmiştir. Bu hat üzerinde yer alan dağlar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "Dedegöl Dağları, Sultan Dağları, Ilgaz Dağları, Küre Dağları",
+        "Bey Dağları, Geyik Dağları, Ilgaz Dağları, Canik Dağları",
+        "Dedegöl Dağları, Bey Dağları, Küre Dağları, Canik Dağları",
+        "Sultan Dağları, Köroğlu Dağları, Ilgaz Dağları, Küre Dağları",
+        "Sultan Dağları, Ilgaz Dağları, Akdağlar, Köroğlu Dağları"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme13_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d13_q14",
+    "before": {
+      "id": "cogr_d13_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında bazı madenlerin çıkarıldıkları sahalar noktalarla verilmiştir. \nHaritadaki madenlerden hangisinin \nçıkarıldığı \nalan hangi seçenekte yanlış eşleştirilmiştir? \nMaden \nÇıkarım Alanı",
+      "options": [
+        "Boksit — Akseki",
+        "Trona — Beypazarı",
+        "Fosfat — Mazıdağı",
+        "Krom — Kop Dağları",
+        "Bakır — Küre Dağları"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme13_q14.png"
+    },
+    "after": {
+      "id": "cogr_d13_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada bazı madenlerin çıkarıldığı alanlar gösterilmiştir.\n\nHaritadaki konumlarla seçeneklerdeki çıkarım alanları karşılaştırıldığında hangi eşleştirme yanlıştır?",
+      "options": [
+        "Boksit — Akseki",
+        "Trona — Beypazarı",
+        "Fosfat — Mazıdağı",
+        "Krom — Kop Dağları",
+        "Bakır — Küre Dağları"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme13_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d14_q10",
+    "before": {
+      "id": "cogr_d14_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş il koyu renkle gösterilmiştir. \nYukarıdaki haritada işaretlenerek gösterilen illerin ortak özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Tersiyer sektörlerde çalışanların oranının daha \nyüksek olması",
+        "Mevsimlik göç alma oranının yüksek olması",
+        "Kırsal nüfus oranlarının yüksek olması",
+        "Aritmetik nüfus yoğunluklarının az olması",
+        "Nüfusu en fazla olan ilk beş il içinde yer almaları"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q10.png"
+    },
+    "after": {
+      "id": "cogr_d14_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Aşağıdaki Türkiye haritasında beş il koyu renkle gösterilmiştir. Yukarıdaki haritada işaretlenerek gösterilen illerin ortak özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Tersiyer sektörlerde çalışanların oranının daha yüksek olması",
+        "Mevsimlik göç alma oranının yüksek olması",
+        "Kırsal nüfus oranlarının yüksek olması",
+        "Aritmetik nüfus yoğunluklarının az olması",
+        "Nüfusu en fazla olan ilk beş il içinde yer almaları"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q10.png"
+    }
+  },
+  {
+    "id": "cogr_d14_q12",
+    "before": {
+      "id": "cogr_d14_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralanmış alanların tarım özellikleri ile ilgili hangisi yanlıştır? ",
+      "options": [
+        "1 numaralı alanda sulama ile yetişen tarım ürüny \nlerinin oranı artmaktadır . \ny",
+        "2 numaralı alanda yağlık bitkilerin ekim alanı ge1 niştir .",
+        "3 numaralı alanda turizm nedeniyle tarım gelişV memiştir.",
+        "4 numaralı alanda tarım olanakları oldukça sınırlıdır.",
+        "5 numaralı alanda jeotermal kaynaklar sayesinde örtü altı üretim gelişmiştir."
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q12.png"
+    },
+    "after": {
+      "id": "cogr_d14_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralanmış alanların tarım özellikleri ile ilgili hangisi yanlıştır?",
+      "options": [
+        "I numaralı alanda sulama ile yetişen tarım ürünlerinin oranı artmaktadır.",
+        "II numaralı alanda yağlık bitkilerin ekim alanı geniştir.",
+        "III numaralı alanda turizm nedeniyle tarım gelişmemiştir.",
+        "IV numaralı alanda tarım olanakları oldukça sınırlıdır.",
+        "V numaralı alanda jeotermal kaynaklar sayesinde örtü altı üretim gelişmiştir."
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d14_q14",
+    "before": {
+      "id": "cogr_d14_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.\n• Trona (Soda Külü)\n• Mermer\n• Boksit\n• Bakır\nVerilen madenler ile haritadaki numaralı yerler eşleştirildiğinde hangisi dışarıda kalır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q14.png"
+    },
+    "after": {
+      "id": "cogr_d14_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. • Trona (Soda Külü) • Mermer • Boksit • Bakır Verilen madenler ile haritadaki numaralı yerler eşleştirildiğinde hangisi dışarıda kalır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme14_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d14_q17",
+    "before": {
+      "id": "cogr_d14_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Bir seyahat acentesinin hazırlamış olduğu gezi planında aşağıdaki haritada konumu işaretlenmiş olan \nbir şelale, bir mağara, bir arkeolojik alan bir de farklı \nyer şekillerinin oluşturduğu doğal güzellik yer almaktadır. \nYukarıda sözü edilen turistik mekanların sırası \nile gezileceği bilindiğine göre bu mekanlar aşağıdakilerden hangisinde doğru verilmiş olabilir?",
+      "options": [
+        "Manavgat Şelalesi, Damlataş Mağarası, Çatalhöyük, Göreme Peri Bacaları",
+        "Kurşunlu Şelalesi, İnsuyu Mağarası, Aşıklı höyük, lhlara Vadisi",
+        "Düden Şelalesi, Karain Mağarası, Alacahöyük, \nPamukkale Travertenleri",
+        "Manavgat Şelalesi, Öküzini Mağarası, Çatalhöyük, Erciyes Dağı",
+        "Kurşunlu Şelalesi, Yarımburgaz Mağarası, Hacılar Höyüğü, Göreme Peri Bacaları"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d14_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Bir seyahat acentesinin hazırlamış olduğu gezi planında aşağıdaki haritada konumu işaretlenmiş olan bir şelale, bir mağara, bir arkeolojik alan bir de farklı yer şekillerinin oluşturduğu doğal güzellik yer almaktadır. Yukarıda sözü edilen turistik mekanların sırası ile gezileceği bilindiğine göre bu mekanlar aşağıdakilerden hangisinde doğru verilmiş olabilir?",
+      "options": [
+        "Manavgat Şelalesi, Damlataş Mağarası, Çatalhöyük, Göreme Peri Bacaları",
+        "Kurşunlu Şelalesi, İnsuyu Mağarası, Aşıklı höyük, lhlara Vadisi",
+        "Düden Şelalesi, Karain Mağarası, Alacahöyük, Pamukkale Travertenleri",
+        "Manavgat Şelalesi, Öküzini Mağarası, Çatalhöyük, Erciyes Dağı",
+        "Kurşunlu Şelalesi, Yarımburgaz Mağarası, Hacılar Höyüğü, Göreme Peri Bacaları"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d15_q12",
+    "before": {
+      "id": "cogr_d15_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında birbirine komşu olan \nbeş il verilmiştir. \nHaritadaki illerden hangisinde Anason üretimi \nyapılmamaktadır?",
+      "options": [
+        "Isparta",
+        "Antalya",
+        "Konya",
+        "Burdur",
+        "Afyonkarahisar"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme15_q12.png"
+    },
+    "after": {
+      "id": "cogr_d15_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında birbirine komşu olan beş il verilmiştir. Haritadaki illerden hangisinde Anason üretimi yapılmamaktadır?",
+      "options": [
+        "Isparta",
+        "Antalya",
+        "Konya",
+        "Burdur",
+        "Afyonkarahisar"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme15_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d15_q14",
+    "before": {
+      "id": "cogr_d15_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıda verilen illerden hangilerinde rüzgar elektrik santreli yoktur?",
+      "options": [
+        "İzmir",
+        "Çanakkale",
+        "Balıkesir",
+        "Erzurum",
+        "Hatay"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d15_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki illerden hangisinde rüzgâr elektrik santrali bulunmamaktadır?",
+      "options": [
+        "İzmir",
+        "Çanakkale",
+        "Balıkesir",
+        "Erzurum",
+        "Hatay"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d15_q17",
+    "before": {
+      "id": "cogr_d15_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Ulaşım sistemleri ve kara yolu güzergahı seçiminde \nyükselti, engebe durumu, dağların uzanış doğru ltusu \nve eğim gibi faktörler etkili olmaktadır. Bu faktörlerin olumsuz etkisi yol yapım sürecini zorlaştırmakta \nve maliyetleri artırmaktadır. Özellikle bizim çalışma \nalanımızda ana yol güzergahı dağ ların uzanış yönüne dik uzandığı için bu durum yol yapım süresini de \nuzatmıştır. \nYukarıdaki açıklamayı - yapan bir kişinin yapmış \nolduğu yol çalışması haritadaki güzergahlardan \nhangisi olamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d15_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Ulaşım sistemleri ve kara yolu güzergâhı seçiminde yükselti, engebe durumu, dağların uzanış doğrultusu ve eğim gibi faktörler etkili olmaktadır. Bu faktörlerin olumsuz etkisi yol yapım sürecini zorlaştırmakta ve maliyetleri artırmaktadır. Özellikle bizim çalışma alanımızda ana yol güzergâhı dağların uzanış yönüne dik uzandığı için bu durum yol yapım süresini de uzatmıştır. Yukarıdaki açıklamayı - yapan bir kişinin yapmış olduğu yol çalışması haritadaki güzergâhlardan hangisi olamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d16_q10",
+    "before": {
+      "id": "cogr_d16_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki haritada Türkiye'de nüfus yoğunluğunun \nfazla olduğu beş alan numaralarla gösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "III. Alanda yer şekilleri engebelidir. Nüfus dar kıyı \nşeridinde toplanmıştır. Bu alanda yer şekillerinin engebeli olması ulaşım ve sanayinin gelişmesini engel-\n!emiştir. Bu alanın temelde sık nüfuslanma nedeni \nkıyı kuşağındaki ılıman iklim koşullarıdır."
+    },
+    "after": {
+      "id": "cogr_d16_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki haritada Türkiye'de nüfus yoğunluğunun fazla olduğu beş alan numaralarla gösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d16_q11",
+    "before": {
+      "id": "cogr_d16_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Türkiye'de bölgeden bölgeye değişen yer şekilleri ve \niklim şartları çiçeklerin farklı zamanlarda açmasına \nve gezici arıcılığın yapılmasına olanak sağlamıştır. \nBuna göre aşağıdaki illerde gezici arıcılık yapan \nbir kişinin üretime ilk olarak hangisinden başlaması beklenir?",
+      "options": [
+        "Adana",
+        "Sivas",
+        "Niğde",
+        "Kayseri",
+        "Erzurum"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d16_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Türkiye'de bölgeden bölgeye değişen yer şekilleri ve iklim şartları çiçeklerin farklı zamanlarda açmasına ve gezici arıcılığın yapılmasına olanak sağlamıştır. Buna göre aşağıdaki illerde gezici arıcılık yapan bir kişinin üretime ilk olarak hangisinden başlaması beklenir?",
+      "options": [
+        "Adana",
+        "Sivas",
+        "Niğde",
+        "Kayseri",
+        "Erzurum"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d16_q12",
+    "before": {
+      "id": "cogr_d16_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Türkiye'de tarımın geliştirilmesi için sulama, gübreleme, ilaçlama, tohum ıslahı ve makineleşme alanlarında yenilikler takip edilmekte ve gelişmeler yaşanmaktadır. Tarımda makineleşmenin artması ile çoğu \nbölgede üretim artış göstermiştir . \nYukarıdaki Türkiye \nharitasında \nnumaralamış \nalanlardan hangilerinde bahsedilen tarımı geliştirme çalışmalarının yaygın olarak uygulandığı \nsöylenemez?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d16_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Türkiye'de tarımın geliştirilmesi için sulama, gübreleme, ilaçlama, tohum ıslahı ve makineleşme alanlarında yenilikler takip edilmekte ve gelişmeler yaşanmaktadır. Tarımda makineleşmenin artması ile çoğu bölgede üretim artış göstermiştir. Yukarıdaki Türkiye haritasında numaralanmış alanlardan hangilerinde bahsedilen tarımı geliştirme çalışmalarının yaygın olarak uygulandığı söylenemez?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d16_q15",
+    "before": {
+      "id": "cogr_d16_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Başta inşaat olmak üzere, tarımdan sanayiye 60'dan \nfarklı alt başlıkta kullanım alanı olan madenlerden \nbiri de perlittir. Volkanik bir cam olan perlitin Türkiye'deki yatakları ile volkanik araziler örtüşür . \nBuna göre, haritadaki alanlardan hangisinde perlit yataklarına rastlanılamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d16_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Başta inşaat olmak üzere, tarımdan sanayiye 60'dan farklı alt başlıkta kullanım alanı olan madenlerden biri de perlittir. Volkanik bir cam olan perlitin Türkiye'deki yatakları ile volkanik araziler örtüşür. Buna göre, haritadaki alanlardan hangisinde perlit yataklarına rastlanılamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d17_q7",
+    "before": {
+      "id": "cogr_d17_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye, dünya ülkeleri arasında toprak ve arazi aşınmasının en fazla görüldüğü ülkelerden biridir. Arazinin engebeli olması, yanlış arazi seçimi, doğal bitki \nörtüsünün tahrip edilmesi ve yağış rejiminin düzensiz \nolması gibi unsurlar ülkemizde yoğun bir şekilde erozyon yaşanmasına yol açmaktadır. Erozyon şiddetinin \nfazla olduğu kurak bölgelerde nem az olduğu için sıcaklık farkı ve fiziksel çözülme şiddeti fazladır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Türkiye, dünya ülkeleri arasında toprak ve arazi aşınmasının en fazla görüldüğü ülkelerden biridir. Arazinin engebeli olması, yanlış arazi seçimi, doğal bitki \nörtüsünün tahrip edilmesi ve yağış rejiminin düzensiz \nolması gibi unsurlar ülkemizde yoğun bir şekilde erozyon yaşanmasına yol açmaktadır. Erozyon şiddetinin \nfazla olduğu kurak bölgelerde nem az olduğu için sıcaklık farkı ve fiziksel çözülme şiddeti fazladır."
+    },
+    "after": {
+      "id": "cogr_d17_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye, dünya ülkeleri arasında toprak ve arazi aşınmasının en fazla görüldüğü ülkelerden biridir. Arazinin engebeli olması, yanlış arazi seçimi, doğal bitki örtüsünün tahrip edilmesi ve yağış rejiminin düzensiz olması gibi unsurlar ülkemizde yoğun bir şekilde erozyon yaşanmasına yol açmaktadır. Erozyon şiddetinin fazla olduğu kurak bölgelerde nem az olduğu için sıcaklık farkı ve fiziksel çözülme şiddeti fazladır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d17_q8",
+    "before": {
+      "id": "cogr_d17_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Bir akarsu veya bir yol boyunca uzanan yerleşmelere çizgisel yerleşmeler denilmektedir. Türkiye'de yol \nboyunca çizgisel yerleşme örneği Düzce iken akarsu \nboyu yerleşme örneği Amasya'dır. Amasya aynı zaR \nmanda Osmanlı zamanında sancak özelliği ile ön planG \nda olmuştur . Samsun ve Trabzon kıyı boyu yerleşmesi \niken Bursa ve Yozgat dağ eteği yerleşmeleridir. \nLLI",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Bir akarsu veya bir yol boyunca uzanan yerleşmelere çizgisel yerleşmeler denilmektedir. Türkiye'de yol \nboyunca çizgisel yerleşme örneği Düzce iken akarsu \nboyu yerleşme örneği Amasya'dır. Amasya aynı zaR \nmanda Osmanlı zamanında sancak özelliği ile ön planG \nda olmuştur . Samsun ve Trabzon kıyı boyu yerleşmesi \niken Bursa ve Yozgat dağ eteği yerleşmeleridir. \nLLI \n \ny \nw \n1 9. \nSoruda tanıtımı yapılan sakin şehirler ve öğrenciler \ncı \n(\") \nşu şekilde eşleştirilebilir. Nafiz Eğirdir'i, Fikri HalfeM \nti'yi, Rıfat Şavşat ' ı Emin ise Seferihisar'ı tanıtmıştır. : \nSafranbolu hakkında bir bilgi verilmemiştir . SafranIlı. \nbolu ise geleneksel Türk mimarisinin yapı taşlarından biri olan cumbalı evleriyle, yöresel ve coğrafi \nı(!) \nişaretli lezzetleriyle UNESCO Dünya Mirası listesine \nc., \ndahil edilmiş bir sakin şehrimizdir."
+    },
+    "after": {
+      "id": "cogr_d17_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Bir akarsu veya bir yol boyunca uzanan yerleşmelere çizgisel yerleşmeler denilmektedir. Türkiye'de yol boyunca çizgisel yerleşme örneği Düzce iken akarsu boyu yerleşme örneği Amasya'dır. Amasya aynı zaR manda Osmanlı zamanında sancak özelliği ile ön planG da olmuştur. Samsun ve Trabzon kıyı boyu yerleşmesi iken Bursa ve Yozgat dağ eteği yerleşmeleridir. LLI",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d17_q10",
+    "before": {
+      "id": "cogr_d17_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "I. Birinci dereceden deprem bölgeleri \nII. Sanayinin geliştiği alanlar \nIII. Yer şekillerinin dağlık ve engebeli olduğu alanlar \nIV. Akarsuların çentik vadileri \nYukarıdakilerden hangileri Türkiye'de nüfus yoğunluğunun az olduğu alanlara örnektir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "I ve IV",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d17_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "I. Birinci dereceden deprem bölgeleri II. Sanayinin geliştiği alanlar III. Yer şekillerinin dağlık ve engebeli olduğu alanlar IV. Akarsuların çentik vadileri Yukarıdakilerden hangileri Türkiye'de nüfus yoğunluğunun az olduğu alanlara örnektir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "I ve IV",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d17_q12",
+    "before": {
+      "id": "cogr_d17_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nTürkiye'de yeşil mercimek ve kırmızı mercimeğin \nen fazla yetiştirildiği alanlar sırası ile yukarıdaki \nharitada işaretlenerek gösterilen alanlardan hangileridir?",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "I ve IV",
+        "III ve IV",
+        "llve iV \n:E: \nz \nC \n>(:) o \nu"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme17_q12.png"
+    },
+    "after": {
+      "id": "cogr_d17_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Türkiye'de yeşil mercimek ve kırmızı mercimeğin en fazla yetiştirildiği alanlar sırası ile yukarıdaki haritada işaretlenerek gösterilen alanlardan hangileridir?",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "I ve IV",
+        "III ve IV",
+        "II ve IV"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme17_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d17_q14",
+    "before": {
+      "id": "cogr_d17_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nNumaralı alanlardaki enerji üretimi ile ilgili verilen bilgilerden hangisinin doğru olduğu söylenemez?",
+      "options": [
+        "1 numaralı alanda hidroelektrik üretim fazladır.",
+        "il numaralı alanda taş kömüründen elektrik üretimi yapılmak1adır .",
+        "111 \nnumaralı alanda jeotermal enerji santralleri \nfazladır.",
+        "iV numaralı alanda linyit santrallerine bağlı elektrik üretimi fazladır .",
+        "V numaralı alanda güneşlenme süresinin fazla \nolmasına bağlı olarak güneş potansiyeli fazladır. \n1\ny"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme17_q14.png"
+    },
+    "after": {
+      "id": "cogr_d17_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Numaralı alanlardaki enerji üretimi ile ilgili verilen bilgilerden hangisinin doğru olduğu söylenemez?",
+      "options": [
+        "I numaralı alanda hidroelektrik üretim fazladır.",
+        "II numaralı alanda taş kömüründen elektrik üretimi yapılmaktadır.",
+        "III numaralı alanda jeotermal enerji santralleri fazladır.",
+        "IV numaralı alanda linyit santrallerine bağlı elektrik üretimi fazladır.",
+        "V numaralı alanda güneşlenme süresinin fazla olmasına bağlı olarak güneş enerjisi potansiyeli fazladır."
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme17_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d17_q17",
+    "before": {
+      "id": "cogr_d17_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı merkezler numaralandırılarak koyu renkle gösterilmiştir. \nBu merkezlerden hangisi kış turizminin gelişmesine uygun bir alanda yer almaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d17_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı merkezler numaralandırılarak koyu renkle gösterilmiştir. Bu merkezlerden hangisi kış turizminin gelişmesine uygun bir alanda yer almaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d18_q7",
+    "before": {
+      "id": "cogr_d18_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Afetler arası etkileşim konusunda araştırma yapan \nbir kişi Türkiye'de yaşanan bir afetlerin başka bir afeti tetiklediğini ve bu nedenle ortaya çıkardığı zararı \nda arttırdığını ortaya koymuştur. \nAşağıda verilen afetlerden hangileri arasında bu \nşekilde bir etkileşim olduğu savunulamaz? \nBirincil Afet \nİkincil Afet",
+      "options": [
+        "Kuraklık \nOrman Yangınları",
+        "Deprem \nTsunami",
+        "Sel \nHeyelan",
+        "Deprem \nÇığ",
+        "Çığ \nHeyelan"
+      ],
+      "answer": 4,
+      "explanation": "Çığ lar kalın kar örtüsüne sahip dağlık bölgelerde \nmeydana gelirken, heyelanlar gevşek ve çamurlu toprağa sahip eğimli yerlerde meydana gelir. Heyelanlar, \nbüyük bir toprak kütlesinin bir yamaçtan aşağı hareket \netmesini içerir ve zayıf toprak yapısı , yağış , kuraklık, \nerozyon ve sismik aktiviteler ( depremler) dahil olmak \nüzere çeşitli faktörlerden kaynaklanabilir. Çığ, büyük \nkar hacimlerinin hareketidir. Çığ, bir depremden kaynaklanan titreşimlerden kaynaklanabilir veya şiddetli \nkoşullarda yüksek sesler karı harekete geçirebilir. Çığ \nheyelanı tetiklemez ancak kar erimeleri tetikleyebilir."
+    },
+    "after": {
+      "id": "cogr_d18_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Afetler arası etkileşim konusunda araştırma yapan bir kişi Türkiye'de yaşanan bir afetlerin başka bir afeti tetiklediğini ve bu nedenle ortaya çıkardığı zararı da arttırdığını ortaya koymuştur. Aşağıda verilen afetlerden hangileri arasında bu şekilde bir etkileşim olduğu savunulamaz? Birincil Afet İkincil Afet",
+      "options": [
+        "Kuraklık Orman Yangınları",
+        "Deprem Tsunami",
+        "Sel Heyelan",
+        "Deprem Çığ",
+        "Çığ Heyelan"
+      ],
+      "answer": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d18_q8",
+    "before": {
+      "id": "cogr_d18_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Kentlerin gelişmes inde sahip olduğu doğal kaynakların işletilmesi önemlidir. Bu şekilde gelişen kentler \nyer altı zenginlikleri ile gelişt iğinde maden kenti olarak ifade edilir. Nüfusun büyük bölümünün bu ekonomik faaliyet kolunda istihdam edilmesi, madene \nbağlı sanayinin gelişmesi yerleşmelerin göç alarak \nbüyümesini sağlamaktadır .",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d18_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Kentlerin gelişmesinde sahip olduğu doğal kaynakların işletilmesi önemlidir. Bu şekilde gelişen kentler yer altı zenginlikleri ile geliştiğinde maden kenti olarak ifade edilir. Nüfusun büyük bölümünün bu ekonomik faaliyet kolunda istihdam edilmesi, madene bağlı sanayinin gelişmesi yerleşmelerin göç alarak büyümesini sağlamaktadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d18_q10",
+    "before": {
+      "id": "cogr_d18_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. \nHaritadaki numaralı alanlar ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "1 numaralı alanda mahalle ve mahallelerin birleşmesiyle oluşan divan yerleşmelerine rastlanılmaktadır.",
+        "il numaralı ve ili numaralı alanlarda Oba adı verilen köy altı yerleşmeleri bulunur.",
+        "iV numaralı alanın kıyı kesimlerinde dalyan adı \nverilen yerleşmeler bulunur.",
+        "V numaralı alanda hayvan otlatma döneminde \ngeçici olarak kullanılan dam adı verilen yerleşmelere rastlanılmaktadır.",
+        "II ve IV numaralı alanlarda yaz aylarında serinlemek amacıyla yaylalara çıkılmaktadır."
+      ],
+      "answer": 3,
+      "explanation": "• \nDivan adı verilen mahalle birleşimi ile oluşan köy \naltı yerleşmelerine en fazlaInumara ile gösterilen Batı Karadeniz'de.rasllanılmaktadır. \n• \nOba adı verilen hayvan otlatmak amacıyla kurulan köy altı yerleşmelerine en fazla il numaralı \nToroslar ve 111 numaralı Orta Karadeniz'de rastlanılmaktadır. \nDalyan adı verilen balıkçı yerleşmelerine iV numara ile gösterilen güneybatı Anadolu'da rastlanılmaktadır . \nil ve iV numaralı alanlarda yaz aylarında serinlemek amacıyla da yaylalara çıkılmaktadır. \nAncak hayvancılık amacıyla kurulan ve Dam adı verilen geçici yerleşmelere Batı Anadolu'da Çanakkale \n- Gökçeada çevresinde rastlanılmaktadır. V numaralı Doğu Anadolu'da bu yerleşmelere Dam değil \nKom adı verilmektedir.",
+      "imageUrl": "/uploads/questions/deneme18_q10.png"
+    },
+    "after": {
+      "id": "cogr_d18_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. Haritadaki numaralı alanlar ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "1 numaralı alanda mahalle ve mahallelerin birleşmesiyle oluşan divan yerleşmelerine rastlanılmaktadır.",
+        "il numaralı ve ili numaralı alanlarda Oba adı verilen köy altı yerleşmeleri bulunur.",
+        "iV numaralı alanın kıyı kesimlerinde dalyan adı verilen yerleşmeler bulunur.",
+        "V numaralı alanda hayvan otlatma döneminde geçici olarak kullanılan dam adı verilen yerleşmelere rastlanılmaktadır.",
+        "II ve IV numaralı alanlarda yaz aylarında serinlemek amacıyla yaylalara çıkılmaktadır."
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme18_q10.png"
+    }
+  },
+  {
+    "id": "cogr_d18_q14",
+    "before": {
+      "id": "cogr_d18_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye halitasında beş alan numaralarla \ngösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d18_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d18_q15",
+    "before": {
+      "id": "cogr_d18_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Sıcak su kaynaklarına bağlı jeotermal enerji üretimi yapılan alandır. \nAsfaltit adı verilen enerji türünün çıkarıldığı ve \nelektrik üretimi yapıldı alandır. \n• \nVadi derinliğinin yüksek olması nedeniyle en \nyüksek barajların kurulu olduğu alandır. \nLinyit kömürüne erişimin kolay olduğu ve birçok \nsantralde elektrik üretimi yapılan alandır. \nHaritadaki numaralı alanlarla bilgiler eşleştirildiğinde hangisi dışarıda kalır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d18_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Sıcak su kaynaklarına bağlı jeotermal enerji üretimi yapılan alandır. Asfaltit adı verilen enerji türünün çıkarıldığı ve elektrik üretimi yapıldı alandır. • Vadi derinliğinin yüksek olması nedeniyle en yüksek barajların kurulu olduğu alandır. Linyit kömürüne erişimin kolay olduğu ve birçok santralde elektrik üretimi yapılan alandır. Haritadaki numaralı alanlarla bilgiler eşleştirildiğinde hangisi dışarıda kalır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d18_q17",
+    "before": {
+      "id": "cogr_d18_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada kuş uçuşu uzunlukları birbirlerine \nyakın olan beş farklı güzergah gösterilmiştir. Bu güzergahlarda benzer kalitede beş farklı kara yolunun \nyapımı planlanmaktadır . \nYozgat \n/ \nKırşehir \nBuna göre yapılacak kara yollarından hangisinin \ndaha maliyetli olacağı söylenebilir?",
+      "options": [
+        "Aydın-Denizli",
+        "Antalya-Isparta",
+        "Konya-Karaman",
+        "İstanbul-Edirne",
+        "Kırşehir-Yozgat"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d18_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Aşağıdaki güzergâhların kuş uçuşu uzunluklarının birbirine yakın olduğu ve bu güzergâhlarda benzer kalitede kara yolları yapılacağı varsayılmaktadır.\n\nYer şekilleri dikkate alındığında hangi güzergâhta yol yapım maliyetinin daha yüksek olması beklenir?",
+      "options": [
+        "Aydın-Denizli",
+        "Antalya-Isparta",
+        "Konya-Karaman",
+        "İstanbul-Edirne",
+        "Kırşehir-Yozgat"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d19_q2",
+    "before": {
+      "id": "cogr_d19_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Öğrencilerin vermiş olduğu cevaplarda birbiriyle \nçelişkili olarak ~aracadağ'ın batolit veya kakan biçimli bir volkan konisi olduğu bilgisi verilmektedir. \nBu konuda doğru bilgi Karacadağ'ın kalkan biçimli \nbir volkan olduğudur . Aynı şekilde Uludağ'ın da oluşumu hakkında ikilem bulunmaktadır. Bursa Uludağ \noluşum açısından batolit örneği olarak değerlendirilmektedir. Buna göre yanlış bilgi veren öğrenciler \nAyşe ve Ali'dir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Öğrencilerin vermiş olduğu cevaplarda birbiriyle \nçelişkili olarak ~aracadağ'ın batolit veya kakan biçimli bir volkan konisi olduğu bilgisi verilmektedir. \nBu konuda doğru bilgi Karacadağ'ın kalkan biçimli \nbir volkan olduğudur . Aynı şekilde Uludağ'ın da oluşumu hakkında ikilem bulunmaktadır. Bursa Uludağ \noluşum açısından batolit örneği olarak değerlendirilmektedir. Buna göre yanlış bilgi veren öğrenciler \nAyşe ve Ali'dir."
+    },
+    "after": {
+      "id": "cogr_d19_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Öğrencilerin vermiş olduğu cevaplarda birbiriyle çelişkili olarak ~aracadağ'ın batolit veya kakan biçimli bir volkan konisi olduğu bilgisi verilmektedir. Bu konuda doğru bilgi Karacadağ'ın kalkan biçimli bir volkan olduğudur. Aynı şekilde Uludağ'ın da oluşumu hakkında ikilem bulunmaktadır. Bursa Uludağ oluşum açısından batolit örneği olarak değerlendirilmektedir. Buna göre yanlış bilgi veren öğrenciler Ayşe ve Ali'dir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d19_q3",
+    "before": {
+      "id": "cogr_d19_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada gösterilen yer şekilleri şu şekilde gruplandırılabilir .",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d19_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada gösterilen yer şekilleri şu şekilde gruplandırılabilir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d19_q4",
+    "before": {
+      "id": "cogr_d19_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Ovalar \n• -~ \nPlatolar \n• \n• \nI-Ergene Ovası \nil-Teke Platosu \n- ---------------------\n------\n-\n111- Batıra Ovası \niV- Haymana Platosu \n_ _,_ ________ -------- -\n-\nV- Aksray Ovası \nVI- Obruk Platosu \nVIII- Çukurova \nVII- Taşeli Platosu \nBuna göre haritadaIve il numara ile gösterilen Ergene Ovası ve Teke Platosu haritada yanlış gösterilmiştir. Yapılan yanlışlığın giderilmesi için bu hatalar \ndüzeltilmelidir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Haritada rezerv alanları gösterilen maden feldspattır . \nDünya'daki rezervlerin % 1 0'u üretimin ise %30'unu \nTürkiye'nin karşıladığı bir madendir. Aranan maden \nTrona için Ankara, Fosfat için Mardin Mazıdağı, Boksit için Antalya Akseki ve Konya Seydişehir, Volfram \niçin Uludağ olmalıdır."
+    },
+    "after": {
+      "id": "cogr_d19_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Ovalar • -~ Platolar • • I-Ergene Ovası il-Teke Platosu - --------------------- ------ - 111- Batıra Ovası iV- Haymana Platosu _ _,_ ________ -------- - - V- Aksray Ovası VI- Obruk Platosu VIII- Çukurova VII- Taşeli Platosu Buna göre haritadaIve il numara ile gösterilen Ergene Ovası ve Teke Platosu haritada yanlış gösterilmiştir. Yapılan yanlışlığın giderilmesi için bu hatalar düzeltilmelidir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d19_q5",
+    "before": {
+      "id": "cogr_d19_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye jeolojik olarak genç bir ülkedir. Türkiye'de \nyeryüzü şekilleri dağlık ve engebeli olduğu için akarsuların yatak eğimi ve akış hızı fazladır. Yatak eğimi \nfazla olan akarsular denge profili özelliği kazanmamıştır. Bu nedenle de Türkiye akarsuları ulaşıma ve \ntaşımacılığa elverişli değildir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Türkiye jeolojik olarak genç bir ülkedir. Türkiye'de \nyeryüzü şekilleri dağlık ve engebeli olduğu için akarsuların yatak eğimi ve akış hızı fazladır. Yatak eğimi \nfazla olan akarsular denge profili özelliği kazanmamıştır. Bu nedenle de Türkiye akarsuları ulaşıma ve \ntaşımacılığa elverişli değildir.",
+      "imageUrl": "/uploads/questions/deneme19_q5.png"
+    },
+    "after": {
+      "id": "cogr_d19_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye jeolojik olarak genç bir ülkedir. Türkiye'de yeryüzü şekilleri dağlık ve engebeli olduğu için akarsuların yatak eğimi ve akış hızı fazladır. Yatak eğimi fazla olan akarsular denge profili özelliği kazanmamıştır. Bu nedenle de Türkiye akarsuları ulaşıma ve taşımacılığa elverişli değildir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q5.png"
+    }
+  },
+  {
+    "id": "cogr_d19_q12",
+    "before": {
+      "id": "cogr_d19_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki haritada Türkiye'de bulunan bazı alanlar \ntaranarak gösterilmiştir. \nI. alanda buğday yetişmez \nII. alanda tütün yetişmez \nIII. alanda fındık yetişmez \nIV. alanda zeytin yetişmez \nV. alanda çay yetişmez \nBuna göre aşağıdaki tarım ürünlerinden hangisiyle ilgili verilen bilgi yanlıştır?",
+      "options": [
+        "Buğday",
+        "Tütün",
+        "Fındık",
+        "Zeytin",
+        "Çay \nA 13. Sismik açıdan güvenli, tsunami riskinin düşük, su \nkaynaklarının yeterli olduğu kıyı alanları nükleer güç \nreaktörleri açısından uygun alanları oluşturmaktadır. \n1 \nAşağıda verilen yerlerden hangisinde bu şartları \nsağladığından nükleer güç reaktörü kurulmuştur?"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q12.png"
+    },
+    "after": {
+      "id": "cogr_d19_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki haritada Türkiye'de bulunan bazı alanlar taranarak gösterilmiştir. I. alanda buğday yetişmez II. alanda tütün yetişmez III. alanda fındık yetişmez IV. alanda zeytin yetişmez V. alanda çay yetişmez Buna göre aşağıdaki tarım ürünlerinden hangisiyle ilgili verilen bilgi yanlıştır?",
+      "options": [
+        "Buğday",
+        "Tütün",
+        "Fındık",
+        "Zeytin",
+        "Çay"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d19_q14",
+    "before": {
+      "id": "cogr_d19_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında bazı madenin bulunduğu alanlar gösterilmiştir . \n6 Yoıgıt \n• KırJahlr \nHaritadaki alanlar dikkate alındığında bu madenin aşağıdakilerden hangisi olduğu söylenebilir?",
+      "options": [
+        "Trona",
+        "Feldspat",
+        "Fosfat",
+        "Boksit",
+        "Volfram"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q14.png"
+    },
+    "after": {
+      "id": "cogr_d19_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada bir madenin bulunduğu alanlar gösterilmiştir.\n\nBu alanların dağılışı dikkate alındığında söz konusu maden aşağıdakilerden hangisidir?",
+      "options": [
+        "Trona",
+        "Feldspat",
+        "Fosfat",
+        "Boksit",
+        "Volfram"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d19_q17",
+    "before": {
+      "id": "cogr_d19_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada Türkiye'de yer alan bazı büyükşehir merkezleri numaralandırılarak gösteri lmiştir . \nAnkara \nil \nBu merkezlerden hangileri arasında otoyol bağlantısı kullanılarak ulaşım yapılamaz?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "IV ve V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q17.png"
+    },
+    "after": {
+      "id": "cogr_d19_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada Türkiye'de yer alan bazı büyükşehir merkezleri numaralandırılarak gösteri lmiştir. Ankara il Bu merkezlerden hangileri arasında otoyol bağlantısı kullanılarak ulaşım yapılamaz?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "IV ve V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme19_q17.png"
+    }
+  },
+  {
+    "id": "cogr_d20_q7",
+    "before": {
+      "id": "cogr_d20_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Yaşanan olay sayısı ve can kaybı istatistiklerini gösteren Türkiye'de Sel ve Su Baskınları Haritasını inceleyen bir öğrencinin dikkatini Ankara'nın durumu \nçekmiştir. Ankara, yaşanan olay sayısı bakımından \nilk sıralarda yer almasa da sel ve su baskınları neticesinde yaşanan can kaybında birinci sırada yer \nalmaktadır. \nBu durumun nedenleri arasında aşağıdakilerden \nhangisi sayılamaz?",
+      "options": [
+        "Kuru dere yataklarının yerleşime açılması",
+        "Şehirleşme sonucu yeşil alanların azalması",
+        "İlkbaharda konveksiyonel yağışların görülmesi",
+        "Derelerin üzerinin yol yapılarak kapatılması",
+        "Mevcut altyapının yetersiz kalması"
+      ],
+      "answer": 0,
+      "explanation": "Bir limanın hinterlandında sanayi tesislerinin, yer altı \nkaynaklarının ve tarım alanlarının bulunduğu alan ne \nkadar genişse liman daooranda gelişir. İstanbul, izmir, Mersin, İskenderun ve 'Samsun hinterlandı geniş \nolan başlıca limanlarımızdır. Buna karşın özellikle \ndağların uzanış doğrultusu limanların hinterlandını \nolumsuz yönde etkilemektedir. 1 numara ile gösterilen Sinop Limanı'nın hinterlandının dar olması bu \n::E \nduruma örnektir. \nUJ"
+    },
+    "after": {
+      "id": "cogr_d20_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Yaşanan olay sayısı ve can kaybı istatistiklerini gösteren Türkiye'de Sel ve Su Baskınları Haritasını inceleyen bir öğrencinin dikkatini Ankara'nın durumu çekmiştir. Ankara, yaşanan olay sayısı bakımından ilk sıralarda yer almasa da sel ve su baskınları neticesinde yaşanan can kaybında birinci sırada yer almaktadır. Bu durumun nedenleri arasında aşağıdakilerden hangisi sayılamaz?",
+      "options": [
+        "Kuru dere yataklarının yerleşime açılması",
+        "Şehirleşme sonucu yeşil alanların azalması",
+        "İlkbaharda konveksiyonel yağışların görülmesi",
+        "Derelerin üzerinin yol yapılarak kapatılması",
+        "Mevcut altyapının yetersiz kalması"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d20_q11",
+    "before": {
+      "id": "cogr_d20_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Bu alanlardan herhangi birinde yaşayan katılımcılar \nyaşadıkları bölgenin özelliklerinden şu şekilde bahsetmiştir . \nAli: Benim yaşadığım bölgede yer şekilleri dağlık ve \nengebeli olmasına rağmen nüfus yoğunluğu fazladır. \nVeli: Benim ilimde hem tarım hem de sanayi açısından imkAnlar oldukça fazla olduğu için nüfus kalabalıktır . \nHasan: Benim yaşadığım yörede iklim koşulları her \nne kadar iyi olsa da yer şekillerinin dağlık ve engebeli olması ekonomik koşulların gelişmesini engellediği \niçin nüfus yoğun değildir. \nHüseyin: Ben oldukça düz bir arazide yaşıyorum. \nArazi düz olsa da hem kuraklık hem de toprakların \nverimsiz olması nedeniyle burada yerleşmeler oldukça azdır. \nBuna göre haritada numaralandırılarak verilen \nalanlardan hangisinde yaşayan kişi konuşmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme20_q11.png"
+    },
+    "after": {
+      "id": "cogr_d20_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Bu alanlardan herhangi birinde yaşayan katılımcılar yaşadıkları bölgenin özelliklerinden şu şekilde bahsetmiştir. Ali: Benim yaşadığım bölgede yer şekilleri dağlık ve engebeli olmasına rağmen nüfus yoğunluğu fazladır. Veli: Benim ilimde hem tarım hem de sanayi açısından imkânlar oldukça fazla olduğu için nüfus kalabalıktır. Hasan: Benim yaşadığım yörede iklim koşulları her ne kadar iyi olsa da yer şekillerinin dağlık ve engebeli olması ekonomik koşulların gelişmesini engellediği için nüfus yoğun değildir. Hüseyin: Ben oldukça düz bir arazide yaşıyorum. Arazi düz olsa da hem kuraklık hem de toprakların verimsiz olması nedeniyle burada yerleşmeler oldukça azdır. Buna göre haritada numaralandırılarak verilen alanlardan hangisinde yaşayan kişi konuşmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme20_q11.png"
+    }
+  },
+  {
+    "id": "cogr_d20_q12",
+    "before": {
+      "id": "cogr_d20_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında bir tarım ürününün \n500.000 ton üzerinde üretildiği iller verilmiştir. \nYukarıdaki haritada taranan iller dikkate alındığında aşağıdaki tarım ürünlerinden hangisinin \nen çok yetiştirildiği yerleri göstermektedir?",
+      "options": [
+        "Mısır",
+        "Ayçiçeği",
+        "Pamuk",
+        "Şekerpancarı",
+        "Üzüm"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme20_q12.png"
+    },
+    "after": {
+      "id": "cogr_d20_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında bir tarım ürününün 500.000 ton üzerinde üretildiği iller verilmiştir. Yukarıdaki haritada taranan iller dikkate alındığında aşağıdaki tarım ürünlerinden hangisinin en çok yetiştirildiği yerleri göstermektedir?",
+      "options": [
+        "Mısır",
+        "Ayçiçeği",
+        "Pamuk",
+        "Şekerpancarı",
+        "Üzüm"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme20_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d20_q14",
+    "before": {
+      "id": "cogr_d20_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Türkiye'de bakır madenine Marmara'da da rastlanmakla birlikte işletilmekte olan yatakları Karadeniz \nve Doğu Anadolu'da bulunmaktadır . \nYukarıdaki haritada konumları verilen merkezlerden hangisinde bu madenin çıkarımı yapılmamaktadır?",
+      "options": [
+        "Ergani",
+        "Küre",
+        "Çayeli",
+        "Samsun",
+        "Murgul \ny\ni ."
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme20_q14.png"
+    },
+    "after": {
+      "id": "cogr_d20_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki merkezlerden hangisi bakır madeninin çıkarıldığı bir merkez değildir?",
+      "options": [
+        "Ergani",
+        "Küre",
+        "Çayeli",
+        "Samsun",
+        "Murgul"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d20_q17",
+    "before": {
+      "id": "cogr_d20_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Bir yerleşim merkezinin özellikle bir limanın ticaret \nmerkezi durumunda olduğu ve ürünlerini toplayıp gelen malları dağıttığı çevreye hinterlant (art bölge) adı \nverilir. Hinterlant, ekonomik olarak liman_ı besleyen \nve limanla etkileşen alanın tümüdür. \nBuna göre haritada numaralandırılarak verilen \nlimanlardan hangisinin hinterlant, daha dardır? \nY",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d20_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Bir yerleşim merkezinin özellikle bir limanın ticaret merkezi durumunda olduğu ve ürünlerini toplayıp gelen malları dağıttığı çevreye hinterlant (art bölge) adı verilir. Hinterlant, ekonomik olarak liman_ı besleyen ve limanla etkileşen alanın tümüdür. Buna göre haritada numaralandırılarak verilen limanlardan hangisinin hinterlant, daha dardır? Y",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q1",
+    "before": {
+      "id": "cogr_d21_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Sinop ve Hatay merkezlerinde güneş ışınlarının geliş açıları ve tarihlerle ilgili grafik incelendiğinde, bu merkezlerin güneş ışınlarını en büyük ve en küçük açı ile aldıkları tarihler hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Grafik dikkatli incelendiğinde I numaralı tarihte Sinop'a ve III numaralı tarihte Hatay'a güneş ışınlarının geliş açısı 70 derecenin üzerinde olmuştur. Bu güneş ışınlarını en büyük açı ile almaları demektir. Güneş ışınlarının tüm Türkiye'ye en büyük açı ile geldiği tarih 21 Haziran'dır. Yani hem I hem de III 21 Haziran olmalıdır. Aynı şekilde II ve IV numaralı tarihler merkezlerin güneş ışınlarını en küçük açı ile aldıkları tarih olan 21 Aralık'tır. Aradaki küçük açı farkları enlemlerinin farklı olmasından kaynaklanmaktadır."
+    },
+    "after": {
+      "id": "cogr_d21_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Sinop ve Hatay merkezlerinde güneş ışınlarının geliş açıları ve tarihlerle ilgili grafik incelendiğinde, bu merkezlerin güneş ışınlarını en büyük ve en küçük açı ile aldıkları tarihler hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q3",
+    "before": {
+      "id": "cogr_d21_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada gösterilen kıyılardanIve lll'te kıta sahanlıği \ngeniş, il ve IV'te ise dardır. 1 numaralı Ege kıyılarında \ndağlar denize dik uzanlırken 111 numara ile gösterilen \nOrta Karadeniz'de dağlar kıyıya oldukça uzaktır. Bu \nnedenele buralarda kıta sahanlığı geniştir . Antalya \nve Doğu Kadeniz'de dağlar denize parala uzanmakta ve bu dağlar ile kıyı arasındaki uzaklık azdır. Bu \nnedenle buralarda kıta sahanlığı dardır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Seçeneklerde verilen alanlardan Kastamonu küre \ndağları bakır yataklarının en zengin olduğu yerlerden biridir. Zonguldak ve Bartın Amasra'da taş kömürü bulunur. Adana Feke Mansurlu havzası demiryyatakları , Antalya Alanya barit yatakları olan bir alanA\ndır . Ancak bor sadece Güney Marmara'da Balıkesir R\nve Bursa'da bulunmaktadır . Guleman Elazığ'da yer \nalır ve bu alanda krom yatakları bulunur. \ny"
+    },
+    "after": {
+      "id": "cogr_d21_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritada gösterilen kıyılardanIve lll'te kıta sahanlıği geniş, il ve IV'te ise dardır. 1 numaralı Ege kıyılarında dağlar denize dik uzanlırken 111 numara ile gösterilen Orta Karadeniz'de dağlar kıyıya oldukça uzaktır. Bu nedenele buralarda kıta sahanlığı geniştir. Antalya ve Doğu Kadeniz'de dağlar denize parala uzanmakta ve bu dağlar ile kıyı arasındaki uzaklık azdır. Bu nedenle buralarda kıta sahanlığı dardır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q7",
+    "before": {
+      "id": "cogr_d21_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye deprem \nharitası incelendiğinde yaşanan \nolay sayısı ve deprem açısından riskli illerin ana fay \nzonlarında yer aldığı görülmektedir. Kuzey Anadolu, \nDoğu Anadolu ve Batı Anadolu fay zanları üzerindeki iller deprem açısından son derece risklidir. Ancak \nOrta Anadolu'da yer alan Yozgat bu büyük fay zonları üzerinde değildir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": "Aspendos Tiyatrosu ve Antik Kenti turizm açısından \nönemi bir ören yeridir. Ancak UNESCO Dünya Mirası listesinde yer almamaktadır . Truva, Efes, Ani ve \nGordion'la birlikte birçok ören yeri, mimari yapı, tarihi \nve doğal güzellik de bu listeye dahil edilmiştir."
+    },
+    "after": {
+      "id": "cogr_d21_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Türkiye deprem haritası incelendiğinde yaşanan olay sayısı ve deprem açısından riskli illerin ana fay zonlarında yer aldığı görülmektedir. Kuzey Anadolu, Doğu Anadolu ve Batı Anadolu fay zanları üzerindeki iller deprem açısından son derece risklidir. Ancak Orta Anadolu'da yer alan Yozgat bu büyük fay zonları üzerinde değildir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q10",
+    "before": {
+      "id": "cogr_d21_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıda Türkiye'nin 2024 nüfus sayımı sonuçlarına \ngöre oluşturulan nüfus piramidi gösterilmiştir. \nYaş grubu \n90+ \n8589 \n8084 \n76-79 \n70-74 \n65-69 \n60-64 \n55-59 \n50-54 \n45-49 \n40-44 \n35-39 \n30-34 \n25-29 \n20-24 \n15-19 \n10-14 \n5-9 \n0-4 \n4 \nO \n4 \nMilyon kişi",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d21_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıda Türkiye'nin 2024 nüfus sayımı sonuçlarına göre oluşturulan nüfus piramidi gösterilmiştir. Yaş grubu 90+ 8589 8084 76-79 70-74 65-69 60-64 55-59 50-54 45-49 40-44 35-39 30-34 25-29 20-24 15-19 10-14 5-9 0-4 4 O 4 Milyon kişi",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q12",
+    "before": {
+      "id": "cogr_d21_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Kültür balıkçılığı hem akarsu, baraj ve göllerde hem \nde koy ve körfezlerde yapılmaktadır . \n1 \n1 \nBuna göre haritada işaretli alanlardan hangisinde \nkültür balıkçılığının daha çok yapılması beklenir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d21_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Kültür balıkçılığı hem akarsu, baraj ve göllerde hem de koy ve körfezlerde yapılmaktadır. 1 1 Buna göre haritada işaretli alanlardan hangisinde kültür balıkçılığının daha çok yapılması beklenir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q17",
+    "before": {
+      "id": "cogr_d21_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki harita Türkiye'nin çeşitli yörelerinde yer \nalan ve turistik açıdan çekicilik arz eden farklı ören \nyerlerini göstermiştir. \nHaritada işaretlenen ören yerlerinden hangisi \nUNESCO Dünya Mirası listesinde bulunmaz?",
+      "options": [
+        "Truva",
+        "Efes",
+        "Aspendos",
+        "Gordion",
+        "Ani"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d21_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Turizm",
+      "text": "Aşağıdaki harita Türkiye'nin çeşitli yörelerinde yer alan ve turistik açıdan çekicilik arz eden farklı ören yerlerini göstermiştir. Haritada işaretlenen ören yerlerinden hangisi UNESCO Dünya Mirası listesinde bulunmaz?",
+      "options": [
+        "Truva",
+        "Efes",
+        "Aspendos",
+        "Gordion",
+        "Ani"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d21_q18",
+    "before": {
+      "id": "cogr_d21_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı alanlar numaralandırılarak \nkoyu renkle gösterilmiştir. \nYer şekilleri özelliklerine göre oluşturulan bir \nbölge \nsınıflanmasında bu alanlardan hangisi \novalık bölgelere dahil edilemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d21_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı alanlar numaralandırılarak koyu renkle gösterilmiştir. Yer şekilleri özelliklerine göre oluşturulan bir bölge sınıflanmasında bu alanlardan hangisi ovalık bölgelere dahil edilemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d22_q3",
+    "before": {
+      "id": "cogr_d22_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye Anadolu ve Trakya Yarımadalarından oluşmaktadır. Bu iki yarımada arasında bazı yer şekilleri \nbenzerlik gösterirken bazı şekiller yalnızca Anadolu \nYarımadası'nda bulunmaktadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": "Türkiye'de karstik platolar kalkerli arazilerin çözülmesiyle birlikte Batı Toroslar çevresinde görülmektedir. Volkanik patlama ile oluşan krater ise Nemrut \n(Bitlis) Dağı'nda bulunmaktadır. Trakya'da karstik ve \nvolkanik olan bu oluşumlara rastlanmaz. Akarsu birikimi ile oluşan delta ovası Meriç Nehri'nin denize \ndöküldüğü yerde oluşturduğu Meriç Deltası bulunur. \nAyrıca Yıldız dağları kıyıya paralel uzandığı için dalga aşındırması ile oluşan falezler Trakya'da bulunur."
+    },
+    "after": {
+      "id": "cogr_d22_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye Anadolu ve Trakya Yarımadalarından oluşmaktadır. Bu iki yarımada arasında bazı yer şekilleri benzerlik gösterirken bazı şekiller yalnızca Anadolu Yarımadası'nda bulunmaktadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d22_q6",
+    "before": {
+      "id": "cogr_d22_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'de kepir, kara kepir, taş doğuran veya dönen \ntoprak adı ile bilinen toprak tipi kalsimorfik grupta yer \nalmaktadır . \nBu topraklara haritada kaç numaralı alanda rastlanılmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 3,
+      "explanation": "Türkiye'de katsimorfik toprak grubu adı verilen topraklar içinde vertisoller ve rendzinalar bulunur. Bunlar içinde eski göl tabanlarında kalsiyum karbonatlı \ndepolar içinde oluşan topraklardan vertisollere kepir, \nkara kepir, dönen toprak ya da yağışlı dönemlerde \nderinlerde bulunan taşların yüzeye çıkması nedeniyle dönen toprak denilmektedir. Bu toprağın olduğu \niki yerden biri Trakya'da Ergene Havzası (iV) diğeri \nMuş Ovası'dır."
+    },
+    "after": {
+      "id": "cogr_d22_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'de kepir, kara kepir, taş doğuran veya dönen toprak adı ile bilinen toprak tipi kalsimorfik grupta yer almaktadır. Bu topraklara haritada kaç numaralı alanda rastlanılmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d22_q7",
+    "before": {
+      "id": "cogr_d22_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Kırşehir'de faaliyet yürüten bir sivil toplum kuruluşunun yapmış olduğu çalışmalar şu şekilde sıralanabilir : \nKarayollarının kenarında bulunan tarla sınırlarına rüzgar perdeleri yapılmıştır. \nHafif engebeli ve bitki örtüsü açısından yoksun \nalanlar ağaçlandırılmıştır . \nTarım alanlarında ortaya çıkan anız yangınlarını \nönlemek için denetimler arttırılmıştır . \nBuna göre söz konusu sivil toplum kuruluşunun \naşağıda verilen afetlerden hangisi ile mücadele \nettiği söylenebilir?",
+      "options": [
+        "Toprak kayması",
+        "Erozyon",
+        "Sel ve Taşkın",
+        "Deprem",
+        "Çığ \ny"
+      ],
+      "answer": 1,
+      "explanation": "Öncüllerde verilenler erozyonla mücadelede kullanılan bazı yöntemlerdir. Erozyonla mücadele için başlıca yapılması gerenler şu şekilde sıralanabilir : \nMevcut bitki örtüsü korunmalı, bitki örtüsünden \nyoksun yüzeyler ağaçlandırılmalıdır. \n. Eğimli yamaçlarda taraçalandırma ve setler yapılması \nTarım alanların nadasa bırakılmasının engellenmesi, nadas yerine nöbetleşe ekim yapılması \nAnız örtüsünün yakılmasının engellenmesi \n. Tarım alanlarının eğime dik yönde sürülmesi \n. \nMeraların aşırı otlatılmasının önlenmesi \nRüzgarın şiddetli olduğu yerlerde rüzgar perdeleri yapılması"
+    },
+    "after": {
+      "id": "cogr_d22_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Kırşehir'de faaliyet yürüten bir sivil toplum kuruluşunun yapmış olduğu çalışmalar şu şekilde sıralanabilir: Karayollarının kenarında bulunan tarla sınırlarına rüzgâr perdeleri yapılmıştır. Hafif engebeli ve bitki örtüsü açısından yoksun alanlar ağaçlandırılmıştır. Tarım alanlarında ortaya çıkan anız yangınlarını önlemek için denetimler arttırılmıştır. Buna göre söz konusu sivil toplum kuruluşunun aşağıda verilen afetlerden hangisi ile mücadele ettiği söylenebilir?",
+      "options": [
+        "Toprak kayması",
+        "Erozyon",
+        "Sel ve taşkın",
+        "Deprem",
+        "Çığ"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d22_q12",
+    "before": {
+      "id": "cogr_d22_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında bazı yerler numaralarla gösterilmiştir. \niV \nHaritadaki numaralanmış yerlerden hangisinde \nkoyun yetiştiriciliği diğerleri kadar yoğun değildir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme22_q12.png"
+    },
+    "after": {
+      "id": "cogr_d22_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Aşağıdaki Türkiye haritasında bazı yerler numaralarla gösterilmiştir. iV Haritadaki numaralanmış yerlerden hangisinde koyun yetiştiriciliği diğerleri kadar yoğun değildir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme22_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d22_q14",
+    "before": {
+      "id": "cogr_d22_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş merkez numaralarla gösterilmiştir. \nHaritadaki numaralandırılmış merkezlerden hangisinde petrol çıkarımı yapılmamaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d22_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş merkez numaralarla gösterilmiştir. Haritadaki numaralandırılmış merkezlerden hangisinde petrol çıkarımı yapılmamaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q4",
+    "before": {
+      "id": "cogr_d23_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir . \nHaritadaki numaralı alanların yağış özellikleri \nile ilgili seçeneklerde verilen bilgilerden hangisi \nyanlıştır?",
+      "options": [
+        "1 veııı numaralı alanların en fazla yağışı aldıkları \nmevsim aynıdır.",
+        "il numaralı alanda kar yağış oranı diğerlerinden \ndaha fazladır .",
+        "111 numaralı alanın yağış miktarı V numaralı alandan fazladır.",
+        "V numaralı alan Türkiye'nin en az yağış alan yer \n!erinden biridir.",
+        "iV numaralı alan en fazla yağışını ilkbaharda almaktadır."
+      ],
+      "answer": 0,
+      "explanation": "Türkiye'de rüzgar enerji üretimi ilk kez 1998 yılında \nizmir Çeşme Alaçatı'da başlamıştır. Bu üretimde \nEge, Marmara ve Akdeniz bölgeleri ön sıralardadır. \nHaritadaki numaralı Yerlerden Kaz Dağları çevresi \n(111), Menteşe Dağları çevresi (iV), Orta Toroslar (il) \nve Amanoslar (V) oldukça fazla rüzgar santralinin olduğu alanladır. 1 numaralı Kastamonu - Sinop çevresinde üretim yoktur."
+    },
+    "after": {
+      "id": "cogr_d23_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralı alanların yağış özellikleri ile ilgili seçeneklerde verilen bilgilerden hangisi yanlıştır?",
+      "options": [
+        "1 veııı numaralı alanların en fazla yağışı aldıkları mevsim aynıdır.",
+        "il numaralı alanda kar yağış oranı diğerlerinden daha fazladır.",
+        "111 numaralı alanın yağış miktarı V numaralı alandan fazladır.",
+        "V numaralı alan Türkiye'nin en az yağış alan yer!erinden biridir.",
+        "iV numaralı alan en fazla yağışını ilkbaharda almaktadır."
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q6",
+    "before": {
+      "id": "cogr_d23_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki Türkiye haritasında bir toprak tipinin görül. \ndüğü alanlar koyu renkle gösterilmiştir. \nYukarıdaki haritada taranarak koyu renkle gösterilen \narazilerde toprak yapısını incelemek üzere araştırma \nyapan bir grup toprağın özellikleri hakkında şu açıklamayı yapmıştır: \n\"Bu toprak killi ana materyal üzerinde geliştiğinden \nkurak yaz döneminde derin çatlaklar oluşur. Yağışlı dönemde suya doyan toprak şiştiği için çatlaklar \nkapanır. Çatlaklarda birikmiş ince taneli topraklar ve \ntaşlar yüzeye doğru itilir. Bu nedenle söz konusu toprak Trakya'da kara kepir ya da taş doğuran olarak da \nanılmaktadır.\" \nBuna göre yukarıda sözü edilen toprak türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Rendzina",
+        "Vertisol",
+        "Litosol",
+        "Regosol",
+        "Podzol"
+      ],
+      "answer": 1,
+      "explanation": "Kış turizminin gelişme göstermesi için karın yerde \nkalma süresinin uzun olması ile birlikte yüksek dağlık \nsahalara ihtiyaç vardır. Genel olarak batıdan. doğuya \ndoğru gidildikçe karın yerde kalma süresi ve dağlık \nengebeli arazi varlığı artış göstermektedir. Bu nedenle \nkış turizm potansiyelinin en fazla olduğu bölge Doğu \nAnadolu'dur. Bunun yanı sıra güneyde ve kuzeyde \nbulunan yüksek sıradağlarda da kış turizm potansiyeli \nfazladır. Kastamonu, Hakkari, Muş ve Kayseri yüksek \ndağlara sahip olduğundan kış turizmi yapılabilir. Tekirdağ tamamen düzlüklerden oluşur . Yüksek bir alan \nyoktur. Bu nedenle de kış turizmi gelişemez .",
+      "imageUrl": "/uploads/questions/deneme23_q6.png"
+    },
+    "after": {
+      "id": "cogr_d23_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Bir toprak türünün özellikleri şöyledir:\n\nKilli ana materyal üzerinde gelişir. Kurak yaz döneminde derin çatlaklar oluşur. Yağışlı dönemde suya doyan toprak şişer ve çatlaklar kapanır. Çatlaklarda biriken ince taneli topraklar ve taşlar yüzeye doğru itilir. Trakya’da kara kepir ya da taş doğuran toprak olarak da adlandırılır.\n\nBu toprak türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Rendzina",
+        "Vertisol",
+        "Litosol",
+        "Regosol",
+        "Podzol"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d23_q10",
+    "before": {
+      "id": "cogr_d23_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye'de mevsimlik göçlerin temelinde tarım ve turizm etkinlikleri gelmektedir. Bu göçler genel olarak \niç kesimlerden kıyılara doğru yapılmaktadır. \nHaritadaki numaralanmış güzergahlardan hangisinde bu tür bir göç hareketinden söz edilemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d23_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye'de mevsimlik göçlerin temelinde tarım ve turizm etkinlikleri gelmektedir. Bu göçler genel olarak iç kesimlerden kıyılara doğru yapılmaktadır. Haritadaki numaralanmış güzergâhlardan hangisinde bu tür bir göç hareketinden söz edilemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q12",
+    "before": {
+      "id": "cogr_d23_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Türkiye'de yünü için yetiştirilen hayvanlardan biri \nmerinos koyunu diğeri ise tiftik keçisidir. \nBuna göre, haritada numaralarla gösterilen alanlardan hangilerinde bu hayvanlar yaygın olarak \nyetiştirilir? \nMerinos Kolunu \nTiftik KeS:isi",
+      "options": [
+        "II",
+        "III",
+        "il \n111",
+        "il \niV",
+        "ili \niV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d23_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Türkiye'de yünü için yetiştirilen hayvanlardan biri merinos koyunu diğeri ise tiftik keçisidir. Buna göre, haritada numaralarla gösterilen alanlardan hangilerinde bu hayvanlar yaygın olarak yetiştirilir? Merinos Kolunu Tiftik KeS:isi",
+      "options": [
+        "II",
+        "III",
+        "il 111",
+        "il iV",
+        "ili iV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q14",
+    "before": {
+      "id": "cogr_d23_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nHaritadaki numaralı alanlardan hangisinde rüzgar enerji santrali (RES) kurulmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d23_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralı alanlardan hangisinde rüzgâr enerji santrali (RES) kurulmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q17",
+    "before": {
+      "id": "cogr_d23_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. \nHaritadaki numaralı alanlardan hangisine demir \nyolu kullanılarak ulaşım sağlanamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d23_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. Haritadaki numaralı alanlardan hangisine demir yolu kullanılarak ulaşım sağlanamaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d23_q18",
+    "before": {
+      "id": "cogr_d23_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada Türkiye'de yürütülen bölgesel \nkalkınma projelerinin kapsam aianında bulunan iller \nfarklı renklerle taranarak gösterilmiştir. \nBuna göre;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d23_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada Türkiye'de yürütülen bölgesel kalkınma projelerinin kapsam alanında bulunan iller farklı renklerle taranarak gösterilmiştir. Buna göre;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d24_q2",
+    "before": {
+      "id": "cogr_d24_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Güneybatı Anadolu'da kalın kalker depolarından \noluşan karstik arazileri geniş alan kaplaması mağara \nve dolin oluşumlarına, Batı Anadolu'da yatak eğimi \naz olan geniş tabanlı vadilerin bulunması akarsuların menderes çizerek akmasına, Doğu Anadolu'da \nortalama yükseltinin fazla olduğu dağlık sahaların \nyer alması buzul aşındırma ve biriktirme şekillerine \nrastlanmasına neden olmuştur . Kuzey Anadolu'da \ndağların kıyı çizgisine paralel olarak uzanması kıta \nsahanlığının dar kıyının derin olmasına neden olmuştur. Delta ovalarının varlığı akarsu aşındırması- . \nnın şiddetli olduğunu, akarsuların bol alüvyon taşıdığını, kıyının sığ olduğunu, gelgit ve akıntıların güçlü \nolmadığını gösterir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Mısır Karadeniz dışında üretildiği alanların hepsinde \nkuraklık nedeniyle sulama yapılarak üretilmektedir. \nKaradeniz'de yaz kuraklığı olmadığından yeterince \nbuğday üretilememesi un ihtiyacının mısırdan karşı-\n!anmasına neden olmuştur. Bu nedenle de bölgede \nüretilen mısır diğer bölgeler arasında ticarete konu \nolmayıp bölge içinde tüketilmektedir."
+    },
+    "after": {
+      "id": "cogr_d24_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Güneybatı Anadolu'da kalın kalker depolarından oluşan karstik arazileri geniş alan kaplaması mağara ve dolin oluşumlarına, Batı Anadolu'da yatak eğimi az olan geniş tabanlı vadilerin bulunması akarsuların menderes çizerek akmasına, Doğu Anadolu'da ortalama yükseltinin fazla olduğu dağlık sahaların yer alması buzul aşındırma ve biriktirme şekillerine rastlanmasına neden olmuştur. Kuzey Anadolu'da dağların kıyı çizgisine paralel olarak uzanması kıta sahanlığının dar kıyının derin olmasına neden olmuştur. Delta ovalarının varlığı akarsu aşındırması-. nın şiddetli olduğunu, akarsuların bol alüvyon taşıdığını, kıyının sığ olduğunu, gelgit ve akıntıların güçlü olmadığını gösterir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d24_q10",
+    "before": {
+      "id": "cogr_d24_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye'de nüfus dağılışı ve nüfus yoğunluğu haritasını inceleyen bir kişi nüfusun kıyı kesimlerde iç kesimlere göre daha yoğun olduğunu gözlemlemiştir . \nBu durumun nedenleri arasında,",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme24_q10.png"
+    },
+    "after": {
+      "id": "cogr_d24_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye'de nüfus dağılışı ve nüfus yoğunluğu haritasını inceleyen bir kişi nüfusun kıyı kesimlerde iç kesimlere göre daha yoğun olduğunu gözlemlemiştir. Bu durumun nedenleri arasında,",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme24_q10.png"
+    }
+  },
+  {
+    "id": "cogr_d24_q14",
+    "before": {
+      "id": "cogr_d24_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir . \n15. \nil \nGüneşlenme süresi ve üretimler dikkate alındığında harita_daki numaralanmış illerden hangisinde yoğun bir üretim olduğu söylenemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme24_q14.png"
+    },
+    "after": {
+      "id": "cogr_d24_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. 15. il Güneşlenme süresi ve üretimler dikkate alındığında harita_daki numaralanmış illerden hangisinde yoğun bir üretim olduğu söylenemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme24_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d24_q17",
+    "before": {
+      "id": "cogr_d24_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numara \n!arla gösterilmiştir. \nHaritadaki numaralı alanlardan hangisindeki yollar akarsuların boğaz vadilerini takip etmektedir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d24_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numara!arla gösterilmiştir. Haritadaki numaralı alanlardan hangisindeki yollar akarsuların boğaz vadilerini takip etmektedir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d24_q18",
+    "before": {
+      "id": "cogr_d24_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada beş il taranarak koyu renkle gösterilmiştir. Bu illerin Türkiye'de yaşanan büyük afetler \nbaz alınarak oluşturulan bir bölgede yer aldığı bilinmektedir. \nBuna göre söz konusu bölge aşağıdakilerden \nhangisi olabilir?",
+      "options": [
+        "Deprem Bölgesi",
+        "Orman Yangını Bölgesi",
+        "Su Baskını Bölgesi",
+        "Çığ Bölgesi",
+        "Heyelan Bölgesi"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d24_q18",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada beş il taranarak koyu renkle gösterilmiştir. Bu illerin Türkiye'de yaşanan büyük afetler baz alınarak oluşturulan bir bölgede yer aldığı bilinmektedir. Buna göre söz konusu bölge aşağıdakilerden hangisi olabilir?",
+      "options": [
+        "Deprem Bölgesi",
+        "Orman Yangını Bölgesi",
+        "Su Baskını Bölgesi",
+        "Çığ Bölgesi",
+        "Heyelan Bölgesi"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d25_q1",
+    "before": {
+      "id": "cogr_d25_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Genç nüfus oranı \nNüfus (Milyon) \n2023 \nNüfus (Milyon) \nII. Çalışma çağındaki nüfus oranı \nIII. Yaşlı nüfus oranı \nIV. Yaşlı nüfus içindeki kadınların oranı \nKadın \nSöz konusu nüfus piramitlerden yola çıkarak yukarıda verilen demografik göstergelerden hangilerinin artış gösterdiği söylenemez?",
+      "options": [
+        "Yalnız",
+        "I ve IV",
+        "I ve II",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 2,
+      "explanation": "Seçeneklerde verilen durumların tamamı mutlak konum ile açıklanmaktadır. Bu soruda verilenler enlem \nya da boylam etkisi ayırt edilerek çözülmelidir. Güneşin doğuş batış süreleri, gecegündüz zaman farkı, \ngüneş ışınlarının düşme açısı ve deniz suyu tuzluluk \noranları enlem etkisi ile açıklanırken yerel saat ile \nilgili durumlar boylam etkisi ile açıklanmaktadır. Bu \ndurumda daha doğuda yer alan Perşembe Yarımadasından (Ordu), Sinop yarımadasına doğru gidildikçe yerel saat ile ulusal saat arasındaki farkın artması \nboylam etkisinin sonucuyken diğer seçeneler enlem \netkisinin sonucu olacaktır."
+    },
+    "after": {
+      "id": "cogr_d25_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Genç nüfus oranı Nüfus (Milyon) 2023 Nüfus (Milyon) II. Çalışma çağındaki nüfus oranı III. Yaşlı nüfus oranı IV. Yaşlı nüfus içindeki kadınların oranı Kadın Söz konusu nüfus piramitlerden yola çıkarak yukarıda verilen demografik göstergelerden hangilerinin artış gösterdiği söylenemez?",
+      "options": [
+        "Yalnız",
+        "I ve IV",
+        "I ve II",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d25_q2",
+    "before": {
+      "id": "cogr_d25_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Bir harita üzerine Antalya körfezinin güneyindeki \nYardımcı Burnu'ndan Zonguldak'ın batısındaki Baba \nBurnu'na kadar doğrusal bir hat çizilmiş ve bu hattın \nbatısında bulunan yer şekilleri işaretlenmiştir . \nBuna göre aşağıdakilerden hangisinin işaretlenmesi mümkün değildir?",
+      "options": [
+        "Volkanizma sonucu oluşan kül konileri",
+        "Horstgraben sistemini oluşturan kırık dağlar",
+        "Oluşumuna göre karstik bir plato",
+        "Buzul aşındırması sonucu oluşan yer şekilleri",
+        "Lav düzlüklerinin aşındırılmasıyla oluşan bir plato"
+      ],
+      "answer": 4,
+      "explanation": "Aşağıdaki haritada Antalya körfezinin güneyindeki \nYardımcı burnundan Zonguldak'ın batısındaki Baba \nburnuna kadar doğrusal bir hat çizilmiş ve harita üzerinde bazı yer şekilleri gösterilmiştir . \nArdahan \nYardımcı \nBurnu \n. Volkanizma sonucu oluşan kül konileri - Kula \nHorstgraben sistemini oluşturan kırık dağlarKazdağları \nOluşumuna göre karstik bir plato - Teke Platosu \nBuzul aşındırması sonucu oluşan yer şekilleri \nBey dağları üzerinde \nLav düzlüklerinin aşındırılmasıyla oluşan platolar \nise bu hattın doğusunda yer almaktadır."
+    },
+    "after": {
+      "id": "cogr_d25_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Bir harita üzerine Antalya körfezinin güneyindeki Yardımcı Burnu'ndan Zonguldak'ın batısındaki Baba Burnu'na kadar doğrusal bir hat çizilmiş ve bu hattın batısında bulunan yer şekilleri işaretlenmiştir. Buna göre aşağıdakilerden hangisinin işaretlenmesi mümkün değildir?",
+      "options": [
+        "Volkanizma sonucu oluşan kül konileri",
+        "Horst-graben sistemini oluşturan kırık dağlar",
+        "Oluşumuna göre karstik bir plato",
+        "Buzul aşındırması sonucu oluşan yer şekilleri",
+        "Lav düzlüklerinin aşındırılmasıyla oluşan bir plato"
+      ],
+      "answer": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d25_q3",
+    "before": {
+      "id": "cogr_d25_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'de olduğu bilinen bir araziye ait özellikler \naşağıda verilmiştir. \nGerçek alanı ile izdüşüm alanı arasındaki fark \nfazladır. \nYol yapımı zor ve maliyetlidir. \n• \nTarımda makine kullanımı sınırlıdır . \nBuna göre özellikleri verilen arazi haritada numaralandırılarak gösterilen alanlardan hangisi \nolabilir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 4,
+      "explanation": "Yeryüzü şekillerinin engebeli \nolduğu arazilerin gerçek alanı ile izdüşüm alanı arasındaki fark fazladır. \nBu arazilerde yol yapımı zor ve maliyetli tarımda makine kullanımı sı_nırlıdır. Buna göre haritada engebenin fazla olduğu yer aranmalıdır. Ergene yöresi, Kıyı \nEge, Orta Anadolu ve Güneydoğu Anadolu arazinin \nsade olduğu alanlardır. V numara ile gösterilen Artvin yöresi son derece dağlık ve engebelidir.",
+      "imageUrl": "/uploads/questions/deneme25_q3.png"
+    },
+    "after": {
+      "id": "cogr_d25_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'de olduğu bilinen bir araziye ait özellikler aşağıda verilmiştir. Gerçek alanı ile izdüşüm alanı arasındaki fark fazladır. Yol yapımı zor ve maliyetlidir. • Tarımda makine kullanımı sınırlıdır. Buna göre özellikleri verilen arazi haritada numaralandırılarak gösterilen alanlardan hangisi olabilir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme25_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d25_q4",
+    "before": {
+      "id": "cogr_d25_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Aşağıdaki Türkiye haritasında beş güzergah numaralarla gösterilmiştir. \nYukarıdaki Türkiye haritasında numaralandırıl• \nmış güzergahlardan hangisinin \nbaşlangıcı ile \nbitiş noktası arasındaki iklim farkı diğerlerinden \nazdır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme25_q4.png"
+    },
+    "after": {
+      "id": "cogr_d25_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Aşağıdaki Türkiye haritasında beş güzergâh numaralarla gösterilmiştir. Yukarıdaki Türkiye haritasında numaralandırılmış güzergâhlardan hangisinin başlangıcı ile bitiş noktası arasındaki iklim farkı diğerlerinden azdır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme25_q4.png"
+    }
+  },
+  {
+    "id": "cogr_d25_q6",
+    "before": {
+      "id": "cogr_d25_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada gösterilen A noktasından B noktasına doğru kıyı boyunca hareket eden bir gözlemci \naraştırmalarını deniz seviyesinden itibaren en fazla \n500 metre yükseltiye çıkarak tamamlamıştır . \nBuna göre,",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Kahverengi orman toprakları; Kuzey Anadolu Dağlarının denize bakan yamaçlarında yaygın olarak \ngörülür. Orman örtüsü altında geliştiğinden organik \nmadde bakımından oldukça zengin ve koyu renklidir. A noktasından B noktasına doğru kıyı boyunca \nhareket edildiğinde karşılaşılacak en yaygın toprak \nbudur. Ayrıca Samsun'da Bafra ve Çarşamba ovalan yer alır. Bu ovalar akarsu biriktirmesi ile oluştuğundan buralarda Alüvyal topraklar yaygındır. Çernezyom topraklara Erzurum- Kars çevresinde rastlanırken Podzoller iğne yapraklı ormanlarda görülen \nsoğuk ve nemli iklimin toprağıdır. 500 metre rakıma \nkadar bu topraklara rastlanmaz."
+    },
+    "after": {
+      "id": "cogr_d25_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Aşağıdaki haritada gösterilen A noktasından B noktasına doğru kıyı boyunca hareket eden bir gözlemci araştırmalarını deniz seviyesinden itibaren en fazla 500 metre yükseltiye çıkarak tamamlamıştır. Buna göre,",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d25_q14",
+    "before": {
+      "id": "cogr_d25_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Yukarıda haritada numaralanmış yerlerden hangisinde işaretlenen ürün yetişmediği bir yöre ile \neşleştirilmiştir?",
+      "options": [
+        "1 - Kenevir",
+        "J1 - Aspir",
+        "111 - Anason",
+        "iV -\nHaşhaş",
+        "V -"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme25_q14.png"
+    },
+    "after": {
+      "id": "cogr_d25_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Yukarıda haritada numaralanmış yerlerden hangisinde işaretlenen ürün yetişmediği bir yöre ile eşleştirilmiştir?",
+      "options": [
+        "1 - Kenevir",
+        "J1 - Aspir",
+        "111 - Anason",
+        "iV - Haşhaş",
+        "V -"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme25_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d26_q12",
+    "before": {
+      "id": "cogr_d26_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında bazı yöreler numaralarla gösterilmiştir. \nHaritadaki numaralanmış yörelerden hangilerinde İpek böcekçiliğine bağlı koza üretimi daha \nfazladır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q12.png"
+    },
+    "after": {
+      "id": "cogr_d26_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında bazı yöreler numaralarla gösterilmiştir. Haritadaki numaralanmış yörelerden hangilerinde İpek böcekçiliğine bağlı koza üretimi daha fazladır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve IV",
+        "II ve III",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d26_q14",
+    "before": {
+      "id": "cogr_d26_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki harita bir madenin Türkiye'deki başlıca \nyataklarının bulunduğu illeri göstermektedir. \n• Kırıkkale \n• Sivas \n• Malatya \n• Kayseri \n• Adana \nBu madenle ilgili olarak aşağıda verilen bilgilerden hangisi doğrudur?",
+      "options": [
+        "Enerji kaynağı olarak kullanılır.",
+        "Gübre sanayisinde hammadde olarak kullanılır.",
+        "Alüminyum sanayisinin hammaddesidir.",
+        "Türkiye, yüzde yetmişin üzerindeki rezervle dünyada ilk sıradadır .",
+        "Karabük, Ereğli ve İskenderun 'daki fabrikalarda \nişlenir ."
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q14.png"
+    },
+    "after": {
+      "id": "cogr_d26_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada bir madenin Türkiye’deki başlıca yataklarının bulunduğu iller gösterilmiştir.\n\nBu madenle ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": [
+        "Enerji kaynağı olarak kullanılır.",
+        "Gübre sanayisinde hammadde olarak kullanılır.",
+        "Alüminyum sanayisinin hammaddesidir.",
+        "Türkiye, yüzde yetmişin üzerindeki rezervle dünyada ilk sıradadır.",
+        "Karabük, Ereğli ve İskenderun 'daki fabrikalarda işlenir."
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d26_q17",
+    "before": {
+      "id": "cogr_d26_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nHaritadaki numaralandırılmış alanlardan hangisinde otoyol ve hızlı tren bağlantıları birlikte bulunmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q17.png"
+    },
+    "after": {
+      "id": "cogr_d26_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralandırılmış alanlardan hangisinde otoyol ve hızlı tren bağlantıları birlikte bulunmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme26_q17.png"
+    }
+  },
+  {
+    "id": "cogr_d27_q2",
+    "before": {
+      "id": "cogr_d27_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Yer şekillerinin engebeli olduğu alanlarda tarım alanları dar ve parçalıdır. Doğu Karadeniz'de de bu nedenle üretim için geniş alanlara ihtiyaç duyulan tarla \ntarımı yapılmamaktadır. Dar alanlarda bağ bahçe tarımı yapılmaktadır. Ayrıca engebeli alanlarda gerçek \nalan ile iz düşüm alan arasındaki fark fazla, yol yapımı zor ve maliyetlidir. Kıyı Ege'de Akdeniz ikliminin \netki alanının geniş olması dağların kıyı çizgisine göre \nuzanış yönünün bir sonucudur. Tuz gölü çevresinde \nise yer şekilleri düzdür. Tarım ve ulaşım için engebeli \nyapının ortaya çıkardığı olumsuzluklardan bahsedilemez. Bu yörede nüfus yoğunluğunun az olması \nkuraklıkla yani iklim koşullarıyla ilgilidir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": "Haritada Doğu Karadeniz'de Ordu çevresindeki koyu \nrenkli alan arıcılığın en fazla yapıldığı alandır. Güneydoğu Anadolu'da Diyarbakır - Batman çevresi \nİpek Böcekçiliğinin, Ankara - Bolu çevresi Tiftik Keçisi'nin en fazla yetiştirildiği alandır . Batı Anadolu'da \nManisa ve Balıkesir çevresi kümes hayvancılığının \nen fazla yapıldığı alandır. Kıl keçisi en fazla Orta ve \nBatı Toroslar'da Mersin ve Antalya illerinde beslenmekte olup bu alan haritada verilmemiştir ."
+    },
+    "after": {
+      "id": "cogr_d27_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Yer şekillerinin engebeli olduğu alanlarda tarım alanları dar ve parçalıdır. Doğu Karadeniz'de de bu nedenle üretim için geniş alanlara ihtiyaç duyulan tarla tarımı yapılmamaktadır. Dar alanlarda bağ bahçe tarımı yapılmaktadır. Ayrıca engebeli alanlarda gerçek alan ile iz düşüm alan arasındaki fark fazla, yol yapımı zor ve maliyetlidir. Kıyı Ege'de Akdeniz ikliminin etki alanının geniş olması dağların kıyı çizgisine göre uzanış yönünün bir sonucudur. Tuz gölü çevresinde ise yer şekilleri düzdür. Tarım ve ulaşım için engebeli yapının ortaya çıkardığı olumsuzluklardan bahsedilemez. Bu yörede nüfus yoğunluğunun az olması kuraklıkla yani iklim koşullarıyla ilgilidir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q4",
+    "before": {
+      "id": "cogr_d27_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "HaritadaInumara ile gösterilen Güney Marmara ve \niV numara ile gösterilen Kıyı Ege'de akarsular genellikle geniş tabanlı vadilerde akış göstermektedir. \nBu da bu arazilerin hidroelektrik enerji potansiyelinin \ndaha az olmasına neden olmaktadır . Toroslarve Kuzey Anadolu Dağları'nda ak ı ş gösteren akarsuların \nbir kısmı dar ve derin vadilerde akış gösterdiği için \nbaraj yapmaya uygundur.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Tuz; göl, deniz ve kaya tuzu olmak üzere üç şekilde elde edilir. Türkiye'de deniz suyundan tuz ürelimi İzmir (Çamaltı), Balıkesir (Ayvalık) tuzlalarında \nyapılmaktadır. Göl tuzu, Tuz Gölü ve Acıgöl çevresinde bulunan tuzlalardan elde edilir. Kaya tuzu ise; \nÇankırı, Çorum, Nevşehir, Yozgat, Erzurum, Kars ve \nlğdır'da çıkarılır. Gıda, hayvancılık, konserve imalatı, \nderi işlemeciliği, cam ve kimya sanayisi tuzun başlıca kullanım alanlarıdır. Ayrıca tuz, kara yollarında \nkar ve buzla mücadelede de kullanılır . Çay sanayisinde tuz kullanılmaz."
+    },
+    "after": {
+      "id": "cogr_d27_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "HaritadaInumara ile gösterilen Güney Marmara ve iV numara ile gösterilen Kıyı Ege'de akarsular genellikle geniş tabanlı vadilerde akış göstermektedir. Bu da bu arazilerin hidroelektrik enerji potansiyelinin daha az olmasına neden olmaktadır. Toroslarve Kuzey Anadolu Dağları'nda ak ı ş gösteren akarsuların bir kısmı dar ve derin vadilerde akış gösterdiği için baraj yapmaya uygundur.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q5",
+    "before": {
+      "id": "cogr_d27_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Grafikte verilen 1. bölgede ilkbahar yağışları en fazla \nyaz yağışları en azdır. Bu durum iklimin karasal olduğunu gösterir. Karasal iklim haritada ili numara ile \ngösterilmiştir. il. bölgede kış ayları daha yağışlıdır. \nKışın en fazla yağış alan yerler Akdeniz iklimindedir. \nAkdeniz iklimi haritada iV numara ile gösterilmiştir. \nHaritadaki diğer alanlardan l'de en fazla yağış sonbahar 'da, ll'de en fazla yağış yaz aylarında görülmektedir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Batı Anadolu Ege Bölgesi'ni ifade eden alandır. \nEge'de tarıma dayalı sanayi \nkuruluşları oldukça \nyaygındır . Gıda sanayisi başta olmak üzere, et kombinaları, tütün işleme, pamuklu dokuma, konserve, \ntavuk, yumurta sanayisi gelişmiştir. Orman ürünleri \nsanayisi batı Anadolu değil Batı Karadeniz'de gelişen ormana dayalı endüstridir."
+    },
+    "after": {
+      "id": "cogr_d27_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Grafikte verilen 1. bölgede ilkbahar yağışları en fazla yaz yağışları en azdır. Bu durum iklimin karasal olduğunu gösterir. Karasal iklim haritada ili numara ile gösterilmiştir. il. bölgede kış ayları daha yağışlıdır. Kışın en fazla yağış alan yerler Akdeniz iklimindedir. Akdeniz iklimi haritada iV numara ile gösterilmiştir. Haritadaki diğer alanlardan l'de en fazla yağış sonbahar 'da, ll'de en fazla yağış yaz aylarında görülmektedir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q6",
+    "before": {
+      "id": "cogr_d27_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Yıllık yağış miktarının 400 mm'den az, sıcaklık ortalamalarının 812 °C arasında değiştiği yerlerde yağış \naz olduğu için karbonatlar, topraktan tam anlamıyla uzaklaşmamış ve üst katta birikmiştir. Bu toprak \ntürü, üzerindeki bitki örtüsü cılız olduğundan organik \nmadde bakımından fakirdir. Bu topraklar, tahıl tarımı \nve küçükbaş hayvancılık için elverişli koşullar içerir. \nYukarıda genel özellikleri verilen toprak türüne \nharitada numaralandırılarak gösterilen alanlardan hangisinde rastlanır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "Antalya ile Muğla arasında Batı Toroslar ve Menteşe \ndağları yer almaktadır. Oldukça engebeli ve dağlık \nolan bu alanda tünel ihtiyacı yüksektir. Aynı durum \nTrabzon ile Erzurum arasında ve Niğde ile Adana \narasında dağların kıyıya paralel ve çok yüksek olması ile yaşanmaktadır. Kastamonu ile Ankara arasında da Ilgaz ve Küre dağları bulunmaktadır. Ancak \nMardin ile Diyarbakır arasında bu yapılara gerek duyulacak engebeli dağlık bir alan yoktur."
+    },
+    "after": {
+      "id": "cogr_d27_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Yıllık yağış miktarının 400 mm'den az, sıcaklık ortalamalarının 812 °C arasında değiştiği yerlerde yağış az olduğu için karbonatlar, topraktan tam anlamıyla uzaklaşmamış ve üst katta birikmiştir. Bu toprak türü, üzerindeki bitki örtüsü cılız olduğundan organik madde bakımından fakirdir. Bu topraklar, tahıl tarımı ve küçükbaş hayvancılık için elverişli koşullar içerir. Yukarıda genel özellikleri verilen toprak türüne haritada numaralandırılarak gösterilen alanlardan hangisinde rastlanır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q8",
+    "before": {
+      "id": "cogr_d27_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Türkiye'nin en fazla yaşadığı dış göç hareketi Suriye'den olmuştur. Bu ülkeden yapılan göçler zorunlu \ndış göç olup herhangi bir anlaşma kapsamında değildir. Bulgaristan'dan baskı ve asimilasyon nedeniyle zorunlu göç eden nüfus sınırların açılmasıyla \n1989 yılında gelmiştir. lran ve Gürcistan'dan zorunlu \nya da gönüllü yoğun bir göç olmamıştır. Lozan Barış \nAnlaşması kapsamında Batı Trakya'daki Türkler ve \nİstanbul'daki Rumlar hariç olmak üzere mübadele \nyapılan ülke Yunanistan'dır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Bulgaristan'ın başkenti Sofya, lrak'ın başkenti Bağdat, \nErmenistan'ın başkenti Erivan, \nGürcistan'ın \nbaşkenti Tiflis, Yunanistan'ı n başkenti Atina'dır. Irak \nnüfusu yaklaşık 45 milyondur. Türkiye'nin en fazla \nihracat yaptığı ilk beş ülke içinde yer alan Irak, Türkiye'nin en fazla ihracat yaptığı komşusudur."
+    },
+    "after": {
+      "id": "cogr_d27_q8",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Türkiye'nin en fazla yaşadığı dış göç hareketi Suriye'den olmuştur. Bu ülkeden yapılan göçler zorunlu dış göç olup herhangi bir anlaşma kapsamında değildir. Bulgaristan'dan baskı ve asimilasyon nedeniyle zorunlu göç eden nüfus sınırların açılmasıyla 1989 yılında gelmiştir. lran ve Gürcistan'dan zorunlu ya da gönüllü yoğun bir göç olmamıştır. Lozan Barış Anlaşması kapsamında Batı Trakya'daki Türkler ve İstanbul'daki Rumlar hariç olmak üzere mübadele yapılan ülke Yunanistan'dır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q9",
+    "before": {
+      "id": "cogr_d27_q9",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Aşağıdaki grafikte Türkiye'nin 1935-2023 yılları arasındaki doğum ve ölüm oranları verilmiştir (TÜİK). \n%o \n-\nDoğum Oranı \n-\nÖlüm Oranı \n40 \n20 \no \n~ ~ o \"' \ntll R \"' \n\"' \no g \"' \nil) \"' \n,-. \n., \ngı \n\"' \nO> \nO>",
+      "options": [
+        "Ş!! \nO> \n\"' \n6 \n:i; 6 \n\"' \ntiı \nJ, \nJ, \n6 \n.., .., \"' \nU) \n!;; \n., ., \"' o \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \nŞ!! \no \"'",
+        "Nüfus miktarının en fazla olduğu yıl 2023'tür.",
+        "Nüfus artış hızının en düşük olduğu dönem \n2000-2023'tür.",
+        "1960-1965 döneminde nüfus artış hızı 19401945 dönemine göre daha yüksektir.",
+        "Nüfus miktarı sürekli artış göstermiştir."
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d27_q9",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Aşağıdaki grafikte Türkiye'nin 1935-2023 yılları arasındaki doğum ve ölüm oranları verilmiştir (TÜİK). %o - Doğum Oranı - Ölüm Oranı 40 20 o ~ ~ o \"' tll R \"' \"' o g \"' il) \"',-.., gı \"' O> O>",
+      "options": [
+        "Ş!! O> \"' 6:i; 6 \"' tiı J, J, 6..,.., \"' U)!;;.,., \"' o Ş!! Ş!! Ş!! Ş!! Ş!! Ş!! Ş!! Ş!! Ş!! Ş!! o \"'",
+        "Nüfus miktarının en fazla olduğu yıl 2023'tür.",
+        "Nüfus artış hızının en düşük olduğu dönem 2000-2023'tür.",
+        "1960-1965 döneminde nüfus artış hızı 19401945 dönemine göre daha yüksektir.",
+        "Nüfus miktarı sürekli artış göstermiştir."
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d27_q12",
+    "before": {
+      "id": "cogr_d27_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında dört alan koyu renkle \ngösterilmiştir. \nHaritada koyu renkle gösterilen alanlar aşağıdaki \nhayvancılık faaliyetlerinden hangisinin en yoğun \nyapıldığı alanı göstermemektedir?",
+      "options": [
+        "Kümes Hayvancılığı",
+        "ipek Böcekçiliği",
+        "Tiftik Keçisi",
+        "Arıcılık",
+        "Kıl Keçisi"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme27_q12.png"
+    },
+    "after": {
+      "id": "cogr_d27_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında dört alan koyu renkle gösterilmiştir. Haritada koyu renkle gösterilen alanlar aşağıdaki hayvancılık faaliyetlerinden hangisinin en yoğun yapıldığı alanı göstermemektedir?",
+      "options": [
+        "Kümes Hayvancılığı",
+        "ipek Böcekçiliği",
+        "Tiftik Keçisi",
+        "Arıcılık",
+        "Kıl Keçisi"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme27_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d27_q14",
+    "before": {
+      "id": "cogr_d27_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki harita bir madenin farklı türlerinin Türkiye'deki çıkarım alanlarını göstermektedir. \nBu madenin kullanım alanları arasında aşağıdaki \nsanayi kollarından hangisi bulunmaz?",
+      "options": [
+        "Kimya",
+        "Çay",
+        "Deri",
+        "Konserve",
+        "Cam"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme27_q14.png"
+    },
+    "after": {
+      "id": "cogr_d27_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki harita bir madenin farklı türlerinin Türkiye'deki çıkarım alanlarını göstermektedir. Bu madenin kullanım alanları arasında aşağıdaki sanayi kollarından hangisi bulunmaz?",
+      "options": [
+        "Kimya",
+        "Çay",
+        "Deri",
+        "Konserve",
+        "Cam"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme27_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d28_q3",
+    "before": {
+      "id": "cogr_d28_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarının şekillenmesi birden fazla kuvvetin \nbirlikte çalışmasının sonucundur. Bu nedenle oldukça farklı kıyı oluşumları, tipleri ve şekilleri meydana \ngelmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Linyit kömürü adı verilen kömür türü 111. jeolojik zaA\nmanda oluşan kömür türüdür. Türkiye'nin en çok \nşekillendiği dönem olan Tersiyer'de oluştuğundan \nrezervi fazla ve bulunduğu alan çok geniştir. Krom \nyatakları parçalı hAlde olmakla birlikte Ege, Doğu V\nAnadolu ve Karadeniz'dedir. Mermer yatakları her \nbölgede bulunur. Bakır Karadeniz başta olmak üzere \nDoğu Anadolu ve Güneydoğu Anadolu'da da bulunur. Ancak taş kömürü yatakları sadece Batı Karadeniz'dedir."
+    },
+    "after": {
+      "id": "cogr_d28_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarının şekillenmesi birden fazla kuvvetin birlikte çalışmasının sonucundur. Bu nedenle oldukça farklı kıyı oluşumları, tipleri ve şekilleri meydana gelmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d28_q11",
+    "before": {
+      "id": "cogr_d28_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Aşağıdaki grafikte bir tarım ürününün en fazla üretildiği bazı iller verilmiştir. \n1600 .-----------------, \n14001-t~---------------, \n1200 \n1000 \n800 \n600 \n400 \n200 \no~~-_._...__~~-~...__~~-~..__. \nBurdur \nDenizli \nKonya \nAfyon \nAntalya \nAnkara \nİller dikkate alındığında bu ürünün aşağıdakilerden hangisi olduğu söylenebilir?",
+      "options": [
+        "Aspir",
+        "Gül",
+        "Avokado",
+        "Anason",
+        "Kolza"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme28_q11.png"
+    },
+    "after": {
+      "id": "cogr_d28_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Burdur, Denizli, Konya, Afyonkarahisar, Antalya ve Ankara bir tarım ürününün üretildiği iller arasındadır.\n\nÖzellikle Burdur ve Denizli çevresinde üretimi yoğunlaşan bu ürün aşağıdakilerden hangisidir?",
+      "options": [
+        "Aspir",
+        "Gül",
+        "Avokado",
+        "Anason",
+        "Kolza"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d28_q12",
+    "before": {
+      "id": "cogr_d28_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir . \nBu alanlardan hangisi ayçiçeği, çeltik ve kanola -\nkolza bitkilerinin en fazla üretildiği alandır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme28_q12.png"
+    },
+    "after": {
+      "id": "cogr_d28_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Bu alanlardan hangisi ayçiçeği, çeltik ve kanola - kolza bitkilerinin en fazla üretildiği alandır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme28_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d28_q14",
+    "before": {
+      "id": "cogr_d28_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Türkiye, yıllık toplam 2.737 saat güneşlenme süresi \nile güneş enerjisi açısından yüksek bir potansiyeline sahiptir. 'Ancak toplam güneş radyasyonu (14002000 KWh/m2-yıl) her yer de aynı değildir. \nBuna göre haritada numaralandırılarak gösterilen bölgelerden hangisinde potansiyel daha düşüktür?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d28_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Türkiye, yıllık toplam 2.737 saat güneşlenme süresi ile güneş enerjisi açısından yüksek bir potansiyeline sahiptir. 'Ancak toplam güneş radyasyonu (14002000 KWh/m2-yıl) her yer de aynı değildir. Buna göre haritada numaralandırılarak gösterilen bölgelerden hangisinde potansiyel daha düşüktür?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d28_q17",
+    "before": {
+      "id": "cogr_d28_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı alanlar ve bu alanlarda gelişen turizm türleri gösterilmiştir. \nAşağıdakilerden hangisi bu alanlarda gelişen turizm türlerinden biri değildir?",
+      "options": [
+        "1 - Mimari eserler",
+        "il - Sakin şehir",
+        "111 - Yaylacılık ve ekoturizm",
+        "iV - Doğal varlık ve su sporları",
+        "V - Doğal varlık ve tarihi yerleşme"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d28_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki haritada bazı alanlar ve bu alanlarda gelişen turizm türleri gösterilmiştir. Aşağıdakilerden hangisi bu alanlarda gelişen turizm türlerinden biri değildir?",
+      "options": [
+        "1 - Mimari eserler",
+        "il - Sakin şehir",
+        "111 - Yaylacılık ve ekoturizm",
+        "iV - Doğal varlık ve su sporları",
+        "V - Doğal varlık ve tarihi yerleşme"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d29_q2",
+    "before": {
+      "id": "cogr_d29_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'nin en kuzeyinden en güneyine çekilen hat \nve seçeneklerde verilen yer şekilleri aşağıdaki haritada gösterilmiştir. \nBuna göre söz konusu hat üzerinde sırasıyla Küre \nDağları, Bozok platosu ve Kayseri ovası yer almaktadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Türkiye'nin en kuzeyinden en güneyine çekilen hat \nve seçeneklerde verilen yer şekilleri aşağıdaki haritada gösterilmiştir. \nBuna göre söz konusu hat üzerinde sırasıyla Küre \nDağları, Bozok platosu ve Kayseri ovası yer almaktadır."
+    },
+    "after": {
+      "id": "cogr_d29_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'nin en kuzeyinden en güneyine çekilen hat ve seçeneklerde verilen yer şekilleri aşağıdaki haritada gösterilmiştir. Buna göre söz konusu hat üzerinde sırasıyla Küre Dağları, Bozok platosu ve Kayseri ovası yer almaktadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d29_q3",
+    "before": {
+      "id": "cogr_d29_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritadaki numaralanmış alanlardanInumaralı alanda Uludağ bulunmaktadır. Kuvaterner'de meydana \ngelen \nbuzullaşmadan Uludağ etkilenmiştir. Günümüzde Uludağ'da Kilimligöl, Aynalıgöl ve Karagöl gibi \nbuzul göllerine rastlanır. 111 numaralı Canik, iV numaralı Menteşe ve il numaralı Karacadağ'da buzullara \nrastlanmaz. V numaralı alan Obruk Platosu olup Orta \nAnadolu'da buzul izleri Erciyes Dağı'ndadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": "yaygın olduğu ve yumru köklü bitkilerden patatesin \nyoğun üretildiği alandır."
+    },
+    "after": {
+      "id": "cogr_d29_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Haritadaki numaralanmış alanlardanInumaralı alanda Uludağ bulunmaktadır. Kuvaterner'de meydana gelen buzullaşmadan Uludağ etkilenmiştir. Günümüzde Uludağ'da Kilimligöl, Aynalıgöl ve Karagöl gibi buzul göllerine rastlanır. 111 numaralı Canik, iV numaralı Menteşe ve il numaralı Karacadağ'da buzullara rastlanmaz. V numaralı alan Obruk Platosu olup Orta Anadolu'da buzul izleri Erciyes Dağı'ndadır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d29_q7",
+    "before": {
+      "id": "cogr_d29_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Üst bilgide verilen özellikler dikkate alındığında obruk oluşumun bu koşullar doğrultusunda en fazla iV \nnumaralı Konya'da görüldüğü söylenebilir. Haritadaki numaralanmış alanlardan tamamında kuraklık \nolup sulamaya duyulan ihtiyaç fazla olmakla birlikte \n1 numaralı alanda tarım alanı olmaması, diğer alanlarında sulamada akarsuların kullanılması nedeniyle \nve bu alanların ovalara karşılık gelmesi nedeniyle \nobruk oluşumu gözlenmez.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Ankara'dan yola çıkan bir grup turist grubunun İzmir'de uğradığı merkezler Bergama Antik Kenti ve \ngüneyde yer alan yine lzmir Selçuk'ta yer alan Efes \nAntik Kenti'dir. Denizli'ye inildiğinde Pamukkale Travertenleri ve Hierapolis antik kenti bulunmaktadır. \nAntalya'da bulunan antik tiyatro ise Aspendos'tur. \nTruva Antik kenti Çanakkale'de bulunmakta ve haritadaki güzergahta bulunmamaktadır."
+    },
+    "after": {
+      "id": "cogr_d29_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Üst bilgide verilen özellikler dikkate alındığında obruk oluşumun bu koşullar doğrultusunda en fazla iV numaralı Konya'da görüldüğü söylenebilir. Haritadaki numaralanmış alanlardan tamamında kuraklık olup sulamaya duyulan ihtiyaç fazla olmakla birlikte 1 numaralı alanda tarım alanı olmaması, diğer alanlarında sulamada akarsuların kullanılması nedeniyle ve bu alanların ovalara karşılık gelmesi nedeniyle obruk oluşumu gözlenmez.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d29_q16",
+    "before": {
+      "id": "cogr_d29_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Turizm",
+      "text": "Yer şekillerinin engebeli olması ve demir yolu yapım \nmaliyetini artırması ülkemizde bazı merkezlere demir yolu ile ulaşımı engellemiştir. \nAşağıdaki illerden hangisine demir yolu ile ulaşmak mümkündür?",
+      "options": [
+        "Muğla",
+        "Antalya",
+        "Trabzon",
+        "Çanakkale",
+        "Erzurum"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d29_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Yer şekillerinin engebeli olması ve demir yolu yapım maliyetini artırması ülkemizde bazı merkezlere demir yolu ile ulaşımı engellemiştir. Aşağıdaki illerden hangisine demir yolu ile ulaşmak mümkündür?",
+      "options": [
+        "Muğla",
+        "Antalya",
+        "Trabzon",
+        "Çanakkale",
+        "Erzurum"
+      ],
+      "answer": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d29_q17",
+    "before": {
+      "id": "cogr_d29_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Ankara'dan yola çıkan bir grup turist sırasıyla haritada işaretlenen merkezlerdeki tarihi kent kalıntılarını \ngezmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d29_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Ankara'dan yola çıkan bir grup turist sırasıyla haritada işaretlenen merkezlerdeki tarihi kent kalıntılarını gezmiştir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d30_q3",
+    "before": {
+      "id": "cogr_d30_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Renklendirme yöntemi ile çizilen fiziki haritalarda \naynı yükseltiye sahip yerler aynı renkle gösterilir. \nYükselti arttıkça renkler değişmektedir . . Türkiye'de \ngenel olarak O - 500 metre aralığında kıyı ovaları \nyeşil, 1000 metreler dolayındaki ovalar ve platolar \nsarı, 2000 metre üzerindeki alanlar kahverengi ile \ngösterilmektedir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": "Türkiye maden çeşitliliği bakımından zengin bir ülkedir. Çeşitlilik bakımından dünyada 11 . Sırada yer \nalmaktadır. Ancak maden çeşidi fazla olmasına rağmen bazı madenlerin rezervi oldukça düşüktür. Volfram (Tungsten), Taş kömürü, Fosfat ve Asfaltit rezervi az olan maden ve enerji kaynaklarıdır. Mermer \nise kireçtaşının yüksek sıcaklık ve basınç altında \nsıkışması sonucunda oluşan ve en fazla ihraç edilen \nmaden olmasıyla birlikte rezervi oldukça fazladır."
+    },
+    "after": {
+      "id": "cogr_d30_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Renklendirme yöntemi ile çizilen fiziki haritalarda aynı yükseltiye sahip yerler aynı renkle gösterilir. Yükselti arttıkça renkler değişmektedir.. Türkiye'de genel olarak O - 500 metre aralığında kıyı ovaları yeşil, 1000 metreler dolayındaki ovalar ve platolar sarı, 2000 metre üzerindeki alanlar kahverengi ile gösterilmektedir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d30_q5",
+    "before": {
+      "id": "cogr_d30_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Aşağıdaki şekil incelendiğinde Menteşe Dağlarının \ngüneydoğu yamacında kızılçam ormanları ve makilerin, kuzeybatı yamacında ise kızılçamlarla birlikte \nkaraçam, fıstıkçamı ve meşe ağaçlarından oluşan \normanların dağılış gösterdiği görülmektedir. \nKuzeybatı \nGüneydoğu \nBüyük Menderes Grabeni \nBu durumu açıklamak üzere aşağıda verilenlerden hangisi öne sürülebilir?",
+      "options": [
+        "Dağların denize bakan yamaçlarında yükseltiye \nbağlı sıcaklık değişimi daha azdır.",
+        "Gökova köıiezinden Menteşe dağlarına kadar \nolan bölge orman yangınlarından etkilenmiştir.",
+        "Menteşe Dağlarının kuzeybatı \nyamaçlarında \nağaçlandırma çalışmaları yapılmıştır .",
+        "Dağlar kıyıya paralel uzanmakta, güneşlenme, \nsıcaklık, nem ve yağış koşulları farklılık göstermektedir.",
+        "Menteşe dağlarında yağış miktarı yükseltiye paralel olarak artmaktadır."
+      ],
+      "answer": 1,
+      "explanation": "Türkiye'de iç ticaretin 1950'Ierden sonra yoğunlaştığı \ngörülmektedir. Bu durum üzerinde 1950lerden sonra \nkara yollarına ağırlık verilmesi, nüfusun artması, kırdan kente göç ile nüfusun belli alanlarda toplanması, \nreklam ve tanıtım faaliyetlerinin artması, iletişim ve \nhaberleşme sistemleri ile teknolojik dönüşümlerin \nyaşanması etkili olmuştur. Ancak iç ticarette en fazla \nhava yolu değil kara yolu kullanılmaktadır . Hava yolu \nhem pahalı hem de kara yolu gibi her yere ulaşım \nsağlayan bir sistem değildir ."
+    },
+    "after": {
+      "id": "cogr_d30_q5",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Menteşe Dağları’nın güneydoğu yamacında kızılçam ormanları ve makiler; kuzeybatı yamacında ise kızılçamlarla birlikte karaçam, fıstıkçamı ve meşe ağaçlarından oluşan ormanlar görülür.\n\nBu farklılığı açıklamak için aşağıdakilerden hangisi öne sürülebilir?",
+      "options": [
+        "Dağların denize bakan yamaçlarında yükseltiye bağlı sıcaklık değişimi daha azdır.",
+        "Gökova körfezinden Menteşe dağlarına kadar olan bölge orman yangınlarından etkilenmiştir.",
+        "Menteşe Dağlarının kuzeybatı yamaçlarında ağaçlandırma çalışmaları yapılmıştır.",
+        "Dağlar kıyıya paralel uzanmakta, güneşlenme, sıcaklık, nem ve yağış koşulları farklılık göstermektedir.",
+        "Menteşe dağlarında yağış miktarı yükseltiye paralel olarak artmaktadır."
+      ],
+      "answer": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d30_q12",
+    "before": {
+      "id": "cogr_d30_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş nokta numaralarla gösterilmiştir. \n111 \n• \nTürklye'de yağ elde etmek amacıyla üretilen tarım ürünleri düşüldüğünde kaç numaralı alanla \neşleştirilen ürünün yanlış olduğu söylenebilir?",
+      "options": [
+        "1 -\nAyçiçeği",
+        "111- Mısır",
+        "il - Zeytin",
+        "iV • Soya Fasulyesi",
+        "V - Kanola"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d30_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş nokta numaralarla gösterilmiştir. 111 • Türkiye'de yağ elde etmek amacıyla üretilen tarım ürünleri düşüldüğünde kaç numaralı alanla eşleştirilen ürünün yanlış olduğu söylenebilir?",
+      "options": [
+        "1 - Ayçiçeği",
+        "111- Mısır",
+        "il - Zeytin",
+        "iV • Soya Fasulyesi",
+        "V - Kanola"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d30_q14",
+    "before": {
+      "id": "cogr_d30_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. \nBu alanlardan hangilerinde zengin krom yatakları bulunmaktadır?",
+      "options": [
+        "I ve II",
+        "II ve IV",
+        "I ve III",
+        "I ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme30_q14.png"
+    },
+    "after": {
+      "id": "cogr_d30_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar numaralarla gösterilmiştir. Bu alanlardan hangilerinde zengin krom yatakları bulunmaktadır?",
+      "options": [
+        "I ve II",
+        "II ve IV",
+        "I ve III",
+        "I ve IV",
+        "III ve IV"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme30_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d30_q17",
+    "before": {
+      "id": "cogr_d30_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nYukarıdaki haritada numaralarla gösterilen alanlardan hangisinde, \nkıyı turizmi, kanyon vadi, \nkarstik mağara ve antik kent gezisi bir arada yapılabilir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d30_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Yukarıdaki haritada numaralarla gösterilen alanlardan hangisinde, kıyı turizmi, kanyon vadi, karstik mağara ve antik kent gezisi bir arada yapılabilir?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d31_q1",
+    "before": {
+      "id": "cogr_d31_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Türkiye kıyılarındaki körfezleri inceleyen bir araştırma ekibinin rotası boyunca deniz suyu tuzluluk ve sıcaklık değişimi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        "Deniz suyu tuzluluk oranı sürekli artmıştır.",
+        "Deniz suyu tuzluluk oranı sürekli azalmıştır.",
+        "Deniz suyu tuzluluk oranının sürekli arttığı ya da azaldığı söylenemez.",
+        "Deniz suyu sıcaklığı ve tuzluluğu sabit kalmıştır.",
+        "En yüksek tuzluluk Karadeniz körfezlerindedir."
+      ],
+      "answer": 0,
+      "explanation": "Soruda adı geçen körfezler harita üzerinde gösterilmiştir. Buna göre araştırma ekibi önce kuzeye daha sonra güneye doğru hareket etmiştir. Türkiye Kuzey Yarım Küre'de yer aldığı için kuzeye gidildikçe deniz suyu sıcaklığı ve tuzluluğu azalmakta, güneye doğru gidildikçe ise artmaktadır. Bu durumda deniz suyu tuzluluk oranının sürekli arttığı ya da azaldığı söylenemez.",
+      "imageUrl": "/uploads/questions/deneme31_q1.png"
+    },
+    "after": {
+      "id": "cogr_d31_q1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Konumu",
+      "text": "Bir araştırma ekibi sırasıyla Çandarlı, Edremit ve Gökova körfezlerini ziyaret etmiştir.\n\nDiğer koşulların benzer olduğu varsayıldığında, enlem etkisine bağlı deniz suyu tuzluluğu değişimi hakkında aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        "Deniz suyu tuzluluk oranı sürekli artmıştır.",
+        "Deniz suyu tuzluluk oranı sürekli azalmıştır.",
+        "Deniz suyu tuzluluk oranının sürekli arttığı ya da azaldığı söylenemez.",
+        "Deniz suyu sıcaklığı ve tuzluluğu sabit kalmıştır.",
+        "En yüksek tuzluluk Karadeniz körfezlerindedir."
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q1.png"
+    }
+  },
+  {
+    "id": "cogr_d31_q3",
+    "before": {
+      "id": "cogr_d31_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Gezi kapsamında ziyaret edilen yerler şu şekildedir . \nII. Pamukkale travertenleri (Denizli), karstik birikim \nşekli \nIII. Kızören obruğu (Konya), karstik aşınım şekli \ny\nIV. Kapadokya peri bacaları (Nevşehir), akarsu aşınım şekli, \nV. Buzul vadisi (Hakkari), buzul aşındırma şekli \nHaritadaInumara ile gösterilen ergene yöresinde \nkartik şekillere, buzul şekillerine ve peri bacalarına \nratlanmaz.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Türkiye'deki maden kentleri taş kömürü, linyit, petN\nrol ve diğer metalik madenler veya endüstriyel ham E\nmaddelerin çıkarılıp işlenmesi ile gelişmiştir. Konya V\nSeydişehir'de boksit, Batman'da petrol, Kütahya \nTavşanlı'da linyit ve Diyarbakır Ergani'de bakır bulunur. Bursa lnegöl'ün gelişimi madenciliğe değil mobilya sanayisi ve tarıma bağlı olmuştur . Bu alandan \nçıkarılan işlenilen bir maden yoktur.",
+      "imageUrl": "/uploads/questions/deneme31_q3.png"
+    },
+    "after": {
+      "id": "cogr_d31_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Gezi kapsamında ziyaret edilen yerler şu şekildedir. II. Pamukkale travertenleri (Denizli), karstik birikim şekli III. Kızören obruğu (Konya), karstik aşınım şekli y IV. Kapadokya peri bacaları (Nevşehir), akarsu aşınım şekli, V. Buzul vadisi (Hakkari), buzul aşındırma şekli HaritadaInumara ile gösterilen ergene yöresinde kartik şekillere, buzul şekillerine ve peri bacalarına ratlanmaz.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q3.png"
+    }
+  },
+  {
+    "id": "cogr_d31_q7",
+    "before": {
+      "id": "cogr_d31_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Soru metni (Açıklamayı inceleyiniz):",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Haritada numaralarla gösterilen illerdenInumaralı il \nİstanbul, il numaralı il Ankara, 111 numaralı il Antalya, \niV numaralı il Adıyaman ve V numaralı İl Aydın'dır. \nToplam turizm gelirleri bakımından ilk sırada yer \nalan il istanbul'dur. İstanbul başta kültür, tarih, sağlık \nturizmi açısından öne çıkan bir ildir. Yaz turizminde \nöne çıkan iller ise Antalya, Muğla, Aydın ve izmir'dir."
+    },
+    "after": {
+      "id": "cogr_d31_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Soru metni (Açıklamayı inceleyiniz):",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d31_q9",
+    "before": {
+      "id": "cogr_d31_q9",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Aşağıdaki grafik Türkiye'de yıllara göre çalışan nüfusun sektöre! dağılımını göstermektedir. \n90 % ........................................................... a Tarım \n• Sanayi \n------•-------------- ...................... □ Hizmetler \n60 \n40 \n20 \no 1927 \n1945 \n1960 \n1975 \n1990 \n2000 \n2022 \nYıllar \n. Aşağıdakllerden hangisi bu grafikten elde edilecek bilgilerden biri değildir?",
+      "options": [
+        "En büyük oransal değişim tarım sektöründe yaşanmıştır.",
+        "Tarımda çalışan nüfus miktarı sürekli azalmıştır.",
+        "2022 yılına gelindiğinde hizmet sektöründe çalışan nüfus tarım ve sanayi sektöründe çalışanların toplamından fazladır.",
+        "Sanayi sektöründe çalışanların oranı yaklaşık \nbeş kat artmıştır .",
+        "1990 yılına kadar çalışan nüfusun yarıdan fazlası tarım sektöründe istihdam edilmiştir."
+      ],
+      "answer": 1,
+      "explanation": "Grafiğe göre Tarımda çalışan nüfus oranı sürekli azalmıştır Ancak tarımda çalışan nüfus miktarının sürekli \nazaldığına dair bir çıkarımda bulunamaz. Türkiye nüfus miktarının artışına paralel olarak tarımda çalışanların miktarının arttığı dönemler de mevcuttur."
+    },
+    "after": {
+      "id": "cogr_d31_q9",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Nüfus ve Yerleşme",
+      "text": "Aşağıdaki grafik Türkiye'de yıllara göre çalışan nüfusun sektörel dağılımını göstermektedir. 90 %........................................................... a Tarım • Sanayi ------•--------------...................... □ Hizmetler 60 40 20 o 1927 1945 1960 1975 1990 2000 2022 Yıllar. Aşağıdakilerden hangisi bu grafikten elde edilecek bilgilerden biri değildir?",
+      "options": [
+        "En büyük oransal değişim tarım sektöründe yaşanmıştır.",
+        "Tarımda çalışan nüfus miktarı sürekli azalmıştır.",
+        "2022 yılına gelindiğinde hizmet sektöründe çalışan nüfus tarım ve sanayi sektöründe çalışanların toplamından fazladır.",
+        "Sanayi sektöründe çalışanların oranı yaklaşık beş kat artmıştır.",
+        "1990 yılına kadar çalışan nüfusun yarıdan fazlası tarım sektöründe istihdam edilmiştir."
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d31_q11",
+    "before": {
+      "id": "cogr_d31_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Hayvancılık",
+      "text": "Türkiye iklim ve toprak çeşitliliği ile topografik kpşulların değişikliği sayesinde tarım ürünü çeşitliliği fazla \nolan ülkelerden biridir. Genel iklim şartlarına uygun \nürünler daha geniş üretim alanına sahiptir. \nAşağıdaki tarım ürünlerinden hangisinin üretim \nalanı diğerlerinden daha geniştir?",
+      "options": [
+        "Mısır",
+        "Çay",
+        "Muz",
+        "Gül",
+        "Anason"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q11.png"
+    },
+    "after": {
+      "id": "cogr_d31_q11",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye iklim ve toprak çeşitliliği ile topografik koşulların değişikliği sayesinde tarım ürünü çeşitliliği fazla olan ülkelerden biridir. Genel iklim şartlarına uygun ürünler daha geniş üretim alanına sahiptir. Aşağıdaki tarım ürünlerinden hangisinin üretim alanı diğerlerinden daha geniştir?",
+      "options": [
+        "Mısır",
+        "Çay",
+        "Muz",
+        "Gül",
+        "Anason"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": null
+    }
+  },
+  {
+    "id": "cogr_d31_q12",
+    "before": {
+      "id": "cogr_d31_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında üç alan numaralarla \ngösterilmiştir. \nYukarıdaki haritada numaralanmış yerlerde üretimi en fazla gerçekleştirilen ürünler hangi seçenekte doğru olarak verilmiştir? \n111",
+      "options": [
+        "Çeltik \nElma \nPamuk",
+        "Zeytin \nPamuk \nMısır",
+        "Pamuk \nM ı sır \nKanola",
+        "Kanola \nM ı sır \nPamuk",
+        "Ayçiçeği \nŞeker Pancarı \nSoya"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q12.png"
+    },
+    "after": {
+      "id": "cogr_d31_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında üç alan numaralarla gösterilmiştir. Yukarıdaki haritada numaralanmış yerlerde üretimi en fazla gerçekleştirilen ürünler hangi seçenekte doğru olarak verilmiştir? 111",
+      "options": [
+        "I: Çeltik — II: Elma — III: Pamuk",
+        "I: Zeytin — II: Pamuk — III: Mısır",
+        "I: Pamuk — II: Mısır — III: Kanola",
+        "I: Kanola — II: Mısır — III: Pamuk",
+        "I: Ayçiçeği — II: Şeker pancarı — III: Soya"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q12.png"
+    }
+  },
+  {
+    "id": "cogr_d31_q14",
+    "before": {
+      "id": "cogr_d31_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar işaretleG\nnerek madenlerle eşleştirilmiştir. \ny\ny\nHaritadaki madenlerden hangisinin bulunduğu \nalan yanlış eşleştirilmiştir?",
+      "options": [
+        "Mermer",
+        "Bakır",
+        "Krom",
+        "Bor",
+        "Boksit"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q14.png"
+    },
+    "after": {
+      "id": "cogr_d31_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında bazı alanlar işaretlenerek madenlerle eşleştirilmiştir. y y Haritadaki madenlerden hangisinin bulunduğu alan yanlış eşleştirilmiştir?",
+      "options": [
+        "Mermer",
+        "Bakır",
+        "Krom",
+        "Bor",
+        "Boksit"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme31_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d31_q16",
+    "before": {
+      "id": "cogr_d31_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Turizm",
+      "text": "Türklye'de 2025 yılı itibarıyla UNESCO Dünya Miras \nListesi'ne kay ıtlı 21 adet kültür varlığı bulunmaktadır. \nBu eserlerin uluslararası alanda tanıtımının yapılma-\n• sı ve turizmin geliştirilmesi için hazırlanan bir broşürde sözü edilen varlıkların harita üzerindeki gösterimi \nyapılmıştır. \nBu varlıkların tanıtımı için hazırlanan haritada \naşağıdaki illerden hangisine yer verilmez?",
+      "options": [
+        "Sivas",
+        "Bursa",
+        "Trabzon",
+        "Edirne",
+        "Çanakkale"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d31_q16",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Turizm",
+      "text": "UNESCO Dünya Miras Listesi’ne 2025 yılı sonuna kadar kaydedilen varlıkların Türkiye’deki dağılışını gösteren bir harita hazırlanmıştır. Geçici listedeki varlıklar haritaya alınmamıştır.\n\nBu haritada aşağıdaki illerden hangisine yer verilmez?",
+      "options": [
+        "Sivas",
+        "Bursa",
+        "Trabzon",
+        "Edirne",
+        "Çanakkale"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d31_q17",
+    "before": {
+      "id": "cogr_d31_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş il numaralarla \ngösterilmiştir. \nYukarıdaki haritada taranarak gösterilen illerden \nhangisinin yıllık turizm geliri diğerlerine göre \ndaha fazladır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d31_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında beş il numaralarla gösterilmiştir. Yukarıdaki haritada taranarak gösterilen illerden hangisinin yıllık turizm geliri diğerlerine göre daha fazladır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q2",
+    "before": {
+      "id": "cogr_d32_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'nin dağlık engebeli yapısı nedeniyle demir \nyolu hatları yer şekillerinin daha sade olduğu platolar, ovalar, akarsu vadileri ve dağlar arasındaki doğal \ngeçitlere denk getirilerek maliyet düşürülmektedir. \nAnkara - Sivas Yüksek Hızlı Tren Hattı \nAnkara - Konya Yüksek Hızlı Tren Hattı \nAdana -\nŞanlıurfa Otoyolu \nAnkara -\nİstanbul Otoyolu \nYukarıda verilen ulaşım hatları dikkate alındığında aşağıdaki jeomorfolojik ünitelerden hangisi \nile ilişki kurulamaz?",
+      "options": [
+        "Bolu Dağları",
+        "Bozok Platosu",
+        "Cihanbeyli Platosu",
+        "Çukurova",
+        "Canik Dağları"
+      ],
+      "answer": 4,
+      "explanation": "Kolza bitkisinden üretilen Kanola bitkisi en fazla \nTrakya'da Tekirdağ başta olmak üzere üretilmektedir. Mısır ve Buğday Konya başta olmak sulama \nolan yerlerde üretilmektedir. Soya fasulyesi en fazla Çukurova'da üretilmektedir. Yağlık gül üretiminin \n%90'ını Isparta çevresi karşılamaktadır. Haritadaki \nalanların hiçbirinde gül üretimi yoktur. \nA"
+    },
+    "after": {
+      "id": "cogr_d32_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye'nin dağlık engebeli yapısı nedeniyle demir yolu hatları yer şekillerinin daha sade olduğu platolar, ovalar, akarsu vadileri ve dağlar arasındaki doğal geçitlere denk getirilerek maliyet düşürülmektedir. Ankara - Sivas Yüksek Hızlı Tren Hattı Ankara - Konya Yüksek Hızlı Tren Hattı Adana - Şanlıurfa Otoyolu Ankara - İstanbul Otoyolu Yukarıda verilen ulaşım hatları dikkate alındığında aşağıdaki jeomorfolojik ünitelerden hangisi ile ilişki kurulamaz?",
+      "options": [
+        "Bolu Dağları",
+        "Bozok Platosu",
+        "Cihanbeyli Platosu",
+        "Çukurova",
+        "Canik Dağları"
+      ],
+      "answer": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q3",
+    "before": {
+      "id": "cogr_d32_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarında oluşan kıyı tiplerinden biri de enine kıyılardır . \nBu kıyıların olduğu yerle ilgili, \nI. kıta sahanlığı dardır . \nII. kıyıda girinti çıkıntı fazladır . \nIII. kıyı gerisindeki dağlar kıyıya paralel uzanır. \nIV. dalga biriktirme şekilleri yaygındır. \nbilgilerinden hangilerinde yanlışlık vardır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": "Jeotermal enerji üretiminde Ege Bölgesi ilk sırada \n1\ngelmektedir. Bir alanda fay hattı olması ve sıcak su \nçıkması enerji üretimi için yeterli değildir . Su sıcaklıE\nğının yüksek olduğu yerlerde bu santraller kurulmakV\ntadır . Başta Denizli Sarayköy (Kızıldere) ve Aydın \nGermencik olmak üzere Çanakkale Tuzla ve Babadere bölgesi ile Manisa Alaşehir'de jeotermal santral \nkurulmuştur. Muğla'da bu enerji kaynağı olmakla birlikte santral yoktur."
+    },
+    "after": {
+      "id": "cogr_d32_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarında oluşan kıyı tiplerinden biri de enine kıyılardır. Bu kıyıların olduğu yerle ilgili, I. kıta sahanlığı dardır. II. kıyıda girinti çıkıntı fazladır. III. kıyı gerisindeki dağlar kıyıya paralel uzanır. IV. dalga biriktirme şekilleri yaygındır. bilgilerinden hangilerinde yanlışlık vardır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q6",
+    "before": {
+      "id": "cogr_d32_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Buna göre haritada numaralandırılarak gösterilen alanlardan hangilerinde kıyı set gölleri bulunmaktadır?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "III ve IV",
+        "II ve V",
+        "III ve V"
+      ],
+      "answer": 2,
+      "explanation": "ince minareli medrese Konya ili Selçuklu İlçesi'nde, \nAlaaddin Tepesi'nin batısındadır. Selçuklu Sultanı il. \nizzeddin Keykavus devrinde inşa ettirilmiştir. Çifte \nMinareli Medrese ve Atatürk Kongre Müzesi Sivas'ta \nUlu Camii ve Şifahanesi Divriği'de Ani Harabeleri ise \nKars'ta bulunmaktadır."
+    },
+    "after": {
+      "id": "cogr_d32_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Buna göre haritada numaralandırılarak gösterilen alanlardan hangilerinde kıyı set gölleri bulunmaktadır?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "III ve IV",
+        "II ve V",
+        "III ve V"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q7",
+    "before": {
+      "id": "cogr_d32_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Küresel iklim \ndeğişimleri sonucunda \nyaşanacak \nolumsuz etkilerden biri de kurak alanlarda kuraklık \nşiddetinin artarak çölleşmenin belirginleşmesi şeklinde kendini gösterecektir. \nBahsedilen etki haritadaki alanlardan hangileri \niçin daha fazla geçerlidir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": "Haritadaki noktalarla gösterilen yerlere bakıldığında \nUludağ, Davraz Dağı, Kartepe, Kartalkaya, Ilgaz, \nErciyes, Palandöken, Sarıkamış gibi kayak merkezlerini göstermektedir. Kış turizminin yapılabildiği \nyerlerde karın yerde kalma süresi uzun olmalıdır (lklim). Ayrıca bu alanlarda dağlık eğimli ve engebeli \nbir arazi olması gerekmektedir (yer şekilleri) . Jeolojik \nyapı kaplıca ve ılıca turizminin dağılışını belirler. Su \nkaynaklarının doğrudan turizm dağılışı yoktur. \nLLJ"
+    },
+    "after": {
+      "id": "cogr_d32_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Küresel iklim değişimleri sonucunda yaşanacak olumsuz etkilerden biri de kurak alanlarda kuraklık şiddetinin artarak çölleşmenin belirginleşmesi şeklinde kendini gösterecektir. Bahsedilen etki haritadaki alanlardan hangileri için daha fazla geçerlidir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q12",
+    "before": {
+      "id": "cogr_d32_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında Türkiye'de yoğun tarımsal üretim yapılan bazı alanlar taralı olarak gösterilmiştir. \nHaritadaki alanlarda aşağıdaki tarım ürünlerinden hangisinin yetişme alanı yoktur? ,",
+      "options": [
+        "Kanola",
+        "Buğday",
+        "Soya",
+        "Mısır",
+        "Gül"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d32_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında Türkiye'de yoğun tarımsal üretim yapılan bazı alanlar taralı olarak gösterilmiştir. Haritadaki alanlarda aşağıdaki tarım ürünlerinden hangisinin yetişme alanı yoktur?,",
+      "options": [
+        "Kanola",
+        "Buğday",
+        "Soya",
+        "Mısır",
+        "Gül"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d32_q14",
+    "before": {
+      "id": "cogr_d32_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir. \nHaritadaki numaralı alanlarda bulunan madenlerle ilgili seçeneklerdeki eşleştirmelerden hangisi \nyanlıştır?",
+      "options": [
+        "1 - Kükürt",
+        "il -\nAltın",
+        "111 - Volfram",
+        "iV - Fosfat",
+        "V - Toryum"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme32_q14.png"
+    },
+    "after": {
+      "id": "cogr_d32_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralı alanlarda bulunan madenlerle ilgili seçeneklerdeki eşleştirmelerden hangisi yanlıştır?",
+      "options": [
+        "I — Kükürt",
+        "II — Altın",
+        "III — Volfram",
+        "IV — Fosfat",
+        "V — Toryum"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme32_q14.png"
+    }
+  },
+  {
+    "id": "cogr_d32_q15",
+    "before": {
+      "id": "cogr_d32_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla \ngösterilmiştir . \nil \nHaritadaki numaralı alanlardan hangisinde yağ \nsanayisinin geliştiği söylenemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme32_q15.png"
+    },
+    "after": {
+      "id": "cogr_d32_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. il Haritadaki numaralı alanlardan hangisinde yağ sanayisinin geliştiği söylenemez?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "imageUrl": "/uploads/questions/deneme32_q15.png"
+    }
+  },
+  {
+    "id": "cogr_d32_q17",
+    "before": {
+      "id": "cogr_d32_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bir turizm türünün yapıldığı alanlar noktalarla gösterilmiştir . \n• \nYukarıdaki haritada işaretlenerek gösterilen merkezlerde; \nI. iklim \nII. su kaynakları \nIII. yer şekilleri \nIV. jeolojik yapı \nfaktörlerinden hangilerine bağlı olarak turizmin \ngeliştiği söylenebilir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d32_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Coğrafi Bölgeleri",
+      "text": "Aşağıdaki Türkiye haritasında bir turizm türünün yapıldığı alanlar noktalarla gösterilmiştir. • Yukarıdaki haritada işaretlenerek gösterilen merkezlerde; I. iklim II. su kaynakları III. yer şekilleri IV. jeolojik yapı faktörlerinden hangilerine bağlı olarak turizmin geliştiği söylenebilir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d33_q3",
+    "before": {
+      "id": "cogr_d33_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Şekilde verilen plaj, kıyı oku, kıyı kordonu, tombolo \nve lagün gibi yer şekilleri dalga ve akıntıların biriktime faaliyetleri sonucunda oluşmaktadır. Dalga biriktirmesi ise dağların kıyıya dik uzandığı, kıta sahanlığının geniş olduğu sahalarda daha yaygın görülmektedir. Akdeniz ve Karadeniz kıyılarında dağlar denize \nparalel uzandığı ve kıta sahanlığı dar olduğu için \ndalga aşındırması ile oluşan falezler daha yaygındır. \nGüney Marmara ve Kıyı Egede ise dalga aşındırma \nşekillerine daha sık ratlanır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "N\nSeçeneklerde verilen santrallerden Gökova MuğE\nla'da, Tunçbilek Kütahya'da, Çayırhan Ankara'da V\nve Elbistan Kahramanmaraş 'ta bulunan linyit ile çalışan termik santrallerdir. Termik santraller fosil yakıt \nile çalışmaktadır . Karakaya ise Fırat Nehri üzerinde \nbulunan hidroelektrik santralidir. Hidroelektrik enerji \nyenilenebilir enerji kaynakları arasındadır ."
+    },
+    "after": {
+      "id": "cogr_d33_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Şekilde verilen plaj, kıyı oku, kıyı kordonu, tombolo ve lagün gibi yer şekilleri dalga ve akıntıların biriktime faaliyetleri sonucunda oluşmaktadır. Dalga biriktirmesi ise dağların kıyıya dik uzandığı, kıta sahanlığının geniş olduğu sahalarda daha yaygın görülmektedir. Akdeniz ve Karadeniz kıyılarında dağlar denize paralel uzandığı ve kıta sahanlığı dar olduğu için dalga aşındırması ile oluşan falezler daha yaygındır. Güney Marmara ve Kıyı Egede ise dalga aşındırma şekillerine daha sık ratlanır.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d33_q6",
+    "before": {
+      "id": "cogr_d33_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Kayın Doğu Karadeniz'den Yıldız (lstranca) dağlarına kadar uzanan ormanlar içinde yayılış gösterir. Bu \nalan Avrupa - Sibirya flora bölgesi olarak ifade edilir. \nHaritadaki numaralanmış alanlardan il ve iV numaralı alanda ormanlar içindeki doğal türlerden biridir. \nKayın Amanos Dağları'nda relik! olarak bulunur. Haritadakiınumaralı alanda Meşe, 111 numaralı alanda \nkızılçamlar yaygın bulunur.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Türkiye; jeolojik ve jeomorfolojik özellikleri bakımından peribacası, traverten, volkanik şekil , falez, şelale gibi pek çok ilgi çekici yeryüzü şekline sahiptir. Bu \ngüzellikler ekoturizm, macera turizmi, jeoturizm, doğa \nturizmi ve spor turizmi alanında ülkeye önemli katkılar \nsunmaktadır . Peribacaları ve travertenler, bahsedilen \nyeryüzü şekilleri içinde en fazla ziyaret edilen varlıklar olarak dikkat çekmektedir. Bulundukları bölgelere \nözgü değerler olan kültürel varlıklar, turizmin gelişmesine önemli katkılar sunar. Adeta bir açık hava müzesini andıran Türkiye; mimari eserleri, manevi mekanlan, arkeolojik kalıntıları, tarihf milli parkları vb. varlıkları ile kültür turizmi açısından ön plana çıkmaktadır."
+    },
+    "after": {
+      "id": "cogr_d33_q6",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Kayın Doğu Karadeniz'den Yıldız (lstranca) dağlarına kadar uzanan ormanlar içinde yayılış gösterir. Bu alan Avrupa - Sibirya flora bölgesi olarak ifade edilir. Haritadaki numaralanmış alanlardan il ve iV numaralı alanda ormanlar içindeki doğal türlerden biridir. Kayın Amanos Dağları'nda relik! olarak bulunur. Haritadakiınumaralı alanda Meşe, 111 numaralı alanda kızılçamlar yaygın bulunur.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d33_q7",
+    "before": {
+      "id": "cogr_d33_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Yanlış sulama teknikleri olan salma sulamanın yaygın olduğu, damlalama ve yağmurlama sulama yöntemlerinin uygulanmadığı kurak bölgelerde su içinde \neriyik halde bulunan tuz ve kireç buharlaşma ile su \nortamdan çekildiğinde toprak üzerinde katman oluşturmaktadır. Bu sorun buharlaşma şiddetinin en fazla \nolduğu haritada il numaralı alanda GAP'ın inşa edilmesi ve tarımsal sulamada kullanılması sonucunda \nyaşanmaya başlayan çevre sorunlarından biridir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Haritada alanları gösterilen iller İzmir, Denizli, Nevşehir ve Adıyaman illeridir. Efes Harabeleri izmir'de, \nPeri Bacaları Nevşehir'de , Pamukkale Travertenleri \nDenizli'de ve Nemrut Dağı Heykelleri Adıyaman'da \nbulunmaktadır. Ani Harabeleri Kars ilinde bulunmakta olup haritada Kars ili gösterilmemiştir."
+    },
+    "after": {
+      "id": "cogr_d33_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Yanlış sulama teknikleri olan salma sulamanın yaygın olduğu, damlalama ve yağmurlama sulama yöntemlerinin uygulanmadığı kurak bölgelerde su içinde eriyik halde bulunan tuz ve kireç buharlaşma ile su ortamdan çekildiğinde toprak üzerinde katman oluşturmaktadır. Bu sorun buharlaşma şiddetinin en fazla olduğu haritada il numaralı alanda GAP'ın inşa edilmesi ve tarımsal sulamada kullanılması sonucunda yaşanmaya başlayan çevre sorunlarından biridir.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d33_q10",
+    "before": {
+      "id": "cogr_d33_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Bizim köyümüzde arazi engebeli, tarım alanları küçük ve parçalı, su kaynakları fazladır. Meskenler arasındaki uzaklık fazladır. Evler, tek ya da birbirinden \nuzak birkaç ev şeklinde arazi üzerine dağılmıştır. \nBuna göre yukarıda sözü edilen köy haritada numaralandırılarak gösterilen alanlardan hangilerinde yer alabilir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d33_q10",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Bizim köyümüzde arazi engebeli, tarım alanları küçük ve parçalı, su kaynakları fazladır. Meskenler arasındaki uzaklık fazladır. Evler, tek ya da birbirinden uzak birkaç ev şeklinde arazi üzerine dağılmıştır. Buna göre yukarıda sözü edilen köy haritada numaralandırılarak gösterilen alanlardan hangilerinde yer alabilir?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "id": "cogr_d33_q15",
+    "before": {
+      "id": "cogr_d33_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Aşağıdaki Türkiye haritasında pamuklu dokuma sa Y\nnayisinin geliştiği beş merkez numaralarla gösteril A\nmiştir . \nHaritadaki merkezlerden hangisinde dokuma sanayisi ham maddesioyöreden sağlanmaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "after": {
+      "id": "cogr_d33_q15",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Aşağıdaki Türkiye haritasında pamuklu dokuma sa Y nayisinin geliştiği beş merkez numaralarla gösteril A miştir. Haritadaki merkezlerden hangisinde dokuma sanayisi ham maddesioyöreden sağlanmaz?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  }
+]

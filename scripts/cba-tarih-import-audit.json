@@ -1,0 +1,46 @@
+{
+  "count": 540,
+  "preserved": 1541,
+  "total": 2081,
+  "topics": {
+    "İslamiyet Öncesi Türk Tarihi": 20,
+    "İlk Türk-İslam Devletleri": 40,
+    "Osmanlı Devleti Siyasi": 107,
+    "Osmanlı Devleti Kültür ve Uygarlık": 64,
+    "20. Yüzyılda Osmanlı Devleti": 37,
+    "Kurtuluş Savaşı Hazırlık Dönemi": 59,
+    "Kurtuluş Savaşı Cepheleri": 47,
+    "Atatürk İnkılapları": 48,
+    "Atatürk Dönemi İç ve Dış Politika": 38,
+    "Çağdaş Türk ve Dünya Tarihi": 61,
+    "Atatürk İlkeleri": 19
+  },
+  "answerKeys": {
+    "1": "EABCADCECBAEBEDABBECBBABACD",
+    "2": "EBDCEAAECAEADABCEBAEBAEACDE",
+    "3": "DACDAEDEACCBACEBAEEDBCAECED",
+    "4": "BAABDECCDCAEECCBADEBDCBCBCE",
+    "5": "DAECDCADCEBAEACBEDDCAACEDAC",
+    "6": "EECEBCCAEDBCEEAEDEDBCCEABDC",
+    "7": "AAADABECADAEAADCBEBEABDBEAC",
+    "8": "ADCAECBACEEABADEACDCEBDCAED",
+    "9": "ECBAEBAEAEBEDCDDACACEBDEBEC",
+    "10": "DDEECEEBEDABDCABEACBCEACCDE",
+    "11": "DBBEDEBDADCBBACDECDBBECADCD",
+    "12": "CEDBDACAECBAEDBDEEBCABECACD",
+    "13": "DBEACDACABADBCDEECDBDABEEBC",
+    "14": "EDBCACEBCDABECDCBADCBEACCCD",
+    "15": "DCABECACDDEACEEDEBBDBCCDADC",
+    "16": "EADECDBBAECBDBDEBDBEBACEEEC",
+    "17": "ACCBEEDACACAEABEAEBDABAEACB",
+    "18": "DEACBCEECCCDEBDEDACCDAEEAEC",
+    "19": "BDEEACEDACBECBCBAEBCBCACEED",
+    "20": "CBADAAAEBDCBAEACABDCAEDCBDE"
+  },
+  "contentSha256": "dc6f5357c97ceb8757cd1f03cc180c3d8208ef4be0653c92b0c0c0fcd16a8a6c",
+  "editorialNotes": {
+    "5/24": "D seçeneğinde basılı II ve II tekrarı, seçenek düzenine uygun II ve III olarak düzeltildi. Doğru cevap D değildir.",
+    "16/13": "Kaynakta eksik basılmış Kuvayımilliye’yi mil ifadesi, kongre kararı doğrultusunda Kuvayımilliye’yi etkin olarak düzenlendi.",
+    "15/2": "Kaynakta yıl 912 olarak basılmıştır; kaynak metni korunmuştur. İçeriğin tarihsel doğruluğu ayrıca incelenebilir."
+  }
+}

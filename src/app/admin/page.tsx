@@ -77,7 +77,6 @@ export default function AdminPage() {
   const [selectedSubject, setSelectedSubject] = useState("Tümü");
   const [filterHasImage, setFilterHasImage] = useState(false);
   const [filterFaulty, setFilterFaulty] = useState(false);
-  const [showExplanations, setShowExplanations] = useState(false);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [notice, setNotice] = useState("");
 
@@ -301,8 +300,10 @@ export default function AdminPage() {
       if (!res.ok) throw new Error(data.error || "İşlem başarısız.");
 
       showNotice(isNewQuestion ? "Yeni soru eklendi." : "Soru güncellendi.");
+      setQuestions((previous) => isNewQuestion
+        ? [data.question, ...previous]
+        : previous.map((question) => question.id === data.question.id ? data.question : question));
       setEditingQuestion(null);
-      loadQuestions();
     } catch (err: any) {
       alert(err.message || "Kaydederken hata oluştu.");
     } finally {
@@ -553,17 +554,6 @@ export default function AdminPage() {
               <span>Hatalı / Boş Şıklı</span>
             </label>
 
-            <label
-              className="admin-checkbox-label"
-              title="Çözüm açıklamalarını göster/gizle"
-            >
-              <input
-                type="checkbox"
-                checked={showExplanations}
-                onChange={(e) => setShowExplanations(e.target.checked)}
-              />
-              <span>Çözümleri Göster</span>
-            </label>
 
             <button className="button primary admin-add-btn" onClick={openCreate}>
               <Plus size={16} />
@@ -661,11 +651,6 @@ export default function AdminPage() {
                   ))}
                 </div>
 
-                {showExplanations && q.explanation && (
-                  <div className="admin-q-exp">
-                    <strong>Çözüm:</strong> {q.explanation}
-                  </div>
-                )}
               </div>
             ))}
           </div>
@@ -825,6 +810,8 @@ export default function AdminPage() {
                       <button
                         type="button"
                         className="opt-correct-toggle"
+                        aria-pressed={editingQuestion.answer === optIdx}
+                        aria-label={`${"ABCDE"[optIdx]} şıkkını doğru cevap olarak seç`}
                         title={
                           editingQuestion.answer === optIdx
                             ? "Doğru cevap"
@@ -838,6 +825,7 @@ export default function AdminPage() {
                         }
                       >
                         {"ABCDE"[optIdx]}
+                        {editingQuestion.answer === optIdx && <Check size={16} aria-hidden="true" />}
                       </button>
                       <input
                         type="text"
@@ -855,23 +843,9 @@ export default function AdminPage() {
                     </div>
                   ))}
                 </div>
+                <p className="correct-answer-summary" role="status">Doğru cevap: {"ABCDE"[editingQuestion.answer]}</p>
               </div>
 
-              {/* Explanation (Optional) */}
-              <div className="form-group">
-                <label>Açıklama / Çözüm (İsteğe bağlı)</label>
-                <textarea
-                  rows={2}
-                  value={editingQuestion.explanation}
-                  onChange={(e) =>
-                    setEditingQuestion({
-                      ...editingQuestion,
-                      explanation: e.target.value,
-                    })
-                  }
-                  placeholder="İsteğe bağlı açıklama..."
-                />
-              </div>
             </div>
 
             <div className="admin-modal-footer">

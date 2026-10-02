@@ -2,6 +2,7 @@
 import argparse
 import hashlib
 import json
+from question_store import read_questions, write_questions
 import re
 from pathlib import Path
 
@@ -186,9 +187,8 @@ def main():
             for marker in entry["markers"]:
                 after = [m["y"] for m in entry["markers"] if m["column"] == marker["column"] and m["y"] > marker["y"]]
                 geometry[f"{PREFIX}_d{exam['exam']:02d}_q{marker['number']:02d}"] = (entry["page"], marker, min(after)-4 if after else 725)
-    data_path = ROOT / "src/data/questions.json"
-    original = data_path.read_text(encoding="utf-8")
-    data = json.loads(original)
+    data = read_questions()
+    original = json.dumps(data, ensure_ascii=False, indent=2)
     excluded_id = PREFIX + "_d24_q05"
     replacement_id = PREFIX + "_d34_q07"
     # The source prints "Yalnız IV" twice for d24q05. Replace the ambiguous item.
@@ -237,7 +237,7 @@ def main():
                 q.update(text=d["text"], options=d["options"], explanation="")
                 q.pop("imageUrl", None)
                 q.pop("imageContainsQuestion", None)
-        data_path.write_text(json.dumps(data, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
+        write_questions(data)
 
 
 if __name__ == "__main__":

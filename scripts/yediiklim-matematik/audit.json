@@ -1,0 +1,70 @@
+{
+  "source": "Yediiklim 2026 KPSS 500 Soruda Genel Tekrar Kampı Matematik",
+  "sourcePageConvention": "1-based PDF page; printed page is one less",
+  "sourceQuestions": 500,
+  "published": 496,
+  "subjects": {
+    "Matematik": 447,
+    "Geometri": 49
+  },
+  "topics": {
+    "Rasyonel Sayılar": 21,
+    "Üslü Sayılar": 24,
+    "Köklü Sayılar": 24,
+    "Sayılar": 57,
+    "Bölme ve Bölünebilme": 18,
+    "Basit Eşitsizlikler": 15,
+    "Mutlak Değer": 22,
+    "Çarpanlara Ayırma": 10,
+    "Denklemler": 5,
+    "Oran - Orantı": 13,
+    "Sayı ve Kesir Problemleri": 49,
+    "Sayısal Mantık": 61,
+    "Yüzde Problemleri": 34,
+    "Grafik ve Tablo Yorumlama": 26,
+    "Yaş ve Hareket Problemleri": 18,
+    "İşlem": 6,
+    "Fonksiyonlar": 16,
+    "Kümeler": 15,
+    "Permütasyon ve Kombinasyon": 7,
+    "Olasılık": 6,
+    "Üçgende Açılar": 12,
+    "Dörtgenler": 14,
+    "Özel Üçgenler": 5,
+    "Çokgenler": 1,
+    "Çember ve Daire": 5,
+    "Analitik Geometri": 10,
+    "Katı Cisimler": 2
+  },
+  "diagramQuestions": 90,
+  "diagramFiles": 78,
+  "diagramBytes": 710228,
+  "heldOut": [
+    {
+      "question": 418,
+      "reason": "PDF taramasında g(3) eksi ifadesinin ikinci terimi silinmiş."
+    },
+    {
+      "question": 427,
+      "reason": "C seçeneğinin değeri PDF taramasında silinmiş."
+    },
+    {
+      "question": 445,
+      "reason": "Doğru yanıtlama olasılığı belirtilmediği için olasılık hesabı belirsiz. Taslaktaki 1/2 varsayımı yayımlanmadı."
+    },
+    {
+      "question": 471,
+      "reason": "F noktasının BE üzerindeki konumunu belirleyen ek bilgi yok; taralı alan tek değerli değil."
+    }
+  ],
+  "corrections": [
+    {
+      "question": 315,
+      "kind": "source_option_error",
+      "original": "C: 2340",
+      "corrected": "C: 6240",
+      "reason": "Ocak 500, şubat 800, mart 1280 yeni takipçi; (800 + 1280) × 3 = 6240. Anahtar harfi C korundu."
+    }
+  ],
+  "review": "Soru metinleri ve şıklar PDF görüntülerinden okunarak aktarıldı; çözümler alınmadı. Cevap anahtarı PDF 125. sayfadan eşleştirildi. Tüm soruların bağımsız matematiksel çözümü yapıldığı iddia edilmez."
+}

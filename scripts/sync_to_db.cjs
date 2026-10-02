@@ -37,9 +37,10 @@ function slugify(text) {
 
 async function main() {
   console.log("Connecting to PostgreSQL...");
-  const jsonPath = path.join(__dirname, '..', 'src', 'data', 'questions.json');
-  const questions = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-  console.log(`Loaded ${questions.length} questions from questions.json`);
+  const dataDir = path.join(__dirname, '..', 'src', 'data');
+  const files = require('../src/data/question-files.json');
+  const questions = Object.values(files).flatMap(file => JSON.parse(fs.readFileSync(path.join(dataDir, 'questions', file), 'utf8')));
+  console.log(`Loaded ${questions.length} questions from subject files`);
 
   // Ensure subjects
   const subjectDbMap = {};

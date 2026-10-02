@@ -1,0 +1,1582 @@
+{
+  "answers": {
+    "3/9": "A",
+    "5/11": "B",
+    "11/2": "B",
+    "19/8": "D"
+  },
+  "options": {
+    "1/9": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "1/17": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "2/5": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "3/19": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "4/9": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "4/16": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "4/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "4/24": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "1/13": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "1/23": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "3/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "3/23": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "4/5": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "5/4": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "1/22": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "3/21": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "2/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "3/9": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "2/16": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "3/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "4/13": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "3/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "4/2": [
+      "Yalnız IV",
+      "I ve II",
+      "II ve III",
+      "I ve IV",
+      "III ve IV"
+    ],
+    "4/17": [
+      "Yalnız IV",
+      "I ve III",
+      "I ve IV",
+      "II ve III",
+      "I, II ve IV"
+    ],
+    "4/21": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "1/11": [
+      "Abdülmecit",
+      "II. Mahmut",
+      "II. Abdülhamit",
+      "Abdülaziz",
+      "V. Mehmet Reşat"
+    ],
+    "1/20": [
+      "I. Balkan Savaşı - Kafkas Cephesi",
+      "II. Balkan Savaşı - Sofya Ataşemiliterliği",
+      "Trablusgarp Savaşı - Suriye/Filistin Cephesi",
+      "I. Balkan Savaşı - Hicaz/Yemen Cephesi",
+      "Trablusgarp Savaşı - Irak Cephesi"
+    ],
+    "2/8": [
+      "I. Mahmut",
+      "III. Selim",
+      "I. Abdülhamit",
+      "III. Mustafa",
+      "II. Mahmut"
+    ],
+    "2/9": [
+      "II. Mahmut",
+      "Abdülaziz",
+      "Abdülmecit",
+      "II. Abdülhamit",
+      "V. Mehmet Reşat"
+    ],
+    "3/2": [
+      "I. Alâeddin Keykubat",
+      "I. Mesut",
+      "IV. Kılıç Arslan",
+      "I. Gıyaseddin Keyhüsrev",
+      "II. İzzettin Keykavus"
+    ],
+    "3/4": [
+      "I. Selim",
+      "II. Mehmet",
+      "II. Osman",
+      "I. Süleyman",
+      "III. Murat"
+    ],
+    "4/4": [
+      "Orhan Bey",
+      "I. Mehmet",
+      "I. Murat",
+      "II. Murat",
+      "Yıldırım Bayezit"
+    ],
+    "4/10": [
+      "II. Mahmut",
+      "III. Mustafa",
+      "Abdülmecit",
+      "Abdülaziz",
+      "II. Abdülhamit"
+    ],
+    "5/6": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "5/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "6/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "7/1": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "5/14": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "5/18": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "5/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "7/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "8/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "5/15": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "6/19": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "6/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "7/5": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "7/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "9/5": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "9/6": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "9/12": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "5/24": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "8/6": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "9/11": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "6/16": [
+      "I ve II",
+      "II ve III",
+      "II ve IV",
+      "I, II ve III",
+      "II, III ve IV"
+    ],
+    "6/23": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "7/4": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "8/1": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "9/9": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "8/2": [
+      "Yalnız IV",
+      "I ve II",
+      "II ve III",
+      "I, II ve IV",
+      "II, III ve IV"
+    ],
+    "5/10": [
+      "II. Mahmut",
+      "V. Murat",
+      "Abdülmecit",
+      "Abdülaziz",
+      "II. Abdülhamit"
+    ],
+    "6/3": [
+      "II. Kılıç Arslan",
+      "Kutalmışoğlu Süleyman Şah",
+      "I. Gıyaseddin Keyhüsrev",
+      "II. İzzeddin Keykavus",
+      "I. Alaeddin Keykubat"
+    ],
+    "6/25": [
+      "Dayton",
+      "Camp David",
+      "Cenevre",
+      "Panmunjom",
+      "Mac Mahon"
+    ],
+    "7/9": [
+      "Mecelle’nin hazırlanması",
+      "İlk özel matbaanın açılması",
+      "Mimari eserlerin barok tarzda inşa edilmesi",
+      "“Nizam-ı Cedit” adıyla bir ordu kurulması",
+      "Yirmisekiz Mehmet Çelebi’nin Paris’e geçici elçi olarak gönderilmesi"
+    ],
+    "8/17": [
+      "I. İnönü",
+      "II. İnönü",
+      "Sakarya",
+      "Büyük Taarruz",
+      "Eskişehir-Kütahya"
+    ],
+    "9/4": [
+      "Varna",
+      "Niğbolu",
+      "I. Kosova",
+      "Çirmen",
+      "II. Kosova"
+    ],
+    "9/7": [
+      "Palekanon",
+      "I. Kosova",
+      "Sırpsındığı",
+      "Niğbolu",
+      "Çirmen"
+    ],
+    "9/13": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "10/13": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "10/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "12/2": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "12/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "9/14": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "9/17": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "9/19": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "9/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "11/21": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "14/16": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "9/15": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "10/17": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "11/11": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "12/15": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "9/16": [
+      "I ve II",
+      "II ve III",
+      "I, II ve III",
+      "I, II ve IV",
+      "I, III ve IV"
+    ],
+    "10/4": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "14/7": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "10/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "10/26": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "14/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "14/12": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "11/4": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "11/23": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "12/10": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "13/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "13/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "13/17": [
+      "I ve II",
+      "I ve IV",
+      "II ve III",
+      "II ve IV",
+      "I, III ve IV"
+    ],
+    "13/21": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "9/24": [
+      "I - II - III",
+      "I - III - II",
+      "II - III - I",
+      "III - I - II",
+      "III - II - I"
+    ],
+    "11/8": [
+      "Geçici elçiliklerin açılması",
+      "İlk özel Türk matbaasının açılması",
+      "Çiçek aşısının uygulanması",
+      "Kâğıt paranın basılması",
+      "İtfaiye teşkilatının kurulması"
+    ],
+    "11/17": [
+      "I. İnönü",
+      "II. İnönü",
+      "Sakarya",
+      "Eskişehir-Kütahya",
+      "Başkomutanlık"
+    ],
+    "12/21": [
+      "Türkiye İktisat Kongresi’nde",
+      "I. Maarif Kongresi’nde",
+      "CHP’nin II. Büyük Kurultayı’nda",
+      "II. Türk Dil Kurultayı’nda",
+      "Kabotaj Kanunu’nun kabulü sırasında"
+    ],
+    "13/27": [
+      "OSLO-I",
+      "SALT-I",
+      "SALT-II",
+      "Bandung",
+      "Atlantik Bildirisi"
+    ],
+    "14/3": [
+      "Katvan Savaşı",
+      "I. Haçlı Seferi",
+      "Kösedağ Savaşı",
+      "Yassıçemen Savaşı",
+      "Baba İshak İsyanı"
+    ],
+    "14/4": [
+      "Osman Bey",
+      "I. Murat",
+      "Orhan Bey",
+      "Çelebi Mehmet",
+      "Yıldırım Bayezit"
+    ],
+    "14/11": [
+      "II. Mahmut",
+      "III. Selim",
+      "Abdülmecit",
+      "Abdülaziz",
+      "II. Abdülhamit"
+    ],
+    "14/17": [
+      "I ve II",
+      "I ve IV",
+      "II ve III",
+      "II ve IV",
+      "I, III ve IV"
+    ],
+    "14/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "16/1": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "15/5": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "16/7": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "18/7": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "15/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "16/24": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "15/10": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "15/16": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "16/13": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "17/6": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "17/7": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "18/15": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "16/4": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "16/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "16/11": [
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "16/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "17/4": [
+      "Yalnız IV",
+      "I ve II",
+      "II ve III",
+      "II ve IV",
+      "I, II ve IV"
+    ],
+    "17/17": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve III",
+      "II ve IV",
+      "I, II ve IV"
+    ],
+    "18/4": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "18/20": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "18/21": [
+      "I ve IV",
+      "II ve III",
+      "III ve IV",
+      "I, II ve III",
+      "II, III ve IV"
+    ],
+    "14/18": [
+      "Kars",
+      "Gümrü",
+      "Mudanya",
+      "Moskova",
+      "Lozan"
+    ],
+    "15/4": [
+      "II. Murat",
+      "I. Selim",
+      "I. Süleyman",
+      "II. Mehmet",
+      "I. Bayezid"
+    ],
+    "15/9": [
+      "II. Mahmut",
+      "Abdülmecit",
+      "Abdülaziz",
+      "III. Selim",
+      "II. Abdülhamit"
+    ],
+    "15/27": [
+      "I - II - III",
+      "I - III - II",
+      "II - I - III",
+      "II - III - I",
+      "III - II - I"
+    ],
+    "16/15": [
+      "I.dekinin yerine Peyam-ı Sabah yazılarak",
+      "II.dekinin yerine Tasvir-i Efkâr yazılarak",
+      "III.dekinin yerine İrade-i Milliye yazılarak",
+      "IV.dekinin yerine Hâkimiyet-i Milliye yazılarak",
+      "V.dekinin yerine Alemdar yazılarak"
+    ],
+    "17/3": [
+      "IV. Kılıç Arslan",
+      "I. İzzeddin Keykavus",
+      "II. Gıyaseddin Keyhüsrev",
+      "I. Alaeddin Keykubat",
+      "I. Gıyaseddin Keyhüsrev"
+    ],
+    "18/1": [
+      "Uygur",
+      "Kırgız",
+      "Avrupa Hun",
+      "II. Göktürk",
+      "Asya Hun"
+    ],
+    "18/23": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "20/5": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "19/8": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "19/27": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "20/18": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "19/18": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "19/24": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I ve III"
+    ],
+    "20/22": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "20/24": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "19/4": [
+      "Çirmen - Varna",
+      "Sırpsındığı - Niğbolu",
+      "I. Kosova - II. Kosova",
+      "Niğbolu - Varna",
+      "Sırpsındığı - II. Kosova"
+    ],
+    "20/3": [
+      "II. Mesut",
+      "I. Alâeddin Keykubat",
+      "IV. Rükneddin",
+      "II. Gıyaseddin Keyhüsrev",
+      "II. İzzeddin Keykâvus"
+    ],
+    "20/7": [
+      "Bâb-ı Âli",
+      "Bâbüssaade",
+      "Bâb-ı Hümayun",
+      "Dergâh-ı Âli",
+      "Dârüssaade"
+    ],
+    "20/8": [
+      "I. Mahmut",
+      "V. Murat",
+      "II. Mahmut",
+      "III. Ahmet",
+      "III. Selim"
+    ],
+    "20/10": [
+      "Mehmet Ali Paşa İsyanı — Rusya ile Hünkâr İskelesi Antlaşması’nın imzalanması",
+      "Berlin Antlaşması’nın imzalanması — Romanya, Sırbistan ve Karadağ’ın bağımsızlığını kazanması",
+      "Müsadere sisteminin kaldırılması — Kişinin mülkiyet hakkının güvence altına alınması",
+      "Sened-i İttifak’ın imzalanması — Anayasal hükümet sistemine geçilmesi",
+      "I. Meşrutiyet’in ilanı — İlk kez Mebusan Meclisinin açılması"
+    ],
+    "8/9": [
+      "Hukuk işlerini belli bir sisteme bağlamak",
+      "Vergi dağılımında adaleti sağlamak",
+      "Devletin memur ihtiyacını karşılamak",
+      "İstanbul esnafının faaliyetlerini düzenlemek",
+      "Eğitim kurumlarını devlet kontrolüne almak"
+    ],
+    "17/16": [
+      "Barış yanlısı olduğunu kanıtlamak",
+      "Misakımillî’yi dünyaya tanıtmak",
+      "Uluslararası alanda hukuki olarak var olduğunu göstermek",
+      "Siyasi başarıların sürekliliğini sağlayabilmek",
+      "Mudanya Mütarekesi’nin siyasi başarısına katkı sağlamak"
+    ],
+    "18/27": [
+      "OAU",
+      "NATO",
+      "SEATO",
+      "AGİK",
+      "İKÖ"
+    ],
+    "7/6": [
+      "Hacegi",
+      "Mekkâri",
+      "Bozana",
+      "Derbentçi",
+      "Menzilci"
+    ],
+    "17/25": [
+      "Yalta",
+      "Tahran",
+      "Quebec",
+      "Potsdam",
+      "San Francisco"
+    ],
+    "19/12": [
+      "Abdülaziz",
+      "Vahdettin",
+      "Abdülmecit",
+      "II. Abdülhamit",
+      "V. Mehmet Reşat"
+    ]
+  },
+  "text": {
+    "1/20": "Mustafa Kemal’in askerî faaliyetleri:\n1905 — Şam’da 5. Ordu’da staj\n1910 — Picardie Manevraları\n1912 — …\n1915 — Çanakkale Savaşları\n1918 — …\n\nYukarıda boş bırakılan alanlara sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "4/17": "I. Refet Paşa\nII. İsmet Paşa\nIII. Ali Fuat Paşa\nIV. Kâzım Karabekir\n\nYukarıdaki komutanlardan hangileri Millî Mücadele Dönemi’nde, Batı Cephesi’ndeki Türk-Yunan mücadelesinde yer almamıştır?",
+    "6/14": "Misakımillî Kararları\nYer: İstanbul\nZaman: 28 Ocak 1920\nÖzelliği: Osmanlı Mebusan Meclisinin yaptığı son toplantı\nKararlar: …\n\nMisakımillî Kararlarına ilişkin yukarıda verilen bilgilerde kararlar bölümünde boş bırakılan yere aşağıdakilerden hangisi getirilemez?",
+    "6/21": "İstiklal Mahkemelerinin görev yaptığı olaylar:\nI. TBMM’ye karşı çıkan ayaklanmalar\nII. ?\nIII. Tekâlif-i Milliye Emirlerinin uygulanması\nIV. ?\nV. Eskişehir-Kütahya Savaşları sırasında asker kaçaklarını yargılama\n\nYukarıda II ve IV numaralı alanlara sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "6/27": "Tarih Öğretmeni Eda Hanım, uyguladığı bir sınavda öğrencilerinden aşağıdaki liderleri Türk cumhuriyetleriyle eşleştirmelerini istemiştir:\n• Ebulfeyz Elçibey\n• Nursultan Nazarbayev\n• İslam Kerimov\n• Saparmurad Niyazov\n\nÖğrencilerin eşleştirmeyi doğru şekilde tamamlaması durumunda aşağıdaki devletlerden hangisi dışarıda kalır?",
+    "8/9": "II. Mahmut Dönemi’nde açılan “Mekteb-i Maarif-i Adliye”nin temel faaliyet alanı aşağıdakilerden hangisidir?",
+    "8/11": "Kırım Savaşı sürecinde alınan dış borçların ödenememesi\n↓\nMuharrem Kararnamesi’nin yayımlanması\n↓\n?\n\nYukarıda verilen diyagramda neden-sonuç ilişkisi içerisinde “?” işareti ile boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "7/18": "I. İnönü Savaşı\nTarih: 6-10 Ocak 1921\nKomutan: İsmet Paşa\nÖzelliği: Düzenli ordunun ilk savaşı ve ilk askerî başarısı\nSonuçları: …\n\nBirinci İnönü Savaşı’na ilişkin yukarıda verilen bilgilerde boş bırakılan bölüme aşağıdakilerden hangisi getirilemez?",
+    "8/4": "Orhan Bey Dönemi gelişmeleri:\nI. İlk divan örgütünün kurulması\nII. İlk medresenin İznik’te açılması\nIII. Karesioğullarına son verilmesi\nIV. İlk düzenli ordunun kurulması\nV. ?\n\nYukarıda boş bırakılan yere aşağıdakilerden hangisi getirilebilir?",
+    "8/25": "Kore’de dünya savaş tarihinde bugüne kadar hiçbir birliğin yapamadığını başaran, eşsiz zafer kazanan Türk Silahlı Kuvvetleri, uzun zamandan beri taarruzlarını başarıyla sürdürerek zaferden zafere koşmaktadır. Bunun sonucu, Güney Kore toprakları artık düşmanın istilasından kurtulmuş bulunmaktadır. Göç durmuştur, topraklarımızın kazanılmasında Türk Silahlı Kuvvetlerinin payı büyüktür.\n\nGüney Kore Radyosu’nda yayınlanan yukarıdaki haberden hareketle, Birleşmiş Milletlerin çağrısına uyarak Kore’ye asker gönderen ve başarı sağlayan dönemin başbakanı aşağıdakilerden hangisidir?",
+    "9/16": "Misakımillî Kararlarında;\nI. Batı Trakya,\nII. İstanbul ve Boğazlar,\nIII. Vilayet-i Sitte,\nIV. Arap toprakları\ncoğrafi bölgelerinden hangileri doğrudan ifade edilmiştir?",
+    "9/17": "Birinci TBMM’de;\nI. Tesanüt,\nII. Felah-ı Vatan,\nIII. Millî Müdafaa (Mim Mim)\ngruplarından hangileri yer almıştır?",
+    "10/4": "Mustafa, Osmanlı şehzadelerinin yönetici olarak tecrübe kazanmaları için gönderildiği sancakların bazılarını şöyle işaretlemiştir:\nI. Manisa\nII. Amasya\nIII. Konya\nIV. Trabzon\nV. Malatya\n\nMustafa’nın yanlış işaretlediği şehir aşağıdakilerden hangisidir?",
+    "11/15": "Anadolu hareketini İstanbul’dan destekleyen haftalık mizah dergisi Güleryüz’ün kurucusu aşağıdakilerden hangisidir?",
+    "12/10": "II. Mahmut Dönemi’nde Âyanlarla imzalanan Sened-i İttifak’a dair;\nI. Fransız İhtilali’nin etkisi ile hazırlanmıştır.\nII. Âyanların bağımsızlık hareketleri başarıya ulaşmıştır.\nIII. Padişahın otoritesi ilk kez sınırlandırılmıştır.\nyargılarından hangileri doğrudur?",
+    "13/5": "II. Bayezid için Kur’an-ı Kerim serlevhasını kaleme alan, Osmanlı hat sanatının ekolü olarak kabul edilen ve “Hattatların Kıblesi” olarak nitelendirilen sanatkâr aşağıdakilerden hangisidir?",
+    "14/17": "I. Londra Konferansı’nın toplanması\nII. Başkomutanlık Kanunu’nun çıkartılması\nIII. II. TBMM’nin açılması\nIV. İstiklal Marşı’nın kabul edilmesi\n\nYukarıdakilerden hangileri Birinci İnönü Savaşı’nın sonuçları arasında yer alır?",
+    "15/8": "I. I. Murat\nII. Fatih Sultan Mehmet\nIII. Kanuni Sultan Süleyman\n\nYukarıdaki Osmanlı padişahlarından hangileri Türk veraset anlayışında değişikliğe gitmiştir?",
+    "16/5": "Osmanlı Devleti’ne kuruluş döneminden itibaren merkezlik yapan yerlerden bazılarını sırasıyla tablo haline getirmek isteyen Efe, aşağıdaki sıralamayı oluşturmuştur:\n1. Bilecik\n2. İznik\n3. Bursa\n4. Edirne\n5. İstanbul\n\nNumaralı yerlerden hangi ikisinin yeri değiştirilirse Efe’nin oluşturduğu sıralamadaki hata düzeltilmiş olur?",
+    "16/6": "Dersinde “Gül Koklayan Fatih” portresini kullanan bir tarih öğretmeni, aşağıdaki sanatçıların hangisinden bahsetmektedir?",
+    "16/15": "Millî Mücadele’yi destekleyen basın yayın organlarına ilişkin bir proje hazırlayan Mehmet, aşağıdaki gibi bir bilgi kartı oluşturmuştur.\n\nMillî Mücadele’yi Destekleyen Gazeteler\nI. İleri\nII. İkdam\nIII. Minber\nIV. Ümit\nV. Açıksöz\n\nMehmet’in hazırladığı bilgi kartındaki yanlışlık, aşağıdakilerden hangisiyle düzeltilebilir?",
+    "17/13": "11. sınıf öğrencisi Ebru, Birinci Dünya Savaşı’na ilişkin aşağıdaki genel bakış tablosunu hazırlamıştır:\nİngiltere — En kârlı çıkan devlet\nABD — Savaşın kısa sürede bitmesini sağlayan devlet\nRusya — Rejim değişikliği yaşayan devlet\nBulgaristan — Savaştan ilk çekilen devlet\nYunanistan — Savaşa en son katılan devlet\n\nEbru’nun hazırlamış olduğu tabloda hangi devletle ilgili verdiği bilgi yanlıştır?",
+    "18/7": "Sanatçı — Alan\nI. Matrakçı Nasuh — Minyatür\nII. Itri — Müzik\nIII. Şeyh Hamdullah — Hat\nIV. Güllü Agop — Tiyatro\nV. Hacı Arif Bey — Resim\n\nYukarıda verilen sanatçı-alan eşleştirmelerinden hangisi yanlıştır?",
+    "18/12": "Kanunuesasi’de 1909 yılında yapılan bazı değişiklikler şunlardır:\n• Hükümet, padişaha değil Mebusan Meclisine karşı sorumludur.\n• Uluslararası anlaşmalarda meclis onayı zorunluluğu getirilmiştir.\n• Kanun tekliflerinde gerekli olan padişah izni kaldırılmıştır.\n• Padişahın sürgün ve sansür yetkilerine son verilmiştir.\n• Padişahın meclisi gerektiğinde tek başına feshetme yetkisi kaldırılmıştır.\n\nYapılan bu değişikliklerden hareketle aşağıdakilerden hangisine ulaşılabilir?",
+    "20/9": "• II. Mahmut Dönemi’nde açılmıştır.\n• Yabancı devletlerle yapılan resmî yazışmalar yürütülmüştür.\n• Yabancı dil bilen Müslüman memurların yetiştirilmesi hedeflenmiştir.\n\nYukarıda birtakım özellikleri verilen kurum aşağıdakilerden hangisidir?",
+    "20/10": "Osmanlı Devleti’yle ilgili olarak aşağıdakilerin hangisinde birinci verilen gelişmenin ikinci gelişmeye ortam hazırladığı savunulamaz?"
+  },
+  "replacements": {
+    "Fi- Ilstin": "Filistin",
+    "sonuçlarmıştır": "sonuçlanmıştır",
+    "bir değildir": "biri değildir",
+    "Sırat- Müstakim": "Sırat-ı Müstakim",
+    "Göktük": "Göktürk",
+    "*Apa Tarkan": "“Apa Tarkan",
+    "Bahri: ye": "Bahriye",
+    "Devlet'nde": "Devleti'nde",
+    "bağlarıdığı": "bağlandığı",
+    "XVİİ.": "XVII.",
+    "Misakı: milli": "Misakımilli",
+    "ön: görülen": "öngörülen",
+    "isyanlar dan": "isyanlardan",
+    "görev aları": "görev alan",
+    "kar: şı": "karşı",
+    "ilişkilendiritebilir": "ilişkilendirilebilir",
+    "askerf": "askerî",
+    "bulunar": "bulunan",
+    "Tarih-i Yemin": "Tarih-i Yemini",
+    "lil. Ahmet": "III. Ahmet",
+    "Mehmet Al Paşa": "Mehmet Ali Paşa",
+    "Erzurum'dar": "Erzurum'dan",
+    "12 Ocal": "12 Ocak",
+    "görüş melerine": "görüşmelerine",
+    "aşağıdakiter. den": "aşağıdakilerden",
+    "Tekâlif-|": "Tekâlif-i",
+    "aşağıdakiler: den": "aşağıdakilerden",
+    "hüküm. darlarından": "hükümdarlarından",
+    "kaliteli bot": "kaliteli bol",
+    "istimalet": "istimalet",
+    "İngiltere ve. Rusya": "İngiltere ve Rusya",
+    "aşağı: daki": "aşağıdaki",
+    "otduğu": "olduğu",
+    "öneml gelişmelerden": "önemli gelişmelerden",
+    "yıları": "yılları",
+    "Edime": "Edirne",
+    "dü. zenlediği": "düzenlediği",
+    "gerçek: leşmemiştir": "gerçekleşmemiştir",
+    "tarafın- . darı": "tarafından",
+    "Xvili.": "XVIII.",
+    "Il!. Selim": "III. Selim",
+    "harıgisidir": "hangisidir",
+    "toplanar": "toplanan",
+    "gerçekleş: miştir": "gerçekleşmiştir",
+    "46 Mart 1920": "16 Mart 1920",
+    "yürüt: mekteydi": "yürütmekteydi",
+    "Yerin: altında": "Yerin altında",
+    "ar- .: keologlardan": "arkeologlardan",
+    "ad: landırılan": "adlandırılan",
+    "Buna durumun": "Bu durumun",
+    "Suttan": "Sultan",
+    "topla: ma": "toplama",
+    "iltizam sistem geliştirilmiştir": "iltizam sistemi geliştirilmiştir",
+    "nakii": "nakit",
+    "sisteminir": "sistemin",
+    "XVİL": "XVII.",
+    "Modernanlamdaki": "Modern anlamdaki",
+    "başadığı": "başladığı",
+    "442'den *62'lere": "%42’den %2’lere",
+    "hazirlandığı": "hazırlandığı",
+    "Milif": "Millî",
+    "Milit": "Millî",
+    "Millif": "Millî",
+    "Millt": "Millî",
+    "Milf": "Millî",
+    "milif": "millî",
+    "sınırlarır": "sınırların",
+    "man: da": "manda",
+    "edilemeyeceğinir": "edilemeyeceğinin",
+    "aşağıdakilerder": "aşağıdakilerden",
+    "gölgelerinde": "bölgelerinde",
+    "gönderiler": "gönderilen",
+    "aşagıdakilerden": "aşağıdakilerden",
+    "tarafın: dan": "tarafından",
+    "konu: lardan": "konulardan",
+    "hangisiyte": "hangisiyle",
+    "Spykmarı": "Spykman",
+    "Spykmar": "Spykman",
+    "Johnson'ırı": "Johnson’ın",
+    "benimisenmiş": "benimsenmiş",
+    "yazıl “ mıştır": "yazılmıştır",
+    "adıne": "adına",
+    "ta: rafından": "tarafından",
+    "seçiten": "seçilen",
+    "sinir bölgelerinde": "sınır bölgelerinde",
+    "çogunun": "çoğunun",
+    "kahramanlarındar": "kahramanlarından",
+    "almabilecektir": "alınabilecektir",
+    "bırakmasındanı": "bırakmasından",
+    "YusufHas": "Yusuf Has",
+    "XiV.": "XIV.",
+    "İlközel": "İlk özel",
+    "oluştu. rulması": "oluşturulması",
+    "Ili. Selim": "III. Selim",
+    "sorı verme": "son verme",
+    "Mili iradeyi": "Millî iradeyi",
+    "Mill?": "Millî",
+    "ye almıştır": "yer almıştır",
+    "şehil": "şehit",
+    "askerlil": "askerlik",
+    "uygularker": "uygularken",
+    "kalmaktar": "kalmaktan",
+    "gereklerin düşünen": "gereklerini düşünen",
+    "hangileriyte": "hangileriyle",
+    "Tan rı": "Tanrı",
+    "bereket artırması": "bereketi artırması",
+    "kavramlardar": "kavramlardan",
+    "aşağgıdakilerden": "aşağıdakilerden",
+    "Cebeciter": "Cebeciler",
+    "aşağıdaki: lerden": "aşağıdakilerden",
+    "Mustafs": "Mustafa",
+    "İnönü gib": "İnönü gibi",
+    "kong: re": "kongre",
+    "asker?": "askerî",
+    "kabul edileri": "kabul edilen",
+    "yaşatılmayaçalışılmıştır": "yaşatılmaya çalışılmıştır",
+    "sitahlarının": "silahlarının",
+    "İngütere": "İngiltere",
+    "Nevat": "Nevai",
+    "Nevaft": "Nevai",
+    "Yere!": "Yerel",
+    "Dev: leti": "Devleti",
+    "olmak içir": "olmak için",
+    "Til. Ahmet": "III. Ahmet",
+    "savu: nulamaz": "savunulamaz",
+    "yüzyılin": "yüzyılın",
+    "tarafın. dan": "tarafından",
+    "ordunun madd": "ordunun maddi",
+    "sağlamlaştırmak içir": "sağlamlaştırmak için",
+    "yer aldığ kanun": "yer aldığı kanun",
+    "Döne mi": "Dönemi",
+    "adlı bir konferansta yapılan sunumların konu su": "adlı bir konferansta yapılan sunumların konusu",
+    "Çalışmalar” adl": "Çalışmalar” adlı",
+    "ChurchilPin": "Churchill’in",
+    "Marshali": "Marshall",
+    "Hanry": "Henry",
+    "kltaplara": "kitaplara",
+    "Lügat!'i": "Lügati’t",
+    "nitetfendirdikleri": "nitelendirdikleri",
+    "kalmasırıda": "kalmasında",
+    "XVIlN.": "XVIII.",
+    "imzala: nan": "imzalanan",
+    "hâki« miyetini": "hâkimiyetini",
+    "işga eylemlerini": "işgal eylemlerini",
+    "din?": "dinî",
+    "aşağıdakiler- “den": "aşağıdakilerden",
+    "hazırlarlan": "hazırlanan",
+    "tara. fından": "tarafından",
+    "ar. tan": "artan",
+    "desteği le": "desteği ile",
+    "merkeziotorite": "merkezi otorite",
+    "gerek. çesinin": "gerekçesinin",
+    "sa- vaşların": "savaşların",
+    "kendin feshetmesi": "kendini feshetmesi",
+    "Cumhurlyeti": "Cumhuriyeti",
+    "İrak": "Irak",
+    "ilişkilendiri- l lemez": "ilişkilendirilemez",
+    "hü kümdar": "hükümdar",
+    "hangisiylı": "hangisiyle",
+    "aşa: ğıdakilerden": "aşağıdakilerden",
+    "yer li": "yerli",
+    "Misakımill?": "Misakımillî",
+    "istifa et mesi": "istifa etmesi",
+    "temel amacır": "temel amacın",
+    "öncesince": "öncesinde",
+    "siyas ve": "siyasi ve",
+    "esnafi": "esnafı",
+    "Devleti'nir": "Devleti'nin",
+    "ilişkin bil anlatım": "ilişkin bir anlatım",
+    "ilgllidir": "ilgilidir",
+    "smırtarına": "sınırlarına",
+    "çözü- Mü": "çözümü",
+    "aşağgıdakilerin": "aşağıdakilerin",
+    "töresi. ni": "töresini",
+    "hizme!": "hizmet",
+    "uygulan. mıştır": "uygulanmıştır",
+    "Biliç": "Bilig",
+    "İlizam": "İltizam",
+    "yerlerinden olar": "yerlerinden olan",
+    "bul.- muştur": "bulmuştur",
+    "Dev- l leti": "Devleti",
+    "cevab “": "cevabı “",
+    "hazırla: malarını": "hazırlamalarını",
+    "hangisi bı": "hangisi bu",
+    "Ant:- laşması": "Antlaşması",
+    "iti baren": "itibaren",
+    "yapıları aşağıdaki": "yapılan aşağıdaki",
+    "geliştiriten": "geliştirilen",
+    "yukarıdak ifadeden": "yukarıdaki ifadeden",
+    "han: gisine": "hangisine",
+    "tanı« nan": "tanınan",
+    "Meclis-i Umum?": "Meclis-i Umumî",
+    "açı: lan": "açılan",
+    "İngilte re": "İngiltere",
+    "Sakar: ya": "Sakarya",
+    "Yunarı": "Yunan",
+    "Hakkârl": "Hakkâri",
+    "için R tek": "için tek",
+    "- 9430": "%30",
+    "ordu suna": "ordusuna",
+    "aşa ğıdakilerden": "aşağıdakilerden",
+    "Ermenşahlat": "Ermenşahlar",
+    "adlandırılar": "adlandırılan",
+    "inş: edilen": "inşa edilen",
+    "kıs: mını": "kısmını",
+    "Cemlyeti": "Cemiyeti",
+    "İmpa: ratoru": "İmparatoru",
+    "tüm mili": "tüm millî",
+    "top lanan": "toplanan",
+    "millet: vekili": "milletvekili",
+    "kuruları": "kurulan",
+    "Mehmet’e alt": "Mehmet’e ait",
+    "Mehmet'e alt": "Mehmet'e ait",
+    "“kut sistemi”": "“kul sistemi”",
+    "hizmetikarşılığında": "hizmeti karşılığında",
+    "gayrimüslim lerden": "gayrimüslimlerden",
+    "hayvar": "hayvan",
+    "alman bu vergiler": "alınan bu vergiler",
+    "konulardarı": "konulardan",
+    "dü: zenlenen": "düzenlenen",
+    "Ant: laşması": "Antlaşması",
+    "imzalarımıştır": "imzalanmıştır",
+    "de kullanılar": "de kullanılan",
+    "aşağıdakiler den": "aşağıdakilerden",
+    "çikarıp": "çıkarıp",
+    "Tahatsız": "rahatsız",
+    "XVİİN.": "XVIII.",
+    "daim!": "daimî",
+    "ka patıldıktan": "kapatıldıktan",
+    "yapılanmanır": "yapılanmanın",
+    "aylik": "aylık",
+    "hahgileriyle": "hangileriyle",
+    "kurcusu": "kurucusu",
+    "Tejimi": "rejimi",
+    "des. teklemek": "desteklemek",
+    "yapı: lan": "yapılan",
+    "Sağuk": "Soğuk",
+    "başkanlığındak Felah": "başkanlığındaki Felah",
+    "ortaya korumuştur": "ortaya konmuştur",
+    "ayrıca. Jıklara": "ayrıcalıklara",
+    "imzalamasıyla": "imzalanmasıyla",
+    "Sözleşmesi'nir": "Sözleşmesi’nin",
+    "adina": "adına",
+    "Romarıya": "Romanya",
+    "Cabir bir Hayyan": "Cabir bin Hayyan",
+    "1. Meşrutiyet": "I. Meşrutiyet",
+    "Beynanü'i Hak": "Beyanü’l Hak",
+    "Beynanü'! Hak": "Beyanü’l Hak",
+    "Mekteh-i": "Mekteb-i",
+    "Kasr-ı adi": "Kasr-ı adl",
+    "Sirbistan": "Sırbistan",
+    "Topal Osmar": "Topal Osman",
+    "IİMRO": "İMRO",
+    "Kirşehir": "Kırşehir",
+    "Cittçilik": "Ciltçilik",
+    "oluşturuması": "oluşturulması",
+    "E-Medinetü'l": "El-Medinetü'l",
+    "Lefaif-i": "Letaif-i",
+    "açıl- Ması": "açılması",
+    "Nasturf": "Nasturi",
+    "Bertd": "Berid",
+    "Bağdan": "Boğdan",
+    "Misir": "Mısır",
+    "Osmanli": "Osmanlı",
+    "im- Zalanmıştır": "imzalanmıştır",
+    "Kapan hani": "Kapan hanı",
+    "kararfaştırılmıştır": "kararlaştırılmıştır",
+    "Ahvaf": "Ahval",
+    "Karamamesi": "Kararnamesi",
+    "Muhyiddin-i Arabt": "Muhyiddin-i Arabî",
+    "politika sından": "politikasından",
+    "lrak": "Irak",
+    "ZED A": "",
+    "Misakımili?": "Misakımillî",
+    "oluş- . turulması": "oluşturulması",
+    "Jacgues": "Jacques",
+    "Himaye-i Eftal": "Himaye-i Etfal",
+    "Kibris": "Kıbrıs",
+    "Ürmmetçi": "Ümmetçi",
+    "Sınıffarklılıklarının": "Sınıf farklılıklarının",
+    "Lehçetü'i": "Lehçetü’l",
+    "Şitlik": "Şiilik",
+    "Zam) A R": "",
+    "makamınır": "makamının",
+    "teh. ditlere": "tehditlere",
+    "anlaşma yapılması A Ni": "anlaşma yapılması",
+    "Rumt": "Rumî",
+    "Neuiliy": "Neuilly",
+    "irak": "Irak",
+    "1. TBMM": "I. TBMM",
+    "zorluk ları": "zorlukları",
+    "eşitlik sağlamal": "eşitlik sağlamak",
+    "yaşa nan": "yaşanan",
+    "Millîarizm": "Militarizm",
+    "Demire!": "Demirel",
+    "mec. lise": "meclise",
+    "hükümdarlar bell": "hükümdarlar belli",
+    "1. Balkan": "I. Balkan",
+    "Södom": "Sodom",
+    "İhşiditer": "İhşidiler",
+    "Nakkaş Nigart": "Nakkaş Nigarî",
+    "Ada'y hangi": "Ada’yı hangi",
+    "Üşi": "Uşi",
+    "Bıyıkltoğlu": "Bıyıklıoğlu",
+    "ortaya korması": "ortaya konması",
+    "sarunlar": "sorunlar",
+    "Batınflik": "Batınilik",
+    "Satih Paşa": "Salih Paşa",
+    "hızlandırma fil A": "hızlandırma",
+    "Afeş": "Ateş",
+    "Gömore": "Gomore",
+    "Ahalisine A R": "Ahalisine",
+    "yansıftılması": "yansıtılması",
+    "ülkeye girişiminin": "ülkeye girişinin",
+    "eri ünlü": "en ünlü",
+    "gelişmesin sağlamıştır": "gelişmesini sağlamıştır",
+    "savaşlarına de": "savaşlarına da",
+    "ltilaf": "İtilaf",
+    "Hakkın halife": "Halkın halife",
+    "istifa etmes gerektiği": "istifa etmesi gerektiği",
+    "yayımlanar": "yayımlanan",
+    "Çiftresmi": "Çift resmi",
+    "Meydarı": "Meydan",
+    "otuşturulması": "oluşturulması",
+    "Eek'şehir": "Eskişehir",
+    "1. Ziraat": "I. Ziraat",
+    "Amavutluk": "Arnavutluk",
+    "HI. Mehmet": "III. Mehmet",
+    "|. İzzettin": "I. İzzettin",
+    "• e ": "• ",
+    "? .": "?",
+    "? İ": "?",
+    "meşihat . kavramlarından": "meşihat kavramlarından",
+    "kullanılması . gelişmelerinden": "kullanılması gelişmelerinden",
+    "Kastamonu : şehirlerinden": "Kastamonu şehirlerinden",
+    "Londra, l II.": "Londra, II.",
+    "I. “toplumun": "I. toplumun",
+    "*İrad-ı Cedit": "“İrad-ı Cedit",
+    "*.": "“",
+    "*“": "“",
+    "ecdadımiz": "ecdadımız",
+    "Kılık-kiyafet": "Kılık-kıyafet",
+    "Türk halki": "Türk halkı",
+    "yüzyil": "yüzyıl"
+  },
+  "startAt": {
+    "4/18": "Mill",
+    "5/13": "1889",
+    "6/12": "Ağla",
+    "6/15": "12 Ocak",
+    "6/25": "1978",
+    "7/4": "Osmanlı",
+    "10/21": "Büyük Gazi",
+    "11/12": "Osmanlı",
+    "12/5": "Osmanlı",
+    "13/24": "Musul",
+    "14/5": "Fatih",
+    "14/19": "“Ben kimim",
+    "16/4": "Osmanlı",
+    "16/16": "Tanrım",
+    "16/26": "25 Aralık",
+    "20/14": "İstanbul"
+  },
+  "specificReplacements": {
+    "3/8": {
+      "Ul. saray": "III. saray"
+    },
+    "5/14": {
+      "NE Almanya": "III. Almanya"
+    },
+    "5/15": {
+      "JL. Sivas": "II. Sivas",
+      "II. Son Osmanlı": "III. Son Osmanlı"
+    },
+    "6/22": {
+      "Ji. milliyetçilik": "II. milliyetçilik",
+      "II. cumhuriyetçilik": "III. cumhuriyetçilik"
+    },
+    "6/23": {
+      "Til. göçmenlere": "III. göçmenlere"
+    },
+    "7/7": {
+      "Il.. taşrada": "II. taşrada",
+      "II. köyden": "III. köyden"
+    },
+    "8/6": {
+      "ij Jİ. beylerbeyi": "III. beylerbeyi"
+    },
+    "9/4": {
+      ". Murat,": "II. Murat,"
+    },
+    "9/9": {
+      "Ul.": "III."
+    },
+    "9/11": {
+      "; . Osmanlı": "; I. Osmanlı",
+      "I. Osmanlı mali": "II. Osmanlı mali",
+      "II. V. Mehmet": "III. V. Mehmet"
+    },
+    "9/14": {
+      "UN. İstanbul": "II. İstanbul",
+      "II. İstanbul Hükümetinin ulusal": "III. İstanbul Hükümetinin ulusal"
+    },
+    "10/7": {
+      "sağla- II.": "sağlamak, II."
+    },
+    "11/4": {
+      ". Vakıflar": "I. Vakıflar",
+      "I. Fethedilen": "II. Fethedilen",
+      "II. Yerel": "III. Yerel"
+    },
+    "11/7": {
+      "Murat Dönemi": "I. Murat Dönemi"
+    },
+    "11/23": {
+      "önle- II.": "önleme, II."
+    },
+    "12/20": {
+      "KL rejime": "I. rejime",
+      "I. dinî": "II. dinî",
+      "II. ekonomik": "III. ekonomik"
+    },
+    "13/2": {
+      "dünyateklideri": "dünyasının tek lideri"
+    },
+    "14/9": {
+      "XV yüzyıl": "XVIII. yüzyıl"
+    },
+    "15/10": {
+      "L Mısır": "I. Mısır",
+      "BK. Tunus": "II. Tunus",
+      "WI. Cezayir": "III. Cezayir"
+    },
+    "15/27": {
+      "U. Paris": "II. Paris",
+      "II. Maastricht": "III. Maastricht"
+    },
+    "17/6": {
+      "; . yeni": "; I. yeni",
+      "I. kamu": "II. kamu",
+      "II. elverişsiz": "III. elverişsiz"
+    },
+    "17/8": {
+      "II. Mustafa": "III. Mustafa"
+    },
+    "18/20": {
+      "; . halkçılık": "; I. halkçılık",
+      "I. İnkılapçılık": "II. İnkılapçılık",
+      "II. cumhuriyetçilik": "III. cumhuriyetçilik"
+    },
+    "19/13": {
+      "141 Nisan 1920 1": "11 Nisan 1920"
+    },
+    "19/17": {
+      "1 İnönü": "I. İnönü"
+    },
+    "16/13": {
+      "Kuvayımilliye’yi mil": "Kuvayımilliye’yi etkin",
+      "Kuvayımilliye'yi mil": "Kuvayımilliye'yi etkin"
+    },
+    "17/1": {
+      "*,..": "“..."
+    },
+    "18/19": {
+      "...-. ": ""
+    }
+  },
+  "sourceEditorialNotes": {
+    "5/24": "D seçeneğinde basılı II ve II tekrarı, seçenek düzenine uygun II ve III olarak düzeltildi. Doğru cevap D değildir.",
+    "16/13": "Kaynakta eksik basılmış Kuvayımilliye’yi mil ifadesi, kongre kararı doğrultusunda Kuvayımilliye’yi etkin olarak düzenlendi.",
+    "15/2": "Kaynakta yıl 912 olarak basılmıştır; kaynak metni korunmuştur. İçeriğin tarihsel doğruluğu ayrıca incelenebilir."
+  }
+}

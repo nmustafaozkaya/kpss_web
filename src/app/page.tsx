@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { useRouter, usePathname } from "next/navigation";
 import {
   ArrowLeft,
   ArrowRight,
@@ -39,6 +40,7 @@ import {
   Globe,
   Minus,
 } from "lucide-react";
+import QuizAdSlot from "@/components/QuizAdSlot";
 import provinces from "@/data/provinces.json";
 import {
   questions,
@@ -46,6 +48,11 @@ import {
   type Question,
   type Subject,
 } from "@/data/questions";
+import {
+  geoMapQuestions,
+  mapCategories,
+  type MapCategory,
+} from "@/data/map-questions";
 
 type View = "home" | "courses" | "map" | "wrong" | "saved" | "stats";
 type Attempt = { id: string; correct: boolean; date: string };
@@ -63,15 +70,15 @@ const subjects: {
 }[] = [
   {
     name: "Türkçe", group: "GY", desc: "30 soru · Sözcükte anlamdan paragrafa.", icon: Feather, color: "purple", questionCount: 30,
-    topics: ["Sözcükte Anlam","Cümlede Anlam","Paragrafta Anlam","Ses Bilgisi","Sözcüğün Yapısı","Sözcük Türleri","Cümlenin Ögeleri","Yazım Kuralları","Noktalama İşaretleri","Anlatım Bozuklukları","Sözel Mantık"],
+    topics: ["Sözcükte Anlam","Cümlede Anlam","Paragrafta Anlam","Ses Bilgisi","Sözcüğün Yapısı","Sözcük Türleri","Fiilde Çatı","Cümlenin Ögeleri","Cümle Türleri","Yazım Kuralları","Noktalama İşaretleri","Anlatım Bozuklukları","Sözel Mantık"],
   },
   {
     name: "Matematik", group: "GY", desc: "27 soru · Sayılardan olasılığa.", icon: Calculator, color: "blue", questionCount: 27,
-    topics: ["Sayılar","Rasyonel Sayılar","Üslü Sayılar","Köklü Sayılar","Denklemler","Çarpanlara Ayırma","Oran - Orantı","Yüzde Problemleri","Yaş ve Hareket Problemleri","Kümeler","Olasılık","Sayısal Mantık"],
+    topics: ["Sayılar","Rasyonel Sayılar","Üslü Sayılar","Köklü Sayılar","Bölme ve Bölünebilme","Basit Eşitsizlikler","Mutlak Değer","Denklemler","Çarpanlara Ayırma","Oran - Orantı","Sayı ve Kesir Problemleri","Yüzde Problemleri","Yaş ve Hareket Problemleri","İşlem","Fonksiyonlar","Kümeler","Permütasyon ve Kombinasyon","Olasılık","Grafik ve Tablo Yorumlama","Sayısal Mantık"],
   },
   {
     name: "Geometri", group: "GY", desc: "3 soru · Şekil ve uzay bilgisi.", icon: Calculator, color: "blue", questionCount: 3,
-    topics: ["Üçgende Açılar","Özel Üçgenler","Dörtgenler","Çember ve Daire","Analitik Geometri","Katı Cisimler"],
+    topics: ["Üçgende Açılar","Özel Üçgenler","Dörtgenler","Çokgenler","Çember ve Daire","Analitik Geometri","Katı Cisimler"],
   },
   {
     name: "Tarih", group: "GK", desc: "27 soru · Hunlardan günümüze.", icon: Landmark, color: "orange", questionCount: 27,
@@ -79,15 +86,15 @@ const subjects: {
   },
   {
     name: "Coğrafya", group: "GK", desc: "18 soru · Türkiye'yi keşfet.", icon: Globe, color: "green", questionCount: 18,
-    topics: ["Türkiye'nin Coğrafi Konumu","Türkiye'nin Fiziki Özellikleri","Türkiye'nin İklimi ve Bitki Örtüsü","Türkiye'de Nüfus ve Yerleşme","Türkiye'de Tarım","Türkiye'de Hayvancılık","Türkiye'de Madenler ve Enerji","Türkiye'de Sanayi","Türkiye'de Ulaşım","Türkiye'de Turizm","Türkiye'nin Coğrafi Bölgeleri"],
+    topics: ["Türkiye'nin Coğrafi Konumu","Türkiye'nin Fiziki Özellikleri","Türkiye'nin İklimi ve Bitki Örtüsü","Türkiye'de Nüfus ve Yerleşme","Türkiye'de Tarım","Türkiye'de Hayvancılık","Türkiye'de Madenler ve Enerji","Türkiye'de Sanayi","Türkiye'de Ticaret","Türkiye'de Ulaşım","Türkiye'de Turizm","Türkiye'nin Coğrafi Bölgeleri"],
   },
   {
     name: "Vatandaşlık", group: "GK", desc: "9 soru · Hukuktan anayasaya.", icon: ShieldCheck, color: "rose", questionCount: 9,
-    topics: ["Hukukun Temel Kavramları","Demokrasi ve Devlet Biçimleri","Türk Anayasa Tarihi","1982 Anayasası'nın Temel İlkeleri","Yasama","Yürütme","Yargı","Temel Hak ve Özgürlükler","İdare Hukuku","Karma Vatandaşlık"],
+    topics: ["Temel Hukuk Kavramları","Anayasal Kavramlar","Türk Anayasa Tarihi","Temel Hak ve Ödevler","Yasama","Yürütme","Yargı","İdare Hukuku"],
   },
   {
     name: "Güncel Bilgiler", group: "GK", desc: "6 soru · Dünyayı takip et.", icon: Sparkles, color: "gold", questionCount: 6,
-    topics: ["Uluslararası Kuruluşlar","Türkiye'nin Dış Politikası","Güncel Olaylar","UNESCO Dünya Mirası","Genel Kültür ve Güncel Bilgiler"],
+    topics: ["Uluslararası Kuruluşlar","Türkiye'nin Dış Politikası","Güncel Olaylar","UNESCO Dünya Mirası","Spor","Kültür ve Sanat","Bilim ve Teknoloji","Ekonomi ve Projeler","Genel Kültür ve Güncel Bilgiler"],
   },
 ];
 const navItems: { id: View; label: string; icon: typeof Map }[] = [
@@ -214,8 +221,21 @@ function TurkeyMap({
   );
 }
 
-export default function Home() {
-  const [view, setView] = useState<View>("home");
+export default function Home({
+  initialView,
+}: {
+  initialView?: View;
+} = {}) {
+  const router = useRouter();
+  const pathname = usePathname();
+  const [view, setView] = useState<View>(() => {
+    if (initialView) return initialView;
+    if (typeof window !== "undefined" && window.location.pathname === "/haritalar") {
+      return "map";
+    }
+    return "home";
+  });
+  const [mapSearch, setMapSearch] = useState("");
   const [group, setGroup] = useState("Tümü");
   const [search, setSearch] = useState("");
   const [sidebar, setSidebar] = useState(false);
@@ -240,6 +260,10 @@ export default function Home() {
   const [mapIndex, setMapIndex] = useState(0);
   const [mapSelection, setMapSelection] = useState<number | null>(null);
   const [mapChecked, setMapChecked] = useState(false);
+  const [mapCat, setMapCat] = useState<MapCategory | null>(null);
+  const [mapCatActive, setMapCatActive] = useState(false);
+  const [mapScore, setMapScore] = useState(0);
+  const [mapTotal, setMapTotal] = useState(0);
   const [notice, setNotice] = useState("");
   const dialogRef = useRef<HTMLDialogElement>(null);
   const lastFocus = useRef<HTMLElement | null>(null);
@@ -329,6 +353,28 @@ export default function Home() {
     }
   }, [quiz, quizIndex]);
 
+  useEffect(() => {
+    if (pathname === "/haritalar") {
+      setView("map");
+    }
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const v = params.get("view") as View | null;
+      if (v && ["home", "courses", "map", "wrong", "saved", "stats"].includes(v)) {
+        setView(v);
+      }
+      const catParam = params.get("kategori") as MapCategory | null;
+      if (catParam && mapCategories.some((c) => c.id === catParam)) {
+        setMapCat(catParam);
+        setMapCatActive(true);
+      }
+      const q = params.get("q") || params.get("search");
+      if (q) {
+        setMapSearch(q);
+      }
+    }
+  }, [pathname]);
+
   const now = new Date();
   const dayKey = (d: Date) =>
     `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
@@ -360,7 +406,38 @@ export default function Home() {
         .toLocaleLowerCase("tr")
         .includes(search.toLocaleLowerCase("tr")),
   );
-  const currentMap = mapQuestions[mapIndex];
+  const currentMapLegacy = mapQuestions[mapIndex];
+  const filteredMapQuestions = mapCat
+    ? geoMapQuestions.filter((q) => q.category === mapCat)
+    : geoMapQuestions;
+  const currentGeoMap = filteredMapQuestions[mapIndex] ?? filteredMapQuestions[0];
+
+  const matchingMapQuestions = mapSearch.trim()
+    ? geoMapQuestions.filter((q) => {
+        const query = mapSearch.trim().toLocaleLowerCase("tr");
+        const prov = provinces.find((p) => p.plateNumber === q.answer);
+        return (
+          q.text.toLocaleLowerCase("tr").includes(query) ||
+          q.explanation.toLocaleLowerCase("tr").includes(query) ||
+          q.categoryLabel.toLocaleLowerCase("tr").includes(query) ||
+          (prov && prov.name.toLocaleLowerCase("tr").includes(query))
+        );
+      })
+    : [];
+
+  function handleMapSearchChange(val: string) {
+    setMapSearch(val);
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      if (val.trim()) {
+        url.searchParams.set("q", val.trim());
+      } else {
+        url.searchParams.delete("q");
+        url.searchParams.delete("search");
+      }
+      window.history.replaceState(null, "", url.toString());
+    }
+  }
 
   const currentAnswer = quiz ? (quizAnswers[quizIndex] ?? null) : null;
   const isRevealed = quiz ? Boolean(quizRevealed[quizIndex]) : false;
@@ -371,9 +448,40 @@ export default function Home() {
     : 0;
 
   function navigate(next: View) {
+    if (next === "map") {
+      if (pathname !== "/haritalar") {
+        router.push("/haritalar");
+      }
+      setView("map");
+      setSidebar(false);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      return;
+    }
+
+    if (pathname === "/haritalar") {
+      if (next === "home") {
+        router.push("/");
+      } else {
+        router.push(`/?view=${next}`);
+      }
+      setView(next);
+      setSidebar(false);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      return;
+    }
+
     setView(next);
     setSidebar(false);
     setSearch("");
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      if (next === "home") {
+        url.searchParams.delete("view");
+      } else {
+        url.searchParams.set("view", next);
+      }
+      window.history.replaceState(null, "", url.toString());
+    }
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
   function startQuiz(list: Question[], initialIndex?: number) {
@@ -488,13 +596,57 @@ export default function Home() {
   }
   function checkMap() {
     if (mapSelection === null || mapChecked) return;
-    record(currentMap.id, mapSelection === currentMap.answer);
+    if (mapCatActive && currentGeoMap) {
+      record(currentGeoMap.id, mapSelection === currentGeoMap.answer);
+      setMapTotal((t) => t + 1);
+      if (mapSelection === currentGeoMap.answer) setMapScore((s) => s + 1);
+    } else {
+      record(currentMapLegacy.id, mapSelection === currentMapLegacy.answer);
+    }
     setMapChecked(true);
   }
   function nextMap() {
-    setMapIndex((i) => (i + 1) % mapQuestions.length);
+    if (mapCatActive) {
+      if (mapIndex + 1 >= filteredMapQuestions.length) {
+        // finished all questions in category
+        setMapIndex(0);
+        setMapSelection(null);
+        setMapChecked(false);
+        setMapCatActive(false);
+        return;
+      }
+      setMapIndex((i) => i + 1);
+    } else {
+      setMapIndex((i) => (i + 1) % mapQuestions.length);
+    }
     setMapSelection(null);
     setMapChecked(false);
+  }
+  function startMapCategory(cat: MapCategory, initialIndex = 0) {
+    setMapCat(cat);
+    setMapCatActive(true);
+    setMapIndex(initialIndex);
+    setMapSelection(null);
+    setMapChecked(false);
+    setMapScore(0);
+    setMapTotal(0);
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      url.searchParams.set("kategori", cat);
+      window.history.replaceState(null, "", url.toString());
+    }
+  }
+  function backToCategories() {
+    setMapCatActive(false);
+    setMapCat(null);
+    setMapIndex(0);
+    setMapSelection(null);
+    setMapChecked(false);
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      url.searchParams.delete("kategori");
+      window.history.replaceState(null, "", url.toString());
+    }
   }
   function closeDialog() {
     setModal(null);
@@ -720,15 +872,42 @@ export default function Home() {
             <label className="search-field">
               <Search size={17} />
               <input
-                value={search}
+                value={view === "map" ? mapSearch : search}
                 onChange={(e) => {
-                  setSearch(e.target.value);
-                  if (view !== "home" && view !== "courses") setView("courses");
+                  if (view === "map") {
+                    handleMapSearchChange(e.target.value);
+                    if (mapCatActive) {
+                      setMapCatActive(false);
+                      setMapCat(null);
+                    }
+                  } else {
+                    setSearch(e.target.value);
+                    if (view !== "home" && view !== "courses") setView("courses");
+                  }
                 }}
-                placeholder="Ders veya konu ara..."
-                aria-label="Ders veya konu ara"
+                placeholder={
+                  view === "map"
+                    ? "Göl, dağ, ova, plato, nehir ara..."
+                    : "Ders veya konu ara..."
+                }
+                aria-label={
+                  view === "map"
+                    ? "Göl, dağ, ova, plato, nehir ara"
+                    : "Ders veya konu ara"
+                }
               />
-              <span>⌕</span>
+              {view === "map" && mapSearch ? (
+                <button
+                  type="button"
+                  onClick={() => handleMapSearchChange("")}
+                  style={{ background: "none", border: "none", cursor: "pointer", color: "inherit", padding: 0 }}
+                  aria-label="Aramayı temizle"
+                >
+                  ✕
+                </button>
+              ) : (
+                <span>⌕</span>
+              )}
             </label>
             <button className="login-button" onClick={() => authUser ? logout() : openAccount("login")}>
               <LogIn size={16} />
@@ -997,25 +1176,165 @@ export default function Home() {
             </div>
           )}
 
-          {view === "map" && (
+          {view === "map" && !mapCatActive && (
+            <section className="map-categories-section">
+              <div className="section-heading" style={{ flexWrap: "wrap", gap: "16px", alignItems: "flex-end" }}>
+                <div>
+                  <span className="eyebrow">COĞRAFİ BİLGİNİ TEST ET</span>
+                  <h2>Kategori seç veya haritada ara.</h2>
+                </div>
+                <div className="map-search-wrap">
+                  <Search size={17} />
+                  <input
+                    type="text"
+                    value={mapSearch}
+                    onChange={(e) => handleMapSearchChange(e.target.value)}
+                    placeholder="Göl, dağ, ova, plato, nehir, baraj veya il ara... (örn: Abant, Nemrut, Meriç)"
+                    className="map-search-input"
+                  />
+                  {mapSearch && (
+                    <button
+                      className="map-search-clear"
+                      onClick={() => handleMapSearchChange("")}
+                      aria-label="Aramayı temizle"
+                    >
+                      ✕
+                    </button>
+                  )}
+                </div>
+              </div>
+
+              {mapSearch.trim() ? (
+                <div className="map-search-results">
+                  <div className="map-search-results-head">
+                    <span>"{mapSearch}" araması için {matchingMapQuestions.length} soru bulundu</span>
+                    <button className="text-button" onClick={() => handleMapSearchChange("")}>
+                      Aramayı temizle
+                    </button>
+                  </div>
+                  {matchingMapQuestions.length === 0 ? (
+                    <div className="empty-state" style={{ padding: "40px 20px" }}>
+                      <Search />
+                      <h3>Eşleşen coğrafi yer bulunamadı.</h3>
+                      <p>Farklı bir göl, dağ, ova, plato veya il adı deneyebilirsin.</p>
+                      <button className="button secondary" onClick={() => handleMapSearchChange("")}>
+                        Tüm kategorileri göster
+                      </button>
+                    </div>
+                  ) : (
+                    <div className="map-search-results-grid">
+                      {matchingMapQuestions.map((q) => {
+                        const cat = mapCategories.find((c) => c.id === q.category);
+                        const prov = provinces.find((p) => p.plateNumber === q.answer);
+                        return (
+                          <div key={q.id} className="map-search-card">
+                            <div className="map-search-card-top">
+                              <span
+                                className="map-search-card-tag"
+                                style={{ "--cat-color": cat?.color } as React.CSSProperties}
+                              >
+                                <span>{cat?.emoji}</span> {q.categoryLabel}
+                              </span>
+                              <span className="map-search-prov-badge">
+                                📍 {prov?.name ?? `İl: ${q.answer}`}
+                              </span>
+                            </div>
+                            <h4>{q.text}</h4>
+                            <p>{q.explanation}</p>
+                            <button
+                              className="button primary small"
+                              onClick={() => {
+                                const catList = geoMapQuestions.filter((item) => item.category === q.category);
+                                const idx = catList.findIndex((item) => item.id === q.id);
+                                startMapCategory(q.category, idx >= 0 ? idx : 0);
+                              }}
+                            >
+                              Haritada Çöz
+                              <ArrowRight size={14} />
+                            </button>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
+                </div>
+              ) : (
+                <div className="map-cat-grid">
+                  {mapCategories.map((cat) => {
+                    const catQuestions = geoMapQuestions.filter(
+                      (q) => q.category === cat.id,
+                    );
+                    const answeredIds = new Set(
+                      progress.attempts.map((a) => a.id),
+                    );
+                    const answered = catQuestions.filter((q) =>
+                      answeredIds.has(q.id),
+                    ).length;
+                    return (
+                      <button
+                        key={cat.id}
+                        className="map-cat-card"
+                        style={
+                          {
+                            "--cat-color": cat.color,
+                          } as React.CSSProperties
+                        }
+                        onClick={() => startMapCategory(cat.id)}
+                      >
+                        <span className="map-cat-emoji">{cat.emoji}</span>
+                        <strong>{cat.label}</strong>
+                        <p>{cat.desc}</p>
+                        <span className="map-cat-count">
+                          {answered}/{catQuestions.length} çözüldü
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </section>
+          )}
+
+          {view === "map" && mapCatActive && currentGeoMap && (
             <section className="map-workspace">
               <div className="map-question-head">
-                <span className="feature-tag">
-                  <MapPin size={14} />
-                  {currentMap.category}
+                <button
+                  className="map-back-btn"
+                  onClick={backToCategories}
+                >
+                  <ArrowLeft size={16} />
+                  Kategoriler
+                </button>
+                <span className="feature-tag" style={{ "--cat-color": mapCategories.find((c) => c.id === mapCat)?.color } as React.CSSProperties}>
+                  <span>{mapCategories.find((c) => c.id === mapCat)?.emoji}</span>
+                  {currentGeoMap.categoryLabel}
                 </span>
                 <span>
-                  {mapIndex + 1} / {mapQuestions.length} örnek soru
+                  {mapIndex + 1} / {filteredMapQuestions.length}
                 </span>
               </div>
-              <h2>{currentMap.text}</h2>
+
+              <div className="map-score-bar">
+                <span className="map-score-correct">{mapScore} doğru</span>
+                <span className="map-score-total">{mapTotal} çözüldü</span>
+                <div className="map-progress-track">
+                  <div
+                    className="map-progress-fill"
+                    style={{
+                      width: `${((mapIndex + (mapChecked ? 1 : 0)) / filteredMapQuestions.length) * 100}%`,
+                    }}
+                  />
+                </div>
+              </div>
+
+              <h2>{currentGeoMap.text}</h2>
               <p>
                 Haritadaki il sınırlarına tıkla, ardından cevabını kontrol et.
               </p>
               <TurkeyMap
                 selected={mapSelection}
                 checked={mapChecked}
-                correct={currentMap.answer}
+                correct={currentGeoMap.answer}
                 onSelect={(id) => {
                   if (!mapChecked) setMapSelection(id);
                 }}
@@ -1049,13 +1368,13 @@ export default function Home() {
                     disabled={mapSelection === null}
                     onClick={checkMap}
                   >
-                    Cevabı kontrol et
+                    Kontrol et
                     <Check size={17} />
                   </button>
                 ) : (
                   <button className="button primary" onClick={nextMap}>
-                    {mapIndex + 1 === mapQuestions.length
-                      ? "Yeniden başla"
+                    {mapIndex + 1 >= filteredMapQuestions.length
+                      ? "Kategorilere dön"
                       : "Sonraki soru"}
                     <ArrowRight size={17} />
                   </button>
@@ -1063,15 +1382,15 @@ export default function Home() {
               </div>
               {mapChecked && (
                 <div
-                  className={`answer-explanation ${mapSelection === currentMap.answer ? "right" : "wrong"}`}
+                  className={`answer-explanation ${mapSelection === currentGeoMap.answer ? "right" : "wrong"}`}
                   role="status"
                 >
                   <strong>
-                    {mapSelection === currentMap.answer
+                    {mapSelection === currentGeoMap.answer
                       ? "Doğru hamle!"
-                      : `Doğru cevap: ${provinces.find((c) => c.plateNumber === currentMap.answer)?.name}`}
+                      : `Doğru cevap: ${provinces.find((c) => c.plateNumber === currentGeoMap.answer)?.name}`}
                   </strong>
-                  <p>{currentMap.explanation}</p>
+                  <p>{currentGeoMap.explanation}</p>
                 </div>
               )}
               <p className="map-credit">
@@ -1265,7 +1584,7 @@ export default function Home() {
       )}
       <dialog
         ref={dialogRef}
-        className={`modal ${quiz ? "quiz-modal" : ""}`}
+        className={`modal ${quiz ? "quiz-modal" : ""} ${quiz && !quizFinished ? `quiz-active ${quiz[quizIndex].imageContainsQuestion ? "quiz-image-mode" : ""}` : ""}`}
         onCancel={closeDialog}
         onClick={(e) => {
           if (e.target === e.currentTarget) closeDialog();
@@ -1399,6 +1718,7 @@ export default function Home() {
                   günlük hedefine ilerle. Sonuçların bu tarayıcıda saklanır.
                 </p>
               </div>
+              <QuizAdSlot />
               <button
                 className="button primary full-width"
                 onClick={closeDialog}
@@ -1516,18 +1836,30 @@ export default function Home() {
                   />
                 </button>
               </div>
-              {quiz[quizIndex].imageUrl && (
-                <div className={`quiz-question-img-wrap ${quiz[quizIndex].imageContainsQuestion ? "full-question-image" : ""}`}>
-                  <img src={quiz[quizIndex].imageUrl} alt={quiz[quizIndex].imageContainsQuestion ? `${quiz[quizIndex].text}: soru ve A–E şıkları` : "Soru görseli"} />
-                  {quiz[quizIndex].imageContainsQuestion && (
-                    <a href={quiz[quizIndex].imageUrl} target="_blank" rel="noopener noreferrer">Görseli büyüt</a>
-                  )}
-                </div>
-              )}
-              <h2 id="dialog-title" className="question-text">
-                {quiz[quizIndex].text}
-              </h2>
-              <div className={`answer-options ${quiz[quizIndex].imageContainsQuestion ? "image-answer-options" : ""}`}>
+              <div className="quiz-reading" key={quiz[quizIndex].id}>
+              <div className="quiz-stem" key={`stem-${quiz[quizIndex].id}`} tabIndex={0} role="region" aria-label="Soru metni">
+                <h2 id="dialog-title" className={`question-text ${quiz[quizIndex].imageContainsQuestion ? "sr-only" : ""}`}>
+                  {quiz[quizIndex].text}
+                </h2>
+                {quiz[quizIndex].imageUrl && (
+                  <div className={`quiz-question-img-wrap ${quiz[quizIndex].imageContainsQuestion ? "full-question-image" : ""}`}>
+                    <img 
+                      src={quiz[quizIndex].imageUrl} 
+                      alt={quiz[quizIndex].imageContainsQuestion ? `${quiz[quizIndex].text}: soru ve A–E şıkları` : "Soru görseli"} 
+                      onError={(e) => {
+                        const target = e.currentTarget;
+                        if (target && target.parentElement) {
+                          target.parentElement.style.display = 'none';
+                        }
+                      }}
+                    />
+                    {quiz[quizIndex].imageContainsQuestion && (
+                      <a href={quiz[quizIndex].imageUrl} target="_blank" rel="noopener noreferrer">Görseli büyüt</a>
+                    )}
+                  </div>
+                )}
+              </div>
+              <div key={`options-${quiz[quizIndex].id}`} className={`answer-options ${quiz[quizIndex].imageContainsQuestion ? "image-answer-options" : ""}`}>
                 {quiz[quizIndex].options.map((o, i) => (
                   <button
                     key={o}
@@ -1548,6 +1880,9 @@ export default function Home() {
                   </button>
                 ))}
               </div>
+              </div>
+              <div className="quiz-footer">
+              {isRevealed && <p className="quiz-feedback" role="status">{currentAnswer === quiz[quizIndex].answer ? "Doğru cevap!" : `Doğru cevap: ${"ABCDE"[quiz[quizIndex].answer]}`}</p>}
               <div className="quiz-actions-bar">
                 <button
                   type="button"
@@ -1556,7 +1891,7 @@ export default function Home() {
                   disabled={quizIndex === 0}
                 >
                   <ArrowLeft size={16} />
-                  Önceki (Geri)
+                  Önceki
                 </button>
 
                 <div className="quiz-actions-center">
@@ -1585,6 +1920,7 @@ export default function Home() {
                     : "İleri"}
                   <ArrowRight size={16} />
                 </button>
+              </div>
               </div>
             </>
           )}

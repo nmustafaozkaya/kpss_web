@@ -1,0 +1,472 @@
+[
+  {
+    "id": "cogr_d15_q12",
+    "before": {
+      "id": "cogr_d15_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında birbirine komşu olan beş il verilmiştir. Haritadaki illerden hangisinde anason üretimi yapılmamaktadır?",
+      "options": [
+        "Isparta",
+        "Antalya",
+        "Konya",
+        "Burdur",
+        "Afyonkarahisar"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d15_q12.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 77,
+        "exam": 15,
+        "question": 12
+      }
+    },
+    "after": {
+      "id": "cogr_d15_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Haritada birbirine komşu beş il gösterilmiştir.\n\nKaynak kitapta esas alınan üretim verilerine göre bu illerden hangisinde anason üretimi yapılmamaktadır?",
+      "options": [
+        "Isparta",
+        "Antalya",
+        "Konya",
+        "Burdur",
+        "Afyonkarahisar"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d15_q12.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 77,
+        "exam": 15,
+        "question": 12
+      }
+    }
+  },
+  {
+    "id": "cogr_d17_q12",
+    "before": {
+      "id": "cogr_d17_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Türkiye'de yeşil mercimek ve kırmızı mercimeğin en fazla yetiştirildiği alanlar sırası ile yukarıdaki haritada işaretlenerek gösterilen alanlardan hangileridir?",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "III ve IV",
+        "I ve IV",
+        "II ve IV"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d17_q12.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 87,
+        "exam": 17,
+        "question": 12
+      }
+    },
+    "after": {
+      "id": "cogr_d17_q12",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Tarım",
+      "text": "Türkiye haritasında dört alan numaralarla gösterilmiştir.\n\nTürkiye’de yeşil mercimek ve kırmızı mercimeğin en fazla yetiştirildiği alanlar sırasıyla hangileridir?",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "III ve IV",
+        "I ve IV",
+        "II ve IV"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d17_q12.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 87,
+        "exam": 17,
+        "question": 12
+      }
+    }
+  },
+  {
+    "id": "cogr_d22_q7",
+    "before": {
+      "id": "cogr_d22_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Kırşehir'de faaliyet yürüten bir sivil toplum kuruluşunun yapmış olduğu çalışmalar şu şekilde sıralanabilir: Karayollarının kenarında bulunan tarla sınırlarına rüzgâr perdeleri yapılmıştır. Hafif engebeli ve bitki örtüsü açısından yoksun alanlar ağaçlandırılmıştır. Tarım alanlarında ortaya çıkan anız yangınlarını önlemek için denetimler artırılmıştır. Buna göre söz konusu sivil toplum kuruluşunun aşağıda verilen afetlerden hangisi ile mücadele ettiği söylenebilir?",
+      "options": [
+        "Toprak kayması",
+        "Erozyon",
+        "Sel ve taşkın",
+        "Deprem",
+        "Çığ"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 112,
+        "exam": 22,
+        "question": 7
+      }
+    },
+    "after": {
+      "id": "cogr_d22_q7",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Kırşehir’de faaliyet yürüten bir sivil toplum kuruluşunun çalışmaları şöyledir:\n\n• Kara yollarının kenarındaki tarla sınırlarına rüzgâr perdeleri yapılmıştır.\n• Hafif engebeli ve bitki örtüsünden yoksun alanlar ağaçlandırılmıştır.\n• Tarım alanlarında anız yangınlarını önlemek için denetimler artırılmıştır.\n\nBu kuruluşun aşağıdaki afetlerden hangisiyle mücadele ettiği söylenebilir?",
+      "options": [
+        "Toprak kayması",
+        "Erozyon",
+        "Sel ve taşkın",
+        "Deprem",
+        "Çığ"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 112,
+        "exam": 22,
+        "question": 7
+      }
+    }
+  },
+  {
+    "id": "cogr_d23_q14",
+    "before": {
+      "id": "cogr_d23_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralı alanlardan hangisinde rüzgâr enerji santrali (RES) kurulmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d23_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 119,
+        "exam": 23,
+        "question": 14
+      }
+    },
+    "after": {
+      "id": "cogr_d23_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada beş alan numaralarla gösterilmiştir.\n\nKaynak kitabın hazırlandığı dönem esas alındığında, bu alanlardan hangisinde rüzgâr enerji santrali (RES) kurulmamıştır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d23_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 119,
+        "exam": 23,
+        "question": 14
+      }
+    }
+  },
+  {
+    "id": "cogr_d26_q14",
+    "before": {
+      "id": "cogr_d26_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada bir madenin Türkiye’deki başlıca yataklarının bulunduğu iller gösterilmiştir.\n\nBu madenle ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": [
+        "Enerji kaynağı olarak kullanılır.",
+        "Gübre sanayisinde hammadde olarak kullanılır.",
+        "Alüminyum sanayisinin hammaddesidir.",
+        "Türkiye, yüzde yetmişin üzerindeki rezervle dünyada ilk sıradadır.",
+        "Karabük, Ereğli ve İskenderun 'daki fabrikalarda işlenir."
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d26_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 135,
+        "exam": 26,
+        "question": 14
+      }
+    },
+    "after": {
+      "id": "cogr_d26_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritada bir madenin Türkiye’deki başlıca yataklarının bulunduğu iller gösterilmiştir.\n\nBu madenle ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": [
+        "Enerji kaynağı olarak kullanılır.",
+        "Gübre sanayisinde hammadde olarak kullanılır.",
+        "Alüminyum sanayisinin hammaddesidir.",
+        "Türkiye, yüzde yetmişin üzerindeki rezervle dünyada ilk sıradadır.",
+        "Karabük, Ereğli ve İskenderun’daki fabrikalarda işlenir."
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d26_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 135,
+        "exam": 26,
+        "question": 14
+      }
+    }
+  },
+  {
+    "id": "cogr_d26_q17",
+    "before": {
+      "id": "cogr_d26_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Aşağıdaki Türkiye haritasında beş alan numaralarla gösterilmiştir. Haritadaki numaralandırılmış alanlardan hangisinde otoyol ve hızlı tren bağlantıları birlikte bulunmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d26_q17.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 135,
+        "exam": 26,
+        "question": 17
+      }
+    },
+    "after": {
+      "id": "cogr_d26_q17",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Haritada beş alan numaralarla gösterilmiştir.\n\nKaynak kitabın hazırlandığı dönemde bu alanlardan hangisinde otoyol ve hızlı tren bağlantıları birlikte bulunmaktadır?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d26_q17.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 135,
+        "exam": 26,
+        "question": 17
+      }
+    }
+  },
+  {
+    "id": "cogr_d27_q4",
+    "before": {
+      "id": "cogr_d27_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin İklimi ve Bitki Örtüsü",
+      "text": "Dar ve derin vadilerde akan, yatak eğimi fazla akarsuların hidroelektrik potansiyeli yüksektir. Geniş tabanlı vadilerde bu potansiyel daha düşüktür.\n\nHaritadaki alanlardan hangilerinde akarsu vadileri baraj yapmaya daha az elverişlidir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve V",
+        "IV ve V"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d27_q4.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 138,
+        "exam": 27,
+        "question": 4
+      }
+    },
+    "after": {
+      "id": "cogr_d27_q4",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Dar ve derin vadilerde akan, yatak eğimi fazla akarsuların hidroelektrik potansiyeli yüksektir. Geniş tabanlı vadilerde bu potansiyel daha düşüktür.\n\nHaritadaki alanlardan hangilerinde akarsu vadileri baraj yapmaya daha az elverişlidir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve III",
+        "II ve V",
+        "IV ve V"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d27_q4.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 138,
+        "exam": 27,
+        "question": 4
+      }
+    }
+  },
+  {
+    "id": "cogr_d29_q14",
+    "before": {
+      "id": "cogr_d29_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Madenler ve Enerji",
+      "text": "Haritadaki merkezler harflerle gösterilmiştir.\n\nI. En küçük petrokimya tesisi\nII. İlk ferrokrom tesisi\nIII. İlk demir-çelik fabrikası\nIV. Alüminyum fabrikası\n\nK, L, M ve N merkezleri ile bu tesisler hangi seçenekte doğru eşleştirilmiştir?",
+      "options": [
+        "K: I — L: II — M: III — N: IV",
+        "K: IV — L: III — M: II — N: I",
+        "K: III — L: II — M: I — N: IV",
+        "K: I — L: IV — M: III — N: II",
+        "K: II — L: III — M: IV — N: I"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d29_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 150,
+        "exam": 29,
+        "question": 14
+      }
+    },
+    "after": {
+      "id": "cogr_d29_q14",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Sanayi",
+      "text": "Haritadaki merkezler harflerle gösterilmiştir.\n\nI. En küçük petrokimya tesisi\nII. İlk ferrokrom tesisi\nIII. İlk demir-çelik fabrikası\nIV. Alüminyum fabrikası\n\nK, L, M ve N merkezleri ile bu tesisler hangi seçenekte doğru eşleştirilmiştir?",
+      "options": [
+        "K: I — L: II — M: III — N: IV",
+        "K: IV — L: III — M: II — N: I",
+        "K: III — L: II — M: I — N: IV",
+        "K: I — L: IV — M: III — N: II",
+        "K: II — L: III — M: IV — N: I"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "imageUrl": "/questions/cografya/yargi-2026/cogr_d29_q14.webp",
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 150,
+        "exam": 29,
+        "question": 14
+      }
+    }
+  },
+  {
+    "id": "cogr_d32_q2",
+    "before": {
+      "id": "cogr_d32_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Türkiye'nin dağlık engebeli yapısı nedeniyle demir yolu hatları yer şekillerinin daha sade olduğu platolar, ovalar, akarsu vadileri ve dağlar arasındaki doğal geçitlere denk getirilerek maliyet düşürülmektedir. Ankara - Sivas Yüksek Hızlı Tren Hattı Ankara - Konya Yüksek Hızlı Tren Hattı Adana - Şanlıurfa Otoyolu Ankara - İstanbul Otoyolu Yukarıda verilen ulaşım hatları dikkate alındığında aşağıdaki jeomorfolojik ünitelerden hangisi ile ilişki kurulamaz?",
+      "options": [
+        "Bolu Dağları",
+        "Cihanbeyli Platosu",
+        "Bozok Platosu",
+        "Çukurova",
+        "Canik Dağları"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 163,
+        "exam": 32,
+        "question": 2
+      }
+    },
+    "after": {
+      "id": "cogr_d32_q2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'de Ulaşım",
+      "text": "Türkiye’nin dağlık ve engebeli yapısı nedeniyle demir yolu hatları, yapım maliyetini azaltmak için yer şekillerinin daha sade olduğu platolardan, ovalardan, akarsu vadilerinden ve doğal geçitlerden geçirilir.\n\n• Ankara–Sivas Yüksek Hızlı Tren Hattı\n• Ankara–Konya Yüksek Hızlı Tren Hattı\n• Adana–Şanlıurfa Otoyolu\n• Ankara–İstanbul Otoyolu\n\nBu ulaşım hatları dikkate alındığında aşağıdaki jeomorfolojik ünitelerden hangisiyle ilişki kurulamaz?",
+      "options": [
+        "Bolu Dağları",
+        "Cihanbeyli Platosu",
+        "Bozok Platosu",
+        "Çukurova",
+        "Canik Dağları"
+      ],
+      "answer": 4,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 163,
+        "exam": 32,
+        "question": 2
+      }
+    }
+  },
+  {
+    "id": "cogr_d32_q3",
+    "before": {
+      "id": "cogr_d32_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarında oluşan kıyı tiplerinden biri de enine kıyılardır. Bu kıyıların olduğu yerle ilgili, I. kıta sahanlığı dardır. II. kıyıda girinti çıkıntı fazladır. III. kıyı gerisindeki dağlar kıyıya paralel uzanır. IV. dalga biriktirme şekilleri yaygındır. bilgilerinden hangilerinde yanlışlık vardır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 163,
+        "exam": 32,
+        "question": 3
+      }
+    },
+    "after": {
+      "id": "cogr_d32_q3",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Fiziki Özellikleri",
+      "text": "Türkiye kıyılarında görülen kıyı tiplerinden biri enine kıyılardır.\n\nBu kıyılarla ilgili;\nI. kıta sahanlığı dardır,\nII. kıyıda girinti çıkıntı fazladır,\nIII. kıyı gerisindeki dağlar kıyıya paralel uzanır,\nIV. dalga biriktirme şekilleri yaygındır\n\nbilgilerinden hangileri yanlıştır?",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "imageUrl": null,
+      "source": {
+        "title": "Yargı KPSS Coğrafya 33 Deneme 2026",
+        "page": 163,
+        "exam": 32,
+        "question": 3
+      }
+    }
+  }
+]

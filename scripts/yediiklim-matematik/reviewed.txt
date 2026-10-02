@@ -1,0 +1,500 @@
+1|R|[(4/9 − 1/18) ÷ (2/9 + 1/18)] işleminin sonucu kaçtır?|5/7;7/5;4/5;3/5;1/5
+2|R|1 + 23/2 + 1/(1/5 − 1/3) işleminin sonucu kaçtır?|4;5;6;8;9
+3|R|(1 − 1/9) · (1 − 1/16) · (1 − 1/25) işleminin sonucu kaçtır?|1/5;2/5;3/5;4/5;1
+4|R|(2 − 2/9) · (5/8 − 3/4 + 1/2) işleminin sonucu kaçtır?|5/3;4/3;1/3;2;2/3
+5|R|[(5 − 4/5) · (7 + 6/7)] / (4 − 1/3) işleminin sonucu kaçtır?|9;10;12;8;11
+6|R|[(3 − 1/4) / (3 + 1/4)] · (5 − 2/3) işleminin sonucu kaçtır?|11/7;11/5;11/8;11/3;11/2
+7|R|1 − [(1 − 1/2) / (1 + 1/2)] · (3/2) işleminin sonucu kaçtır?|1/5;1/4;1/6;1/2;1/3
+8|U|(2⁻¹ − 3⁻¹) / (2⁻² − 3⁻²) işleminin sonucu kaçtır?|4/5;6/5;1;3/5;7/5
+9|R|1/2 − (1/2) ÷ (2 + 1/2) + 1/4 işleminin sonucu kaçtır?|9/20;11/20;11/10;4/5;8/5
+10|R|3/(2/3 − 1) + (1 − 2/3)/3 işleminin sonucu kaçtır?|−70/9;80/9;−20/3;−50/9;−80/9
+11|R|(5/8 − 4/7) / (1/7 + 3/4) + 0,44 işleminin sonucu kaçtır?|1/4;1/2;1;2;4
+12|R|[(2/0,04 − 4) ÷ 0,23] / (0,6 − 0,1) işleminin sonucu kaçtır?|250;350;400;450;500
+13|R|0,6 − 2/(5 + 3/0,6) işleminin sonucu kaçtır?|0,2;0,3;0,4;0,45;0,5
+14|R|0,4 + (2,22 + 0,42)/(3,4 − 1,2) işleminin sonucu kaçtır?|1,2;1,4;1,6;1,8;2
+15|R|(0,5 + 0,15)/0,13 + (0,16 − 0,02)/0,002 işleminin sonucu kaçtır?|50;45;55;75;60
+16|R|0,24/0,048 + (0,1 + 0,06 + 0,008)/(1 − 0,9916) işleminin sonucu kaçtır?|2,5;15;20;25;35
+17|R|[(0,1)² + (0,3)²] / (0,2 − 0,02) işleminin sonucu kaçtır?|1/2;5/8;3/8;4/9;5/9
+18|R|[(0,64)² − (0,36)²] / 1,4 işleminin sonucu kaçtır?|0,4;0,5;0,1;0,2;0,3
+19|U|[(1 − 0,7)² / (2 − 1,9)²] ÷ [(0,4)⁻² / (0,3)⁻²] işleminin sonucu kaçtır?|6;9;12;16;18
+20|R|Bir sayı doğrusunda soldan sağa A, B, C, D, E, F ve G noktaları eşit aralıklarla sıralanmıştır. B noktası 3/2’yi, G noktası 7/2’yi gösterdiğine göre A noktası hangi sayıyı gösterir?|13/10;9/10;11/10;1;7/5
+21|R|a = 12/11, b = 13/12 ve c = 14/13 olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < c < a;c < a < b;c < b < a
+22|R|a + b = 21/23, a + c = 19/21 ve b + c = 25/27 olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < c < a;c < a < b;c < b < a
+23|R|Ceren; bir video indirme sayfasından A, B ve C şarkılarının her birini kendi içinde sabit bir indirme hızıyla bilgisayarına indirmiştir. Şarkıların indirme hızları ve toplam boyutları şöyledir:\nA: 3 MB/saniye, 165 MB\nB: 2,2 MB/saniye, 110 MB\nC: 1,9 MB/saniye, 114 MB\nBuna göre A, B ve C şarkılarının bilgisayara inme sürelerinin sıralaması aşağıdakilerden hangisinde doğru olarak verilmiştir?|A < B < C;A < C < B;B < A < C;B < C < A;C < A < B
+24|U|(27² · 24³) / 6⁸ işleminin sonucu kaçtır?|12;16;6;36;40
+25|U|[(-3)² − (-3)³] / [(-2⁴) + (-2)²] işleminin sonucu kaçtır?|−2;−3;3;2;1
+26|U|(2⁻² − 3⁻²) / (4⁻² − 6⁻²) işleminin sonucu kaçtır?|2;3;4;6;9
+27|U|(48³ · 5⁶) / (54 · 10⁵) işleminin sonucu kaçtır?|240;160;200;300;320
+28|U|(2¹³ − 5 · 2⁸) / 24³ işleminin sonucu kaçtır?|2;8;1/2;1/4;1
+29|U|(19 · 4² + 6⁴) / (2⁸ · 5⁴) işleminin sonucu kaçtır?|10⁻¹;10⁻²;10⁻³;10;100
+30|U|(54² − 9⁴) / (27² + 6⁶) işleminin sonucu kaçtır?|−2/11;−1/13;1/13;−3/13;−4/11
+31|U|(3 · 12⁵ − 2 · 12⁴) / (8⁴ · 9³ + 8³ · 9⁴) işleminin sonucu kaçtır?|9;6;4;1/4;1/9
+32|U|(0,7 · 10⁻⁹ + 0,05 · 10⁻⁸) / 10⁻¹¹ işleminin sonucu kaçtır?|120;1200;12;160;1600
+33|U|x, y ve z negatif tam sayılar olmak üzere, (x/y)³ = 1/27 ve 3x = 2z ise, x + y + z toplamının en büyük değeri kaçtır?|−14;−15;−16;−11;−13
+34|U|x ve y tam sayıları için (0,125)⁻⁶ · 50⁴ = 2^x · 5^y eşitliği sağlanmaktadır. Buna göre x + y toplamı kaçtır?|25;28;27;26;30
+35|U|2^(3x+1) + 3 · 2^(3x+1) + 3 · 2^(3x+3) = 1/16 eşitliğini sağlayan x değeri kaçtır?|2;−2;3;−1;−3
+36|U|a ve b pozitif tam sayılar olmak üzere, a^b = 64 olduğuna göre a + b toplamının alabileceği kaç farklı değer vardır?|4;1;2;3;5
+37|U|x ve y gerçel sayıları için 3^x = 50 ve 2^y = 25 eşitlikleri sağlanmaktadır. Buna göre, ∣x − y∣ − ∣x − 4∣ + ∣5 − y∣ ifadesinin değeri aşağıdakilerden hangisine eşittir?|1;x;y;x − y;x − 9
+38|U|(10^(x+1) − 5 · 10^x) / 5^(x+1) = 128 eşitliğini sağlayan x değeri kaçtır?|5;6;3;4;7
+39|U|2²⁰ − 2¹⁹ − 2¹⁸ − … − 2¹ − 2⁰ işleminin sonucu kaçtır?|2;4;1;8;16
+40|U|(13³ − 117) / (2⁶ − 24) işleminin sonucu kaçtır?|52;48;65;39;42
+41|U|x^y = 9, x^(y+1) = 18 ve x^(y+z) = 27 olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|y < x < z;y < z < x;z < y < x;z < x < y;x < z < y
+42|U|a = 27⁴⁰, b = 32³⁶ ve c = 36³⁰ olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;c < a < b;c < b < a
+43|U|a, b ve c birbirinden farklı birer pozitif tam sayı olmak üzere, (6^a · 21^b)/(9^b · 14^c) ifadesinin bir tam sayı olduğu biliniyor. Buna göre, aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;c < b < a;c < a < b
+44|K|[√((-3)²) − ∛((-3)³)] / [∛((-4)³) + ⁶√((-2)⁶)] işleminin sonucu kaçtır?|−4;−3;−1;−6;−2
+45|K|(√12 + 2/√3) / (√27 − 1/√3) işleminin sonucu kaçtır?|2;3;6;1;4
+46|K|(√50 + 2/√2) / √18 işleminin sonucu kaçtır?|1/3;1/2;2;√2;2√2
+47|K|[√3 · (√135 + √60)] / √5 işleminin sonucu kaçtır?|15;12;6;5;3
+48|K|(√14,4 − √10) / (√0,9 − √0,4) işleminin sonucu kaçtır?|2;0,2;3;0,3;4
+49|K|√10 / (√125/√2 − √10) işleminin sonucu kaçtır?|√2;√5;2;2/3;3/4
+50|K|(√128 + √50 − √98) / (√32 − √8) işleminin sonucu kaçtır?|6;4;3;2;5
+51|K|(√72 + √18/2) / (√54 − √6/2) işleminin sonucu kaçtır?|√2;√3;2;3;√6
+52|K|√108 / (√75/√2 − √6) işleminin sonucu kaçtır?|√3;2√3;√2;3√2;2√2
+53|K|(√4,8 · √3,2) / (√0,96 + √2,16) işleminin sonucu kaçtır?|4√3/5;2√3/7;8/5;√3;2
+54|K|1/(√5 − √3) + 1/(√3 − 1) + 2/(3 + √5) işleminin sonucu kaçtır?|√3 − 2;√3;√3 + 4;√3 + 2;4
+55|K|√[(√12 + 2√75)/√27] işleminin sonucu kaçtır?|2;3;4;5;6
+56|K|5√3 < x < 4√11 olduğuna göre, x’in alabileceği kaç farklı tam sayı değeri vardır?|1;3;4;2;5
+57|K|x ve y gerçel sayıları için √x − √y = 2 ve √x + √y = 16 eşitlikleri sağlanmaktadır. Buna göre, x − y farkı kaçtır?|32;36;42;48;64
+58|K|6/√2 + 3/√3 − 3/(√3 − √2) işleminin sonucu kaçtır?|2√3;−√3;−2√3;√3;0
+59|K|1/√a + 5/√(16a) = 3/2 eşitliğini sağlayan a değeri kaçtır?|9/16;4/9;16/9;9/4;3/4
+60|K|(√3 − 1)/(√3 + 1) + √3 işleminin sonucu kaçtır?|4;2;3;1;6
+61|K|(√7 − √6)¹⁶ · (√7 + √6)¹⁵ işleminin sonucu kaçtır?|√7;√7 − √6;√7 − 3;√6;√7 + √6
+62|K|(√117/3 − 1/√52) / (5/√13) işleminin sonucu kaçtır?|5/2;5/4;3/2;7/2;3/4
+63|K|√27/(√54 − √24) − √2/2 işleminin sonucu kaçtır?|2√2;2;4√2;√2/2;√2
+64|K|[(√27 + √3 + 3)/(√12 + 8)] · 2 işleminin sonucu kaçtır?|4;8;12;2√3;√3
+65|K|(1 + √2)/(1 + √2 + √3 + √6) + 1/2 işleminin sonucu kaçtır?|√3;√3/2;2√3;2;3
+66|K|√x · √y = 8/9 ve √y/√x = 1/2 olduğuna göre, x − y farkı kaçtır?|4/3;4/5;3/4;3/2;3/8
+67|K|x = √10/3, y = √7/4 ve z = √11/6 olduğuna göre, x, y ve z sayılarının küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisidir?|x < y < z;x < z < y;y < x < z;y < z < x;z < y < x
+68|S|a bir tam sayı olmak üzere 3a² − 4 ifadesi bir tek sayıya eşittir. Buna göre, aşağıdakilerden hangisi bir çift sayı belirtir?|a + 2;a³ − 8;2a² + 5;5a⁴ − 6;a² + a + 2
+69|S|a ve b birer rakam olmak üzere, (a − 3) · (2b + 3) çarpımı pozitif bir çift tam sayı belirtmektedir. Buna göre, a’nın alabileceği kaç farklı değer vardır?|6;4;3;5;2
+70|S|x, y ve z tam sayılar olmak üzere, (x + y) · z ile x · y ifadelerinin sırasıyla tek ve çift sayı olduğu biliniyor. Buna göre, x, y ve z sayılarından hangileri her zaman tek sayıdır?|Yalnız x;Yalnız y;Yalnız z;x ve y;x ve z
+71|S|a, b ve c pozitif tam sayılar olmak üzere, (3ab + 5)/4 = c eşitliği veriliyor. Buna göre,\nI. a · b · c\nII. a + b\nIII. a + b · c\nifadelerinin hangileri her zaman çift sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;I ve III
+72|S|a ve b tam sayıları için a · b + b = 36 eşitliği sağlanmaktadır. Buna göre,\nI. a + b çift sayıdır.\nII. a · b tek sayıdır.\nIII. a · b + a tek sayıdır.\nifadelerinden hangileri her zaman doğrudur?|Yalnız I;Yalnız II;Yalnız III;II ve III;I ve III
+73|S|a, b ve c pozitif tam sayılar olmak üzere, 4a² + b³ + 3c⁴ ifadesi bir tek sayıdır. Buna göre,\nI. a + b\nII. b + c\nIII. a · b · c\nifadelerinden hangileri daima çift sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+74|S|a, b ve c birer tam sayı olmak üzere, a + b ve b + c ifadelerinden birinin tek sayı, birinin çift sayı olduğu biliniyor. Buna göre,\nI. a · b · c\nII. a + b + c\nIII. a · (b + c)\nifadelerinden hangileri kesinlikle çift sayıdır?|Yalnız I;Yalnız II;I ve II;I ve III;I, II ve III
+75|S|a, b ve c pozitif tam sayılar olmak üzere a + 5b + 3c ve 3a + b ifadelerinden biri tek sayı, diğeri ise çift sayı belirtmektedir. Buna göre,\nI. a + b\nII. a · b · c\nIII. c\nifadelerinden hangileri kesinlikle tek sayı belirtir?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+76|S|x ve y birer tam sayı olmak üzere x − 3y, 2x + 5y ve 3x − y sayılarından ikisinin tek sayı, birinin çift sayı olduğu biliniyor. Buna göre,\nI. x + y\nII. 4x + y\nIII. x · y\nifadelerinden hangileri tek sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+77|S|a, b ve c ardışık üç doğal sayı ve a < b < c olmak üzere,\nI. a · b · c\nII. a + b + c\nIII. (a + b) · (b + c)\nifadelerinden hangileri daima tek sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+78|S|a, b ve c tam sayılar olmak üzere, a + b ve b + c ifadeleri ardışık sayılardır. Buna göre,\nI. a · b\nII. b · c\nIII. a · c\nifadelerinden hangileri her zaman çift sayıya eşittir?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+79|S|x, y ve z birer pozitif tam sayı olmak üzere x^y − (y^z)/(z^x) ifadesi bir tek sayıya eşittir. x bir tek sayı olduğuna göre,\nI. x + y + z\nII. x · y · z\nIII. x + y\nifadelerinden hangileri daima tek sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+80|S|a, b ve c pozitif tam sayıları için 3ab + c³ ifadesi tek sayı belirtmektedir. Buna göre,\nI. a + b + c\nII. a · b · c\nIII. a + b · c\nifadelerinden hangileri kesinlikle çift sayı belirtir?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+81|S|a, b ve c pozitif tam sayılar olmak üzere, a − c ve c − b ifadeleri ardışık tam sayılardır. Buna göre,\nI. a · b\nII. a · c\nIII. b · c\nifadelerinden hangileri her zaman çift sayıya eşittir?|Yalnız I;Yalnız II;Yalnız III;II ve III;I, II ve III
+82|S|x ve y tam sayıları için (x + 10y)/(4y) = 3 eşitliği sağlanmaktadır. Buna göre,\nI. x − y\nII. x · y\nIII. x/y\nifadelerinden hangileri her zaman çift sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+83|S|Üç ve dört tekerlekli el arabalarının üretildiği bir iş yerinde x tane üç tekerlekli, y tane de dört tekerlekli araba üretilmiştir. Bu arabalar için ise z tane tekerlek kullanılmıştır. Buna göre,\nI. x tek ise z tektir.\nII. y çift ise z çifttir.\nIII. x · y · z çifttir.\nifadelerinden hangileri her zaman doğrudur?|Yalnız I;Yalnız II;Yalnız III;I ve II;I ve III
+84|S|x pozitif bir tam sayı olmak üzere, (6x − 24)/x ifadesi bir çift doğal sayıya eşittir. Buna göre, bu koşulu sağlayan x değerlerinin toplamı kaçtır?|18;24;28;16;22
+85|S|A, B, C, D ve E birer tam sayıdır. Aşağıdaki tablonun satır toplamları sırasıyla tek, çift, tek; sütun toplamları sırasıyla çift, tek, tektir:\nA   3   B\n4   E   C\nD   7   6\nBuna göre,\nI. A · C\nII. E + D\nIII. A + C + D\nifadelerinden hangileri tek sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+86|S|Üç basamaklı ABC, ACB, BAC, BCA, CAB ve CBA sayılarından ikisi çift sayıya, dördü tek sayıya eşittir. Buna göre,\nI. AB + AC\nII. AB · BC · CA\nIII. AB · CA + AC\nifadelerinden hangileri daima çift sayıya eşittir? (AB, AC, BC ve CA iki basamaklı sayılardır.)|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+87|S|A ve B birer rakam olmak üzere, AB8 − AB = AA6 olduğuna göre A + B toplamı kaçtır? (AB8 ve AA6 üç, AB iki basamaklı sayıdır.)|6;3;7;5;4
+88|S|A, B ve C birer rakam olmak üzere, BCBA + BBA = 8050 olduğuna göre A + B + C toplamı kaçtır? (BCBA dört, BBA üç basamaklı sayıdır.)|20;16;18;12;14
+89|S|A, B ve C birer rakam olmak üzere, AB9 − B8C = 4CA işlemi veriliyor. Buna göre A · B · C çarpımı kaçtır? (Sayılar üç basamaklıdır.)|30;24;18;42;36
+90|S|abc ve cba üç basamaklı; ac ve ca iki basamaklı doğal sayılardır. abc − cba = x ve ac − ca = 27 olduğuna göre x kaçtır?|198;396;594;297;495
+91|S|Dört basamaklı BABA doğal sayısı rakamları toplamının 303 katına eşittir. Buna göre A · B çarpımı kaçtır?|14;20;15;18;12
+92|S|Üç basamaklı ABC sayısı, birler basamağı 4 olan iki basamaklı bir sayıyla çarpılıyor. Uzun çarpma işleminde 4 ile çarpımdan elde edilen ilk ara sonuç üç basamaklı ve birler basamağı 2’dir. Onlar basamağıyla çarpımdan elde edilen ikinci ara sonuç dört basamaklı, binler basamağı 2 ve birler basamağı 7’dir. İşlemin beş basamaklı sonucu 02 ile bitmektedir. Buna göre A + B + C toplamı kaçtır?|15;13;8;12;16
+93|S|İki basamaklı bir doğal sayıya rakamları çarpımı eklenip rakamları toplamı çıkarıldığında elde edilen sonuç 36 olduğuna göre bu şarta uyan iki basamaklı kaç doğal sayı yazılabilir?|1;4;3;2;5
+94|S|Mehmet, iki basamağındaki rakamı aynı ve diğer basamağındaki rakamı 4 olan üç basamaklı bir doğal sayının basamaklarındaki rakamlardan birini yer değiştirince değeri 297 azalıyor. Buna göre bu sayının rakamları toplamı en çok kaçtır?|19;20;18;15;16
+95|S|4AB ve AB4 üç basamaklı doğal sayılardır. 4AB − AB4 = 180 olduğuna göre A · B çarpımı kaçtır?|12;10;15;6;8
+96|S|A, B ve C birer rakam olmak üzere ABC − 5CA = 34A olduğuna göre A · B + C işleminin sonucu kaçtır? (ABC, 5CA ve 34A üç basamaklı sayılardır.)|35;42;28;30;36
+97|S|İki basamaklı AB, B3 ve 4A doğal sayılarının toplamı 164’tür. Buna göre A · B çarpımının alabileceği en büyük değer kaçtır?|30;24;28;27;20
+98|S|Üç basamaklı AB4, iki basamaklı AB ve iki basamaklı AA doğal sayılarının toplamı üç basamaklı B7A doğal sayısına eşittir. Buna göre A + B toplamı kaçtır?|14;11;12;13;15
+99|S|Üç basamaklı ABC doğal sayıları için A ile B sayılarının aritmetik ortalaması 5, A ile C sayılarının aritmetik ortalaması 4’tür. Bu şartı sağlayan en büyük ABC sayısı ile en küçük ABC sayısının toplamı kaçtır?|1094;1102;1017;1045;1029
+100|S|İki basamaklı AB doğal sayısına rakamları toplamının 5 katı eklendiğinde iki basamaklı BA doğal sayısının 3 katı elde edilmektedir. Buna göre bu şarta uyan iki basamaklı kaç AB sayısı yazılabilir?|5;6;4;3;7
+101|S|Üç kâğıdın her birinin üzerine beşer basamaklı sayılar yazılmıştır. Kâğıtlar üst üste yerleştirildiğinde görünen sayılar 25827, 22□03 ve □□341 şeklindedir. Kareler görünmeyen rakamları belirtmektedir. Bu üç sayının toplamı 69471 olduğuna göre, görünmeyen üç rakamın toplamı kaçtır?|6;12;18;20;22
+102|S|(6! + 5! + 4!) / (4! + 3! · 2!) işleminin sonucu kaçtır?|30;32;26;24;28
+103|S|(7! + 6!) / (5! · 4! · 3!) işleminin sonucu kaçtır?|1/3;1/4;1/5;1/6;1/2
+104|S|(10! + 9! + 11 · 8!) / (8! − 7! + 6! · 3!) işleminin sonucu kaçtır?|144;120;118;156;112
+105|S|(7! − 6! + 5!) / (6! + 5! + 4! + 4!) işleminin sonucu kaçtır?|4;3;2;5;6
+106|S|(1/5! + 1/6!) / (1/7! − 1/8!) işleminin sonucu kaçtır?|48;42;56;60;64
+107|S|11! − 10! − 9! ifadesi aşağıdaki sayılardan hangisine tam olarak bölünür?|57;26;46;39;77
+108|S|a, b ve c birer asal sayı olmak üzere, a − b = c/11 olduğuna göre a + b + c toplamı kaçtır?|14;16;12;13;17
+109|S|Rakamları asal olmayan ancak kendisi asal sayı olan iki basamaklı, rakamları farklı sayılara “atanmış” sayı denir. Örneğin 41 bir atanmış sayıdır. Buna göre bu şarta uyan en büyük ve en küçük doğal sayıların toplamı kaçtır?|108;110;120;114;106
+110|S|a doğal sayısı iki asal sayının çarpımına eşit olmak üzere, 48a ve 60a sayılarının asal çarpanlarının sayısı sırasıyla 3 ve 4’tür. Buna göre en küçük a sayısının rakamları çarpımı kaçtır?|4;5;6;7;10
+111|S|a doğal sayısının farklı asal çarpanlarının toplamı 10’dur. Buna göre a’nın alabileceği en büyük ve en küçük iki basamaklı değerlerin toplamı kaçtır?|111;150;160;140;100
+112|S|a ve b aralarında asal sayılar olmak üzere a · b = 60 eşitliğini sağlayan kaç farklı (a, b) ikilisi vardır?|6;8;5;4;7
+113|S|Rakamları asal olan üç basamaklı, rakamları farklı kaç doğal sayı vardır?|36;30;20;48;24
+114|S|İki basamaklı bir doğal sayı için aşağıdaki dört ifadeden üçü doğru, biri yanlıştır:\n• 50’den küçüktür.\n• Rakamları toplamı çifttir.\n• Rakamlarından biri 7’dir.\n• Rakamlarından biri 9’dur.\nBuna göre bu sayının alabileceği kaç farklı değer vardır?|2;3;4;6;5
+115|S|Ardışık 7 çift sayıdan en küçük 4 tanesinin toplamı en büyük 5 tanesinin toplamına eşit olduğuna göre, bu sayıların toplamı kaçtır?|−133;−140;−154;−147;−168
+116|S|Ardışık 4 tek sayıdan en büyüğünün karesi, en küçüğünün karesinden 96 fazladır. Buna göre bu sayıların toplamı kaçtır?|32;36;40;28;24
+117|S|ABC, BCA ve CAB üç basamaklı doğal sayılar, n bir doğal sayı olmak üzere 1 + 2 + 3 + … + n = ABC + CAB + BCA eşitliğine göre A + B + C + n toplamı kaçtır?|36;48;42;40;44
+118|S|a, b − a ve b − 2a sayıları küçükten büyüğe doğru sıralanmış ardışık üç çift sayıdır. Buna göre bu sayıların toplamı kaçtır?|6;0;−6;−4;−12
+119|S|x, y, z ve t ardışık çift sayılar ve x < y < z < t olmak üzere x · t < 0 ve x · y · z = 0 ifadeleri veriliyor. Buna göre x + y + z + t toplamı en az kaçtır?|−6;−2;4;0;−4
+120|S|A, B ve C birbirinden farklı rakamlar; AC ve CB iki basamaklı ardışık çift doğal sayılar olmak üzere AC < CB eşitsizliği veriliyor. Buna göre A + B + C toplamı kaçtır?|20;17;18;16;15
+121|S|Esra, 1’den 7’ye kadar olan ardışık sayıların tamamını üç siyah, üç gri ve bir beyaz daireye, her daireye bir sayı gelecek şekilde yazıyor. Siyah dairelerdeki sayıların toplamı gri dairelerdeki sayıların toplamına eşittir. Buna göre Esra’nın beyaz daireye yazmış olabileceği sayıların toplamı kaçtır?|12;13;15;16;18
+122|B|1’den 9’a kadar olan rakamlar üçer kez, sırasıyla ve yan yana yazılarak 27 basamaklı A = 111222333444…999 sayısı oluşturuluyor. Buna göre A sayısı 111’e bölündüğünde elde edilen bölüm kaç basamaklıdır?|9;17;18;25;26
+123|B|a bir tam sayı olmak üzere 40’ın a’ya bölümünden kalan 4’tür. Buna göre a’nın alabileceği kaç farklı değer vardır?|5;6;9;7;8
+124|B|Dört basamaklı 4A3B sayısı 9’a, iki basamaklı 7A sayısı da 4’e tam bölünüyor. Buna göre B’nin alabileceği değerler toplamı kaçtır?|12;16;18;10;14
+125|B|Üç basamaklı A8B sayısı 15 ile tam olarak bölünebilmektedir. Buna göre A8B sayısının alabileceği en büyük değer ile en küçük değerin toplamı kaçtır?|1020;1065;1105;1170;1215
+126|S|Aslı’nın elinde 1’den 16’ya kadar olan sayılarla numaralandırdığı 16 bölmeden oluşan bir kutu vardır. Her bölmeye o bölmenin numarası kadar bilye koyacaktır. Her bilyenin ağırlığı 5 gramdır. Buna göre Aslı’nın bu kutuya koyduğu bilyelerin toplam ağırlığı kaç gramdır?|680;340;510;170;850
+127|B|Rakamları sıfırdan farklı üç basamaklı ABA doğal sayısının kendisi 3 ile, rakamları çarpımı ise 5 ile tam bölünmektedir. Buna göre A’nın alabileceği farklı değerler toplamı kaçtır?|15;18;14;12;24
+128|B|5 ile bölündüğünde bölüm ve kalanın birbirine eşit olduğu tüm doğal sayıların toplamı kaçtır?|72;60;54;48;66
+129|B|İki basamaklı AB doğal sayısının 5 ile bölümünden kalan 3’tür. AB sayısının 1 fazlası 4 ile tam bölünebilmektedir. Buna göre A + B toplamı en çok kaçtır?|16;11;13;12;14
+130|S|İsmail hesap makinesiyle 10 basamaklı 13! sayısını hesaplamıştır. Hesap makinesinin en soldaki rakamı gösteren hanesi bozuk olduğu için ekranda o rakam yerine E harfini görmüştür: E227020800. Buna göre E harfinin belirttiği rakam kaçtır?|6;3;4;8;7
+131|B|a doğal sayısı 40 ile tam bölünebildiğine göre,\nI. Birler basamağı 0’dır.\nII. Hem 5 ile hem de 8 ile tam bölünebilir.\nIII. 6 ile bölümünden kalan 4’tür.\nifadelerinden hangileri her zaman doğrudur?|Yalnız I;Yalnız II;Yalnız III;I ve II;I, II ve III
+132|B|A, B ve C birbirinden farklı birer rakam olmak üzere ACB, BAC ve CBA üç basamaklı sayıları sırasıyla 4, 5 ve 9 ile tam bölünmektedir. Buna göre A · B · C çarpımı kaçtır?|150;120;180;240;210
+133|B|A, B ve C sıfırdan ve birbirinden farklı rakamlar olmak üzere ABC üç basamaklı sayısı 4 ile, CAB üç basamaklı sayısı 5 ile, BCA üç basamaklı sayısı 9 ile tam bölünebilmektedir. Buna göre A + B + C toplamı kaçtır?|16;14;9;18;15
+134|B|A, B ve C birbirinden farklı rakamlar olmak üzere üç basamaklı ABC sayısının 9 ile bölümünden kalan A, 5 ile bölümünden kalan B’dir. Buna göre C − B farkı kaçtır?|1;2;3;4;5
+135|B|A ve B birer rakamdır. Bu rakamlarla oluşturulan üç basamaklı AAB ve BBA doğal sayılarının toplamı 9 ile tam bölünebilmektedir. Buna göre A + B toplamı en az kaçtır?|3;6;4;9;7
+136|B|A, B ve C birbirinden farklı rakamlar olmak üzere üç basamaklı ABC sayısının 9 ile bölümünden kalan B, 5 ile bölümünden kalan A’dır. Buna göre C − A işleminin sonucu kaçtır?|6;4;3;7;5
+137|B|A ve B birbirinden farklı rakamlar olmak üzere iki basamaklı AB ve BA doğal sayılarının 7 ile bölümünden kalanlar aynıdır. Buna göre A + B toplamı en çok kaçtır?|12;10;11;13;14
+138|B|xy ve zt iki basamaklı doğal sayılarının 11 ile bölümünden kalanlar sırasıyla 3 ve 5’tir. Buna göre dört basamaklı xyzt sayısının 11 ile bölümünden kalan kaçtır?|7;15;8;10;9
+139|B|Rakamları toplamına tam olarak bölünebilen üç basamaklı doğal sayılara “bölböl” sayı denir. Buna göre 3A2 doğal sayısı bir bölböl sayı olduğuna göre A’nın alabileceği değerler toplamı kaçtır?|12;23;16;17;18
+140|B|a, b ve c ardışık pozitif tam sayılar olmak üzere a < b < c’dir. Bu sayılardan a sayısı 3 ile, b sayısı 4 ile ve c sayısı da 5 ile tam bölünmektedir. Bu bölümlerin toplamı 50 olduğuna göre a + b + c toplamı kaçtır?|176;180;144;204;192
+141|B|Dört basamaklı 5A3B doğal sayısının 17 ile bölümünden kalan 14 olmaktadır. Buna göre 6A2B doğal sayısının 17 ile bölümünden kalan kaçtır?|0;1;14;15;16
+142|E|7 − 3x ≤ 2x − 3 ≤ 15 − x eşitsizliğini sağlayan x tam sayılarının toplamı kaçtır?|16;17;18;19;20
+143|E|9 − 3x ≤ 2x − 4 < 11 + x eşitsizliğini sağlayan kaç farklı x tam sayısı vardır?|14;11;13;12;10
+144|E|(3x − 4)/5 − (x − 3)/4 ≤ (2x + 1)/2 eşitsizliğini sağlayan x’in en küçük tam sayı değeri kaçtır?|0;−3;1;2;−2
+145|E|34A5 ve 3A35 dört basamaklı doğal sayılar için 34A5 < 3A35 eşitsizliği sağlanmaktadır. A’nın alabileceği değerler toplamı kaçtır?|39;42;35;36;40
+146|E|x ve y tam sayıları için x < 0 ve 4xy − 24x < 0 eşitsizlikleri sağlanmaktadır. Buna göre y’nin alabileceği en küçük tam sayı değeri kaçtır?|6;−6;−7;7;−8
+147|E|a gerçel sayısı için −3 < 2a − 5 ≤ 9 olduğuna göre, 2 − 3a ifadesinin alabileceği kaç farklı tam sayı değeri vardır?|17;20;19;16;18
+148|E|a, b ve c birbirinden farklı pozitif tam sayıları için a/2 < b/6 < c/4 eşitsizliği sağlanmaktadır. Buna göre a + b + c toplamının alabileceği en küçük değer kaçtır?|6;7;8;9;10
+149|E|a, b ve c gerçel sayılar olmak üzere ac < 0 < a < b + c olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;b < c < a;c < a < b
+150|E|x ve y gerçel sayılar olmak üzere x³ < x²y < x − y olduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?|x < 0 < y;0 < x < y;y < 0 < x;x < y < 0;y < x < 0
+151|E|x < 0 < y olmak üzere z = (y − 6x)/x gerçel sayıları veriliyor. Buna göre z sayısı aşağıdakilerden hangisi olabilir?|−4;−3;−7;−6;−5
+152|E|Sıfırdan farklı x ve y gerçel sayıları için x − y, x + y ve x/y sayılarından hiçbiri negatif sayı değildir. Buna göre,\nI. x · y\nII. x − 3y\nIII. 3x − y\nifadelerinden hangileri daima pozitiftir?|Yalnız I;Yalnız II;Yalnız III;I ve II;I ve III
+153|E|a, b ve c gerçel sayıları için a + b² < 0, b + c > 0 ve c − 2a < 0 olduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;b < c < a;c < a < b
+154|E|z < −1 < y < 0 < x < 1 olduğuna göre,\nI. x/y < 1\nII. x + y < 0\nIII. x + y + z < 0\nifadelerinden hangileri daima doğrudur?|Yalnız I;Yalnız II;Yalnız III;I ve II;I ve III
+155|E|a, b ve c gerçel sayılar olmak üzere b < √b, c < b · c ve 1 < a − b olduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;b < c < a;c < b < a
+156|E|a < a² < ∣a∣ olmak üzere x = a · (a − 1), y = a³ ve z = a olduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?|x < y < z;x < z < y;z < y < x;y < x < z;z < x < y
+157|M|∣√5 − 4∣ − ∣√3 − 2∣ + ∣√5 − √3∣ işleminin sonucu kaçtır?|2√5;2√3;6;2;1
+158|M|a < 0 < b olmak üzere ∣a∣ + ∣−b∣ + ∣a − b∣ ifadesinin eşiti aşağıdakilerden hangisidir?|2a − 2b;0;2b − 2a;a − b;a + b
+159|M|x < y < 0 < z olmak üzere ∣−x∣/x + y/∣y∣ + ∣z∣/(−z) ifadesinin değeri kaçtır?|3;−2;2;−3;−1
+160|M|x < 1/5 olmak üzere ∣∣x − 1∣ − 4x∣ − 2 ifadesinin değeri aşağıdakilerden hangisidir?|5x − 1;−5x + 1;−5x;5x + 1;−5x − 1
+161|M|a gerçel sayısı için 4a² < −a³ olduğuna göre, ∣a − 3∣ − ∣a + 4∣ + ∣−a∣ ifadesinin değeri aşağıdakilerden hangisine eşittir?|a − 7;7 − a;a + 7;a;7
+162|M|x = ∣√7 − 3∣, y = ∣x − 3∣ ve z = ∣√7 − y∣ olduğuna göre z değeri kaçtır?|1;√7 − 2;0;√7;3 − √7
+163|M|a, b ve c tam sayıları için ∣a + b∣ = 2, ∣b + c∣ = 1 ve ∣c + 3∣ = 0 eşitlikleri veriliyor. Buna göre a’nın alabileceği değerlerin toplamı kaçtır?|−12;−10;−8;−6;−4
+164|M|b < 0 < a olmak üzere ∣b∣ + ∣a − b∣ = 8 ve ∣a∣ + ∣b − a∣ = 7 eşitlikleri veriliyor. Buna göre a · b çarpımı kaçtır?|−12;−8;−14;−6;−10
+165|M|∣x∣ = 4, ∣y∣ = 3 ve ∣z∣ = 5 olmak üzere z < y < x ve x · y · z < 0 olduğuna göre x + y + z toplamı kaçtır?|4;2;−2;−3;−4
+166|M|∣2 − ∣x − 2∣∣ = 2 denklemini sağlayan x gerçel sayılarının toplamı kaçtır?|6;8;4;2;10
+167|M|a bir gerçel sayı olmak üzere ∣x − a∣ = a + 2 eşitliğini sağlayan x gerçel sayılarının çarpımı −16 olduğuna göre a kaçtır?|3;6;4;2;5
+168|M|a ve b gerçel sayıları ∣1 − 2a∣ = b − 1 ve ∣5 − b∣ = 2a − 1 eşitliklerini sağlamaktadır. Buna göre a + b toplamı kaçtır?|5/4;7/3;3;9/2;5
+169|M|x ve y gerçel sayıları için x = ∣y − 2∣ + 1 ve y = 4 − ∣1 − x∣ eşitlikleri sağlanmaktadır. Buna göre x · y çarpımı kaçtır?|24;18;12;8;6
+170|M|x ve y gerçel sayılar olmak üzere ∣x − 6∣ = y ve ∣y − x∣ = 5 eşitlikleri veriliyor. Buna göre x’in alabileceği değerlerin toplamı kaçtır?|3;4;5;6;7
+171|M|Sıfırdan farklı x ve y gerçel sayıları için ∣x∣/x = 2x − 5 ve ∣y∣/(2y) = 3y + 1 olduğuna göre x · y çarpımı kaçtır?|−1/2;−1;−3;−2/3;−3/2
+172|M|a ve b gerçel sayılar olmak üzere ∣4a + 3b∣ = 2b ve ∣2b + 4∣ = b − a eşitlikleri veriliyor. Buna göre a/b oranı kaçtır?|−5/4;−2/3;2/3;3/4;6/5
+173|M|a, b ve c pozitif tam sayılar olmak üzere a · b = 12, ∣a − b∣ = 4 ve ∣b − c∣ = 2 eşitlikleri veriliyor. Buna göre c sayısının alabileceği farklı değerlerin toplamı kaçtır?|10;16;14;18;12
+174|M|a ve b gerçel sayıları için ∣a − 24∣ = 3a ve ∣a + b∣ = 4b eşitlikleri veriliyor. Buna göre a · b çarpımı kaçtır?|18;14;12;6;24
+175|M|a gerçel sayısı için 2/∣1 − a∣ − 1/(3 · ∣a − 1∣) = 5/9 eşitliği sağlanmaktadır. Buna göre a’nın alabileceği değerlerin çarpımı kaçtır?|−6;−18;−15;−12;−8
+176|M|Sayı doğrusu üzerinde, 6 sayısına olan uzaklığı −2 sayısına olan uzaklığının 2 katına eşit olan gerçel sayılar işaretleniyor. Buna göre bu işaretlenen sayıların toplamı kaçtır?|−6;−28/3;−19/3;20/3;−16/3
+177|M|Sıfırdan farklı x, y ve z gerçel sayıları için ∣x + y∣ = ∣x∣ − ∣y∣ ve ∣y + z∣ = ∣y∣ + ∣z∣ eşitlikleri sağlanmaktadır. x pozitif gerçel sayı olmak üzere,\nI. y − z\nII. y + z\nIII. x · y · z\nhangileri her zaman negatif sayı belirtir?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+178|M|Bir hava durumu spikeri salı akşamı canlı yayında şu açıklamayı yapmıştır: “Bu hafta boyunca sıcaklığın 3 derece olduğu ülkemizde yarından itibaren hava ani şekilde ısınacak. Çarşamba günü öğleden sonra kent genelinde hava sıcaklığı bir önceki güne göre 10 ila 18 derece artmış olacak.” Bu bilgiye göre çarşamba günü öğleden sonra sıcaklığın alabileceği değerlerin aralığını ifade eden eşitsizlik hangisidir?|∣x − 4∣ ≤ 17;∣x − 8∣ < 13;∣x − 8∣ ≤ 13;∣x − 17∣ ≤ 4;∣x − 17∣ < 4
+179|C|(342² − 42² − 360 · 300)/(49² − 1) işleminin sonucu kaçtır?|4;6;8;3;2
+180|C|x ve y gerçel sayıları için (x − 1)/(y + 1) = 2 ve x² − 4y² = 21 olduğuna göre x · y çarpımı kaçtır?|4;5;6;7;3
+181|C|A = 3⁸ − 1 olduğuna göre A sayısı aşağıdakilerden hangisine tam olarak bölünmez?|20;41;32;24;40
+182|C|x, y pozitif tam sayılar ve z bir rasyonel sayı olmak üzere x · z = y² ve x · (x − z) = 3 olduğuna göre x · y · z çarpımı kaçtır?|3/2;1/2;1/4;1;2
+183|C|a = b olduğu bir durumda a = −b olduğunu da ispatlamak isteyen bir kişi aşağıdaki adımları uyguluyor:\nI. a = b\nII. a² = b²\nIII. a² − b² = 0\nIV. (a − b) · (a + b) = 0\nV. a + b = 0\nVI. a = −b\nBuna göre bu adımların hangisinde hata yapılmıştır?|II;III;IV;V;VI
+184|C|(7x − 3)/(x² − 3x − 4) = A/(x − 4) + B/(x + 1) olduğuna göre A − B farkı kaçtır?|3;6;4;2;5
+185|C|a, b ve c sıfırdan farklı gerçel sayılar olmak üzere (a + c)/b = a olduğuna göre (ab + ac + a² + bc)/(ab + a²) ifadesinin eşiti aşağıdakilerden hangisidir?|a;b;c;a + b;b + c
+186|C|[a · (b + c) + c · (b − a)] / (a² + ab + ac + bc) ifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?|(a + b)/a;b/(a + b);(a + b)/b;b/(a − b);a/(a + b)
+187|C|[a/(a − b) − (a + b)/a] ÷ [a/(a + b) − (a − b)/a] ifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?|b/a;a/b;(a + b)/(a − b);(a − b)/(a + b);(a − b)/a
+188|C|[a/(a + 1) − 1/(1 − a)] ÷ [1/(a + 1) + 1/(a − 1)] işleminin sonucu aşağıdakilerden hangisidir?|(a² − 1)/(2a);(a² + 1)/(2a);(a² − 1)/a;(a² + 1)/a;1
+189|D|(x − 3)/4 − (x − 5)/6 = (x − 1)/9 olduğuna göre x kaçtır?|4;5;6;7;8
+190|D|(2x − 1)/3 − (3 − x)/5 = (x + 4)/10 − (x − 5)/15 denklemini sağlayan x değeri kaçtır?|2,2;2;2,4;3;2,8
+191|D|[1 + x/(x + 3)] / [1 − x/(x + 3)] = 5 olduğuna göre x kaçtır?|2;3;4;5;6
+192|D|Şekilde köşelerindeki çemberlerde tam sayıların yazılı olduğu beş üçgenden oluşan bir düzenek verilmiştir. Her bir üçgenin köşelerindeki çemberlerde yazılı sayıların toplamı birbirine eşittir. Buna göre x + y + z toplamı kaçtır?|2;3;4;5;6
+193|D|Bir üçgenin köşelerindeki üç çembere sayılar yazılmıştır. Her kenardaki karede, o kenarın uçlarındaki iki çemberde yazan sayıların toplamı bulunmaktadır. Karelerde 44, 53 ve 27 yazdığına göre çemberlere yazılan sayıların toplamı kaçtır?|54;56;58;60;62
+194|O|2x = 3y ve 4y = 3z olmak üzere x + y + z = 115 olduğuna göre z − y farkı kaçtır?|15;10;12;5;20
+195|O|a, b ve c negatif sayılardır. 3/a = 2/(5b) = 4/(3c) olduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?|a < b < c;a < c < b;b < a < c;b < c < a;c < b < a
+196|O|a, b ve c reel sayılar olmak üzere (a − 3)/5 = b/8 = (c − 1)/4 ve 2a + b + c = 271 olduğuna göre c kaçtır?|24;44;36;49;39
+197|O|x ve y reel sayılar olmak üzere x + 1/(3y) = 8 ve 3y + 1/x = 9 olduğuna göre (x + 4y)/(x − y) oranı kaçtır?|1;3;4;2;5
+198|O|Bir torbada bulunan sarı, mavi ve kırmızı bilyelerin sayıları sırasıyla 3, 4 ve 5 sayıları ile doğru orantılıdır. Bu torbaya 30 bilye eklendikten sonra sarı, mavi ve kırmızı bilye sayılarının eşitlendiği görülüyor. Buna göre torbaya kaç adet mavi bilye eklenmiştir?|10;14;8;12;6
+199|O|3 kişiye bir yılbaşı partisinde, içerisinde 1’den 10’a kadar numaralı toplar bulunan bir torbadan top çektirilerek hediye verilecektir. Sırayla top çeken üç kişiden birincisi 3, ikincisi 5, üçüncüsü 6 numaralı topu çekiyor. Bu kişilere çektikleri topların üzerindeki sayılarla ters orantılı para ödülü veriliyor. Toplam dağıtılan para 4200 TL olduğuna göre en çok ödül alan kişi, en az ödül alan kişiden kaç TL fazla almıştır?|1500;1800;1200;1400;1000
+200|O|Bir miktar para 4, 8 ve 10 yaşlarındaki üç kardeş arasında yaşları ile doğru orantılı olarak bayram harçlığı şeklinde dağıtılıyor. Para 2 yıl sonraki bayramda yine yaşları ile doğru orantılı paylaştırılsaydı en büyük kardeş 40 TL eksik alacaktı. Buna göre paylaştırılan toplam para kaç TL’dir?|1440;1540;1200;1600;960
+201|O|Bir manav, her biri kendi içerisinde özdeş olan sarı, kırmızı ve yeşil elmaları her kasada farklı renk elma olacak şekilde üç kasaya yerleştiriyor. Sarı, kırmızı ve yeşil elma sayıları sırasıyla 2, 3 ve 4 sayıları ile orantılıdır. Her kasadaki elmaların toplam ağırlıkları birbirine eşittir. Bir yeşil elma 240 gram olduğuna göre bir sarı elmanın ağırlığı bir kırmızı elmanın ağırlığından kaç gram fazladır?|240;144;120;180;160
+202|O|Mehmet aracıyla seyir hâlindeyken A kenti 420 km, B kenti 560 km yazan bir tabela görüyor. Bir süre daha yol aldıktan sonra trafik çevirmesine giriyor. Çevirmede iki kente olan uzaklıklarının sırasıyla 4 ve 9 ile doğru orantılı olduğunu fark ediyor. Buna göre tabelayı gördükten kaç km sonra trafik çevirmesine girmiştir?|288;312;296;308;324
+203|O|Bir ressam gri boya elde etmek için beyaz ve siyah boyaları sırasıyla 1 ve 2 ile doğru orantılı; pembe boya elde etmek için beyaz ve kırmızı boyaları sırasıyla 1 ve 3 ile doğru orantılı kullanacaktır. Eşit miktarda gri ve pembe boya elde eden ressam toplam 280 gram beyaz boya kullanmıştır. Buna göre siyah ve kırmızı boyalardan toplam kaç gram kullanmıştır?|340;510;540;680;720
+204|O|Geniş ekran bir televizyonun en:boy oranı 9:16, standart bir televizyonun en:boy oranı 3:4’tür. Bu televizyonların en uzunlukları birbirine eşittir. En uzunluklarının toplamı 144 cm olduğuna göre boy uzunluklarının toplamı kaç cm’dir?|200;224;180;160;280
+205|P|Mehmet, Bilge ve Yıldız’ın bir manavdan yaptığı alışverişle ilgili şunlar bilinmektedir:\n• Mehmet 2 kg muz ve 2 kg elma için 22 TL ödemiştir.\n• Bilge 4 kg çilek ve 2 kg elma için 26 TL ödemiştir.\n• Yıldız 1 kg muz ve 2 kg çilek için 14 TL ödemiştir.\nBuna göre manavda 1 kg çileğin fiyatı kaç TL’dir?|2;3;4;5;6
+206|S|A, B, C, D ve E birbirinden farklı rakamlar olmak üzere 6 tane A, 5 tane B, 4 tane C, 3 tane D ve 2 tane E ile yazılabilecek en küçük sayı yazılıyor. Buna göre bu sayının yüzler basamağındaki rakam aşağıdakilerden hangisi olamaz?|A;B;C;D;E
+207|P|Bir öğretmen adayı 5 kişilik bir komisyon tarafından mülakata alınmış ve her üye adaya beşer soru yöneltmiştir. Adayın başarılı olması için en az 3 komisyon üyesinin onayı gerekmektedir. Bir üyenin onayı için o üyenin sorduğu 5 sorunun en az 3’üne doğru yanıt verilmelidir. Buna göre mülakatta başarısız olan bir aday en fazla kaç soruya doğru cevap vermiş olabilir?|17;12;15;16;14
+208|P|Mehmet 30 haftada günde ortalama 500 soru çözmeyi hedeflemiştir. Ancak ilk 20 haftada günde ortalama 400 soru çözmüştür. Hedefine ulaşması için son 10 haftada günde ortalama kaç soru çözmesi gerekir?|600;700;650;800;750
+209|P|Yalnızca koyun ve kuzuların bulunduğu bir çiftlikte 104 hayvan vardır. Erkek koyunların sayısı erkek kuzuların sayısının 3 katıdır. Dişi koyunların sayısı dişi kuzuların sayısından 24 eksiktir. Hayvanların yarısı koyun olduğuna göre çiftlikte kaç erkek koyun vardır?|28;32;30;24;36
+210|P|25 çocuğun bulunduğu bir kreşte belirli bir günde çocukların bazıları 1 bardak, bazıları 2 bardak süt içmiş, geri kalanları süt içmemiştir. 1 bardak süt içen çocuk sayısı 2 bardak süt içen çocuk sayısının 2 katıdır. Toplam 24 bardak süt içildiğine göre süt içmeyen çocuk sayısı kaçtır?|6;7;8;9;10
+211|P|Bir kahvede içecekler cam veya karton bardakla satılmaktadır. Her cam bardakta 10 ml, her karton bardakta 12 ml su kullanılmaktadır. Belirli bir günde toplam 740 ml su kullanılmıştır. Kullanılan karton bardak sayısı cam bardak sayısından 30 eksiktir. Buna göre o gün bu içeceklerden toplam kaç tane satılmıştır?|66;70;55;64;58
+212|P|Mehmet defterine her gün aynı sayıda daire çizmiştir. İlk 3 günde çizdiği dairelerin sayısı tüm dairelerin sayısının üçte birine eşittir. İlk 7 günde çizdiği dairelerin sayısı tüm dairelerin sayısının 80 eksiğine eşittir. Buna göre Mehmet’in bir günde çizdiği daire sayısı kaçtır?|40;32;30;48;36
+213|P|Balığa giden 5 arkadaş toplam 14 balık tutuyor. Bu arkadaşların her biri en az bir balık tuttuğuna göre aşağıdakilerden hangisi kesinlikle doğrudur?|3 balık yakalayan biri vardır.;4 balık yakalayan biri vardır.;3’ten az balık yakalayan biri vardır.;4’ten çok balık yakalayan biri vardır.;2’den çok balık yakalayan en az iki kişi vardır.
+214|P|Bir tavşan 10 gün boyunca şu şekilde beslenmiştir:\n• Bazı günler 9 havuç veya 2 lahana yemiştir.\n• Bazı günler 1 lahana ve 4 havuç yemiştir.\n• Bazı günler sadece marul yemiştir.\n• Toplam 30 havuç ve 9 lahana yemiştir.\nBuna göre bu tavşan kaç gün marul yemiştir?|2;3;4;5;6
+215|L|Şeklin sekiz bölmesine, art arda gelen her dört bölmedeki sayıların toplamı 44 olacak şekilde sayılar yazılacaktır. Buna göre boyalı iki bölmeye yazılacak sayıların toplamı kaçtır?|38;40;42;44;46
+216|P|Bir yol boyunca 415 direk sırasıyla siyah, sarı, mor ve kırmızı renge boyanacaktır. Bu sıra tüm direkler boyanana kadar tekrarlanacaktır. Buna göre,\nI. Mor direk sayısı kırmızı direk sayısından fazladır.\nII. Siyaha boyanan direk sayısı 103’tür.\nIII. En son boyanan direk sarıdır.\nifadelerinden hangileri doğrudur?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+217|P|İki hava yolu firmasının ücretsiz bagaj hakkı sırasıyla 20 ve 30 kg’dır. Bu ağırlıkları geçen her kilogram için ilk firma 20 TL, ikinci firma 25 TL almaktadır. İlk firmadan bilet alan Mehmet, bileti ve 80 kg bagajı için toplam 6000 TL ödemiştir. İkinci firmadan bilet alan Özgür’ün bilet fiyatı Mehmet’in bilet fiyatının yarısıdır. Özgür bilet ve bagajı için toplam 3600 TL ödediğine göre bagajı kaç kilogramdır?|64;78;72;50;54
+218|P|Hüseyin’in sınıfta eşit sayıda kız ve erkek arkadaşı vardır. Her arkadaşı için okula beşer çikolata götürmüştür. O gün 4 kız ve 5 erkek arkadaşı okula gelmemiştir. Hüseyin erkek arkadaşlarına altışar, kız arkadaşlarına sekizer çikolata verip kendisi de 10 çikolata alınca bütün çikolatalar bitmiştir. Buna göre Hüseyin’in okuldaki arkadaşlarının sayısı kaçtır?|32;30;42;39;26
+219|P|Bir firma 2, 3 ve 6 adet ürün içeren paketler hazırlamıştır. 6’lı paketleri alanlara 2 ürün bedava verilmektedir. Toplam 150 paket satan firma, bedava verdiği ürünler hariç 480 ürün satmıştır. Müşterilere toplam 60 ürün bedava verildiğine göre satılan 3 ürünlük paket sayısı kaçtır?|60;48;52;50;44
+220|P|Mehmet, Bilge ve Yıldız aynı restoranda yemek yemiştir. Bilge’nin hesabı Mehmet’inkinin 2 katına, Yıldız’ınkinin 80 TL fazlasına eşittir. Mehmet 250 TL, Bilge ve Yıldız beş yüzer TL verip para üstlerini bahşiş bırakmıştır. Toplam 140 TL bahşiş bıraktıklarına göre Yıldız kaç TL bahşiş bırakmıştır?|96;98;100;102;104
+221|L|12 kibrit şekildeki gibi dizilmiştir. Kibritler sadece yanıcı uçlarından alev almakta ve alev alan bir kibritin tamamı yanmaktadır. Yanan kibritteki alev, yanıcı olmayan uca geldiğinde orada başka bir kibritin yanıcı ucu varsa o kibrit de alev almaktadır. Buna göre A kibriti yanıcı ucundan alev aldıktan sonra son durumda yanmayan kibrit sayısı kaçtır?|4;5;6;7;8
+222|P|Bir apartmanın girişinde 1, 2, 3, 4 ve 5 numaralı posta kutuları vardır. Her kutuda numarası kadar zarf bulunmaktadır. Kutulardan birinin zarflarında üçer, diğer kutuların zarflarında beşer mektup vardır. Toplam 67 mektup olduğuna göre üçer mektup bulunan kutunun numarası kaçtır?|1;4;3;2;5
+223|P|Bir okulun A şubesinde 60 kız, B şubesinde 60 erkek öğrenci vardır. Öğrenciler bir üst sınıfa geçerken yine sayıları eşit olacak şekilde rastgele A ve B şubelerine ayrılmıştır. Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?|A şubesinde en az bir kız öğrenci vardır.;B şubesinde en az bir erkek öğrenci vardır.;A şubesindeki erkek öğrenci sayısı B şubesindeki erkek öğrenci sayısına eşittir.;A şubesindeki erkek öğrenci sayısı B şubesindeki kız öğrenci sayısına eşittir.;A şubesindeki kız öğrenci sayısı erkek öğrenci sayısından fazladır.
+224|P|Bir apartmanın en üst katından başlayarak ardışık 3 kattaki pencereler kırmızıya, sonraki 2 kattaki pencereler maviye boyanıyor. Bu işlem 3 kat kırmızı, 2 kat mavi sırasıyla tekrarlanıyor. Boyama bittiğinde toplam 21 pencere maviye boyandığına göre apartmanın toplam kat sayısı kaçtır?|53;56;55;57;54
+225|P|Mehmet, tüm ürünlerin fiyatlarının eşit olduğu bir mağazadan 10 bardak almıştır. Ertesi gün her bardağa 10 TL indirim uygulanmıştır. Mehmet, önceki gün ödediği paranın 2 katını ödeyerek 14 bardak daha almıştır. Buna göre aldığı bardaklar için toplam kaç TL ödemiştir?|1300;1050;1250;1200;1150
+226|P|Bir okuldaki öğrencilere iki sınav yapılmıştır. İlk sınavda öğrencilerin dörtte üçü başarılı, geri kalanları başarısız olmuştur. İkinci sınavda başarılı öğrenci sayısı ilk sınava göre yarı yarıya azalmış, başarısız öğrenci sayısı 48 artmıştır. Buna göre okuldaki öğrenci sayısı kaçtır?|90;96;112;120;128
+227|P|Birinci kutuda 5, 50, 10, 20, 50, 5; ikinci kutuda 100, 25, 20, 10, 100, 25 yazılı toplar vardır. Hangi toplar karşılıklı yer değiştirirse iki kutudaki sayıların toplamı eşit olur? Seçeneklerde sırasıyla birinci ve ikinci kutudan alınacak toplar verilmiştir.|5 ve 50 ↔ 100 ve 25;5, 10 ve 50 ↔ 10 ve 20;5 ve 50 ↔ 5, 20 ve 25;10, 20 ve 50 ↔ 10, 25 ve 100;20 ve 50 ↔ 10, 25 ve 100
+228|L|Matematik öğretmeni Mehmet Bilge Yıldız rüyasında kendisini uğur böceği olarak şekildeki oyunda bulur. Başlangıçta 96 numaralı çemberdedir. Her adımda daha önce bulunmadığı ve mevcut çembere teğet olan çemberlerden, numarası mevcut numarayı tam bölen veya mevcut numaraya tam bölünenlerin en büyüğüne geçer. Böyle bir çember yoksa durur. Buna göre tüm hareketlerini tamamladıktan sonra ilk ve son çember dışında kaç çembere uğramıştır?|9;10;7;8;6
+229|P|Bir üniversitedeki K ve L seçmeli derslerini yalnızca edebiyat ve tarih öğrencileri almaktadır. K dersini alan edebiyat öğrencilerinin sayısı, L dersini alan edebiyat öğrencilerinin 3 katıdır. L dersini alan tarih öğrencilerinin sayısı, K dersini alan edebiyat öğrencilerinin 4 katıdır. K ve L derslerindeki toplam öğrenci sayıları eşittir. İki dersi tarih bölümünden toplam 66 öğrenci aldığına göre K dersini edebiyat bölümünden kaç öğrenci almaktadır?|9;12;15;18;21
+230|P|Bir mobilya mağazasında taşıma ve montaj ücretleri şöyledir:\nI. 1 veya 2 ürün: toplam 75 TL taşıma ve ürün başına 35 TL montaj.\nII. 3, 4 veya 5 ürün: toplam 80 TL taşıma ve ürün başına 25 TL montaj.\nIII. 6 veya daha fazla ürün: toplam 90 TL taşıma ve ürün başına 15 TL montaj.\n1 ürün alan müşteri ile 5 ürün alan müşterinin toplam taşıma ve montaj ücreti, III. gruptan alan bir müşterinin ücretine eşittir. III. gruptaki müşteri kaç ürün almıştır?|11;12;15;16;18
+231|P|Mehmet aldığı bir çuval soğanın 2 kilogramını kullanır. Bir süre sonra çuvalda kalan soğanların 1/5’inin çürüdüğünü fark edip bunları atar ve 4 kilogram daha soğan kullanır. Son durumda 28 kilogram soğan kaldığına göre başlangıçta çuvalda kaç kilogram soğan vardı?|50;42;48;36;40
+232|P|Bir çiftlikte 1 litre sütten ya 400 gram peynir ya 200 gram tereyağı ya da 800 gram yoğurt elde edilir. Günde en az 500 litre süt üretilir. Günlük sütün 2/5’i peynir, 1/4’ü tereyağı, kalanı yoğurt yapımında kullanılır. 600 litre süt üretilen bir günde kaç kilogram yoğurt yapılır?|168;176;172;160;174
+233|P|Bir sayının 4/7 ile çarpımını bulmak isteyen Ömer, sayıyı yanlışlıkla 4/7’ye bölerek istediği sonucun 660 fazlasını bulmuştur. Buna göre Ömer’in bulmak istediği sayının rakamları toplamı kaçtır?|5;11;8;7;10
+234|P|Bir feribotta binek arabalardan 50 TL, ticari arabalardan 100 TL, otobüslerden 200 TL ücret alınmaktadır. Bir seferde araçların 1/2’si ticari araba, 1/5’i otobüs ve kalanı binek arabadır. Toplam giriş ücreti 168.000 TL olduğuna göre ticari araba sayısı kaçtır?|180;240;800;200;210
+235|P|Bir bakkal aldığı unun yarısını üçer kilogramlık paketlere, kalanın 2/3’ünü dörder kilogramlık paketlere, geri kalanını beşer kilogramlık paketlere her paket tam dolacak şekilde koyar. Beş kilogramlık paket sayısı üç kilogramlık paket sayısından 16 eksiktir. Buna göre toplam kaç paket kullanmıştır?|28;30;32;34;36
+236|P|Buse spor yapma süresinin 1/4’ünde mekik çekmiş, 3/5’inde ağırlık çalışmış, kalanında düz koşu yapmıştır. Mekik çekmek dakikada 2 puan, ağırlık çalışmak 1 puan, koşmak 1/2 puandır. Buna göre 3 saat spor yapan Buse toplam kaç puan toplamıştır?|205;208,5;207;211,5;214
+237|P|Kc ile TL arasında 1 Kc = 29/5 TL ilişkisi vardır. Türkiye’yi ziyaret eden bir turist, bir kafedeki hesabının 2/3’ü için 20 Kc ödeyip kalanı TL olarak ödemiştir. Buna göre kaç TL ödemiştir?|56;58;64;50;48
+238|P|Mehmet Öğretmen Türkçe, matematik, tarih ve coğrafyadan oluşan 72 soruluk bir test hazırlamıştır. İlk planda derslerin başlangıç soruları tarih: 1, Türkçe: 28, matematik: a, coğrafya: 56’dır. Sonra derslerin sırasını Türkçe: 1, tarih: b, coğrafya: c, matematik: 60 olarak değiştirmiştir. Her dersin soruları art arda olduğuna göre a + b − c kaçtır?|16;18;20;22;24
+239|P|Mehmet ve Ertuğrul aynı anda sohbete başlamıştır. Daha sonra Umut katılmış, sohbet saat 22.00’de bitmiştir. Saat 20.30’da Ertuğrul’un sohbette geçirdiği süre Umut’unkinin 4 katıdır. Sohbet bittiğinde Umut’un kaldığı süre Mehmet’inkinin yarısı olmuştur. Ara verilmediğine göre Mehmet ile Ertuğrul sohbete saat kaçta başlamıştır?|17.00;17.15;17.30;17.45;18.00
+240|Y|Bir basketbolcu 33 atış yaparak 47 sayı üretmiştir. Atış sayıları ve isabet oranları şöyledir:\nSerbest atış: a adet, %100 isabet\n2 sayılık: b adet, %60 isabet\n3 sayılık: 8 adet, %75 isabet\nSerbest atışlar 1 sayı değerinde olduğuna göre b − a farkı kaçtır?|11;12;13;14;15
+241|P|Bir duvar ustası iki duvarın birini siyah, diğerini beyaz fayanslarla kaplayacaktır. Bir miktar fayans döşeyip mola verdiğinde, iki renkte döşediği fayans sayısını eşitlemek için o ana kadar döşediği toplam fayansın dörtte biri kadar daha siyah fayans döşemesi gerektiğini hesaplar. Molaya kadar 120 siyah fayans döşediğine göre kaç beyaz fayans döşemiştir?|180;200;220;240;260
+242|P|Bahar ve Ceren 320 sayfalık romandan birer tane alıp aynı anda okumaya başlıyorlar. Bahar her gün sabah 30, akşam 45 dakika; Ceren sabah 20, akşam 60 dakika okuyor. Bahar 2 sayfayı 5 dakikada, Ceren 2 sayfayı 4 dakikada okuyabiliyor. Buna göre Ceren kitabı bitirdiğinde Bahar kitabının kaçıncı sayfasını bitirmiştir?|200;220;240;260;280
+243|P|Tam dolu bir telefon bataryası yalnız uçak modunda kullanılırsa 48 saatte, yalnız konuşma yapılırsa 3 saatte sabit hızla bitmektedir. Tam dolu telefon 12 saat uçak modunda kullanılıp hemen ardından 37 dakika konuşma yapılır. Kalan batarya ile en fazla kaç dakika daha konuşulabilir?|95;96;97;98;99
+244|P|Bir kunduracı 48 günde yetiştirmek üzere 45 ayakkabı siparişi alır. Bir süre tek başına 4 günde 3 ayakkabı yapar. Ardından bir çırak alıp birlikte 5 günde 6 ayakkabı yapmaya başlarlar ve siparişi 48 günde tamamlarlar. Kunduracı tek başına kaç gün çalışmıştır?|21;24;25;28;30
+245|P|Bir kahve makinesi butonuna her basıldığında eşit miktarda kahve verir. Butona 18 kez basılınca 6 boş bardak tamamen dolar. Daha sonra butona 30 kez daha basılır. Makinede kalan kahve başlangıç miktarının beşte biridir. Bir bardak 0,2 litre olduğuna göre başlangıçta makinede kaç litre kahve vardı?|2;2,5;3;3,5;4
+246|P|Bir iş yerinde erkeklerin 3/5’i, kadınların 1/2’si ve tüm çalışanların 9/16’sı esmerdir. Esmer olmayan 56 çalışan bulunduğuna göre çalışanların kaçı kadındır?|48;32;64;80;72
+247|P|Bir manavda toplam 240 karpuz, kavun ve ananas vardır. Karpuzların 1/3’ü, kavunların 3/4’ü ve ananasların yarısı satılmıştır. Kalan karpuz, kavun ve ananas sayıları eşitlendiğine göre satılan karpuz sayısı kaçtır?|24;22;20;18;16
+248|P|Mehmet ve Bilge’nin toplam 170, Yıldız’ın 15 kalemi vardır. Yıldız, Mehmet ve Bilge’den eşit sayıda kalem aldıktan sonra Mehmet ve Bilge kalan kalemleri eşit paylaşır. Son durumda Mehmet’in kalem sayısı Yıldız’ınkinin 2 katı olur. Buna göre Yıldız’ın son kalem sayısı kaçtır?|35;37;41;43;45
+249|Y|Bir kilim fabrikasında sabit maaşa ek olarak aylık üretilen kilim sayısına göre yardım ödenir:\n10 ≤ k < 20 için maaşın %20’si,\n20 ≤ k < 30 için maaşın %30’u,\nk ≥ 30 için maaşın %40’ı.\nMaaşı 25 bin TL olan Ezgi 15, maaşı 30 bin TL olan Derya 42 kilim dokumuştur. İkisine ödenen toplam ücret kaç bin TL’dir?|72;75;78;81;84
+250|L|Rakamları asal olan ve rakamları toplamı da asal olan üç basamaklı sayılara güçlü asal sayı denir. İki güçlü asal sayı arasındaki fark en fazla kaçtır?|615;547;616;552;576
+251|L|Rakamları farklı dört basamaklı ABCD sayısının iki rakamının toplamı diğer iki rakamının toplamına eşitse ABCD’ye toplamsal sayı denir. A347 bir toplamsal sayı olduğuna göre A’nın alabileceği değerlerin toplamı kaçtır?|16;12;14;10;13
+252|L|1, 2, 3 ve 4 rakamları kullanılarak oluşturulan dört basamaklı bir doğal sayının yan yana olan herhangi üç basamağında küçükten büyüğe doğru artan ardışık sayılar varsa buna artışlı sayı denir. Buna göre kaç artışlı sayı yazılabilir?|15;12;18;10;14
+253|L|Elif şekilde harflendirilmiş 8 farklı yol çizmiş; A’yı açık turuncuya, B’yi koyu turuncuya boyamıştır. Diğer yolların her birini, aynı renkli yollar birbirini kesmeyecek şekilde koyu turuncu, açık turuncu veya siyah renkle boyayacaktır. Son durumda siyah renkli yol sayısı kaçtır?|1;2;3;4;5
+254|L|Ayşe, Bersu, Ceren ve Deniz şekildeki noktalardan başlayıp yollar boyunca ilerleyerek alttaki kutulara ulaşacaktır. Dikey yolda karşılaştıkları her yatay yola dönüp diğer dikey yola ilerlerler. Yatay yolda karşılaştıkları dikey yolda ise kutulara doğru ilerlerler. Ulaştıkları kutuların numaraları sırasıyla hangisidir?|3, 4, 1, 2;3, 4, 2, 1;3, 1, 4, 2;2, 4, 1, 3;2, 4, 3, 1
+255|L|@balls Ali 5 ve 9, Can 2 ve 7 numaralarını çekmiştir. Oyunu Burak kazandığına göre Burak’ın çektiği numaraların toplamı kaçtır?|10;16;12;18;14
+256|L|@balls Ali 3 ve a, Burak 4 ve b, Can 2 ve c numaralı topları çekmiştir. Oyunu kazanan kişiler Ali ve Burak olduğuna göre a + b + c toplamı en az kaçtır?|16;18;19;14;17
+257|L|@balls Ali a ve b, Burak c ve d, Can e ve f numaralı topları çekmiştir. Ali ve Burak’ın çektiği numaraların çarpımları 9’a bölünebilmektedir. Buna göre Can’ın çektiği numaralardan biri hangisi olamaz?|4;8;7;6;5
+258|L|x, y ve z sıfırdan farklı tam sayılar olmak üzere F(x, y, z) = x · y + z olarak tanımlanıyor. F(a, 3, 4) = 40 olduğuna göre a kaçtır?|18;16;20;12;14
+259|L|x, y ve z sıfırdan farklı tam sayılar olmak üzere F(x, y, z) = x · y + z olarak tanımlanıyor. F(a, a, 7) = 71 olduğuna göre a’nın alabileceği değerlerin çarpımı kaçtır?|−49;−36;−64;−81;−25
+260|L|x, y ve z sıfırdan farklı tam sayılar olmak üzere F(x, y, z) = x · y + z olarak tanımlanıyor. F(a, b, 3a) = 18 olduğuna göre b’nin alabileceği pozitif değerlerin toplamı kaçtır?|26;25;22;21;24
+261|L|@ozgur En küçük sadece 3’lü özgür sayı ile en büyük sadece 2’li özgür sayının toplamı kaçtır?|76657;77665;75667;76557;75657
+262|L|@ozgur ABACB sayısı 3’lü özgür bir çift sayı olduğuna göre A + B · C işleminin sonucu kaçtır?|16;15;13;18;20
+263|L|@ozgur Hem 2’li hem de 3’lü özgür olan kaç farklı doğal sayı yazılabilir?|8;6;7;11;30
+264|L|@denge 1A2B9 bir dengeli sayı olduğuna göre A + B toplamı en çok kaçtır?|10;11;12;13;14
+265|L|@denge Beş basamaklı 4AC8B ve 2CA57 sayıları dengeli sayılardır. Buna göre A · B · C çarpımı en çok kaçtır?|108;120;136;144;150
+266|L|@ardil 6AB3 bir ardıl sayı olduğuna göre A · B çarpımı kaçtır?|6;12;14;18;24
+267|L|@ardil Kaç tane ardıl sayı vardır?|36;48;64;72;81
+268|L|@notebook Aykut 1 ve 5, Bertuğ 1 ve 8, Caner 3 ve 7, Didem 8 ve 9, Eymen 7 ve 9 rakamlarını yazmıştır. Buna göre oyunu kim kazanmıştır?|Aykut;Bertuğ;Caner;Didem;Eymen
+269|L|@notebook Aykut 7 ve 8, Bertuğ 2 ve 7, Caner 2 ve 5, Didem 4 ve 5 rakamlarını yazmıştır. Oyun berabere bittiğine göre Eymen’in yazdığı rakamların çarpımı kaçtır?|12;16;20;24;32
+270|L|@triangles Şekle göre A + B + C toplamı kaçtır?|48;46;44;47;49
+271|L|@triangles Şekle göre A · B + D · C işleminin sonucu kaçtır?|16;22;24;28;18
+272|L|@triangles Şekilde toplam kaç farklı yerleştirme yapılabilir?|1;4;2;3;5
+273|L|@star I. 6273\nII. 1188\nIII. 3536\nSayılarından hangileri yıldız sayıdır?|Yalnız I;Yalnız II;Yalnız III;I ve II;I, II ve III
+274|L|@star 1278 sayısından büyük yıldız sayılardan en küçüğünün onlar basamağında hangi rakam vardır?|5;6;7;8;9
+275|L|@primegame Mehmet kâğıdına 12 yazıyor. Bilge hangi sayıyı yazarsa oyunu kazanır?|5;7;10;11;14
+276|L|@primegame Bilge’nin yazdığı sayının çift olduğu biliniyor. Mehmet hangi sayıyı yazarsa oyunu kesinlikle kaybetmez?|8;11;6;1;4
+277|L|@tv Üç arkadaşın her biri farklı firmaya abone olmuştur. Her biri ayda 6 maç izlediğine göre üç arkadaş bir ayda toplam kaç TL öder?|168;171;186;162;165
+278|L|@tv Aynı sayıda maç izleyen iki kişinin A ve B firmalarına ay sonunda ödediği ücretler eşittir. Bir başka üye aynı sayıda maçı C firmasından izleseydi kaç TL öderdi?|100;120;80;110;90
+279|L|@perfect Aşağıdakilerden hangisi mükemmel bölen sayıdır?|42;36;48;108;96
+280|L|@perfect Üç basamaklı en küçük mükemmel bölen sayı ile iki basamaklı en küçük mükemmel bölen sayının toplamı kaçtır?|118;124;116;130;120
+281|L|@princess A21B21 altı basamaklı bir prenses sayı olduğuna göre A · B çarpımı kaçtır?|2;3;4;6;9
+282|L|@princess Dört basamaklı yalnız bir prenses sayı vardır. Bu sayının rakamları çarpımı kaçtır?|6;12;18;24;54
+283|L|AB iki basamaklı sayısı için H(AB) = A + 10B ve K(AB) = 2^A + B tanımlanmıştır. H(86) − K(63) ifadesinin değeri kaçtır?|1;2;3;4;5
+284|L|AB iki basamaklı sayısı için H(AB) = A + 10B ve K(AB) = 2^A + B tanımlanmıştır. H(AB) = K(AB) olduğuna göre K(AB) kaçtır?|29;32;35;38;41
+285|L|Şekildeki dairesel hücrelere 1’den 5’e kadar rakamlar, her hücrede farklı rakam olacak ve çizgiyle birbirine bağlı hücrelerdeki sayılar aralarında asal olacak şekilde yazılıyor. Buna göre A + B + C toplamı kaçtır?|7;9;8;6;10
+286|L|Şekildeki dairesel hücrelere birbirinden farklı rakamlar, çizgiyle birbirine bağlı hücrelerdeki sayılar aralarında asal olacak şekilde yazılıyor. Verilen sayılara göre A’nın alabileceği değerlerin toplamı kaçtır?|12;10;14;16;18
+287|L|@circles Şekilde x + y toplamı kaçtır?|7;8;9;10;11
+288|L|@circles Şekilde a + b + c toplamı en az kaçtır?|9;10;11;13;14
+289|L|@ceren Ceren’in yazdığı ilk sayı 14’tür. Buna göre beşinci sayı kaçtır?|55;133;147;150;163
+290|L|@ceren Ceren’in yazdığı ilk iki sayının toplamı 9’dur. Buna göre beşinci sayı kaçtır?|55;56;57;58;59
+291|L|@cards Oyunu Beren kazandığında Ceren’de dört tane 50 ve iki tane 25 yazılı kart vardır. Buna göre Aysu’daki kartlarda yazan sayıların toplamı kaçtır?|100;150;200;250;300
+292|L|@cards Başlangıca göre Aysu’daki kartların toplam değeri 100 artmış, Beren’dekilerin toplam değeri 150 azalmıştır. Buna göre Ceren’deki kartların toplam değeri kaçtır?|500;300;350;450;400
+293|L|@cards Oyunun bir anında Aysu’daki iki renkte kartların toplam değeri 175, Ceren’deki üç renkte kartların toplam değeri 475’tir. Buna göre Beren’de üzerinde 50 yazan kaç kart vardır?|5;1;3;4;2
+294|Y|@fruit İnternet sitesi 270 TL’ye aldığı 10 meyvenin tamamını sattığına göre kaç TL kâr etmiştir?|57;60;66;69;72
+295|Y|@fruit Her meyveden en az bir tane olmak üzere toplam 40 meyve satan site, avokado ve papaya satışlarından eşit miktarda kâr elde etmiştir. Mangodan kaç TL kâr etmiştir?|70;65;60;55;50
+296|P|@phones B telefonundaki ses dosyalarının büyüklüğü A’dakinin 2 katıdır. A’daki ses ile B’deki video dosyalarının büyüklükleri toplamı kaç GB’dir?|48;50;52;54;60
+297|P|@phones İki telefondaki toplam resim, toplam video ve toplam ses dosyası büyüklükleri birbirine eşittir. A telefonundaki ses dosyaları kaç GB’dir?|18;19;20;21;22
+298|Y|@phones Her iki telefonun depolama alanının %8’ini ses dosyaları oluşturur. B telefonundaki video dosyaları kaç GB’dir?|48;49;50;51;52
+299|P|320 km’lik bir yolculukta ortalama yakıt tüketimi 100 km’de 7 litredir. İlk 250 km’deki ortalama tüketim 100 km’de 6,6 litredir. Yolun son 70 km’sinde kaç litre yakıt tüketilmiştir?|5,5;5,6;5,8;5,9;6
+300|P|Mehmet yolun bir kısmını 100 km’de 7,5 litre ortalama yakıt tüketimiyle tamamlar. Kalan kısmı saatte 90 km sabit hızla 2 saatte alır. Yolculuğun tamamındaki ortalama tüketim 100 km’de 6,5 litre olur. Araba 90 km/sa hızda 100 km’de 5 litre tükettiğine göre yolculuk kaç km sürmüştür?|400;420;450;480;540
+301|L|@algorithm a, b ve c sırasıyla 2, 4 ve 5 girildiğine göre ekrana yazılan D değeri kaçtır?|9;11;13;15;17
+302|L|@algorithm Girilen a, b, c değerleriyle algoritma 4. adıma hiç geçmeden sonsuz döngüye girmiştir. Buna göre,\nI. a çifttir.\nII. b · c çifttir.\nIII. b + c çifttir.\nifadelerinden hangileri kesinlikle doğrudur?|Yalnız I;Yalnız II;Yalnız III;I ve II;II ve III
+303|L|@grid Boyama işlemi kaç farklı şekilde yapılabilir?|5;4;3;2;1
+304|L|@grid Boyama tamamlandığında A, B, C, D ve E hücrelerinden hangisi kesinlikle gri olur?|A;B;C;D;E
+305|Y|@tickets 1 bilet alan kişi sayısı 90’dır. Toplam 480 bilet satıldığına göre 3 bilet alan kişi sayısı kaçtır?|80;90;95;100;105
+306|Y|@tickets 2 ve 3 bilet alan kişi sayıları eşittir. 1 bilet alan kişi sayısı 3 bilet alanların yarısıdır. Toplam gelir 18.240 TL olduğuna göre 1 bilet alan kişi kaç TL ödemiştir?|40;50;60;65;70
+307|L|@boxes Üst sırada soldan sağa 7, 2, 3, 2, 9 yazdığına göre en alttaki kutuya kaç yazılmalıdır?|32;33;34;35;36
+308|L|@boxes Üst sırada soldan sağa 13, 5, 3, 2, 8 yazmaktadır.\nI. 8 ile 13\nII. 3 ile 8\nIII. 2 ile 5\nSayılarından hangileri yer değiştirdiğinde en alttaki sayı değişmez?|Yalnız I;Yalnız II;Yalnız III;II ve III;I ve III
+309|L|@boxes Üst sırada soldan sağa 5, y, x, boş kutu, 8; orta sıranın ilk iki kutusunda 8 ve 10; en altta 35 yazmaktadır. Buna göre x − y farkı kaçtır?|1;−1;2;−2;−3
+310|O|@buttons Kutuda 96 kırmızı düğme olduğuna göre toplam düğme sayısı kaçtır?|320;350;400;450;480
+311|O|@buttons Kutuya 30 beyaz ve 20 siyah düğme eklenince beyaz düğme sayısı kırmızıların 2 katı olur. Son durumda siyah düğmelerin tüm düğmelere oranı kaçtır?|1/3;1/4;1/5;2/5;3/4
+312|Y|@stationery Kaç kalemtıraş satılmıştır?|6;8;10;12;14
+313|Y|@stationery Kaç silgi satılmıştır?|26;24;22;20;18
+314|L|@youtube Şubat ayındaki beğeni sayısı, görüntülenme sayısının yarısı ve yeni takipçi sayısının 3 katıdır. Şubat ayında toplam kaç puan kazanılmıştır?|2400;2600;2700;3000;3600
+315|Y|@youtube Şubat ve mart aylarının her birinde yeni takipçi sayısı bir önceki aya göre %60 artmıştır. Buna göre bu iki aydaki yeni takipçilerden kazanılan puanların toplamı kaçtır?|1800;2120;6240;2400;2480
+316|L|@youtube Ocak ve mart aylarındaki toplam görüntülenme puanı, şubattaki beğeni puanının 3 katıdır. Ocaktaki yeni takipçi puanı ise şubattaki görüntülenme puanına eşittir. Üç aydaki toplam görüntülenme sayısı kaçtır?|3600;4200;4500;4800;5100
+317|Y|@education İlkokul mezunu öğrencilerin kaç bini ortaokula kayıt yaptırmamıştır?|408;415;424;432;450
+318|Y|@education İlkokula kayıt yaptıran öğrencilerin yüzde kaçı ortaokuldan mezun olmuştur?|31,2;33,6;34,2;37,8;42,6
+319|Y|@education Aşağıdakilerden hangisi yanlıştır?|İlkokula kayıt yaptıranların 120 bini ilkokuldan mezun olamamıştır.;Ortaokula kayıt yaptıran öğrenci sayısı 648 bindir.;Ortaokul mezunu sayısı ilkokul mezunu sayısından azdır.;Liseye kayıt yaptıran öğrenci sayısı ortaokula kayıt yaptıranlardan azdır.;Liseye kayıt yaptıranların sayısı ilkokula kayıt yaptıranların %15’idir.
+320|U|Bilimsel gösterimde A = b · 10^n, n tam sayı ve 1 ≤ b < 10’dur. 0,00036’nın bilimsel gösterimi hangisidir?|3,6 · 10⁻⁴;3,6 · 10⁻⁵;3,6 · 10⁻⁶;3,6 · 10⁻³;36 · 10⁻⁵
+321|U|Bilimsel gösterimde A = b · 10^n, n tam sayı ve 1 ≤ b < 10’dur. x = 0,00045 ve y = 500.000 olduğuna göre x · y’nin bilimsel gösterimi hangisidir?|2,25 · 10⁻⁴;2,25 · 10⁻²;2,25 · 10²;2,25 · 10³;2,25 · 10⁴
+322|P|@workpay Tamamlama süresi 7 saat belirlenen iş için 2900 TL ödenmiştir. İş kaç saatte tamamlanmıştır?|14;13;12;11;10
+323|P|@workpay Tamamlama süresi 16 saat olan işi 12 saatte bitiren kişinin ücreti, tamamlama süresi 11 saat olan işi 12 saatte bitiren kişinin ücretinden kaç TL fazladır?|3400;3500;3600;3700;3800
+324|P|@workpay 3 saat geç tamamlanan bir iş için 3900 TL ödenmiştir. İşin belirlenen tamamlama süresi kaç saattir?|7;8;9;10;11
+325|L|@credits 8 kredilik ders alan öğrenci hangi dersleri alıyor olabilir?|Matematik, Tarih, Resim;Matematik, Türkçe, Fizik;Fizik, Kimya, Tarih, Seminer;Türkçe, Biyoloji, Kimya, Sanat;Türkçe, Tarih, Sanat, Spor
+326|L|@credits Bir öğrenci en fazla kaç ders alabilir?|4;5;6;7;8
+327|L|@credits Matematik ve Türkçe derslerinden yalnızca birini almak koşuluyla toplam üç ders seçen öğrenci, seçimini kaç farklı şekilde yapabilir?|7;8;11;14;16
+328|Y|@products Mart ayında K ve L satışından elde edilen toplam kârın M satışından elde edilen kâra oranı kaçtır?|1;2;3;4;5
+329|Y|@products Şubat ayında K, L ve M satışından elde edilen gelir ile mart ayındaki gelir arasındaki fark kaç bin TL’dir?|110;140;120;160;100
+330|Y|@products Üç ay boyunca M satışından elde edilen kâr ile L satışından elde edilen kâr arasındaki fark kaç bin TL’dir?|24;27;30;33;36
+331|L|@jars Kavanozlardaki toplam düğme sayısı en az kaç olabilir?|5;6;9;12;14
+332|L|@jars Kırılan kavanozda başlangıçta 8 düğme vardır. Buna göre toplam düğme sayısı kaçtır?|13;14;15;16;17
+333|P|@cafe Umut’un hafta içi aldığı toplam ücret ile hafta sonu aldığı toplam ücret eşittir. Bu hafta toplam 30 saat çalıştığına göre pazar günü kaç TL almıştır?|1500;1800;2100;2400;2700
+334|P|@cafe Ceren cumartesi günü bu haftaki toplam çalışma süresinin 1/4’ü kadar çalışmıştır. Cumartesi için kaç TL almıştır?|2100;2200;2300;2400;2500
+335|P|@cafe Umut ve Ceren bu hafta toplam 60 saat çalışıp toplam 14.800 TL almıştır. Umut perşembe günü kaç saat çalışmıştır?|8;9;6;4;5
+336|G|Grafikte A, B ve C okullarındaki öğrenci sayıları gösterilmiştir. B okulunda 135 öğrenci varsa C okulundaki öğrenci sayısı kaçtır?|240;360;300;280;320
+337|G|Üç meyvenin kilogram alış fiyatlarının dağılımı daire grafiğinde gösterilmiştir. Elmanın kilogram alış fiyatı 56 TL’dir. %25 kârla satılmak istenen muzun kilogram satış fiyatı kaç TL’dir?|105;96;102;108;84
+338|G|Grafik bir mağazanın 2024’teki kazak, gömlek ve ceket satışlarının adet dağılımını göstermektedir. Satış fiyatları sırasıyla 100, 200 ve 400 TL’dir. Toplam gelir 50 bin TL olduğuna göre satılan ürün sayısı kaçtır?|180;300;260;360;240
+339|G|Grafik bir çiftçinin ürettiği A, B ve C ürünlerinin miktar dağılımını göstermektedir. B miktarı C miktarının 5/7’sidir. Toplam üretim 900 kg olduğuna göre B ürünü kaç kg’dır?|200;225;180;240;280
+340|G|@museum Altı günlük ortalama ziyaretçi sayısı 56 olduğuna göre 6. gün gelen ziyaretçi sayısı kaçtır?|38;48;46;54;50
+341|G|@museum 4. gün gelen ziyaretçi sayısı toplam ziyaretçi sayısının %20’si olduğuna göre x kaçtır?|45;50;40;55;54
+342|Y|@menus 6 döner + ayran menüsü alan grup kampanyayı kullanırsa normal fiyata göre kaç TL daha az öder?|375;400;425;300;475
+343|Y|@menus Promosyonlu fiyattan 7000 TL’lik hamburger + kola menüsü alan grup kaç menü almıştır?|15;14;12;10;8
+344|G|@greengrocer Satılan kiraz 75 kg olduğuna göre satılan muz miktarı erik miktarından kaç kg fazladır?|8,5;9;12;7,5;10,5
+345|G|@greengrocer Elmadan elde edilen toplam gelir 810 TL olduğuna göre kirazdan elde edilen toplam gelir kaç TL’dir?|500;450;600;400;550
+346|G|@tours Karadeniz’e 144 tur satıldığına göre İç Anadolu’ya satılan tur sayısı Akdeniz’e satılanlardan kaç fazladır?|48;24;36;30;32
+347|G|@tours İç Anadolu turlarından toplam 45 bin TL gelir elde edildiğine göre üç bölgedeki turların toplam geliri kaç bin TL’dir?|80;120;100;72;90
+348|G|@shirts 135 adet B gömleği üretildiğine göre üretilen A gömleklerinin tamamından elde edilen kâr kaç TL’dir?|6845;7875;7455;6935;8125
+349|G|@shirts Bütün gömlekler satılınca kârlar Kₐ, Kᵦ ve K𝒸 olduğuna göre doğru sıralama hangisidir?|Kₐ < Kᵦ < K𝒸;Kₐ < K𝒸 < Kᵦ;Kᵦ < K𝒸 < Kₐ;Kᵦ < Kₐ < K𝒸;K𝒸 < Kᵦ < Kₐ
+350|G|@school Bu okulda 280 erkek öğrenci olduğuna göre A şubesindeki öğrenci sayısı kaçtır?|120;180;200;160;210
+351|G|@school Okuldaki 240 kız öğrenci A, B ve C şubelerine eşit sayıda kayıt yaptırmıştır. B şubesindeki erkek öğrenci sayısı kaçtır?|64;48;56;72;80
+352|G|@toll Minibüs, otomobil ve motor için araç başına ücretler sırasıyla A, B ve C olduğuna göre doğru sıralama hangisidir?|A < B < C;A < C < B;C < A < B;B < C < A;C < B < A
+353|G|@toll Bir motorun geçiş ücreti 20 TL olduğuna göre bir minibüs ile bir otomobilin toplam geçiş ücreti kaç TL’dir?|100;150;90;60;180
+354|G|@market Meyvelerin tamamının satışından 2700 TL kâr elde edildiğine göre kaç kg mandalina satılmıştır?|120;140;160;180;200
+355|G|@market 360 kg erik satıldığına göre ayva satışından elde edilen kâr kaç TL’dir?|1280;1380;1410;1440;1500
+356|G|@tablet Kaç siyah tablet satılmıştır?|150;180;200;220;240
+357|G|@tablet Üretilen tabletlerin yüzde kaçı satılmıştır?|60;72;75;80;85
+358|G|@library Öğrenci başına düşen kitap sayıları A, B, C için sırasıyla Kₐ, Kᵦ, K𝒸 olduğuna göre doğru sıralama hangisidir?|Kₐ < Kᵦ < K𝒸;Kₐ < K𝒸 < Kᵦ;Kᵦ < K𝒸 < Kₐ;Kᵦ < Kₐ < K𝒸;K𝒸 < Kₐ < Kᵦ
+359|G|@library B’den C’ye 40 öğrenci geçince B ve C’de öğrenci başına düşen kitap sayıları eşit olur. Buna göre A’daki öğrenci sayısı kaçtır?|120;125;130;135;140
+360|G|@september Eylülde kaç defter satılmıştır?|1800;2000;2200;2400;3000
+361|G|@september Ekimdeki kitap satışları, o ayki toplam satış adedinin yüzde kaçıdır?|15;20;25;30;40
+362|G|@sports 2025’te 20 kişi basketbola kaydolduğuna göre 2026’da kaç kişi hentbola kaydolmuştur?|45;43;41;39;37
+363|G|@sports 2025’te toplam 480 kişi kaydolduğuna göre 2026’da kaç kişi basketbola kaydolmuştur?|100;105;115;125;150
+364|A|3 yıl önce Saliha’nın yaşı, iki çocuğunun o zamanki yaşları toplamının 3 katıdır. 2 yıl sonra Saliha’nın yaşı çocuklarının o zamanki yaşları toplamının 2 katından 4 fazla olacaktır. Saliha’nın bugünkü yaşı kaçtır?|58;59;61;60;62
+365|A|38 yaşındaki bir babanın üç çocuğundan ikisi ikizdir. Büyük çocuk ikizlerden 3 yıl önce doğmuştur. 7 yıl sonra çocukların yaşları toplamı babalarının yaşına eşit olacağına göre ikizlerin bugünkü yaşları toplamı kaçtır?|14;16;10;12;18
+366|A|6 kişilik bir ailede 4 çocuktan ikisi ikizdir. Her çocuk kendisi dışındaki aile üyelerinin yaşları toplamını söylemiştir. Söylenen sayılar 40, 46, 48 ve 48’dir. En büyük çocuğun yaşı en küçük çocuğun yaşından kaç fazladır?|5;4;8;3;7
+367|A|Mehmet 2024’te ziyaret ettiği Zeugma Müzesi’nde Çingene Kızı eserinin ziyarete açıldığı yıl ile kendi doğum yılının aynı olduğunu ve eserin bulunduğunda 404 yaşında olduğunu öğrenmiştir. Ziyaret sırasındaki kendi yaşının 29 katının eserin yapıldığı tahmin edilen yıla eşit olduğunu fark etmiştir. Eser bulunduğu yıl ziyarete açıldığına göre Mehmet kaç yılında doğmuştur?|1972;1970;1968;1974;1976
+368|A|Küçük çocuğu A, büyük çocuğu B yaşında olan bir annenin yaşı iki basamaklı BA sayısıdır. Küçük kardeş büyük kardeşin bugünkü yaşına geldiğinde annenin ve çocukların yaşları toplamı 54 olduğuna göre A + B kaçtır?|9;7;8;10;6
+369|Y|Taner’in maaşına %20 zam, Mehmet’in maaşına %10 kesinti yapılınca maaşları eşit oluyor. Başlangıçta maaşları arasındaki fark 15.000 TL olduğuna göre Taner’in zamdan önceki maaşı kaç TL’dir?|36000;39000;42000;45000;48000
+370|Y|Bir mağazada pantolonların %48’i, kazakların %25’i satılmıştır. Kalan kazak sayısı 390, kalan pantolon sayısı başlangıçtaki kazak sayısının %60’ıdır. Başlangıçtaki pantolon sayısı kaçtır?|420;500;480;400;600
+371|Y|Bir lokantada 4 çeşit yemekten oluşan öğünün fiyatı 400 TL’dir. Öğrencilere %15 indirim uygulanır. Bir günde gelen 60 müşteriden toplam 21.840 TL gelir elde edildiğine göre öğrenci sayısı kaçtır?|24;28;40;36;32
+372|Y|Eylül kuşlar için boş bir kaba 0,4 litre su koyar. Bir süre sonra suyun %60 azaldığını fark edip 0,42 litre su ekler. Son su miktarı başlangıçtakinden yüzde kaç fazladır?|45;36;30;25;20
+373|Y|Öğrencilere sınav puanlarına ya 4 puan ya da mevcut puanın %5’i kadar ekleme yapılması seçenekleri sunulur. Mevcut puanı A olan öğrenci %5 artışı, B olan öğrenci 4 puanı kendisi için daha avantajlı olduğu için seçmiştir. Buna göre hangisi doğrudur?|A < 80 < B;B < 80 < A;80 < A < B;A < B < 80;B < A < 80
+374|Y|Bir un firması 1, 2 ve 3. kalite unları karıştırıp 2, 3 ve 6 kilogramlık paketlerde satmaktadır. Her paketin %25’i 1. kalite, %35’i 2. kalite, kalanı 3. kalitedir. 3 kg’lık paketteki 2. kalite un, 2 kg’lık paketteki 3. kalite undan kaç gram fazladır?|200;280;260;240;250
+375|Y|Bir KPSS kursu öğrencilerine birer kitap dağıtacaktır. Öğrenci sayısının %20 fazlası kadar kitap sipariş eder. Kitapların %10’u yırtık gelir. Sağlam kitaplar öğrencilere birer tane dağıtılınca 4 kitap artar. Öğrenci sayısı kaçtır?|50;40;60;56;48
+376|Y|Bir öğrenci kimlik kartının alanının %20’si fotoğrafa ayrılmıştır. 4 cm × 6 cm fotoğrafın kenarları aynı oranda küçültülerek bu alan tam doldurulduğunda fotoğrafın çevresi 10 cm olur. Kimlik kartının alanı kaç cm²’dir?|12;18;30;42;60
+377|Y|30.000 öğrencili bir üniversitede öğrencilerin %48’i burs veya öğrenim kredisi almaktadır. Bu öğrencilerin %25’i yalnız burs, %35’i yalnız kredi, kalanları ikisini birden alır. Hem burs hem kredi alan öğrenci sayısı kaçtır?|5400;5680;5760;5800;5200
+378|Y|Bir mağazada tüm etiket fiyatlarına %15 indirim uygulanır. Mehmet birer gömlek, kazak, ceket, pantolon ve ayakkabı için toplam 578 TL öder. Gömleğin etiket fiyatı 120, kazağın 160, ceketin 200, pantolonun 140 TL’dir. Ayakkabıya yapılan indirim kaç TL’dir?|7;10;9;8;6
+379|Y|Bir markette kilogram alış/satış fiyatları armut için 75/90 TL, elma için 60/84 TL, üzüm için 45/60 TL’dir. Toplam 200 kg meyve satılıp 3540 TL kâr elde edilmiştir. Toplam kaç kg armut ve üzüm satılmıştır?|120;130;135;140;145
+380|Y|A ve B terazileri hatalı ölçmektedir. A’da 24 kg ölçülen ürün B’de 36 kg ölçülür. A her ölçümü %28 eksik yaptığına göre B yüzde kaç fazla ölçmektedir?|12;10;9;8;14
+381|Y|Bir mağazada ürüne göre etiket fiyatı üzerinden %20’ye varan indirimler uygulanır. Etiket fiyatları 60, 80, 120 ve 200 TL olan dört üründen ikisini alan Mehmet toplam 155 TL ödemiştir. Aldığı iki ürünün etiket fiyatları toplamı kaç TL’dir?|280;240;260;220;200
+382|Y|Bir mağazada tüm ayakkabılara %20 indirim uygulanır. İki ayakkabı alanlara ucuz ayakkabının indirimli fiyatı üzerinden ayrıca %25 indirim yapılır. Fiyatları farklı iki ayakkabı alan müşterinin her ayakkabı için etiket fiyatına göre elde ettiği indirim tutarları eşittir. Toplam 660 TL ödediğine göre toplam indirim kaç TL’dir?|250;265;245;300;240
+383|Y|@apartments 2. kattan %20 peşinatla daire alanın aylık taksiti kaç bin TL’dir?|72;90;100;108;120
+384|Y|@apartments 6. kattan %25 peşinatla daire alanın aylık taksiti kaç bin TL’dir?|50;60;64;72;80
+385|H|A’dan B’ye bir minibüs 60 km/sa hızla hareket eder. 3 saat sonra aynı yerden aynı yönde bir otomobil 90 km/sa hızla yola çıkar. Aynı anda B’ye vardıklarına göre A ile B arası kaç km’dir?|320;360;540;480;600
+386|H|A’dan B’ye 72 km/sa hızla giden araç saat 10.00’da, 120 km/sa hızla giden araç 11.30’da yola çıkar. İkisi aynı anda B’ye vardığına göre yol kaç km’dir?|270;312;360;280;240
+387|H|A ile B arası 600 km olup bir kısmı asfalt, bir kısmı topraktır. Araç asfaltta 80, toprakta 60 km/sa hızla gider. Yolun tamamını 1 saat mola vererek 10 saatte aldığına göre asfalt kısım kaç km’dir?|320;180;300;240;360
+388|H|Dairesel parkurdaki iki koşucunun hızları oranı 2/3’tür. Aynı noktadan aynı anda aynı yönde koştuklarında hızlı olan parkuru 20 dakika önce tamamlar. Aynı noktadan aynı anda ters yönlere koşarlarsa kaç dakika sonra karşılaşırlar?|24;16;20;18;30
+389|H|Hızı saatte 45 km olan bir kamyon ile hızı saatte 60 km olan bir otomobil A şehrinden B şehrine doğru saat 11.00'de yola çıkıyor. Otomobil 120 km gittikten sonra hızını bir miktar düşürüyor ve iki araç saat 19.00'da B şehrine varıyor. Buna göre otomobilin yavaşladıktan sonraki hızı saatte kaç km'dir?|40;45;50;52;55
+390|H|Mehmet evden iş yerine gitmek üzere otomobiliyle saat 08.20'de yola çıkmıştır. Gitmesi gereken yolun 3/4'ünü gittikten sonra evden bilgisayarını almadığını fark etmiş ve vakit kaybetmeden aynı yol üzerinden otomobiliyle geri dönerek 09.02'de eve varmıştır. Bilgisayarını alıp 09.10'da otomobiliyle tekrar iş yerine gitmek için yola çıkmıştır. Tüm yolculuk boyunca hızı sabit olduğuna göre iş yerine saat kaçta varmıştır?|09.38;09.30;09.40;09.32;09.42
+391|H|Mehmet Öğretmen, okulunda saat 09.00'da yapılacak toplantıya katılacaktır. Toplantıdan bir saat önce evden yola çıkmış ve yürüme hızını bir saatte okula varacak biçimde ayarlamıştır. Yolun yarısında dosyasını evde unuttuğunu fark edip sabit hızla koşarak dosyasını almış ve durmadan aynı hızla koşarak tam zamanında okula varmıştır. Ev ile okul arasında aynı yolu kullandığına göre dosyasını evden saat kaçta almıştır?|08.34;08.36;08.38;08.40;08.45
+392|H|Şekilde dik üçgen biçimindeki ABC parkuru verilmiştir. Rukiye'nin koşma hızı, yürüme hızının 2 katıdır. A köşesinden başlayıp koşarak 12 dakikada B köşesine, yürüyerek ise 10 dakikada C köşesine varmaktadır. Buna göre A köşesinden çıkıp parkuru koşarak dolaşarak ilk kez A köşesine dönmesi kaç dakika sürer?|48;32;40;30;36
+393|H|Şekildeki kare pistin B köşesinden aynı anda hareket eden iki koşucudan biri A köşesine doğru saatte 2V km hızla, diğeri C köşesine doğru saatte 3V km hızla gidiyor. E noktası [AD] üzerinde ve ∣DE∣ = 120 metredir. Koşucular ilk kez E noktasında karşılaştıklarına göre pistin çevresi kaç metredir?|800;840;900;960;1200
+394|H|Şekilde O merkezli dairesel pistin A ve B noktalarındaki iki hareketli, dakikada 25 m ve 15 m hızlarla kısa yay boyunca birbirlerine doğru harekete başlıyor. m(AOB) = 120° ve pistin çevresi 720 metredir. Buna göre iki hareketli kaç saat sonra 4. kez karşılaşır?|0,8;1,3;1;1,2;1,5
+395|H|Ali, Buse, Can, Deniz ve Eymen tek başlarına sabit hızla yürümektedir. Birlikte yürüdüklerinde ise grubun en hızlı kişisinin hızında hareket etmektedirler. Birlikte yürüme hızları şöyledir:\nAli ve Buse: 16 m/dk\nBuse ve Deniz: 17 m/dk\nDeniz ve Eymen: 18 m/dk\nAli, Buse ve Can: 20 m/dk\nBuna göre tek başlarına yürüme hızlarının küçükten büyüğe sıralanışı hangisi olabilir?|Ali - Buse - Can - Deniz - Eymen;Ali - Buse - Eymen - Deniz - Can;Buse - Ali - Can - Deniz - Eymen;Ali - Buse - Deniz - Eymen - Can;Buse - Ali - Eymen - Deniz - Can
+396|H|A ve B araçlarının toprak ve asfalt yoldaki ortalama hızları şöyledir:\nA: Toprakta 80 km/sa, asfaltta 120 km/sa\nB: Toprakta 72 km/sa, asfaltta V km/sa\nBir yolun üçte ikisi toprak, geri kalanı asfalttır. Bu yolu iki araç aynı sürede aldığına göre B aracının asfalt yoldaki ortalama hızı saatte kaç kilometredir?|140;150;160;172;180
+397|H|Şekildeki düzgün altıgen ABCDEF yolunun A noktasından aynı anda ok yönünde harekete başlayan iki hareketliden biri E noktasına, diğeri [CD]'nin orta noktası K'ye gelmektedir. Buna göre ilk hareketli ikinci kez E noktasına geldiğinde diğer hareketli hangi konumdadır?|A noktasında;A ile B arasında;E noktasında;B ile C arasında;D noktasında
+398|I|Pozitif gerçek sayılarda a ■ b = a² − a·b + b² biçiminde tanımlanıyor. Buna göre 3 ■ (1 ■ 2) işleminin sonucu kaçtır?|4;10;6;8;9
+399|I|Pozitif gerçek sayılarda x ★ y = √x·(√y + 2) + √y·(√x − 3) biçiminde tanımlanıyor. Buna göre 27 ★ 12 işleminin sonucu kaçtır?|36;42;60;72;48
+400|I|Tam sayılarda ■ işlemi şöyle tanımlanıyor:\na < b ise a ■ b = a + b\na = b ise a ■ b = 1\na > b ise a ■ b = a − b\nBuna göre (4 ■ 1) ■ (1 ■ 2) işleminin sonucu kaçtır?|4;3;5;1;2
+401|I|Gerçek sayılarda △ ve ★ işlemleri,\na △ b = 3a + 3b + (b ★ a)\na ★ b = a² + b² − a·b\nbiçiminde tanımlanıyor. Buna göre 3 △ 4 işleminin sonucu kaçtır?|30;34;42;36;28
+402|I|Sıfırdan farklı gerçek sayılarda ● işlemi,\n(4/x) ● (3/y) = xy + 3x − 2y − 6\nşeklinde tanımlanıyor. Buna göre 2 ● 6 işleminin sonucu kaçtır?|2;−1;4;0;1
+403|I|Gerçek sayılarda x □ y = 2x + 3y − 2·(y □ x) işlemi tanımlanıyor. Buna göre 3 □ 6 işleminin sonucu kaçtır?|9;3;6;12;0
+404|F|f(x − 2) = 4x + 1 ve g(x + 1) = (2x + 3)/(x − 2) eşitlikleri veriliyor. Buna göre f(4) + g(4) toplamı kaçtır?|36;32;30;28;34
+405|F|a bir gerçek sayı olmak üzere f(x) = (x + 4)/4 − 3a biçiminde tanımlanıyor. f(4) = −13 olduğuna göre a kaçtır?|5;4;6;3;8
+406|F|f fonksiyonu için f(x − 1/x) = x² + 1/x² − 24 eşitliği sağlanmaktadır (x ≠ 0). Buna göre f(6) değeri kaçtır?|34;30;26;14;6
+407|F|f((x − 3)/3) = (x + 5)/a + 2 eşitliği sağlanmaktadır. f(3a) = 3 olduğuna göre a kaçtır?|2;1;−1;0;−3
+408|F|f((x + 4)/2) = 3x − 13 eşitliği sağlanıyor. Buna göre f(a) = a eşitliğini sağlayan a değeri kaçtır?|2;3;1;5;4
+409|F|f(x) = √x − 2 ve g(x) = a·x² − 1 biçiminde tanımlanıyor. (g ∘ f)(25) = 8 olduğuna göre g(5) kaçtır?|16;18;20;14;24
+410|F|a bir gerçek sayı olmak üzere f(x) = a·x + 4 fonksiyonu için f(a + 1) + f(2) = f(a + 7) eşitliği sağlanıyor. Buna göre a kaçtır?|3;4;2;1;5
+411|F|Gerçek sayılarda f(x) = 2x + 3 biçiminde tanımlanıyor. (f ∘ f)(x) = 45 olduğuna göre x kaçtır?|9;12;6;15;8
+412|F|f(x) = 3x − 1 ve g(x) = x² + 2 olarak tanımlanıyor. Buna göre (f ∘ g)(2) + (g ∘ f)(0) toplamı kaçtır?|16;20;18;19;17
+413|F|f(x) = 2x ve g(x) = 3x − 6 biçiminde tanımlanıyor. Buna göre (g ∘ f)(a) = 3·g(a) eşitliğini sağlayan a değeri kaçtır?|7;6;5;4;3
+414|F|f(x) = 2x + 1 ve g(x) = a·x + 3 fonksiyonları her x gerçek sayısı için (f ∘ g)(x) = (g ∘ f)(x) eşitliğini sağlıyor. Buna göre g(4)'ün değeri kaçtır?|18;17;20;19;21
+415|F|Pozitif gerçek sayılarda tanımlı f ve g fonksiyonları için (f ∘ g)(x) = f(x)·g(x) ve f(x) = 3x − 2 eşitlikleri sağlanmaktadır. Buna göre g(2) değeri kaçtır?|−4;−2;−1;1;2
+416|F|f(x) = 2x − 3 biçiminde tanımlanıyor. (f ∘ f)(a) = 5·f(a) olduğuna göre a kaçtır?|2;4;1;3;5
+417|F|f(x) = 2x + 5 ve (f ∘ g)(x) = (3x − 2)/2 eşitlikleri sağlanmaktadır. Buna göre g(8) değeri kaçtır?|−3/4;−2/3;−2;2;3
+418|F|f(x/2) = g(x + 1) + 4x eşitliği her x gerçek sayısı için sağlanmaktadır. f(1) = f(2) olduğuna göre g(3) − [PDF'de eksik ifade] farkı kaçtır?|6;7;8;9;10
+419|F|m ve n gerçek sayılar olmak üzere f(x) = x³ + mx + n ve g(x) = mx² + nx + 1 biçiminde tanımlanıyor. (f·g)(1) = f(1) ve f(0) + g(0) = 5 olduğuna göre m değeri kaçtır?|4;−2;−4;6;−6
+420|F|f(9x) = 3·g(x) = 9x + 6 eşitliği sağlanmaktadır. Buna göre (f ∘ g)(a + 1) = 2·g(a) eşitliğini sağlayan a değeri kaçtır?|6/5;7/3;1/3;2;3
+421|T|Şekilde taralı bölge aşağıdakilerden hangisi ile ifade edilebilir?| (A ∩ B) ∖ C;A ∪ (B ∖ C);(A ∩ B) ∩ C;(A ∪ B) ∖ (A ∩ C);(A ∪ B) ∖ C
+422|T|Şekilde taralı bölge aşağıdakilerden hangisi ile ifade edilebilir?|(A ∩ C) ∖ B;B ∩ (A ∪ C);C ∖ (A ∩ B);(A ∩ C) ∪ B;(A ∩ B) ∖ C
+423|T|s(A ∩ B)/4 = s(B ∖ A)/3 = s(A ∪ B)/12 ve s(B) − s(A ∖ B) = 20 olduğuna göre s(A ∩ B) kaçtır?|20;36;40;30;42
+424|T|A ve B kümeleri için s(A ∪ B)/33 = s(A ∩ B)/9 = s(B)/23 ve 25 < s(A) < 40 olduğuna göre A ∖ B kümesinin eleman sayısı kaçtır?|10;12;15;18;20
+425|T|A ⊂ B ⊂ C olmak üzere s(C ∖ B) = s(B ∖ A) = s(A) ve s(C) = 24 eşitlikleri veriliyor. Buna göre B kümesinin eleman sayısı kaçtır?|8;10;12;16;18
+426|T|x bir tam sayı olmak üzere M(x) = {n ∈ ℤ: 10 ≤ n ≤ x²} ve T(x) = {n ∈ ℤ: x² ≤ n ≤ 104} biçiminde tanımlanıyor. Buna göre M(7) ∩ T(4) kümesinin eleman sayısı kaçtır?|35;37;34;36;33
+427|T|A ∩ B = ∅ olmak üzere 2·s(B ∖ C) = 3·s(A ∖ C) = s(C), s(A ∩ C) = s(B ∩ C) = 3 ve s(A ∪ B) = 26 olduğu biliniyor. Buna göre s(C ∖ A) kaçtır?|21;24;[PDF'de okunmuyor];15;16
+428|T|A = {a, b, c, d, e, f, g, h} ve (A ∖ B) ∪ (B ∖ A) = {a, b, e, 1, 2} olduğuna göre B kümesinin alt küme sayısı kaçtır?|64;128;32;16;256
+429|T|A, B, C kümeleri için B ⊂ A, B ∩ C = ∅, s(C ∖ A) = 12, s(A) = 18 ve s((A ∪ C) ∖ B) = 25 olduğuna göre B kümesinin eleman sayısı kaçtır?|4;5;6;7;8
+430|T|B kümesi A kümesinin bir alt kümesi olmak üzere A = {a, b, c, d, e, f, g} veriliyor. Buna göre B ∩ {e, f} = {e, f} olacak biçimde kaç farklı B kümesi yazılabilir?|8;16;20;24;32
+431|T|A ve B kümeleri, eleman sayısı 11 olan C kümesinin alt kümeleridir. s(A ∪ B) = 3·s(A ∩ B) ve s(B ∖ A) = 2 olduğuna göre A kümesinin eleman sayısı en çok kaçtır?|6;7;8;9;10
+432|T|A ⊂ B olmak üzere s(A ∖ C) = s(C ∖ B), s(B ∖ A) = s(A ∩ B ∩ C) ve s(A ∪ B ∪ C) = 36 eşitlikleri veriliyor. Buna göre A kümesinin eleman sayısı kaçtır?|4;9;12;16;18
+433|T|A, B ve C kümeleri için (B ∩ C) ⊂ A ⊂ B, s(B ∖ C) = s(B ∩ C) = s(C ∖ A) ve s(C) = 12 olduğuna göre A ∪ B ∪ C birleşim kümesinin eleman sayısı kaçtır?|12;18;16;8;24
+434|T|Voleybol ve basketbol oyunlarından en az birini oynayanların bulunduğu bir grupta her iki oyunu oynayan 12 kişi vardır. Yalnız voleybol oynayanların sayısı, yalnız basketbol oynayanların sayısının 5 katıdır. Buna göre gruptaki kişi sayısı hangisi olabilir?|70;68;56;42;32
+435|T|Venn şemasında 2 ile bölünen tam sayılar A, 5 ile bölünen tam sayılar B, 20 ile bölünen tam sayılar C kümesindedir. Buna göre,\nI. 30\nII. 40\nIII. 50\nsayılarından hangileri boyalı bölge ile gösterilen kümenin elemanı olabilir?|Yalnız I;Yalnız II;Yalnız III;I ve II;I ve III
+436|T|Türkçe, matematik ve fizik derslerini alanların bulunduğu 40 kişilik bir sınıfta fizikten geçen herkes Türkçeden geçmiştir. Üç dersten de geçenlerle hiçbir dersten geçemeyenlerin toplamı 10 kişidir. Sadece iki dersten geçenlerin sayısı, sadece bir dersten geçenlerin sayısının 2 katı olduğuna göre sadece bir dersten geçenlerin sayısı kaçtır?|10;20;15;25;18
+437|N|Bir üniversitede spor, gezi, bilim, müzik ve resim olmak üzere 5 kulüp vardır. Matematik bölümü öğrencilerinin her biri, üye olmak istediği kulüp veya kulüpleri liste hâlinde bildirmiştir. Her öğrenci en az bir kulübe üye olacak ve herhangi iki öğrencinin verdiği liste aynı olmayacaktır. Buna göre bu bölümdeki öğrenci sayısı en fazla kaçtır?|24;16;32;15;31
+438|N|Bir okulda ortaokuldan ve liseden dörder öğrenci masa tenisi turnuvasına katılmak için başvurmuştur. Adaylar arasından en az biri ortaokuldan, en az biri liseden olmak üzere 4 aday seçilecektir. Bu seçim kaç farklı şekilde yapılabilir?|76;68;72;62;64
+439|N|Mehmet, kalınlıkları farklı 9 kitabını üst üste; en üstteki kitaptan ortadaki kitaba kadar kalınlıkları azalan, ortadaki kitaptan en alttaki kitaba kadar kalınlıkları artan biçimde dizmek istiyor. Kitapları kaç farklı şekilde dizebilir?|70;84;56;64;90
+440|N|Bir çekiliş için 1'den 9'a kadar olan 9 rakam kullanılarak 6 basamaklı sayılardan oluşan biletler basılacaktır. Numarasının rakamları toplamı 8 olan en çok kaç farklı bilet basılabilir?|19;26;21;30;28
+441|V|Hilesiz bir zar iki kez rastgele atılacaktır. Üst yüze gelen sayıların aralarında asal olma olasılığı kaçtır?|11/18;5/36;1/4;7/18;5/18
+442|V|Bir sinemada 6 farklı salon vardır. Salonların üçünde aynı film, diğer salonlarda ise birbirinden farklı filmler gösterilmektedir. Serpil ve Hilal farklı salonlar için bilet almıştır. Farklı filmleri izleme olasılıkları kaçtır?|1/5;2/5;1/10;4/5;1/15
+443|V|İçinde Alkım ve Çiğdem'in de bulunduğu 6 kişi bir sıra boyunca yan yana durarak fotoğraf çektirecektir. Çekilebilecek tüm fotoğraflardan rastgele seçilen birinde Alkım ile Çiğdem'in yan yana gelmeme olasılığı kaçtır?|2/3;5/6;7/12;5/12;19/24
+444|N|Şekilde dört eşkenar üçgen bulunmaktadır. Sarı, mavi, kırmızı ve mor olmak üzere 4 boyası olan Mehmet, ortak kenarı olan üçgenleri farklı renklerle boyayacaktır. Bu boyama işlemini kaç farklı biçimde yapabilir?|72;30;56;108;48
+445|V|Bir öğrenci matematik sınavında sorulan 7 sorudan en az dördünü doğru yaparsa sınıfı geçecektir. Bir soruyu kesin olarak yapamayacağını bildiği için diğer 6 soruyu işaretliyor. İşaretlediği her soruyu bağımsız olarak 1/2 olasılıkla doğru yaptığı kabul edilirse sınıfı geçme olasılığı kaçtır?|5/16;7/32;11/32;13/32;1/2
+446|V|1'den 6'ya kadar rakamlarla numaralandırılmış 6 topun bulunduğu bir torbadan rastgele iki top çekiliyor. Çekilen toplardaki büyük sayının küçük sayıya tam bölünme olasılığı kaçtır?|1/3;4/15;8/15;7/15;2/5
+447|V|Bir restorana verilen dört siparişin ikisi pide, ikisi lahmacundur. Siparişleri götürecek kuryeye dört farklı adres verilmiş, hangi adrese hangi siparişin gideceği bildirilmemiştir. Kuryenin siparişlerin tamamını doğru adreslere götürme olasılığı kaçtır?|1/8;1/10;1/6;1/4;1/12
+448|V|İki arkadaş ceplerinde kaç lira olduğunu tahmin ederek bulmaya çalışıyor. Üzerinde 10, 40, 50, 70 ve 80 yazan beş karttan rastgele ikisini seçip toplamlarını alıyorlar. Biri diğerine “Benim cebimde kaç lira olduğunu bulma olasılığın 1/5'tir.” diyor. Buna göre bu çocuğun cebinde kaç TL olabilir?|60;120;130;110;80
+449|N|4 kadın ve 3 erkekten oluşan bir toplulukta 3 evli çift vardır. Eşlerin birlikte bulunmadığı 3 kişilik bir ekip kaç farklı biçimde oluşturulabilir?|15;20;18;24;30
+450|N|Bir büfede sucuklu, kaşarlı, kavurmalı, sucuklu-kaşarlı ve kaşarlı-kavurmalı olmak üzere beş tost çeşidi vardır. Mehmet ve Bilge, içinde aynı çeşit ürün olmayan tostlardan birer tane sipariş veriyor. Bu iki kişi siparişlerini kaç farklı şekilde verebilir?|8;12;10;14;6
+451|GA|ABC üçgeninde D ∈ [AC], E ∈ [CB], [AB] ∥ [DE], ∣DC∣ = ∣CE∣ = ∣BD∣ ve m(ABD) = 42°'dir. Buna göre m(BAC) = α kaç derecedir?|70;74;76;84;64
+452|GQ|Şekilde [AB] ∥ [DC], [BD] ise ADC açısının açıortayıdır. m(DAC) = 2·m(DBC) = 60° olduğuna göre m(ABD) = α kaç derecedir?|30;35;45;60;75
+453|GA|ABC üçgeninde m(ABD) = m(DBC), m(CAE) = m(CAF), m(BDA) = 60° ve m(DCB) = 35°'dir. F, A ve B noktaları doğrusaldır. Buna göre m(EAB) = α kaç derecedir?|25;20;15;10;5
+454|GA|ABC üçgeninde D, C, B, H noktaları doğrusal; D, E, F, G noktaları doğrusaldır. ∣EC∣ = ∣DC∣, ∣GB∣ = ∣FB∣ ve m(BAC) = 100° olduğuna göre şekildeki α açısı kaç derecedir?|40;50;60;75;80
+455|GA|ABC üçgeninde ∣AD∣ = ∣CA∣, ∣CE∣ = ∣DE∣ = ∣DB∣ ve m(ABC) = 50°'dir. Buna göre m(BAC) kaç derecedir?|30;45;60;80;90
+456|GA|ABC üçgeninde ∣DE∣ = ∣BD∣ = ∣CD∣, ∣AE∣ = ∣EB∣ ve m(BAC) = 80°'dir. Buna göre şekildeki α açısı kaç derecedir?|10;50;40;30;20
+457|GA|ABC üçgeninde ∣DB∣ = ∣BE∣, [DC] açıortay, C, B, H noktaları doğrusal ve m(CBE) = m(EBF) = m(FBD)'dir. m(BAC) = 60° olduğuna göre şekildeki α açısı kaç derecedir?|45;75;90;100;120
+458|GA|ABC üçgeninde ∣DE∣ = ∣CD∣, ∣EB∣ = ∣EF∣, m(CAB) = 60° ve m(DEF) = 45°'dir. Buna göre m(EFA) = α kaç derecedir?|125;75;90;105;120
+459|GA|ABC üçgeninde ∣BA∣ = ∣DC∣ ve m(CDA) = 2·m(ABC) = 120°'dir. Buna göre şekildeki α açısı kaç derecedir?|60;45;40;30;20
+460|GA|ABC üçgeninde [DC] ⟂ [DA], ∣AD∣ = ∣BE∣ = ∣EC∣ ve m(EAB) = 40°'dir. Buna göre m(BCD) kaç derecedir?|50;40;30;10;20
+461|GA|ABC üçgeninde ∣AB∣ = ∣BD∣, ∣AC∣ = ∣CE∣ ve m(DAE) = 30°'dir. Buna göre m(CAB) kaç derecedir?|115;60;90;150;120
+462|GA|ABC üçgeninde m(DCE) = m(CBK) = m(KBE), m(ECK) = m(KCB) = m(DBA) ve m(DEC) = 70°'dir. Buna göre m(CAB) = α kaç derecedir?|20;30;45;60;75
+463|GA|ABC üçgeninde ∣DC∣ = ∣DF∣, ∣EF∣ = ∣BE∣ ve m(CAB) = 80°'dir. Buna göre m(DFE) = α kaç derecedir?|80;60;50;40;30
+464|GU|ABC üçgeninde [AC] ⟂ [BC], m(ABC) = 45°, ∣AB∣ = 7√2 cm ve ∣DB∣ = 6 cm'dir. Buna göre ∣AD∣ = x kaç cm'dir?|5;5√2;10;4√2;3√2
+465|GU|ABC üçgeninde m(BAC) = 15°, m(BCA) = 45° ve ∣AB∣ = 8 cm'dir. Buna göre ∣AC∣ = x kaç cm'dir?|4√3;4√2;4√6;8;16
+466|GU|ABC eşkenar üçgeninde ∣BE∣ = ∣EC∣ ve 5·∣AD∣ = ∣AC∣ = 10 cm'dir. Buna göre ∣DE∣ = x kaç cm'dir?|5√3;4√3;10;8;7
+467|GU|ABC eşkenar üçgeninde ∣AE∣ = ∣EB∣, ∣DE∣ = 2√13 cm ve ∣DC∣ = 10 cm'dir. Buna göre ∣BC∣ = x kaç cm'dir?|16;8;4√2;13√2;13
+468|GU|ABC eşkenar üçgeninde [DE] ⟂ [EB], ∣BF∣ = ∣FC∣, ∣AD∣ = ∣DC∣ ve ∣BC∣ = 12 cm'dir. Buna göre ∣FE∣ = x kaç cm'dir?|8;6;6√3;3√3;3√7
+469|GQ|ABCD dikdörtgeni şekildeki gibi dört eş dikdörtgenden oluşmaktadır. ∣DK∣ = 9 cm olduğuna göre ABCD dikdörtgeninin alanı kaç cm²'dir?|108;54;72;84;42
+470|GQ|ABCD dikdörtgeninde [FB] ⟂ [FE], ∣AB∣ = 10 cm, ∣BC∣ = 8 cm ve ∣DE∣ = 6 cm'dir. Buna göre ∣FE∣ = x kaç cm'dir?|10;8;6;4;2
+471|GQ|ABCD dikdörtgeninde ∣AB∣ = 18 cm, ∣BC∣ = 8 cm ve ∣DE∣ = 12 cm'dir. Buna göre taralı alan kaç cm²'dir?|48;36;12;18;24
+472|GQ|ABCD dikdörtgeninde E ve F bulundukları kenarların orta noktalarıdır. ∣AD∣ = 8 cm ve ∣DC∣ = 10 cm olduğuna göre FED üçgeninin alanı kaç cm²'dir?|30;40;50;60;70
+473|GQ|ABCD dikdörtgeninde 3·∣CE∣ = (3/2)·∣AD∣ = ∣DC∣ = 24 cm'dir. D, C ve E noktaları doğrusaldır. Buna göre AFC üçgeninin alanı kaç cm²'dir?|24;32;36;64;48
+474|GQ|ABCD karesinde E, F, G ve H bulundukları kenarların orta noktalarıdır. KMLİ dörtgeninin alanı 5 cm² olduğuna göre karenin bir kenarı kaç cm'dir?|5;10;15;20;25
+475|GQ|ABCD ve CFEG birer karedir. ∣DC∣ = 2·∣FC∣ ve ∣AE∣ = 10√10 cm olduğuna göre AEC üçgeninin alanı kaç cm²'dir?|120;100;150;180;200
+476|GQ|ABCD karesinde DEB üçgeninin alanı 12 cm² ve ∣DE∣ = 4 cm'dir. Buna göre karenin alanı kaç cm²'dir?|18;24;36;42;64
+477|GQ|ABCD karesinde [DF] ⟂ [FB], m(ADE) = 15° ve ∣FB∣ = 4√2 cm'dir. Buna göre ABCD karesinin alanı kaç cm²'dir?|16;16√2;32;64;32√2
+478|GQ|ABCD ve CEFG birer karedir. ∣DG∣ = 17 cm olduğuna göre karelerin alanları toplamı kaç cm²'dir?|289;225;121;100;64
+479|GQ|ABCD ikizkenar yamuğunda ∣BE∣ = ∣FC∣, ∣AB∣ = 8 cm ve ∣AE∣ = 6 cm'dir. [AF] ⟂ [DC] olduğuna göre ∣DF∣ = x kaç cm'dir?|10;8;6;4;2
+480|GQ|ABCD dik yamuğunda [BE] ⟂ [EC] ve E, [AD]'nin orta noktasıdır. ∣AB∣ = 2 cm ve ∣BC∣ = 24 cm olduğuna göre ∣DC∣ = x kaç cm'dir?|6;24;22;12;14
+481|GQ|ABCD ikizkenar yamuğunda [DE] açıortay ve [DE] ⟂ [BC]'dir. ∣AB∣ = 5 cm ve ∣DC∣ = 16 cm olduğuna göre ∣BE∣ = x kaç cm'dir?|1;2;3;4;5
+482|GQ|ABCD paralelkenarında ∣EB∣ = 3 cm, ∣DC∣ = 9 cm, Alan(ADE) = S₁ ve Alan(BFC) = S₂'dir. Buna göre S₁/S₂ oranı kaçtır?|1/2;1/3;4/3;8/3;3/8
+483|GP|ABCDEF düzgün altıgeninde FEH bir üçgendir. 4·∣GD∣ = ∣ED∣ = 8 cm olduğuna göre ∣DH∣ = x kaç cm'dir?|3;4/3;8/3;3/16;16/3
+484|GC|Şekilde dıştan teğet iki çember verilmiştir. A, D ve E değme noktalarıdır. m(ABE) = α + 30° ve m(ECD) = 2α olduğuna göre α kaç derecedir?|6;10;12;18;20
+485|GC|Şekilde O çemberin merkezi, ABC ise üçgendir. FE ve FG yaylarının uzunlukları eşit, DC ve GC yaylarının uzunlukları eşittir. m(FEC) = 70° olduğuna göre m(BAC) = α kaç derecedir?|30;40;50;60;80
+486|GC|Şekilde ∣AB∣ = ∣BE∣ = 6 cm, ∣FA∣ = 4 cm ve ∣EC∣ = 1 cm'dir. B teğet noktası ve ∣ED∣ < ∣EF∣ olduğuna göre ∣ED∣ uzunluğunun tam sayı değeri kaçtır?|2;3;4;5;6
+487|GC|O yarım dairenin merkezi, ABCO ise eşkenar dörtgendir. ∣DO∣ = 12 cm olduğuna göre taralı alan kaç cm²'dir?|48π;45π;36π;30π;24π
+488|GC|[AO], [OB] ve [AB] şekildeki yarım dairelerin çaplarıdır. ∣AO∣ = 2·∣OB∣ = 16 cm olduğuna göre taralı alan kaç cm²'dir?|64π;72π;96π;80π;144π
+489|GX|Dik koordinat düzleminde 2y − x + 8 = 0 doğrusunun y = −x doğrusuna göre simetriği olan doğrunun x eksenini kestiği noktanın apsisi kaçtır?|4;8;2;1/2;1/4
+490|GX|Dik koordinat düzleminde x + y − 8 = 0 doğrusunun eksenleri kestiği noktaların orta noktasının orijine uzaklığını köşegen kabul eden karenin alanı kaç cm²'dir?|32;16;8;4√2;2√2
+491|GX|Dik koordinat düzleminde x + y = −4, −y + x = 4 ve 2y = −4 doğrularıyla sınırlandırılmış bölgenin alanı kaç cm²'dir?|16;14;12;8;4
+492|GX|Dik koordinat düzleminde K(3, 4) noktasının 4x + 3y − 24 = 0 doğrusuna göre simetriği hangi noktadır?|(−3, −4);(3, −4);(−3, 4);(3, 4);(4, 5)
+493|GX|Dik koordinat düzleminde d₁ ve d₂ doğruları B(0, 6) noktasında dik kesişmektedir. d₁ doğrusu A(−4, 0) noktasından geçtiğine göre d₂ doğrusunun denklemi nedir?|6x + 9y = 54;9y − 6x = 18;6x + 9y = 27;9x + 6y = 54;6x − 9y = 27
+494|GX|Dik koordinat düzleminde 2x − y + 8 = 0 doğrusu, bu doğrunun x eksenine göre simetriği olan doğru ve y ekseni arasında kalan bölgenin alanı kaç birimkaredir?|64;32;16;8;4
+495|GX|Dik koordinat düzleminde A(3, 4) noktasının y = x doğrusuna göre simetriği ile B(5, 15) noktasının x = 2 doğrusuna göre simetriği arasındaki uzaklık kaç birimdir?|21;20;17;15;13
+496|GX|Dik koordinat düzleminde d₂ doğrusu A(4, 0) ve B(0, 6) noktalarından geçmektedir. d₁ doğrusu C(−1, 0) noktasından ve [AB]'nin orta noktasından geçmektedir. Buna göre şekildeki taralı bölgenin alanı kaç birimkaredir?|7;6;5;4;3
+497|GX|K(3, k) noktasının y = −x doğrusuna göre simetriği olan nokta 2x + y − 9 = 0 doğrusu üzerinde olduğuna göre k kaçtır?|−8;−6;6;−4;9
+498|GX|Dik koordinat düzleminde d₁ ⟂ d₂, ∣AB∣ = ∣BC∣ ve d₂: 2y − x = 6'dır. Şekle göre D noktasının apsisi kaçtır?|12;8;6;4;9
+499|GK|Yüzey alanı 216 cm² olan bir küpten şekildeki AEFG dik üçgen piramidi çıkarılıyor. Çıkarılan piramidin hacmi kaç cm³'tür?|72;36;48;108;144
+500|GK|Ayrıt uzunlukları 6 cm, 8 cm ve 10 cm olan dikdörtgenler prizmasının ortasından taban ayrıtı 2 cm, yüksekliği 10 cm olan bir kare dik prizma çıkarılırsa kalan cismin yüzey alanı kaç cm² olur?|376;368;348;448;408

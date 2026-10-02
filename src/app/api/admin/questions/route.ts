@@ -2,30 +2,16 @@ import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 import { verifyAdmin } from "@/lib/adminAuth";
-
-const JSON_PATH = path.join(process.cwd(), "src", "data", "questions.json");
-
-function readQuestions(): any[] {
-  try {
-    if (!fs.existsSync(JSON_PATH)) return [];
-    const content = fs.readFileSync(JSON_PATH, "utf8");
-    return JSON.parse(content);
-  } catch (err) {
-    console.error("Error reading questions.json:", err);
-    return [];
-  }
-}
-
-function writeQuestions(questions: any[]) {
-  fs.writeFileSync(JSON_PATH, JSON.stringify(questions, null, 2), "utf8");
-}
+import { readQuestions, writeQuestions } from "@/lib/question-store";
 
 function deleteImageFile(imageUrl?: string | null) {
   if (!imageUrl) return;
   try {
     const cleanUrl = imageUrl.split("?")[0];
-    const rel = cleanUrl.startsWith("/") ? cleanUrl.slice(1) : cleanUrl;
-    const fullPath = path.join(process.cwd(), "public", rel);
+    if (!cleanUrl.startsWith("/uploads/questions/")) return;
+    const root = path.resolve(process.cwd(), "public", "uploads", "questions");
+    const fullPath = path.resolve(process.cwd(), "public", cleanUrl.slice(1));
+    if (!fullPath.startsWith(root + path.sep)) return;
     if (fs.existsSync(fullPath)) {
       fs.unlinkSync(fullPath);
     }
@@ -202,17 +188,17 @@ export async function DELETE(request: NextRequest) {
     const toDeleteSet = new Set(idsToDelete);
     const list = readQuestions();
     
-    // Delete associated image files from public/uploads
+    const updated = list.filter((q) => !toDeleteSet.has(q.id));
+    const deletedCount = list.length - updated.length;
+    writeQuestions(updated);
+
+    // Remove only images no remaining question uses, after saving the data.
     for (const q of list) {
-      if (toDeleteSet.has(q.id) && q.imageUrl) {
+      if (toDeleteSet.has(q.id) && q.imageUrl && !updated.some((other) => other.imageUrl === q.imageUrl)) {
         deleteImageFile(q.imageUrl);
       }
     }
 
-    const updated = list.filter((q) => !toDeleteSet.has(q.id));
-    const deletedCount = list.length - updated.length;
-
-    writeQuestions(updated);
     return NextResponse.json({ success: true, deletedCount });
   } catch (error) {
     return NextResponse.json(
