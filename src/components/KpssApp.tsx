@@ -12,6 +12,7 @@ import {
   ChartNoAxesCombined,
   Check,
   CheckCheck,
+  CheckCircle2,
   ChevronLeft,
   ChevronRight,
   CircleHelp,
@@ -32,6 +33,7 @@ import {
   TrendingUp,
   Trophy,
   X,
+  XCircle,
   RotateCcw,
   LogIn,
   Landmark,
@@ -958,42 +960,44 @@ export default function KpssApp({
           </div>
         </header>
         <main id="main-content">
-          <div className="page-intro">
-            <div>
-              <div className="intro-kicker">
-                <span className="status-dot" /> BUGÜN, HEDEFİNE BİR ADIM DAHA
+          {!(view === "map" && mapCatActive) && (
+            <div className="page-intro">
+              <div>
+                <div className="intro-kicker">
+                  <span className="status-dot" /> BUGÜN, HEDEFİNE BİR ADIM DAHA
+                </div>
+                <h1>
+                  {view === "home" ? (
+                    <>
+                      Hoş geldin, <span>geleceğin kazananı.</span>
+                      <span className="greeting-spark">✳</span>
+                    </>
+                  ) : (
+                    navItems.find((n) => n.id === view)?.label
+                  )}
+                </h1>
+                <p>
+                  {view === "home"
+                    ? "Küçük bir adım, doğru bir hamle. Bugünkü yolculuğun burada başlıyor."
+                    : view === "map"
+                      ? "Ezberlemenin ötesine geç. Bilgini Türkiye haritası üzerinde keşfet."
+                      : view === "stats"
+                        ? "Attığın her adım burada. İlerlemeni kendi sonuçlarınla takip et."
+                        : view === "wrong"
+                          ? "Her yanlış, öğrenmek için yeni bir fırsat."
+                          : view === "saved"
+                            ? "Tekrar dönmek istediğin sorular, bir arada."
+                            : "Hedefine giden yolu seç. Bir ders, bir konu, yeni bir başlangıç."}
+                </p>
               </div>
-              <h1>
-                {view === "home" ? (
-                  <>
-                    Hoş geldin, <span>geleceğin kazananı.</span>
-                    <span className="greeting-spark">✳</span>
-                  </>
-                ) : (
-                  navItems.find((n) => n.id === view)?.label
-                )}
-              </h1>
-              <p>
-                {view === "home"
-                  ? "Küçük bir adım, doğru bir hamle. Bugünkü yolculuğun burada başlıyor."
-                  : view === "map"
-                    ? "Ezberlemenin ötesine geç. Bilgini Türkiye haritası üzerinde keşfet."
-                    : view === "stats"
-                      ? "Attığın her adım burada. İlerlemeni kendi sonuçlarınla takip et."
-                      : view === "wrong"
-                        ? "Her yanlış, öğrenmek için yeni bir fırsat."
-                        : view === "saved"
-                          ? "Tekrar dönmek istediğin sorular, bir arada."
-                          : "Hedefine giden yolu seç. Bir ders, bir konu, yeni bir başlangıç."}
-              </p>
+              <div className="guest-pill">
+                <span />
+                <span>
+                  {authUser ? `${authUser.name || "Üye"} olarak giriş yapıldı` : "Misafir modu"}<small>{authUser ? "İlerlemen hesabına bağlı" : "İlerlemen bu cihazda"}</small>
+                </span>
+              </div>
             </div>
-            <div className="guest-pill">
-              <span />
-              <span>
-                {authUser ? `${authUser.name || "Üye"} olarak giriş yapıldı` : "Misafir modu"}<small>{authUser ? "İlerlemen hesabına bağlı" : "İlerlemen bu cihazda"}</small>
-              </span>
-            </div>
-          </div>
+          )}
           {!isDialogOpen && bankFeedback}
           {storageError && (
             <div className="storage-warning" role="status">
@@ -1427,11 +1431,17 @@ export default function KpssApp({
                   className={`answer-explanation ${mapSelection === currentGeoMap.answer ? "right" : "wrong"}`}
                   role="status"
                 >
-                  <strong>
-                    {mapSelection === currentGeoMap.answer
-                      ? "Doğru hamle!"
-                      : `Doğru cevap: ${provinces.find((c) => c.plateNumber === currentGeoMap.answer)?.name}`}
-                  </strong>
+                  <div className="answer-status-head">
+                    {mapSelection === currentGeoMap.answer ? (
+                      <span className="status-badge right">
+                        <CheckCircle2 size={20} /> Doğru Hamle!
+                      </span>
+                    ) : (
+                      <span className="status-badge wrong">
+                        <XCircle size={20} /> Yanlış Hamle · Doğru Cevap: <strong>{provinces.find((c) => c.plateNumber === currentGeoMap.answer)?.name}</strong>
+                      </span>
+                    )}
+                  </div>
                   <p>{currentGeoMap.explanation}</p>
                 </div>
               )}
