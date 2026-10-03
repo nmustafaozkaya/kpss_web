@@ -1,10 +1,15 @@
 import type { Metadata } from "next";
+import { DM_Sans, Manrope } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
+
+const dmSans = DM_Sans({ subsets: ["latin", "latin-ext"], variable: "--font-body", display: "swap" });
+const manrope = Manrope({ subsets: ["latin", "latin-ext"], variable: "--font-heading", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://sahmatkpss.com"),
   title: {
-    default: "Şahmat KPSS — 2026 KPSS Hazırlık, Çözümlü Soru Bankası ve Harita Eğitimi",
+    default: "Şahmat KPSS | 2026 Soru Bankası ve Coğrafya Haritaları",
     template: "%s | Şahmat KPSS",
   },
   description:
@@ -55,15 +60,16 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="tr">
-      <head>
-        <script
-          async
+    <html lang="tr" className={`${dmSans.variable} ${manrope.variable}`}>
+      <body>
+        {children}
+        <Script
+          id="adsense"
+          strategy="lazyOnload"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8252438794686125"
           crossOrigin="anonymous"
         />
-      </head>
-      <body>{children}</body>
+      </body>
     </html>
   );
 }

@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Haritalarla Coğrafya — Şahmat KPSS",
+  title: "Haritalarla Coğrafya",
+  alternates: { canonical: "https://sahmatkpss.com/haritalar" },
   description:
     "Türkiye haritası üzerinde göller, dağlar, ovalar, platolar, akarsular ve turizm merkezlerini keşfet ve test et.",
 };

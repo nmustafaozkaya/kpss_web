@@ -1,10 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750&family=Manrope:wght@400;500;600;650;700;750;800&display=swap");
-
 :root {
   --background: #f7f8f4;
   --paper: #fff;
   --ink: #283b33;
-  --muted: #8a918c;
+  --muted: #626e65;
   --green: #315a48;
   --line: #e9ece5;
   --gold: #ddbf77;
@@ -17,7 +15,7 @@ body {
   margin: 0;
   background: var(--background);
   color: var(--ink);
-  font-family: "DM Sans", Arial, sans-serif;
+  font-family: var(--font-body), Arial, sans-serif;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
 }
@@ -74,7 +72,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Manrope", "DM Sans", sans-serif;
+  font-family: var(--font-heading), var(--font-body), sans-serif;
 }
 button {
   transition:
@@ -113,7 +111,7 @@ button:active:not(:disabled) {
   color: #315744;
 }
 .brand > span:last-child {
-  font-family: "Manrope", sans-serif;
+  font-family: var(--font-heading), sans-serif;
   font-weight: 800;
   font-size: 28px;
   letter-spacing: -1.3px;
@@ -126,13 +124,13 @@ button:active:not(:disabled) {
   letter-spacing: 3.3px;
   margin-top: 5px;
   margin-left: 2px;
-  color: #858d84;
+  color: var(--muted);
 }
 .workspace-label {
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.4px;
-  color: #a1a69f;
+  color: var(--muted);
   margin: 51px 16px 18px;
 }
 .sidebar nav {
@@ -149,7 +147,7 @@ button:active:not(:disabled) {
   border-radius: 8px;
   font-size: 12px;
   font-weight: 550;
-  color: #7a827d;
+  color: var(--muted);
   min-height: 46px;
   position: relative;
 }
@@ -796,7 +794,7 @@ main {
 .stats-row strong small {
   font-size: 8px;
   font-weight: 400;
-  color: #a2a997;
+  color: var(--muted);
 }
 .section-heading {
   display: flex;
@@ -809,7 +807,7 @@ main {
   font-size: 8px;
   letter-spacing: 1.45px;
   font-weight: 700;
-  color: #929d87;
+  color: var(--muted);
 }
 .section-heading h2 {
   font-size: 18px;
@@ -838,7 +836,7 @@ main {
   padding: 8px 12px;
   border-radius: 6px;
   font-size: 10px;
-  color: #8d9684;
+  color: var(--muted);
   white-space: nowrap;
 }
 .course-filter > button.active {
@@ -852,11 +850,11 @@ main {
   padding: 2px 4px;
   border: 1px solid #dde3d4;
   border-radius: 3px;
-  color: #8d997e;
+  color: var(--muted);
 }
 .course-count {
   font-size: 9px;
-  color: #a1a88f;
+  color: var(--muted);
   margin-left: auto;
 }
 .course-grid {
@@ -918,7 +916,7 @@ main {
 }
 .group-tag {
   font-size: 8px;
-  color: #9a9f91;
+  color: var(--muted);
   background: #f6f7f3;
   border: 1px solid #edf0e7;
   border-radius: 4px;
@@ -931,12 +929,12 @@ main {
 }
 .course-card > p {
   font-size: 10px;
-  color: #999f92;
+  color: var(--muted);
   margin-top: 7px;
 }
 .course-meta {
   font-size: 9px;
-  color: #a4aa9b;
+  color: var(--muted);
   margin-top: 17px;
 }
 .course-progress {
@@ -961,7 +959,7 @@ main {
 }
 .course-bottom small {
   font-size: 8px;
-  color: #9ca78f;
+  color: var(--muted);
 }
 .course-bottom button {
   color: #9ca991;
@@ -1114,7 +1112,7 @@ main {
   align-items: center;
   justify-content: space-between;
   gap: 15px;
-  color: #a5ac99;
+  color: var(--muted);
   font-size: 8px;
   border-top: 1px solid #e7ebdf;
   margin-top: 30px;

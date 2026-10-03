@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
 import {
@@ -42,12 +42,8 @@ import {
 } from "lucide-react";
 import QuizAdSlot from "@/components/QuizAdSlot";
 import provinces from "@/data/provinces.json";
-import {
-  questions as bundledQuestions,
-  mapQuestions,
-  type Question,
-  type Subject,
-} from "@/data/questions";
+import type { Question, Subject } from "@/data/questions";
+import { mapQuestions } from "@/data/legacy-map-questions";
 import {
   geoMapQuestions,
   mapCategories,
@@ -223,24 +219,36 @@ function TurkeyMap({
 
 export default function KpssApp({
   initialView,
+  initialQuestionCounts,
 }: {
   initialView?: View;
-} = {}) {
+  initialQuestionCounts: Record<Subject, number>;
+}) {
   const router = useRouter();
   const pathname = usePathname();
-  const [questions, setQuestions] = useState<Question[]>(bundledQuestions);
-  useEffect(() => {
-    const controller = new AbortController();
-    fetch("/api/question-bank", { cache: "no-store", signal: controller.signal })
+  const [questions, setQuestions] = useState<Question[]>([]);
+  const [bankStatus, setBankStatus] = useState<"idle" | "loading" | "ready" | "error">("idle");
+  const bankRequest = useRef<Promise<Question[] | null> | null>(null);
+  const loadQuestions = useCallback((): Promise<Question[] | null> => {
+    if (bankRequest.current) return bankRequest.current;
+    setBankStatus("loading");
+    bankRequest.current = fetch("/api/question-bank", { cache: "no-store" })
       .then((response) => {
         if (!response.ok) throw new Error("Question bank unavailable");
         return response.json();
       })
       .then((data) => {
-        if (Array.isArray(data.questions)) setQuestions(data.questions);
+        if (!Array.isArray(data.questions)) throw new Error("Invalid question bank");
+        setQuestions(data.questions);
+        setBankStatus("ready");
+        return data.questions as Question[];
       })
-      .catch(() => undefined);
-    return () => controller.abort();
+      .catch(() => {
+        bankRequest.current = null;
+        setBankStatus("error");
+        return null;
+      });
+    return bankRequest.current;
   }, []);
   const [view, setView] = useState<View>(() => {
     if (initialView) return initialView;
@@ -283,7 +291,14 @@ export default function KpssApp({
   const lastFocus = useRef<HTMLElement | null>(null);
   const isDialogOpen = Boolean(modal || quiz);
 
+  useEffect(() => {
+    if (["courses", "wrong", "saved", "stats"].includes(view) || progress.attempts.length > 0) {
+      void loadQuestions();
+    }
+  }, [view, progress.attempts.length, loadQuestions]);
+
   function openSubject(s: typeof subjects[0]) {
+    void loadQuestions();
     setSelectedSubject(s);
     setModal("subject");
   }
@@ -552,10 +567,12 @@ export default function KpssApp({
     setQuizFinished(false);
   }
 
-  function startGeneralQuiz(count = 15) {
+  async function startGeneralQuiz(count = 15) {
+    const bank = await loadQuestions();
+    if (!bank) return;
     const answeredIds = new Set(progress.attempts.map((a) => a.id));
-    const unanswered = questions.filter((q) => !answeredIds.has(q.id));
-    const pool = unanswered.length >= count ? unanswered : questions;
+    const unanswered = bank.filter((q) => !answeredIds.has(q.id));
+    const pool = unanswered.length >= count ? unanswered : bank;
     const batch = pool.slice(0, count);
     startQuiz(batch, 0);
   }
@@ -702,6 +719,15 @@ export default function KpssApp({
     setNotice("Oturumun kapatıldı. Misafir olarak devam edebilirsin.");
   }
 
+  const bankFeedback = bankStatus === "loading" ? (
+    <p role="status" className="storage-warning">Sorular yükleniyor…</p>
+  ) : bankStatus === "error" ? (
+    <div role="alert" className="storage-warning">
+      Sorular yüklenemedi. Bağlantını kontrol edip tekrar deneyebilirsin.
+      <button className="button secondary" onClick={() => void loadQuestions()}>Tekrar dene</button>
+    </div>
+  ) : null;
+
   const courseSection = (
     <section className="courses-section">
       <div className="section-heading">
@@ -746,9 +772,10 @@ export default function KpssApp({
         {visibleSubjects.map((s) => {
           const Icon = s.icon;
           const list = questions.filter((q) => q.subject === s.name);
+          const total = bankStatus === "ready" ? list.length : initialQuestionCounts[s.name] ?? 0;
           const solved = list.filter((q) => latest.has(q.id)).length;
           return (
-            <article
+            <div
               className={`course-card ${s.color} clickable`}
               key={s.name}
               role="button"
@@ -766,7 +793,7 @@ export default function KpssApp({
               <h3>{s.name}</h3>
               <p>{s.desc}</p>
               <div className="course-meta">
-                {`${s.topics.length} konu · ${list.length} soru`}
+                {`${s.topics.length} konu · ${total} soru`}
               </div>
               <div className="course-progress">
                 <span
@@ -778,12 +805,12 @@ export default function KpssApp({
               <div className="course-bottom">
                 <small>
                   {solved
-                    ? `${solved} / ${list.length} soru çözüldü`
+                    ? `${solved} / ${total} soru çözüldü`
                     : "Konulara göz at"}
                 </small>
                 <span className="card-arrow"><ChevronRight size={18} /></span>
               </div>
-            </article>
+            </div>
           );
         })}
       </div>
@@ -967,6 +994,7 @@ export default function KpssApp({
               </span>
             </div>
           </div>
+          {!isDialogOpen && bankFeedback}
           {storageError && (
             <div className="storage-warning" role="status">
               Tarayıcı depolamasına erişilemiyor. İlerlemen yalnızca bu sayfa
@@ -1424,7 +1452,7 @@ export default function KpssApp({
             </section>
           )}
 
-          {(view === "wrong" || view === "saved") && (
+          {(view === "wrong" || view === "saved") && bankStatus === "ready" && (
             <section className="collection-panel">
               {(view === "wrong" ? wrongQuestions : savedQuestions).length >
               0 ? (
@@ -1680,8 +1708,10 @@ export default function KpssApp({
                     <h2 id="dialog-title">{selectedSubject.name}</h2>
                   </div>
                 </div>
+                {bankFeedback}
                 <button
                   className="topic-all-btn"
+                  disabled={bankStatus !== "ready"}
                   style={{ width: "100%", marginBottom: "8px" }}
                   onClick={() => { closeDialog(); startQuiz(subList); }}
                 >
@@ -1699,6 +1729,7 @@ export default function KpssApp({
                           <button
                             key={t}
                             className="subject-topic-btn"
+                            disabled={bankStatus !== "ready"}
                             onClick={() => { closeDialog(); startQuiz(subList.filter((q) => q.topic === t)); }}
                           >
                             <span>{t}</span>
