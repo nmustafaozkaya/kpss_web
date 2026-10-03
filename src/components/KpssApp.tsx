@@ -569,14 +569,57 @@ export default function KpssApp({
     setQuizFinished(false);
   }
 
-  async function startGeneralQuiz(count = 15) {
+  async function startGeneralQuiz(_count?: number) {
     const bank = await loadQuestions();
-    if (!bank) return;
+    if (!bank || bank.length === 0) return;
+
     const answeredIds = new Set(progress.attempts.map((a) => a.id));
-    const unanswered = bank.filter((q) => !answeredIds.has(q.id));
-    const pool = unanswered.length >= count ? unanswered : bank;
-    const batch = pool.slice(0, count);
-    startQuiz(batch, 0);
+
+    // Her dersten kesinlikle 2-3 soru bulunacak şekilde karma deneme oluştur
+    const allSubjects: Subject[] = [
+      "Türkçe",
+      "Matematik",
+      "Geometri",
+      "Tarih",
+      "Coğrafya",
+      "Vatandaşlık",
+      "Güncel Bilgiler",
+    ];
+
+    const shuffle = <T,>(arr: T[]): T[] => {
+      const copy = [...arr];
+      for (let i = copy.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [copy[i], copy[j]] = [copy[j], copy[i]];
+      }
+      return copy;
+    };
+
+    const selectedQuestions: Question[] = [];
+
+    allSubjects.forEach((subj) => {
+      const subjQuestions = bank.filter((q) => q.subject === subj);
+      if (subjQuestions.length === 0) return;
+
+      const unanswered = subjQuestions.filter((q) => !answeredIds.has(q.id));
+      // Her dersten 2 veya 3 soru (Geometri için 2, diğerleri rastgele 2 veya 3)
+      const targetCount = subj === "Geometri" ? 2 : Math.random() < 0.5 ? 2 : 3;
+      const pool = unanswered.length >= targetCount ? unanswered : subjQuestions;
+
+      const shuffledPool = shuffle(pool);
+      const picked = shuffledPool.slice(0, Math.min(targetCount, shuffledPool.length));
+      selectedQuestions.push(...picked);
+    });
+
+    if (selectedQuestions.length === 0) {
+      const fallback = shuffle(bank).slice(0, 15);
+      startQuiz(fallback, 0);
+      return;
+    }
+
+    // Seçilen tüm soruları birbirine karıştırarak rastgele bir deneme sınavı sun
+    const mixedBatch = shuffle(selectedQuestions);
+    startQuiz(mixedBatch, 0);
   }
   function record(id: string, correct: boolean) {
     setProgress((p) => ({
@@ -1026,7 +1069,7 @@ export default function KpssApp({
                     </p>
                     <button
                       className="button cream"
-                      onClick={() => startGeneralQuiz(15)}
+                      onClick={() => startGeneralQuiz()}
                     >
                       Hemen soru çöz <ArrowUpRight size={17} />
                     </button>
@@ -1522,7 +1565,7 @@ export default function KpssApp({
                   </p>
                   <button
                     className="button primary"
-                    onClick={() => startGeneralQuiz(15)}
+                    onClick={() => startGeneralQuiz()}
                   >
                     Soru çözmeye başla
                     <ArrowRight size={17} />
