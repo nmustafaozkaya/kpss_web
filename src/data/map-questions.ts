@@ -1,14 +1,17 @@
 export type MapCategory =
-  | "goller"
   | "daglar"
-  | "ovalar"
-  | "platolar"
-  | "turizm"
-  | "tarihi-yerler"
   | "akarsular"
+  | "platolar"
+  | "ovalar"
+  | "goller"
   | "korfezler"
   | "madenler"
-  | "enerji";
+  | "sanayi"
+  | "gecitler"
+  | "sinir-kapilari"
+  | "turizm"
+  | "enerji"
+  | "tarihi-yerler";
 
 export type MapQuestion = {
   id: string;
@@ -27,39 +30,11 @@ export const mapCategories: {
   desc: string;
 }[] = [
   {
-    id: "goller",
-    label: "Göller",
-    emoji: "💧",
-    color: "#3b82f6",
-    desc: "Türkiye'nin önemli göllerini haritada bul.",
-  },
-  {
     id: "daglar",
     label: "Dağlar",
     emoji: "🏔️",
     color: "#8b5cf6",
     desc: "Sıradağlar ve dorukların yerini keşfet.",
-  },
-  {
-    id: "ovalar",
-    label: "Ovalar",
-    emoji: "🌾",
-    color: "#22c55e",
-    desc: "Verimli ovaların hangi illerde olduğunu öğren.",
-  },
-  {
-    id: "platolar",
-    label: "Platolar",
-    emoji: "🗻",
-    color: "#f59e0b",
-    desc: "Yüksek platoları doğru ile eşleştir.",
-  },
-  {
-    id: "turizm",
-    label: "Turizm & Tarihi Yerler",
-    emoji: "🏛️",
-    color: "#ef4444",
-    desc: "UNESCO mirasları, kış/deniz turizmi, inanç ve kültür koridorları.",
   },
   {
     id: "akarsular",
@@ -69,18 +44,67 @@ export const mapCategories: {
     desc: "Nehirler ve ırmakların geçtiği illeri işaretle.",
   },
   {
+    id: "platolar",
+    label: "Platolar",
+    emoji: "🗻",
+    color: "#f59e0b",
+    desc: "Yüksek platoları doğru ile eşleştir.",
+  },
+  {
+    id: "ovalar",
+    label: "Ovalar",
+    emoji: "🌾",
+    color: "#22c55e",
+    desc: "Verimli ovaların hangi illerde olduğunu öğren.",
+  },
+  {
+    id: "goller",
+    label: "Göller",
+    emoji: "💧",
+    color: "#3b82f6",
+    desc: "Türkiye'nin önemli göllerini haritada bul.",
+  },
+  {
     id: "korfezler",
-    label: "Körfezler & Yarımadalar",
+    label: "Koy & Körfezler",
     emoji: "⚓",
     color: "#0284c7",
     desc: "Koy, körfez, tombolo ve yarımadaları haritada keşfet.",
   },
   {
     id: "madenler",
-    label: "Madenler & Sanayi",
+    label: "Madenler",
     emoji: "⛏️",
     color: "#d97706",
-    desc: "Maden sahaları, tesisler ve sanayinin kurulma nedenlerini haritada bul.",
+    desc: "Maden sahaları, cevher yatakları ve işletmeleri haritada bul.",
+  },
+  {
+    id: "sanayi",
+    label: "Sanayi & İlkler",
+    emoji: "🏭",
+    color: "#ea580c",
+    desc: "Cumhuriyet dönemi ilk fabrikaları, sanayi tesisleri ve ilkler.",
+  },
+  {
+    id: "gecitler",
+    label: "Geçitler & Köprüler",
+    emoji: "🌉",
+    color: "#059669",
+    desc: "Stratejik dağ geçitleri, tüneller, asma köprüler ve viyadükler.",
+  },
+  {
+    id: "sinir-kapilari",
+    label: "Sınır Kapıları",
+    emoji: "🛂",
+    color: "#14b8a6",
+    desc: "Komşu ülkelerle olan gümrük kapıları, demiryolu ve karayolu geçişleri.",
+  },
+  {
+    id: "turizm",
+    label: "Turizm & Tarihi Yerler",
+    emoji: "🏛️",
+    color: "#ef4444",
+    desc: "UNESCO mirasları, kış/deniz turizmi, inanç ve kültür koridorları.",
   },
   {
     id: "enerji",
@@ -3881,6 +3905,610 @@ export const geoMapQuestions: MapQuestion[] = [
       "Zonguldak Ereğli, demir-çelik fabrikalarının alaşım ihtiyacı için işletilen manganez sahasına sahiptir.",
     category: "madenler",
     categoryLabel: "Metalik Madenler",
+  },
+
+  // ── SANAYİ · CUMHURİYET DÖNEMİ İLKLERİ ──
+  {
+    id: "geo-san-ilk01",
+    text: "Cumhuriyet döneminde üretime geçen ilk şeker fabrikası olan Alpullu Şeker Fabrikası hangi ilimizdedir?",
+    answer: 39,
+    explanation:
+      "Alpullu Şeker Fabrikası (Kırklareli), temeli 1925'te atılıp 1926'da Türkiye'nin ilk şeker üretimini gerçekleştiren tarihi sanayi tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk02",
+    text: "Nuri Şeker öncülüğünde temeli ilk atılan ve 17 Aralık 1926'da işletmeye açılan şeker fabrikası hangi ilimizdedir?",
+    answer: 64,
+    explanation:
+      "Uşak Şeker Fabrikası (Uşak), temeli ilk atılan şeker fabrikası olup 17 Aralık 1926'da üretime başlamış ve yerel kalkınmanın öncüsü olmuştur.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk03",
+    text: "1934 yılında temeli atılan ve üretime başlayan Türkiye'nin ilk cam fabrikası (Paşabahçe) hangi ilimizdedir?",
+    answer: 34,
+    explanation:
+      "Paşabahçe Şişe ve Cam Fabrikası (İstanbul - Beykoz), Cumhuriyetin cam sanayisinde dışa bağımlılığı bitiren ilk modern cam fabrikasıdır.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk04",
+    text: "1936 yılında Mehmet Ali Kâğıtçı öncülüğünde kurulan Türkiye'nin ilk kâğıt fabrikası (SEKA) hangi ilimizdedir?",
+    answer: 41,
+    explanation:
+      "İzmit Kâğıt Fabrikası (Kocaeli - SEKA), 1936 yılında üretime başlayan ve Türkiye'nin ilk yerli kâğıt-selüloz üretimini gerçekleştiren tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk05",
+    text: "Atatürk'ün bizzat katılımıyla 1937'de açılan Türkiye'nin ilk Türk basma ve dokuma fabrikası (Sümerbank) hangi ilimizdedir?",
+    answer: 9,
+    explanation:
+      "Nazilli Sümerbank Basma Fabrikası (Aydın), hammaddesi olan pamuğa yakınlık esasıyla 1937'de kurulan ilk yerli basma ve dokuma entegre tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk06",
+    text: "Cumhuriyetin ilk yıllarında (1926) kurulan Türkiye'nin ilk uçak fabrikası (TOMTAŞ) hangi ilimizdedir?",
+    answer: 38,
+    explanation:
+      "Kayseri Uçak Fabrikası (TOMTAŞ), 1926 yılında kurularak onlarca uçak ve planör üretimi yapmış olan ilk havacılık sanayisi tesisimizdir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk07",
+    text: "Milli savunma sanayisinin temeli olarak 1932'de kurulan Türkiye'nin ilk silah ve mühimmat fabrikası hangi ilimizdedir?",
+    answer: 71,
+    explanation:
+      "Kırıkkale Silah Fabrikası (Kırıkkale), savunma sanayisinin merkez üssü olup iç bölgede güvenli konum stratejisiyle kurulmuştur.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk08",
+    text: "Temeli 1937'de atılan, Batı Karadeniz taş kömürüne (enerji kaynağına) yakınlığıyla bilinen Türkiye'nin ilk entegre demir-çelik fabrikası hangi ilimizdedir?",
+    answer: 78,
+    explanation:
+      "Karabük Demir Çelik Fabrikaları (Karabük - KARDEMİR), 1937'de temeli atılan ve 'fabrikalar kuran fabrika' unvanına sahip ilk ağır sanayi tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk09",
+    text: "Zengin bakır cevherlerini yerinde işlemek amacıyla 1939 yılında kurulan Türkiye'nin ilk bakır izabe tesisi hangi ilimizdedir?",
+    answer: 23,
+    explanation:
+      "Elazığ Maden Bakır İzabe Tesisleri (Elazığ), zengin maden yataklarının bulunduğu bölgede hammaddeye yakınlık ilkesiyle 1939'da işletmeye açılmıştır.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk10",
+    text: "Raman Dağı'nda petrol bulunması sonrasında 1955 yılında kurulan Türkiye'nin ilk petrol rafinerisi hangi ilimizdedir?",
+    answer: 72,
+    explanation:
+      "Batman Petrol Rafinerisi (Batman), 1955 yılında yerli petrol sahalarına (hammaddeye) yakınlık ilkesiyle faaliyete başlayan ilk rafinerimizdir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk11",
+    text: "Bölgedeki boksit madenini işlemek amacıyla 1973 yılında kurulan Türkiye'nin ilk ve tek entegre alüminyum tesisleri hangi ilimizdedir?",
+    answer: 42,
+    explanation:
+      "Seydişehir Alüminyum Tesisleri (Konya), Toroslar'daki zengin boksit yataklarını işlemek üzere hammaddeye yakın olarak kurulan ilk alüminyum tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+  {
+    id: "geo-san-ilk12",
+    text: "Krom cevherini işleyerek paslanmaz çelik sanayisi için ferrokrom üreten Türkiye'nin ilk ferro-krom metalurji fabrikası hangi ilimizdedir?",
+    answer: 7,
+    explanation:
+      "Antalya Ferrokrom Fabrikası (Antalya), Fethiye-Köyceğiz krom havzalarına ve liman/ihracat olanaklarına yakınlık nedeniyle kurulan ilk ferrokrom tesisidir.",
+    category: "sanayi",
+    categoryLabel: "Sanayide İlkler",
+  },
+
+  // ── GEÇİTLER, TÜNELLER & KÖPRÜLER ──
+  // 1. Karadeniz Bölgesi Geçit ve Tünelleri
+  {
+    id: "geo-gec-kar01",
+    text: "Batı Karadeniz'de Küre Dağları'nı aşarak Kastamonu'yu İnebolu kıyısına bağlayan tarihi Ecevit Geçidi hangi ilimizdedir?",
+    answer: 37,
+    explanation:
+      "Ecevit Geçidi (Kastamonu), İstiklal Yolu güzergahında yer alan ve Küre Dağları'nı aşarak kıyı ile iç kesimi bağlayan stratejik geçittir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar02",
+    text: "İç Anadolu'yu Batı Karadeniz'e bağlayan ve Ilgaz Dağları altından geçen 15 Temmuz İstiklal Tüneli hangi ilimiz sınırındadır?",
+    answer: 37,
+    explanation:
+      "Ilgaz 15 Temmuz İstiklal Tüneli (Kastamonu - Çankırı), kışın ulaşımın aksadığı Ilgaz Dağı geçişini güvenli kılan en önemli tünellerdendir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar03",
+    text: "Karadeniz Sahil Yolu üzerinde yer alan ve Bolaman virajlarını devre dışı bırakan Nefise Akçelik Tüneli hangi ilimizdedir?",
+    answer: 52,
+    explanation:
+      "Nefise Akçelik Tüneli (Ordu), 3.820 metrelik uzunluğuyla Karadeniz Sahil Yolu'nun en stratejik ve uzun tünellerinden biridir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar04",
+    text: "Doğu Karadeniz Dağları'nı aşarak Giresun kıyısını Şebinkarahisar ve Alucra üzerinden iç kesimlere bağlayan Eğribel Tüneli hangi ilimizdedir?",
+    answer: 28,
+    explanation:
+      "Eğribel Tüneli (Giresun), 2.200 rakımlı çetin Eğribel Geçidi'ni devre dışı bırakarak Giresun'u İç Anadolu ve Doğu Anadolu'ya bağlar.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar05",
+    text: "Tarihi İpek Yolu üzerinde Trabzon Limanı'nı Gümüşhane üzerinden Doğu Anadolu'ya bağlayan, 14,5 km ile Avrupa'nın en uzun çift tüplü tüneli olan Yeni Zigana Tüneli hangi ilimizdedir?",
+    answer: 29,
+    explanation:
+      "Yeni Zigana Tüneli (Gümüşhane - Trabzon), Doğu Karadeniz'i Doğu ve Güneydoğu Anadolu ile İran transit ticaretine bağlayan devasa tüneldir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar06",
+    text: "Rize (İkizdere) ile Erzurum (İspir) arasında kışın kapanan dağ yolunu yıl boyu açık tutan 14 km uzunluğundaki Ovit Tüneli hangi ilimizdedir?",
+    answer: 53,
+    explanation:
+      "Ovit Dağı Tüneli (Rize - Erzurum), Karadeniz limanlarını Doğu Anadolu ve GAP bölgesine bağlayan Türkiye'nin en uzun dağ tünellerindendir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar07",
+    text: "Cankurtaran Dağı'nı aşarak Hopa kıyısını Borçka ve Artvin il merkezine bağlayan Cankurtaran Tüneli hangi ilimizdedir?",
+    answer: 8,
+    explanation:
+      "Cankurtaran Tüneli (Artvin), dik ve virajlı Hopa-Borçka dağ yolunu kısaltıp kış şartlarındaki ulaşımı güvenli kılan önemli tüneldir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-kar08",
+    text: "Trabzon Limanı'ndan İran'a uzanan tarihi transit ticaret güzergahında Bayburt'u Erzurum'a bağlayan Kop Dağı Geçidi hangi ilimizdedir?",
+    answer: 69,
+    explanation:
+      "Kop Geçidi (Bayburt - Erzurum), Doğu Karadeniz'i Doğu Anadolu'ya bağlayan ve kış şartlarının çetin geçtiği tarihi bir dağ geçididir.",
+    category: "gecitler",
+    categoryLabel: "Karadeniz Geçitleri",
+  },
+
+  // 2. Akdeniz Bölgesi Geçit ve Tünelleri (Ç-K-G-B)
+  {
+    id: "geo-gec-akd01",
+    text: "Batı Toroslar üzerinde Antalya'yı Göller Yöresi'ne (Burdur ve Isparta'ya) bağlayan Çubuk Geçidi hangi ilimizdedir?",
+    answer: 7,
+    explanation:
+      "Çubuk Geçidi (Antalya), kıyı Akdeniz ile Göller Yöresi ve İç Anadolu arasındaki ana ulaşım geçididir (Şifre: Ç-K-G-B'nin 'Ç'si).",
+    category: "gecitler",
+    categoryLabel: "Akdeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-akd02",
+    text: "Antalya'yı Konya'ya ve İç Anadolu'ya bağlayan, Akdeniz ikliminden karasal iklime geçişi dakikalar içine indiren son yılların güncel eseri Demirkapı Tüneli hangi ilimizdedir?",
+    answer: 7,
+    explanation:
+      "Demirkapı Tüneli (Antalya - Konya yolu), Toroslar'ı aşarak seyahat süresini büyük ölçüde kısaltan ve iki farklı iklimi buluşturan modern tüneldir.",
+    category: "gecitler",
+    categoryLabel: "Akdeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-akd03",
+    text: "Orta Toroslar üzerinde Mersin (Silifke) ile Karaman (İç Anadolu) arasındaki ulaşımı sağlayan Sertavul Geçidi hangi ilimizdedir?",
+    answer: 33,
+    explanation:
+      "Sertavul Geçidi (Mersin - Karaman sınırı), Akdeniz ile İç Anadolu'yu birbirine bağlayan tarihi ve stratejik bir dağ geçididir.",
+    category: "gecitler",
+    categoryLabel: "Akdeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-akd04",
+    text: "Toros Dağları üzerinde Adana (Çukurova) ile Niğde (İç Anadolu) arasındaki en işlek ve stratejik transit geçit olan Gülek Boğazı hangi ilimizdedir?",
+    answer: 1,
+    explanation:
+      "Gülek Boğazı (Adana), tarihi Kilikya Kapısı olarak bilinir; Çukurova ve Akdeniz'i İç Anadolu ve başkente bağlayan en kritik geçittir.",
+    category: "gecitler",
+    categoryLabel: "Akdeniz Geçitleri",
+  },
+  {
+    id: "geo-gec-akd05",
+    text: "Nur (Amanos) Dağları üzerinde İskenderun Limanı'nı Amik Ovası'na ve Suriye sınırına bağlayan Belen Geçidi hangi ilimizdedir?",
+    answer: 31,
+    explanation:
+      "Belen Geçidi (Hatay), Amanos Dağları'nı aşarak İskenderun Körfezi'ni iç kısımlara ve Ortadoğu ticaretine bağlayan geçittir (Şifre: B).",
+    category: "gecitler",
+    categoryLabel: "Akdeniz Geçitleri",
+  },
+
+  // 3. Diğer Önemli Geçit ve Tüneller
+  {
+    id: "geo-gec-dig01",
+    text: "İstanbul ile Ankara arasındaki TEM otoyolunun en kritik dağ geçiş noktası olan Bolu Dağı Tüneli hangi ilimizdedir?",
+    answer: 14,
+    explanation:
+      "Bolu Dağı Tüneli (Bolu), kışın trafiği aksatan virajlı Bolu Dağı geçişini ortadan kaldıran Türkiye'nin en işlek otoyol tünelidir.",
+    category: "gecitler",
+    categoryLabel: "İç & Ege Geçitleri",
+  },
+  {
+    id: "geo-gec-dig02",
+    text: "İzmir ile Manisa arasındaki dik virajlı ve tehlikeli rampaları ortadan kaldırarak ulaşımı 15 dakikaya indiren Sabuncubeli Tüneli hangi ilimizdedir?",
+    answer: 45,
+    explanation:
+      "Sabuncubeli Tüneli (Manisa - İzmir sınırı), Spil Dağı eteklerinde iki büyük Ege sanayi kentini birbirine bağlayan kritik tüneldir.",
+    category: "gecitler",
+    categoryLabel: "İç & Ege Geçitleri",
+  },
+  {
+    id: "geo-gec-dig03",
+    text: "Doğu Anadolu iç ulaşımında Sivas ile Erzincan arasında Kızıldağ eteklerinde yer alan Refahiye Geçidi hangi ilimizdedir?",
+    answer: 24,
+    explanation:
+      "Refahiye Geçidi (Erzincan), Karasu-Aras dağ sıraları arasında Doğu Anadolu'yu İç Anadolu'ya bağlayan transit karayolu geçididir.",
+    category: "gecitler",
+    categoryLabel: "İç & Ege Geçitleri",
+  },
+  {
+    id: "geo-gec-dig04",
+    text: "Van ile Bahçesaray arasında yer alan, yaklaşık 3.000 metre rakımıyla Türkiye'nin en yüksek ve kış şartlarının en ağır geçtiği Karabet Geçidi hangi ilimizdedir?",
+    answer: 65,
+    explanation:
+      "Karabet Geçidi (Van), Türkiye'nin en yüksek karayolu geçitlerinden biri olup yoğun kar yağışıyla sık sık gündeme gelen çetin bir noktadır.",
+    category: "gecitler",
+    categoryLabel: "İç & Ege Geçitleri",
+  },
+
+  // 4. Stratejik Köprüler ve Viyadükler
+  {
+    id: "geo-kop-01",
+    text: "Çanakkale Boğazı üzerinde yer alan, 2023 metrelik orta açıklığıyla dünyanın en uzun orta açıklıklı asma köprüsü unvanına sahip köprü hangi ilimizdedir?",
+    answer: 17,
+    explanation:
+      "1915 Çanakkale Köprüsü (Çanakkale), Gelibolu ile Lapseki arasında yer alarak Marmara otoyol ringini tamamlayan dünya rekortmeni asma köprüdür.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-02",
+    text: "İzmit Körfezi üzerinde Dilovası ile Altınova'yı bağlayarak İstanbul-İzmir otoyol ulaşım süresini kısaltan Osmangazi Köprüsü hangi körfez ilimizdedir?",
+    answer: 41,
+    explanation:
+      "Osmangazi Köprüsü (Kocaeli / Yalova bağlantısı), İzmit Körfezi'ni geçerek körfezi dolaşma süresini 6 dakikaya indiren devasa asma köprüdür.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-03",
+    text: "İstanbul Boğazı'nın Karadeniz çıkışında yer alan, üzerinden demiryolu ray geçiş şeridi de bulunan üçüncü Boğaz köprüsü hangi ilimizdedir?",
+    answer: 34,
+    explanation:
+      "Yavuz Sultan Selim Köprüsü (İstanbul), Garipçe ile Poyrazköy arasında dünyanın en geniş asma köprülerinden biri olup demiryolu hattına sahiptir.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-04",
+    text: "Asya ile Avrupa kıtalarını birbirine bağlayan tarihi Boğaziçi (15 Temmuz Şehitler) ve Fatih Sultan Mehmet asma köprüleri hangi ilimizdedir?",
+    answer: 34,
+    explanation:
+      "15 Temmuz Şehitler Köprüsü (1973) ve FSM Köprüsü (1988), İstanbul Boğazı'nın iki yakasını bağlayan ilk iki asma köprümüzdür.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-05",
+    text: "Tarihi Yarımada ile Beyoğlu yakasını bağlayan, metrobüs ve D-100 karayolunun geçtiği Haliç Köprüsü hangi ilimizdedir?",
+    answer: 34,
+    explanation:
+      "Haliç Köprüsü (İstanbul), Haliç üzerindeki yoğun karayolu ve toplu taşıma trafiğini taşıyan viyadük ve köprü sistemidir.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-06",
+    text: "Atatürk Baraj Gölü üzerinde Adıyaman (Kâhta) ile Şanlıurfa (Siverek) arasında yer alan gergin eğik askılı Nissibi Köprüsü hangi ilimizdedir?",
+    answer: 2,
+    explanation:
+      "Nissibi Köprüsü (Adıyaman - Şanlıurfa), Atatürk Barajı suları altında kalan feribot ulaşımını sonlandırarak Doğu ve Güneydoğu'yu birbirine bağlar.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-07",
+    text: "Botan Çayı kanyonu üzerinde yer alan, 165 metre yüksekliğiyle Türkiye'nin en yüksek dengeli konsol viyadük köprüsü olan Beğendik Köprüsü hangi ilimizdedir?",
+    answer: 56,
+    explanation:
+      "Botan / Beğendik Köprüsü (Siirt - Pervari), Siirt, Van ve Şırnak arasındaki mesafeyi kısaltan bölgenin en yüksek viyadüklü köprüsüdür.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+  {
+    id: "geo-kop-08",
+    text: "Seyhan Baraj Gölü üzerinde yer alan ve 1.575 metre uzunluğuyla Türkiye'nin en uzun göl içi köprülerinden biri olan Çatalan Köprüsü hangi ilimizdedir?",
+    answer: 1,
+    explanation:
+      "Çatalan Köprüsü (Adana), Seyhan Baraj Gölü üzerindeki viyadük yapısıyla kuzey ilçelerini şehir merkezine bağlayan dev köprüdür.",
+    category: "gecitler",
+    categoryLabel: "Köprüler & Viyadükler",
+  },
+
+  // ── SINIR KAPILARI ──
+  // 1. Bulgaristan Sınırı
+  {
+    id: "geo-sin-bg01",
+    text: "Türkiye'nin Avrupa'ya açılan en işlek karayolu ve demiryolu sınır kapısı olan Kapıkule Sınır Kapısı hangi ilimizdedir?",
+    answer: 22,
+    explanation:
+      "Kapıkule Sınır Kapısı (Edirne), Türkiye'nin hem karayolu hem demiryolu trafiği açısından Bulgaristan'a ve tüm Avrupa'ya açılan en yoğun gümrük kapısıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Bulgaristan Sınırı",
+  },
+  {
+    id: "geo-sin-bg02",
+    text: "Kapıkule'nin yoğunluğunu azaltmak amacıyla açılan ve Bulgaristan'a (Lesovo) bağlanan Hamzabeyli Sınır Kapısı hangi ilimizdedir?",
+    answer: 22,
+    explanation:
+      "Hamzabeyli Sınır Kapısı (Edirne - Lalapaşa), Bulgaristan ile tır ve karayolu taşımacılığında Kapıkule'ye alternatif ikinci önemli kapıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Bulgaristan Sınırı",
+  },
+  {
+    id: "geo-sin-bg03",
+    text: "Istranca (Yıldız) Dağları eteklerinde yer alan ve Bulgaristan'ın Malko Tırnovo kentine açılan Dereköy (Aziziye) Sınır Kapısı hangi ilimizdedir?",
+    answer: 39,
+    explanation:
+      "Dereköy Sınır Kapısı (Kırklareli), Bulgaristan ile Trakya'nın dağlık kesiminde karayolu geçişi sağlayan gümrük kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Bulgaristan Sınırı",
+  },
+
+  // 2. Yunanistan Sınırı
+  {
+    id: "geo-sin-gr01",
+    text: "Meriç Nehri kıyısında yer alan ve Yunanistan (Kipi) ile en işlek karayolu bağlantımızı sağlayan İpsala Sınır Kapısı hangi ilimizdedir?",
+    answer: 22,
+    explanation:
+      "İpsala Sınır Kapısı (Edirne), Egnatia Otoyolu bağlantısıyla Yunanistan üzerinden Güney Avrupa'ya açılan en önemli karayolu sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Yunanistan Sınırı",
+  },
+  {
+    id: "geo-sin-gr02",
+    text: "Edirne kent merkezine en yakın konumda bulunan ve Yunanistan'ın Kastanies kasabasına açılan Pazarkule Sınır Kapısı hangi ilimizdedir?",
+    answer: 22,
+    explanation:
+      "Pazarkule Sınır Kapısı (Edirne), şehir merkezine birkaç kilometre mesafede Yunanistan ile yolcu ve küçük araç trafiğini sağlayan sınır kapısıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Yunanistan Sınırı",
+  },
+  {
+    id: "geo-sin-gr03",
+    text: "Yunanistan (Pithion) ile Türkiye arasında demiryolu bağlantısı sağlayan tek sınır kapımız olan Uzunköprü Sınır Kapısı hangi ilimizdedir?",
+    answer: 22,
+    explanation:
+      "Uzunköprü Sınır Kapısı (Edirne), Türkiye ile Yunanistan arasındaki yegane demiryolu sınır kapısıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Yunanistan Sınırı",
+  },
+
+  // 3. Gürcistan Sınırı
+  {
+    id: "geo-sin-ge01",
+    text: "Doğu Karadeniz'de yer alan, Türkiye ile Gürcistan (Batum) arasındaki en işlek ve kimlikle geçiş yapılabilen Sarp Sınır Kapısı hangi ilimizdedir?",
+    answer: 8,
+    explanation:
+      "Sarp Sınır Kapısı (Artvin - Hopa/Kemalpaşa), Kafkasya'ya açılan en yoğun karayolu sınır kapımız olup Türk vatandaşları kimlikle geçiş yapabilmektedir.",
+    category: "sinir-kapilari",
+    categoryLabel: "Gürcistan Sınırı",
+  },
+  {
+    id: "geo-sin-ge02",
+    text: "Bakü-Tiflis-Kars (Demir İpek Yolu) demiryolu hattının Gürcistan sınır geçiş noktası olan Canbaz Demiryolu Sınır Kapısı hangi ilimizdedir?",
+    answer: 75,
+    explanation:
+      "Canbaz Demiryolu Sınır Kapısı (Ardahan - Çıldır), Çin ve Hazar havzasını Avrupa'ya bağlayan BTK hattının Türkiye-Gürcistan raylı gümrük noktasıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Gürcistan Sınırı",
+  },
+  {
+    id: "geo-sin-ge03",
+    text: "Çıldır Gölü yakınlarında yer alan ve Gürcistan'a açılan Aktaş Sınır Kapısı hangi ilimizdedir?",
+    answer: 75,
+    explanation:
+      "Aktaş Sınır Kapısı (Ardahan - Çıldır), Sarp Sınır Kapısı'nın yükünü hafifletmek üzere Gürcistan ile açılan modern karayolu sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Gürcistan Sınırı",
+  },
+
+  // 4. Ermenistan Sınırı
+  {
+    id: "geo-sin-am01",
+    text: "Siyasi nedenlerle kapalı tutulan, Ermenistan (Gümrü) ile demiryolu bağlantısı bulunan Akyaka (Doğukapı) Sınır Kapısı hangi ilimizdedir?",
+    answer: 36,
+    explanation:
+      "Akyaka / Doğukapı Sınır Kapısı (Kars), Ermenistan sınırında demiryolu geçişine sahip olup Karabağ işgali nedeniyle 1993 yılından beri sivil geçişe kapalıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Ermenistan Sınırı",
+  },
+  {
+    id: "geo-sin-am02",
+    text: "Aras Nehri üzerinde Ermenistan sınırında bulunan ve siyasi nedenlerle sivil geçişlere kapalı olan Alican Sınır Kapısı hangi ilimizdedir?",
+    answer: 76,
+    explanation:
+      "Alican Sınır Kapısı (Iğdır - Karakoyunlu), Ermenistan (Margara) ile karayolu köprüsüne sahip olup kapalı tutulmaktadır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Ermenistan Sınırı",
+  },
+
+  // 5. Nahçıvan / Azerbaycan Sınırı
+  {
+    id: "geo-sin-az01",
+    text: "Aras Nehri üzerindeki Hasret (Ümit) Köprüsü ile Nahçıvan Özerk Cumhuriyeti'ne bağlanan ve Türk dünyasına açılan kapımız olan Dilucu Sınır Kapısı hangi ilimizdedir?",
+    answer: 76,
+    explanation:
+      "Dilucu Sınır Kapısı (Iğdır - Aralık), Türkiye'nin Azerbaycan (Nahçıvan) ile doğrudan tek kara sınır kapısı olup Türk dünyasına stratejik açılan kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Nahçıvan Sınırı",
+  },
+
+  // 6. İran Sınırı
+  {
+    id: "geo-sin-ir01",
+    text: "Tarihi İpek Yolu üzerinde bulunan, Türkiye ile İran arasındaki en aktif ve en yüksek ticaret hacmine sahip Gürbulak Sınır Kapısı hangi ilimizdedir?",
+    answer: 4,
+    explanation:
+      "Gürbulak Sınır Kapısı (Ağrı - Doğubayazıt), İran (Bazergan) ile ana transit ticaret güzergahımız ve en işlek doğu sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "İran Sınırı",
+  },
+  {
+    id: "geo-sin-ir02",
+    text: "İran (Razi) ile demiryolu ve karayolu bağlantısı sağlayan Kapıköy Sınır Kapısı hangi ilimizdedir?",
+    answer: 65,
+    explanation:
+      "Kapıköy Sınır Kapısı (Van - Saray), Türkiye-İran arasında hem karayolu hem demiryolu geçişi sunan stratejik gümrük kapısıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "İran Sınırı",
+  },
+  {
+    id: "geo-sin-ir03",
+    text: "Yüksekova ilçesinde yer alan ve İran (Sero) sınırına açılan dağlık Esendere Sınır Kapısı hangi ilimizdedir?",
+    answer: 30,
+    explanation:
+      "Esendere Sınır Kapısı (Hakkari - Yüksekova), Doğu Anadolu'nun güneyinden İran'a açılan önemli bir karayolu sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "İran Sınırı",
+  },
+
+  // 7. Irak Sınırı
+  {
+    id: "geo-sin-iq01",
+    text: "Türkiye'nin Irak ve Körfez ülkelerine yönelik ticaretinde en yüksek ticari hacme sahip olan Habur Sınır Kapısı hangi ilimizdedir?",
+    answer: 73,
+    explanation:
+      "Habur Sınır Kapısı (Şırnak - Silopi), Habur Çayı üzerinde yer alan ve Türkiye'nin en işlek uluslararası transit ticaret kapılarından biridir.",
+    category: "sinir-kapilari",
+    categoryLabel: "Irak Sınırı",
+  },
+  {
+    id: "geo-sin-iq02",
+    text: "Çukurca ilçesinde yer alan ve Kuzey Irak sınırına açılan Üzümlü Sınır Kapısı hangi ilimizdedir?",
+    answer: 30,
+    explanation:
+      "Üzümlü Sınır Kapısı (Hakkari - Çukurca), Irak ile sınır ticareti ve yerel yolcu geçişleri için faaliyete geçirilen sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Irak Sınırı",
+  },
+
+  // 8. Suriye Sınırı
+  {
+    id: "geo-sin-sy01",
+    text: "Suriye sınırında yer alan, insani yardım ve lojistik geçişlerin en yoğun olduğu Cilvegözü ve Zeytin Dalı sınır kapıları hangi ilimizdedir?",
+    answer: 31,
+    explanation:
+      "Cilvegözü (Reyhanlı) ve Zeytin Dalı (Afrin yönü) sınır kapıları Hatay ilimizde yer almakta olup Suriye'ye açılan en kritik kapılardandır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy02",
+    text: "Suriye'nin Halep kentine açılan en yakın ana güzergah üzerinde bulunan Öncüpınar Sınır Kapısı hangi ilimizdedir?",
+    answer: 79,
+    explanation:
+      "Öncüpınar Sınır Kapısı (Kilis), Suriye ile karayolu taşımacılığı ve insani geçişlerin ana merkezlerindendir.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy03",
+    text: "Fırat Nehri kıyısında yer alan ve Suriye'nin Cerablus kentine açılan Karkamış Sınır Kapısı hangi ilimizdedir?",
+    answer: 27,
+    explanation:
+      "Karkamış Sınır Kapısı (Gaziantep - Karkamış), Fırat Nehri'nin sınır çizdiği hatta Cerablus'a açılan kapıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy04",
+    text: "Suriye (Tel Abyad ve Ayn el-Arab) sınır hattında yer alan Akçakale ve Mürşitpınar sınır kapıları hangi ilimizdedir?",
+    answer: 63,
+    explanation:
+      "Akçakale ve Mürşitpınar (Suruç) sınır kapıları Şanlıurfa ilimizde Suriye sınır hattında yer alır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy05",
+    text: "Suriye'nin Resulayn kenti karşısında yer alan Ceylanpınar Sınır Kapısı hangi ilimizdedir?",
+    answer: 63,
+    explanation:
+      "Ceylanpınar Sınır Kapısı (Şanlıurfa), Türkiye-Suriye sınırında yerel geçişler için kullanılan gümrük kapılarından biridir.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy06",
+    text: "Suriye'nin Kamışlı kentine komşu olan, karayolu ve tarihi Bağdat demiryolu geçişine sahip Nusaybin Sınır Kapısı hangi ilimizdedir?",
+    answer: 47,
+    explanation:
+      "Nusaybin Sınır Kapısı (Mardin), tarihi Bağdat Demiryolu hattı üzerinde Kamışlı kentine komşu olan sınır kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-ge04",
+    text: "Ardahan'ın Posof ilçesinde yer alan ve Gürcistan (Vale) ile karayolu bağlantısı sağlayan Türkgözü Sınır Kapısı hangi ilimizdedir?",
+    answer: 75,
+    explanation:
+      "Türkgözü Sınır Kapısı (Ardahan - Posof), Ilgar Dağı eteklerinde Gürcistan'a açılan önemli bir karayolu gümrük kapımızdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Gürcistan Sınırı",
+  },
+  {
+    id: "geo-sin-ir04",
+    text: "Türkiye ile İran sınırında yer alan, ancak günümüzde sivil ve ticari geçişlere kapalı/inaktif durumda olan Borualan Sınır Kapısı hangi ilimizdedir?",
+    answer: 76,
+    explanation:
+      "Borualan Sınır Kapısı (Iğdır - Aralık), Küçük Ağrı Dağı eteklerinde İran sınırında yer almakta olup günümüzde inaktif/kapalı durumdadır.",
+    category: "sinir-kapilari",
+    categoryLabel: "İran Sınırı",
+  },
+  {
+    id: "geo-sin-sy07",
+    text: "Suriye sınırında yer alan, karayolunun yanı sıra aktif demiryolu bağlantısına da sahip stratejik Çobanbey Sınır Kapısı hangi ilimizdedir?",
+    answer: 79,
+    explanation:
+      "Çobanbey Sınır Kapısı (Kilis - Elbeyli), Suriye sınırında hem karayolu hem demiryolu geçişi barındıran önemli bir sınır kapısıdır.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
+  },
+  {
+    id: "geo-sin-sy08",
+    text: "Türkiye'nin en güneyinde yer alan ve Suriye'nin Keseb kasabasına açılan Yayladağı Sınır Kapısı hangi ilimizdedir?",
+    answer: 31,
+    explanation:
+      "Yayladağı Sınır Kapısı (Hatay), Türkiye'nin en güney ucundaki gümrük kapısı olup Suriye'nin Lazkiye kenti yönüne karayolu bağlantısı sağlar.",
+    category: "sinir-kapilari",
+    categoryLabel: "Suriye Sınırı",
   },
 
   // ── ENERJİ KAYNAKLARI & SANTRALLER ──
